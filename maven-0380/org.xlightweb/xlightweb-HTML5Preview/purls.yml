@@ -1,0 +1,10 @@
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview10
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview10?classifier=sources
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview6
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview6?classifier=sources
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview7
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview7?classifier=sources
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview8
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview8?classifier=sources
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview9
+- pkg:maven/org.xlightweb/xlightweb-HTML5Preview@2.12-HTML5Preview9?classifier=sources

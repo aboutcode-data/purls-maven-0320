@@ -1,0 +1,8 @@
+- pkg:maven/com.github.cwilper.fcrepo-misc/fcrepo-dto-core@0.0.0
+- pkg:maven/com.github.cwilper.fcrepo-misc/fcrepo-dto-core@0.0.0?classifier=sources
+- pkg:maven/com.github.cwilper.fcrepo-misc/fcrepo-dto-core@0.1.0
+- pkg:maven/com.github.cwilper.fcrepo-misc/fcrepo-dto-core@0.1.0?classifier=sources
+- pkg:maven/com.github.cwilper.fcrepo-misc/fcrepo-dto-core@0.1.1
+- pkg:maven/com.github.cwilper.fcrepo-misc/fcrepo-dto-core@0.1.1?classifier=sources
+- pkg:maven/com.github.cwilper.fcrepo-misc/fcrepo-dto-core@1.0.0
+- pkg:maven/com.github.cwilper.fcrepo-misc/fcrepo-dto-core@1.0.0?classifier=sources

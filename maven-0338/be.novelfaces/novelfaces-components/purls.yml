@@ -1,0 +1,4 @@
+- pkg:maven/be.novelfaces/novelfaces-components@0.1.0
+- pkg:maven/be.novelfaces/novelfaces-components@0.1.0?classifier=sources
+- pkg:maven/be.novelfaces/novelfaces-components@0.2.1
+- pkg:maven/be.novelfaces/novelfaces-components@0.2.1?classifier=sources

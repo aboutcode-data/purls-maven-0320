@@ -1,0 +1,4 @@
+- pkg:maven/com.barchart.wrap/barchart-wrap-elasticsearch-all@0.20.3-build002
+- pkg:maven/com.barchart.wrap/barchart-wrap-elasticsearch-all@0.20.3-build002?classifier=sources
+- pkg:maven/com.barchart.wrap/barchart-wrap-elasticsearch-all@0.20.4-build001
+- pkg:maven/com.barchart.wrap/barchart-wrap-elasticsearch-all@0.20.4-build002

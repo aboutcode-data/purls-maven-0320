@@ -1,0 +1,12 @@
+- pkg:maven/mevenide/mevenide-idea@0.1?classifier=src&type=tar.gz
+- pkg:maven/mevenide/mevenide-idea@0.1?classifier=src&type=zip
+- pkg:maven/mevenide/mevenide-idea@0.2-20050609.235155?classifier=src&type=tar.gz
+- pkg:maven/mevenide/mevenide-idea@0.2-20050609.235337?classifier=src&type=zip
+- pkg:maven/mevenide/mevenide-idea@0.2-20050612.220442?classifier=src&type=tar.gz
+- pkg:maven/mevenide/mevenide-idea@0.2-20050612.221856?classifier=src&type=zip
+- pkg:maven/mevenide/mevenide-idea@0.2-20050614.061333?classifier=src&type=tar.gz
+- pkg:maven/mevenide/mevenide-idea@0.2-20050614.061524?classifier=src&type=zip
+- pkg:maven/mevenide/mevenide-idea@0.2-20050614.181713?classifier=src&type=tar.gz
+- pkg:maven/mevenide/mevenide-idea@0.2-20050614.183117?classifier=src&type=zip
+- pkg:maven/mevenide/mevenide-idea@0.2-20050730.150641?classifier=src&type=tar.gz
+- pkg:maven/mevenide/mevenide-idea@0.2-20050730.150751?classifier=src&type=zip

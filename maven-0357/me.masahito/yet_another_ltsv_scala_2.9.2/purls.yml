@@ -1,0 +1,2 @@
+- pkg:maven/me.masahito/yet_another_ltsv_scala_2.9.2@0.0.1
+- pkg:maven/me.masahito/yet_another_ltsv_scala_2.9.2@0.0.1?classifier=sources

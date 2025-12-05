@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.refit/refit-eg-javaee@1.8.0
+- pkg:maven/com.googlecode.refit/refit-eg-javaee@1.8.0?classifier=sources

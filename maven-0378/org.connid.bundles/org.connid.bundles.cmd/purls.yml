@@ -1,0 +1,2 @@
+- pkg:maven/org.connid.bundles/org.connid.bundles.cmd@0.1
+- pkg:maven/org.connid.bundles/org.connid.bundles.cmd@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/biz.neustar.maven.plugins/sitebricks-doc-generator@1.0-alpha-1
+- pkg:maven/biz.neustar.maven.plugins/sitebricks-doc-generator@1.0-alpha-1?classifier=sources

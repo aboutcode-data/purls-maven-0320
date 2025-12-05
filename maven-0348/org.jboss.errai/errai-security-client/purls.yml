@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.errai/errai-security-client@3.0.0.20140325-M5
+- pkg:maven/org.jboss.errai/errai-security-client@3.0.0.20140325-M5?classifier=sources

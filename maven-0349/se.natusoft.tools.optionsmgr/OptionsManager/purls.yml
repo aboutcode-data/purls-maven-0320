@@ -1,0 +1,2 @@
+- pkg:maven/se.natusoft.tools.optionsmgr/OptionsManager@2.0
+- pkg:maven/se.natusoft.tools.optionsmgr/OptionsManager@2.0?classifier=sources

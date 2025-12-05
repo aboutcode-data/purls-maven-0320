@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.frameworkfragment@0.9.0-incubating
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.frameworkfragment@0.9.0-incubating?classifier=sources

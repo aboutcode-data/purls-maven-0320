@@ -1,0 +1,2 @@
+- pkg:maven/com.imminentmeals.android/base-android-library@0.3?classifier=sources
+- pkg:maven/com.imminentmeals.android/base-android-library@0.3?type=aar

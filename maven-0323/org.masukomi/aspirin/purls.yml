@@ -1,0 +1,10 @@
+- pkg:maven/org.masukomi/aspirin@0.10.00
+- pkg:maven/org.masukomi/aspirin@0.10.00?classifier=sources
+- pkg:maven/org.masukomi/aspirin@0.10.01
+- pkg:maven/org.masukomi/aspirin@0.10.01?classifier=sources
+- pkg:maven/org.masukomi/aspirin@0.10.02
+- pkg:maven/org.masukomi/aspirin@0.10.02?classifier=sources
+- pkg:maven/org.masukomi/aspirin@0.10.03
+- pkg:maven/org.masukomi/aspirin@0.10.03?classifier=sources
+- pkg:maven/org.masukomi/aspirin@0.11.01
+- pkg:maven/org.masukomi/aspirin@0.11.01?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.fck-faces/fck-faces@1.8
+- pkg:maven/net.sf.fck-faces/fck-faces@1.8?classifier=sources

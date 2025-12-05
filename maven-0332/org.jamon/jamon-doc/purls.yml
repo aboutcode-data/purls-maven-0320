@@ -1,0 +1,10 @@
+- pkg:maven/org.jamon/jamon-doc@2011-07-07
+- pkg:maven/org.jamon/jamon-doc@2011-07-07?classifier=sources
+- pkg:maven/org.jamon/jamon-doc@2011.03.13
+- pkg:maven/org.jamon/jamon-doc@2011.03.13?classifier=sources
+- pkg:maven/org.jamon/jamon-doc@2011.09.14
+- pkg:maven/org.jamon/jamon-doc@2011.09.14?classifier=sources
+- pkg:maven/org.jamon/jamon-doc@2011.10.17
+- pkg:maven/org.jamon/jamon-doc@2011.10.17?classifier=sources
+- pkg:maven/org.jamon/jamon-doc@2011.12.20
+- pkg:maven/org.jamon/jamon-doc@2011.12.20?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.neo4j/neo4j-graph-collections@0.2
+- pkg:maven/org.neo4j/neo4j-graph-collections@0.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-collections@0.3
+- pkg:maven/org.neo4j/neo4j-graph-collections@0.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-collections@0.5
+- pkg:maven/org.neo4j/neo4j-graph-collections@0.5?classifier=sources

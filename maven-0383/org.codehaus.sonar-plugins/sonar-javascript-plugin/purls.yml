@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.sonar-plugins/sonar-javascript-plugin@0.3?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-javascript-plugin@0.4?classifier=sources

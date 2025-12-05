@@ -1,0 +1,2 @@
+- pkg:maven/org.kasource.kaspring/ka-spring-baseline@1.0
+- pkg:maven/org.kasource.kaspring/ka-spring-baseline@1.0?classifier=sources

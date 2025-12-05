@@ -1,0 +1,7 @@
+- pkg:maven/com.google.guava/guava-tests-jdk5@13.0
+- pkg:maven/com.google.guava/guava-tests-jdk5@14.0.1
+- pkg:maven/com.google.guava/guava-tests-jdk5@14.0.1-rc1
+- pkg:maven/com.google.guava/guava-tests-jdk5@16.0
+- pkg:maven/com.google.guava/guava-tests-jdk5@16.0-rc1
+- pkg:maven/com.google.guava/guava-tests-jdk5@17.0-rc1
+- pkg:maven/com.google.guava/guava-tests-jdk5@17.0-rc2

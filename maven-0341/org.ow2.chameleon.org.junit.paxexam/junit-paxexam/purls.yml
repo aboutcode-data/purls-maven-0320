@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.chameleon.org.junit.paxexam/junit-paxexam@4.8.2-0000
+- pkg:maven/org.ow2.chameleon.org.junit.paxexam/junit-paxexam@4.8.2-0000?classifier=sources

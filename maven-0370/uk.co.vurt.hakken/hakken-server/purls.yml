@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.vurt.hakken/hakken-server@1.0.0?classifier=sources
+- pkg:maven/uk.co.vurt.hakken/hakken-server@1.0.0?type=war

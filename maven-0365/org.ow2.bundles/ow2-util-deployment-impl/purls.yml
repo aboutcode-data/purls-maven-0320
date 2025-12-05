@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.bundles/ow2-util-deployment-impl@1.0.3
+- pkg:maven/org.ow2.bundles/ow2-util-deployment-impl@1.0.3?classifier=sources

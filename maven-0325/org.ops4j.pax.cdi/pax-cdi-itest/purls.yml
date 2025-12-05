@@ -1,0 +1,4 @@
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-itest@0.1.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-itest@0.2.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-itest@0.3.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-itest@0.4.0

@@ -1,0 +1,11 @@
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.1
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.2
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.2.1
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.2.1?classifier=sources
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.2?classifier=sources
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.3
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.3?classifier=sources
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.4
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.4?classifier=sources
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.5
+- pkg:maven/org.codehaus.fabric3.spec/sca-api-r1.0@0.5?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.kuali.db.ojb/db-ojb@1.0.4-patch6
+- pkg:maven/org.kuali.db.ojb/db-ojb@1.0.4-patch6?classifier=sources
+- pkg:maven/org.kuali.db.ojb/db-ojb@1.0.4-patch7
+- pkg:maven/org.kuali.db.ojb/db-ojb@1.0.4-patch7?classifier=sources
+- pkg:maven/org.kuali.db.ojb/db-ojb@1.0.4-patch8
+- pkg:maven/org.kuali.db.ojb/db-ojb@1.0.4-patch8?classifier=sources

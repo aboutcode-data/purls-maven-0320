@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/metrics-munin-reporter@0.8.16
+- pkg:maven/com.spotify/metrics-munin-reporter@0.8.16?classifier=sources

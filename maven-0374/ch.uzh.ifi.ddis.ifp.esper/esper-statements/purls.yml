@@ -1,0 +1,2 @@
+- pkg:maven/ch.uzh.ifi.ddis.ifp.esper/esper-statements@0.1.0
+- pkg:maven/ch.uzh.ifi.ddis.ifp.esper/esper-statements@0.1.0?classifier=sources

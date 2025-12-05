@@ -1,0 +1,4 @@
+- pkg:maven/org.fosstrak.llrp/llrp@1.2.0?classifier=src&type=tar.gz
+- pkg:maven/org.fosstrak.llrp/llrp@1.2.0?classifier=src&type=zip
+- pkg:maven/org.fosstrak.llrp/llrp@1.2.1?classifier=src&type=tar.gz
+- pkg:maven/org.fosstrak.llrp/llrp@1.2.1?classifier=src&type=zip

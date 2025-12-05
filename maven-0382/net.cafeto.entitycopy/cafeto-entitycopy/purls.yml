@@ -1,0 +1,4 @@
+- pkg:maven/net.cafeto.entitycopy/cafeto-entitycopy@0.5.2
+- pkg:maven/net.cafeto.entitycopy/cafeto-entitycopy@0.5.2?classifier=sources
+- pkg:maven/net.cafeto.entitycopy/cafeto-entitycopy@0.5.3
+- pkg:maven/net.cafeto.entitycopy/cafeto-entitycopy@0.5.3?classifier=sources

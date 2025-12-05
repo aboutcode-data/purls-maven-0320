@@ -1,0 +1,2 @@
+- pkg:maven/biz.littlej.jreqs/jreqs-beanvalidation@0.1.2
+- pkg:maven/biz.littlej.jreqs/jreqs-beanvalidation@0.1.2?classifier=sources

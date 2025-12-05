@@ -1,0 +1,5 @@
+- pkg:maven/jetty/jetty-embedded@6.0.0
+- pkg:maven/jetty/jetty-embedded@6.0.0rc3
+- pkg:maven/jetty/jetty-embedded@6.0.0rc4
+- pkg:maven/jetty/jetty-embedded@6.0.1
+- pkg:maven/jetty/jetty-embedded@6.0.2

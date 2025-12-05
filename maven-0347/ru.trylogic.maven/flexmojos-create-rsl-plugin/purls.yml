@@ -1,0 +1,2 @@
+- pkg:maven/ru.trylogic.maven/flexmojos-create-rsl-plugin@1.0.0
+- pkg:maven/ru.trylogic.maven/flexmojos-create-rsl-plugin@1.0.0?classifier=sources

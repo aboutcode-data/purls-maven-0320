@@ -1,0 +1,2 @@
+- pkg:maven/eu.stratosphere/yarn@0.4-hadoop2
+- pkg:maven/eu.stratosphere/yarn@0.4-hadoop2?classifier=sources

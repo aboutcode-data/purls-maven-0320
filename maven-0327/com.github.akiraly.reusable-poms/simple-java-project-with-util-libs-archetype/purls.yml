@@ -1,0 +1,8 @@
+- pkg:maven/com.github.akiraly.reusable-poms/simple-java-project-with-util-libs-archetype@1
+- pkg:maven/com.github.akiraly.reusable-poms/simple-java-project-with-util-libs-archetype@1?classifier=sources
+- pkg:maven/com.github.akiraly.reusable-poms/simple-java-project-with-util-libs-archetype@2
+- pkg:maven/com.github.akiraly.reusable-poms/simple-java-project-with-util-libs-archetype@2?classifier=sources
+- pkg:maven/com.github.akiraly.reusable-poms/simple-java-project-with-util-libs-archetype@3
+- pkg:maven/com.github.akiraly.reusable-poms/simple-java-project-with-util-libs-archetype@3?classifier=sources
+- pkg:maven/com.github.akiraly.reusable-poms/simple-java-project-with-util-libs-archetype@4
+- pkg:maven/com.github.akiraly.reusable-poms/simple-java-project-with-util-libs-archetype@4?classifier=sources

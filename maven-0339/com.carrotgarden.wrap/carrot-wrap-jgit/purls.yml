@@ -1,0 +1,4 @@
+- pkg:maven/com.carrotgarden.wrap/carrot-wrap-jgit@2.0.0-build004
+- pkg:maven/com.carrotgarden.wrap/carrot-wrap-jgit@2.0.0-build004?classifier=sources
+- pkg:maven/com.carrotgarden.wrap/carrot-wrap-jgit@2.2.0-build001
+- pkg:maven/com.carrotgarden.wrap/carrot-wrap-jgit@2.2.0-build001?classifier=sources

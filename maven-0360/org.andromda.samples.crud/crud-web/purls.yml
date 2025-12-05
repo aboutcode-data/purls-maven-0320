@@ -1,0 +1,4 @@
+- pkg:maven/org.andromda.samples.crud/crud-web@3.2?type=war
+- pkg:maven/org.andromda.samples.crud/crud-web@3.3?type=war
+- pkg:maven/org.andromda.samples.crud/crud-web@3.4?classifier=sources
+- pkg:maven/org.andromda.samples.crud/crud-web@3.4?type=war

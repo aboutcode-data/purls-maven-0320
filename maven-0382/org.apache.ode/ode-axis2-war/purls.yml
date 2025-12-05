@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.ode/ode-axis2-war@1.1.1?type=war
+- pkg:maven/org.apache.ode/ode-axis2-war@1.1?type=war
+- pkg:maven/org.apache.ode/ode-axis2-war@1.2?type=war
+- pkg:maven/org.apache.ode/ode-axis2-war@1.3.2?type=war
+- pkg:maven/org.apache.ode/ode-axis2-war@1.3.3?type=war
+- pkg:maven/org.apache.ode/ode-axis2-war@1.3.5?type=war

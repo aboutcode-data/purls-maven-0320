@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.knowitall.ollie/ollie-core_2.10@1.0.3
+- pkg:maven/edu.washington.cs.knowitall.ollie/ollie-core_2.10@1.0.3?classifier=sources

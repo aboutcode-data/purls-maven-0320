@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.online.manipulator@1.4.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.online.manipulator@1.4.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.online.manipulator@1.4.2
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.online.manipulator@1.4.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.online.manipulator@1.6.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.online.manipulator@1.6.0?classifier=sources

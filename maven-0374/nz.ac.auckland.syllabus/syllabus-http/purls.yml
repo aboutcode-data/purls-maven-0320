@@ -1,0 +1,6 @@
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-http@1.18
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-http@1.18?classifier=sources
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-http@1.19
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-http@1.19?classifier=sources
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-http@2.1
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-http@2.1?classifier=sources

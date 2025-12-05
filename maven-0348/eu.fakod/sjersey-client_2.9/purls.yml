@@ -1,0 +1,2 @@
+- pkg:maven/eu.fakod/sjersey-client_2.9@0.3.2
+- pkg:maven/eu.fakod/sjersey-client_2.9@0.3.2?classifier=sources

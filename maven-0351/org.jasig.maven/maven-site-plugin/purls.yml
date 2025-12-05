@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.maven/maven-site-plugin@3.1.r1174614
+- pkg:maven/org.jasig.maven/maven-site-plugin@3.1.r1174614?classifier=sources

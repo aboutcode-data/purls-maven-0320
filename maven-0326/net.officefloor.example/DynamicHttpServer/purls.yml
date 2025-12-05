@@ -1,0 +1,2 @@
+- pkg:maven/net.officefloor.example/DynamicHttpServer@1.0.1
+- pkg:maven/net.officefloor.example/DynamicHttpServer@1.0.1?classifier=sources

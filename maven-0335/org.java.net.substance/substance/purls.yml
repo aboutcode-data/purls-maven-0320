@@ -1,0 +1,4 @@
+- pkg:maven/org.java.net.substance/substance@5.3
+- pkg:maven/org.java.net.substance/substance@5.3?classifier=sources
+- pkg:maven/org.java.net.substance/substance@6.0
+- pkg:maven/org.java.net.substance/substance@6.0?classifier=sources

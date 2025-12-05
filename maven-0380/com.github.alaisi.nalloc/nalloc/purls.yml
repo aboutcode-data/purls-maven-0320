@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alaisi.nalloc/nalloc@0.1.Alpha1
+- pkg:maven/com.github.alaisi.nalloc/nalloc@0.1.Alpha1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.sharneng/lookup@0.5.0
+- pkg:maven/com.sharneng/lookup@0.5.0?classifier=sources
+- pkg:maven/com.sharneng/lookup@0.6.0
+- pkg:maven/com.sharneng/lookup@0.6.0?classifier=sources
+- pkg:maven/com.sharneng/lookup@1.0.0
+- pkg:maven/com.sharneng/lookup@1.0.0?classifier=sources

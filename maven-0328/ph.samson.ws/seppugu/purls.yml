@@ -1,0 +1,2 @@
+- pkg:maven/ph.samson.ws/seppugu@0.1
+- pkg:maven/ph.samson.ws/seppugu@0.1?classifier=sources

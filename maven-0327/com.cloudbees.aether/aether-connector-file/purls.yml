@@ -1,0 +1,3 @@
+- pkg:maven/com.cloudbees.aether/aether-connector-file@1.13-patch-2
+- pkg:maven/com.cloudbees.aether/aether-connector-file@1.13-patch-2?classifier=source-release&type=zip
+- pkg:maven/com.cloudbees.aether/aether-connector-file@1.13-patch-2?classifier=sources

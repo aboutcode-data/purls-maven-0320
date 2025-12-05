@@ -1,0 +1,10 @@
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.1-b05?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.1-b06?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.1-b07?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.1-b08?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.1-b09?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.1-b10?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.1-b11?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.2-b01?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.2-b02?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-cluster-plugin-help@3.2-b03?classifier=sources

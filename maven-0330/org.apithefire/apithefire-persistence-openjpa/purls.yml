@@ -1,0 +1,2 @@
+- pkg:maven/org.apithefire/apithefire-persistence-openjpa@0.1.2
+- pkg:maven/org.apithefire/apithefire-persistence-openjpa@0.1.2?classifier=sources

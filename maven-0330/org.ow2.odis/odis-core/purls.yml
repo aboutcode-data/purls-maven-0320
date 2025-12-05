@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.odis/odis-core@0.0.2
+- pkg:maven/org.ow2.odis/odis-core@0.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.cthul/cthul-xml@1.0
+- pkg:maven/org.cthul/cthul-xml@1.0?classifier=sources
+- pkg:maven/org.cthul/cthul-xml@1.1.0
+- pkg:maven/org.cthul/cthul-xml@1.1.0?classifier=sources

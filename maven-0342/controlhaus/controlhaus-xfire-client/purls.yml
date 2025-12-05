@@ -1,0 +1,6 @@
+- pkg:maven/controlhaus/controlhaus-xfire-client@1.0-alpha-1?classifier=src&type=tar.gz
+- pkg:maven/controlhaus/controlhaus-xfire-client@1.0-alpha-1?classifier=src&type=zip
+- pkg:maven/controlhaus/controlhaus-xfire-client@1.0-alpha-2?classifier=src&type=tar.gz
+- pkg:maven/controlhaus/controlhaus-xfire-client@1.0-alpha-2?classifier=src&type=zip
+- pkg:maven/controlhaus/controlhaus-xfire-client@1.0-alpha-3?classifier=src&type=tar.gz
+- pkg:maven/controlhaus/controlhaus-xfire-client@1.0-alpha-3?classifier=src&type=zip

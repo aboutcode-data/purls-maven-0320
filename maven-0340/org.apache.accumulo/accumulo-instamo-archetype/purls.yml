@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.accumulo/accumulo-instamo-archetype@1.4.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.accumulo/accumulo-instamo-archetype@1.4.4?classifier=sources

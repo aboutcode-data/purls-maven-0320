@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.directmemory.server/server-example-archetype@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.directmemory.server/server-example-archetype@0.2?classifier=sources

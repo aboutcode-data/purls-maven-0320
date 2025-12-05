@@ -1,0 +1,17 @@
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.CR1?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.CR2?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.CR3?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.CR4?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.CR5?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.CR6?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.CR7?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.CR8?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.0.SP1?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.1.Beta1?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.1.Beta2?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.1.Beta3?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.1.CR1?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.1.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.1.SP1?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man@2.1.1.SP2?classifier=src&type=zip

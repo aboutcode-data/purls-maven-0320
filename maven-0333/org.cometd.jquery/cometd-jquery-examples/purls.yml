@@ -1,0 +1,2 @@
+- pkg:maven/org.cometd.jquery/cometd-jquery-examples@1.0.beta8?classifier=sources
+- pkg:maven/org.cometd.jquery/cometd-jquery-examples@1.0.beta8?type=war

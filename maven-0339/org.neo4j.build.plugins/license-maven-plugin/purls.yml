@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.build.plugins/license-maven-plugin@3
+- pkg:maven/org.neo4j.build.plugins/license-maven-plugin@3?classifier=sources

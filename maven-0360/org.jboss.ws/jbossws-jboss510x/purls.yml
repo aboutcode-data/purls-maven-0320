@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.ws/jbossws-jboss510x@3.0.5.GA
+- pkg:maven/org.jboss.ws/jbossws-jboss510x@3.0.5.GA?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-jboss510x@3.1.0.CR1
+- pkg:maven/org.jboss.ws/jbossws-jboss510x@3.1.0.CR1?classifier=sources

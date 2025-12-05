@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-test-utils@4.3.0.CR1
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-test-utils@4.3.0.CR1?classifier=sources

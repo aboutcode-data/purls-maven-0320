@@ -1,0 +1,4 @@
+- pkg:maven/com.goinstant/goinstant-auth@1.0.3
+- pkg:maven/com.goinstant/goinstant-auth@1.0.3?classifier=sources
+- pkg:maven/com.goinstant/goinstant-auth@1.0.5
+- pkg:maven/com.goinstant/goinstant-auth@1.0.5?classifier=sources

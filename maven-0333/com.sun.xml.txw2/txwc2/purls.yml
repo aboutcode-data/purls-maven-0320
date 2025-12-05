@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.xml.txw2/txwc2@20110809
+- pkg:maven/com.sun.xml.txw2/txwc2@20110809?classifier=sources

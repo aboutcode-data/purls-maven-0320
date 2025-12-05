@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.doolin/doolin-busext@0.1
+- pkg:maven/net.sf.doolin/doolin-busext@0.1?classifier=sources

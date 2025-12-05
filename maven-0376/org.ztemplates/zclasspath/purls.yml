@@ -1,0 +1,8 @@
+- pkg:maven/org.ztemplates/zclasspath@1.5
+- pkg:maven/org.ztemplates/zclasspath@1.5?classifier=sources
+- pkg:maven/org.ztemplates/zclasspath@1.5?classifier=src&type=tar.gz
+- pkg:maven/org.ztemplates/zclasspath@1.5?classifier=src&type=zip
+- pkg:maven/org.ztemplates/zclasspath@1.6
+- pkg:maven/org.ztemplates/zclasspath@1.6?classifier=sources
+- pkg:maven/org.ztemplates/zclasspath@1.6?classifier=src&type=tar.gz
+- pkg:maven/org.ztemplates/zclasspath@1.6?classifier=src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.housecream.parent/parent-resources@1.19
+- pkg:maven/org.housecream.parent/parent-resources@1.19?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.clojure/test.check@0.5.7
+- pkg:maven/org.clojure/test.check@0.5.7?classifier=sources

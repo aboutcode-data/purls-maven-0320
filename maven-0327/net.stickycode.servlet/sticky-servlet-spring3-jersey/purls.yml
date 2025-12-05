@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.servlet/sticky-servlet-spring3-jersey@1.4
+- pkg:maven/net.stickycode.servlet/sticky-servlet-spring3-jersey@1.4?classifier=sources

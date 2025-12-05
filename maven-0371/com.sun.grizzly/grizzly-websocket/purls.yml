@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.grizzly/grizzly-websocket@1.9.19-beta1
+- pkg:maven/com.sun.grizzly/grizzly-websocket@1.9.19-beta1?classifier=sources

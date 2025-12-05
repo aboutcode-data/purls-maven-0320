@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.sirocco.apis/sirocco-rest-cimi-webapp@0.5.1?type=war
+- pkg:maven/org.ow2.sirocco.apis/sirocco-rest-cimi-webapp@0.5.2?type=war

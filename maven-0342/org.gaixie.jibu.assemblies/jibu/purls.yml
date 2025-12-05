@@ -1,0 +1,8 @@
+- pkg:maven/org.gaixie.jibu.assemblies/jibu@1.0.0-M1?classifier=src&type=tar.gz
+- pkg:maven/org.gaixie.jibu.assemblies/jibu@1.0.0-M1?classifier=src&type=zip
+- pkg:maven/org.gaixie.jibu.assemblies/jibu@1.0.0-M2?classifier=src&type=tar.gz
+- pkg:maven/org.gaixie.jibu.assemblies/jibu@1.0.0-M2?classifier=src&type=zip
+- pkg:maven/org.gaixie.jibu.assemblies/jibu@1.0.0-M3?classifier=src&type=tar.gz
+- pkg:maven/org.gaixie.jibu.assemblies/jibu@1.0.0-M3?classifier=src&type=zip
+- pkg:maven/org.gaixie.jibu.assemblies/jibu@1.0.0-RC1?classifier=src&type=tar.gz
+- pkg:maven/org.gaixie.jibu.assemblies/jibu@1.0.0-RC1?classifier=src&type=zip

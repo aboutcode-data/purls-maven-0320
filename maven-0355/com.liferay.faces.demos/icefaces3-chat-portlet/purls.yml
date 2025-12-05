@@ -1,0 +1,10 @@
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.0.0-ga1?type=war
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.0.1-ga2?classifier=sources
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.0.1-ga2?type=war
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.0.2-ga3?classifier=sources
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.0.2-ga3?type=war
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.1.0-ga1?type=war
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.1.1-ga2?classifier=sources
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.1.1-ga2?type=war
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.1.2-ga3?classifier=sources
+- pkg:maven/com.liferay.faces.demos/icefaces3-chat-portlet@3.1.2-ga3?type=war

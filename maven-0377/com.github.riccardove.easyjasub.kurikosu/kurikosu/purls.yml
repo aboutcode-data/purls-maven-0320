@@ -1,0 +1,2 @@
+- pkg:maven/com.github.riccardove.easyjasub.kurikosu/kurikosu@0.0.2
+- pkg:maven/com.github.riccardove.easyjasub.kurikosu/kurikosu@0.0.2?classifier=sources

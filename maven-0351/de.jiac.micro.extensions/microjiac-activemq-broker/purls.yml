@@ -1,0 +1,2 @@
+- pkg:maven/de.jiac.micro.extensions/microjiac-activemq-broker@3.0
+- pkg:maven/de.jiac.micro.extensions/microjiac-activemq-broker@3.0?classifier=sources

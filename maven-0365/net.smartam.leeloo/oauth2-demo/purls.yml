@@ -1,0 +1,2 @@
+- pkg:maven/net.smartam.leeloo/oauth2-demo@0.1?classifier=sources
+- pkg:maven/net.smartam.leeloo/oauth2-demo@0.1?type=war

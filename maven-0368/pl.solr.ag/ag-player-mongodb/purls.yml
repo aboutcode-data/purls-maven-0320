@@ -1,0 +1,2 @@
+- pkg:maven/pl.solr.ag/ag-player-mongodb@0.0.1
+- pkg:maven/pl.solr.ag/ag-player-mongodb@0.0.1?classifier=sources

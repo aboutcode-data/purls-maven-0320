@@ -1,0 +1,2 @@
+- pkg:maven/io.tesla.sitebricks/sitebricks-mustache@0.8.8
+- pkg:maven/io.tesla.sitebricks/sitebricks-mustache@0.8.8?classifier=sources

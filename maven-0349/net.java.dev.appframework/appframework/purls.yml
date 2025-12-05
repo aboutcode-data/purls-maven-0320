@@ -1,0 +1,2 @@
+- pkg:maven/net.java.dev.appframework/appframework@1.03
+- pkg:maven/net.java.dev.appframework/appframework@1.03?classifier=sources

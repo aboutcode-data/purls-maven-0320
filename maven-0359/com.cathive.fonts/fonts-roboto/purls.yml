@@ -1,0 +1,4 @@
+- pkg:maven/com.cathive.fonts/fonts-roboto@2012023.0
+- pkg:maven/com.cathive.fonts/fonts-roboto@2012023.0?classifier=sources
+- pkg:maven/com.cathive.fonts/fonts-roboto@2012023.1
+- pkg:maven/com.cathive.fonts/fonts-roboto@2012023.1?classifier=sources

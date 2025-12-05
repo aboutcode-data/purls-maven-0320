@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.plugins/openjpa2@2.1.3-beta?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.plugins/openjpa2@2.2-beta?classifier=source-release&type=zip

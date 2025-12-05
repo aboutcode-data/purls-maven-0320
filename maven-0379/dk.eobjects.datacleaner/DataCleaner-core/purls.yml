@@ -1,0 +1,6 @@
+- pkg:maven/dk.eobjects.datacleaner/DataCleaner-core@1.0
+- pkg:maven/dk.eobjects.datacleaner/DataCleaner-core@1.0?classifier=sources
+- pkg:maven/dk.eobjects.datacleaner/DataCleaner-core@1.2
+- pkg:maven/dk.eobjects.datacleaner/DataCleaner-core@1.3
+- pkg:maven/dk.eobjects.datacleaner/DataCleaner-core@1.4
+- pkg:maven/dk.eobjects.datacleaner/DataCleaner-core@1.4?classifier=sources

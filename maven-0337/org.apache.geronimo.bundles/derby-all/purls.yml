@@ -1,0 +1,9 @@
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.5.3.0_1_1
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.5.3.0_1_1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.5.3.0_1_1?classifier=sources
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.6.1.0_1
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.6.1.0_1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.6.1.0_1?classifier=sources
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.8.2.2_1
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.8.2.2_1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/derby-all@10.8.2.2_1?classifier=sources

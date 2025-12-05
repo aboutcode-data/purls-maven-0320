@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.xbean/xbean-asm5-shaded@3.17
+- pkg:maven/org.apache.xbean/xbean-asm5-shaded@3.17?classifier=sources

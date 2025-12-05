@@ -1,0 +1,1 @@
+- pkg:maven/org.hudsonci.plugins/jmx-monitoring@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.google.android/support-v4@r6
+- pkg:maven/com.google.android/support-v4@r6?classifier=sources
+- pkg:maven/com.google.android/support-v4@r7
+- pkg:maven/com.google.android/support-v4@r7?classifier=sources

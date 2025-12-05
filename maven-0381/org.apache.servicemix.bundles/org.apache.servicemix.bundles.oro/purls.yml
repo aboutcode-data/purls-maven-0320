@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oro@2.0.8_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oro@2.0.8_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oro@2.0.8_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oro@2.0.8_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oro@2.0.8_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oro@2.0.8_6?classifier=sources

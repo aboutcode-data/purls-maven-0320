@@ -1,0 +1,4 @@
+- pkg:maven/org.kathrynhuxtable.maven.skins/green-site-skin@1.0
+- pkg:maven/org.kathrynhuxtable.maven.skins/green-site-skin@1.0?classifier=sources
+- pkg:maven/org.kathrynhuxtable.maven.skins/green-site-skin@1.1
+- pkg:maven/org.kathrynhuxtable.maven.skins/green-site-skin@1.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.picketbox/picketbox-commons@1.0.0.CR1
+- pkg:maven/org.picketbox/picketbox-commons@1.0.0.final
+- pkg:maven/org.picketbox/picketbox-commons@1.0.0.final?classifier=sources

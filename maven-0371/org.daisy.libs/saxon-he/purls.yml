@@ -1,0 +1,4 @@
+- pkg:maven/org.daisy.libs/saxon-he@9.4.0
+- pkg:maven/org.daisy.libs/saxon-he@9.4.0.7
+- pkg:maven/org.daisy.libs/saxon-he@9.4.0.7?classifier=sources
+- pkg:maven/org.daisy.libs/saxon-he@9.4.0?classifier=sources

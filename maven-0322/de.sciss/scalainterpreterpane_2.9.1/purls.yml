@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/scalainterpreterpane_2.9.1@0.18
+- pkg:maven/de.sciss/scalainterpreterpane_2.9.1@0.18?classifier=sources
+- pkg:maven/de.sciss/scalainterpreterpane_2.9.1@0.20
+- pkg:maven/de.sciss/scalainterpreterpane_2.9.1@0.20?classifier=sources

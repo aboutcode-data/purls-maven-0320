@@ -1,0 +1,4 @@
+- pkg:maven/org.sakaiproject.basiclti/sakai-web-portlet-basiclti@2.1.1?classifier=sources
+- pkg:maven/org.sakaiproject.basiclti/sakai-web-portlet-basiclti@2.1.1?type=war
+- pkg:maven/org.sakaiproject.basiclti/sakai-web-portlet-basiclti@2.1.2?classifier=sources
+- pkg:maven/org.sakaiproject.basiclti/sakai-web-portlet-basiclti@2.1.2?type=war

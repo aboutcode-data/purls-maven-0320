@@ -1,0 +1,6 @@
+- pkg:maven/com.ontology2/centipede-archetype@99.0?classifier=sources
+- pkg:maven/com.ontology2/centipede-archetype@99.1?classifier=sources
+- pkg:maven/com.ontology2/centipede-archetype@99.2?classifier=sources
+- pkg:maven/com.ontology2/centipede-archetype@99.3?classifier=sources
+- pkg:maven/com.ontology2/centipede-archetype@99.4?classifier=sources
+- pkg:maven/com.ontology2/centipede-archetype@99.5?classifier=sources

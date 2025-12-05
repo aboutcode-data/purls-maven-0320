@@ -1,0 +1,2 @@
+- pkg:maven/eu.agrosense.client/geotiff@13.02-beta?classifier=sources
+- pkg:maven/eu.agrosense.client/geotiff@13.03-beta?classifier=sources

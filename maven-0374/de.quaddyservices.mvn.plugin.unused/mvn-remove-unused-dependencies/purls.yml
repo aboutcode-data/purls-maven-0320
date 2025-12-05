@@ -1,0 +1,2 @@
+- pkg:maven/de.quaddyservices.mvn.plugin.unused/mvn-remove-unused-dependencies@1.0
+- pkg:maven/de.quaddyservices.mvn.plugin.unused/mvn-remove-unused-dependencies@1.0?classifier=sources

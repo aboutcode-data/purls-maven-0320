@@ -1,0 +1,6 @@
+- pkg:maven/msv/msv@20020414
+- pkg:maven/msv/msv@20020414?classifier=sources
+- pkg:maven/msv/msv@20030225
+- pkg:maven/msv/msv@20030807
+- pkg:maven/msv/msv@20050913
+- pkg:maven/msv/msv@20050913?classifier=sources

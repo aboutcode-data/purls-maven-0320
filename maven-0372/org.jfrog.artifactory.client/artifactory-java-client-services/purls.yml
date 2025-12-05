@@ -1,0 +1,6 @@
+- pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.11
+- pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.11?classifier=sources
+- pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.12
+- pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.12?classifier=sources
+- pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.13
+- pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.13?classifier=sources

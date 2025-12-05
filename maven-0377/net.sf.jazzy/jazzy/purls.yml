@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.jazzy/jazzy@0.5.2-rtext-1.4.1
+- pkg:maven/net.sf.jazzy/jazzy@0.5.2-rtext-1.4.1-2
+- pkg:maven/net.sf.jazzy/jazzy@0.5.2-rtext-1.4.1-2?classifier=sources
+- pkg:maven/net.sf.jazzy/jazzy@0.5.2-rtext-1.4.1?classifier=sources

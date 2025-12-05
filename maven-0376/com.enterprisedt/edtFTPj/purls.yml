@@ -1,0 +1,2 @@
+- pkg:maven/com.enterprisedt/edtFTPj@1.5.3
+- pkg:maven/com.enterprisedt/edtFTPj@1.5.3?classifier=sources

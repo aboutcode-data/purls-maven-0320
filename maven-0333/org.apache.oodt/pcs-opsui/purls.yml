@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.oodt/pcs-opsui@0.4?classifier=sources
+- pkg:maven/org.apache.oodt/pcs-opsui@0.4?type=war
+- pkg:maven/org.apache.oodt/pcs-opsui@0.5?classifier=sources
+- pkg:maven/org.apache.oodt/pcs-opsui@0.5?type=war
+- pkg:maven/org.apache.oodt/pcs-opsui@0.6?classifier=sources
+- pkg:maven/org.apache.oodt/pcs-opsui@0.6?type=war

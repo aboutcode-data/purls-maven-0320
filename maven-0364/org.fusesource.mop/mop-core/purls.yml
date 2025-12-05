@@ -1,0 +1,2 @@
+- pkg:maven/org.fusesource.mop/mop-core@1.0-m1
+- pkg:maven/org.fusesource.mop/mop-core@1.0-m1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cybozu.labs/langdetect@1.1-20120112
+- pkg:maven/com.cybozu.labs/langdetect@1.1-20120112?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.stickycode/sticky-metadata-reflective@1.4
+- pkg:maven/net.stickycode/sticky-metadata-reflective@1.4?classifier=sources
+- pkg:maven/net.stickycode/sticky-metadata-reflective@2.2
+- pkg:maven/net.stickycode/sticky-metadata-reflective@2.2?classifier=sources

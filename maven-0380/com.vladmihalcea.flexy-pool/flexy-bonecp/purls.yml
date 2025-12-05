@@ -1,0 +1,2 @@
+- pkg:maven/com.vladmihalcea.flexy-pool/flexy-bonecp@1.0
+- pkg:maven/com.vladmihalcea.flexy-pool/flexy-bonecp@1.0?classifier=sources

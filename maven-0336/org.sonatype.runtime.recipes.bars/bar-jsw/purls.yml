@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.runtime.recipes.bars/bar-jsw@3.2.3-v0001
+- pkg:maven/org.sonatype.runtime.recipes.bars/bar-jsw@3.2.3-v0001?classifier=sources

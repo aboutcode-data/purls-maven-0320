@@ -1,0 +1,2 @@
+- pkg:maven/com.darylteo/vertx-promises-java@1.1.0-ALPHA2
+- pkg:maven/com.darylteo/vertx-promises-java@1.1.0-ALPHA2?classifier=sources

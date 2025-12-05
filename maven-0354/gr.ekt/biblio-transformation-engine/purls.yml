@@ -1,0 +1,4 @@
+- pkg:maven/gr.ekt/biblio-transformation-engine@0.81
+- pkg:maven/gr.ekt/biblio-transformation-engine@0.81?classifier=sources
+- pkg:maven/gr.ekt/biblio-transformation-engine@0.82
+- pkg:maven/gr.ekt/biblio-transformation-engine@0.82?classifier=sources

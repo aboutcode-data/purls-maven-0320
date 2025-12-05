@@ -1,0 +1,10 @@
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.0.0
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.0.0?classifier=sources
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.0.1
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.0.1?classifier=sources
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.1.0
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.1.0?classifier=sources
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.1.1
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.1.1?classifier=sources
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.2.0
+- pkg:maven/ru.trylogic.groovy.macro/macro-groovy@1.2.0?classifier=sources

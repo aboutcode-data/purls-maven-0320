@@ -1,0 +1,2 @@
+- pkg:maven/cf.janga/java-fire-core@1.0.2
+- pkg:maven/cf.janga/java-fire-core@1.0.2?classifier=sources

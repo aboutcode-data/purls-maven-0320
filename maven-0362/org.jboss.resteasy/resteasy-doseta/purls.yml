@@ -1,0 +1,10 @@
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2-RC-1
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2-RC-1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2.0.GA
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2.0.GA?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2.1.GA
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2.1.GA?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2.2.GA
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2.2.GA?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2.3.GA
+- pkg:maven/org.jboss.resteasy/resteasy-doseta@2.2.3.GA?classifier=sources

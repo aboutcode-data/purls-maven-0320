@@ -1,0 +1,2 @@
+- pkg:maven/org.agmip.translators/translator-cropgrow-nau@1.0.0
+- pkg:maven/org.agmip.translators/translator-cropgrow-nau@1.0.0?classifier=sources

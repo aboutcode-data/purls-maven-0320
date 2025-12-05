@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.bigtop.itest/stacks-common@0.2.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.bigtop.itest/stacks-common@0.3.0-incubating?classifier=source-release&type=zip

@@ -1,0 +1,4 @@
+- pkg:maven/se.emilsjolander/StickyScrollViewItems@1.0.0?classifier=sources
+- pkg:maven/se.emilsjolander/StickyScrollViewItems@1.0.0?type=aar
+- pkg:maven/se.emilsjolander/StickyScrollViewItems@1.1.0?classifier=sources
+- pkg:maven/se.emilsjolander/StickyScrollViewItems@1.1.0?type=aar

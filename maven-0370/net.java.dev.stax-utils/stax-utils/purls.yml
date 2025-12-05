@@ -1,0 +1,5 @@
+- pkg:maven/net.java.dev.stax-utils/stax-utils@20040917
+- pkg:maven/net.java.dev.stax-utils/stax-utils@20060502
+- pkg:maven/net.java.dev.stax-utils/stax-utils@20060502?classifier=sources
+- pkg:maven/net.java.dev.stax-utils/stax-utils@20070216
+- pkg:maven/net.java.dev.stax-utils/stax-utils@20070216?classifier=sources

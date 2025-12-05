@@ -1,0 +1,4 @@
+- pkg:maven/org.andromda/andromda-script-wrappers@3.2
+- pkg:maven/org.andromda/andromda-script-wrappers@3.3
+- pkg:maven/org.andromda/andromda-script-wrappers@3.4
+- pkg:maven/org.andromda/andromda-script-wrappers@3.4?classifier=sources

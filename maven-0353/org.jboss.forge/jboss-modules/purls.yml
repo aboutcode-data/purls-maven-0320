@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.forge/jboss-modules@1.3.0.Final-forge
+- pkg:maven/org.jboss.forge/jboss-modules@1.3.0.Final-forge?classifier=sources

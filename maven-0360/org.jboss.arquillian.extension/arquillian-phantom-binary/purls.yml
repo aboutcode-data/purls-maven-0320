@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.arquillian.extension/arquillian-phantom-binary@1.9.0
+- pkg:maven/org.jboss.arquillian.extension/arquillian-phantom-binary@1.9.1
+- pkg:maven/org.jboss.arquillian.extension/arquillian-phantom-binary@1.9.2
+- pkg:maven/org.jboss.arquillian.extension/arquillian-phantom-binary@1.9.7

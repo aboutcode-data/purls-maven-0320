@@ -1,0 +1,6 @@
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency-legacy@1.0-demo-2?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency-legacy@1.0-demo-2?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency-legacy@1.0-demo-3?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency-legacy@1.0-demo-3?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency-legacy@1.0-demo-4?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency-legacy@1.0-demo-4?type=war

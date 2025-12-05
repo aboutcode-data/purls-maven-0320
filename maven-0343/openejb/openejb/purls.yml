@@ -1,0 +1,2 @@
+- pkg:maven/openejb/openejb@1.0-beta1?classifier=src&type=tar.gz
+- pkg:maven/openejb/openejb@1.0-beta1?classifier=src&type=zip

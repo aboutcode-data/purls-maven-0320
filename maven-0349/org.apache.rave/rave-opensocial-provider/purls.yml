@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.4-incubating
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.4-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.5-incubating
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.5-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.6-incubating
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.6-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.7-incubating
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.7-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.8-incubating
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.8-incubating?classifier=sources
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.9-incubating
+- pkg:maven/org.apache.rave/rave-opensocial-provider@0.9-incubating?classifier=sources

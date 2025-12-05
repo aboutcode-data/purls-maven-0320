@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.jaxbhelp/jaxbhelp-tests-iso19115@1.0.4
+- pkg:maven/org.jvnet.jaxbhelp/jaxbhelp-tests-iso19115@1.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jayway.forest/forest-samples-angrytoday@0.3.0.M2?classifier=sources
+- pkg:maven/com.jayway.forest/forest-samples-angrytoday@0.3.0.M2?type=war

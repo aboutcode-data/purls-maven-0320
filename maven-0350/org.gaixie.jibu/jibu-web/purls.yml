@@ -1,0 +1,2 @@
+- pkg:maven/org.gaixie.jibu/jibu-web@1.0.0?classifier=sources
+- pkg:maven/org.gaixie.jibu/jibu-web@1.0.0?type=war

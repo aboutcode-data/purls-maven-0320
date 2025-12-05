@@ -1,0 +1,14 @@
+- pkg:maven/com.sun.xsom/xsom@20070323
+- pkg:maven/com.sun.xsom/xsom@20070323?classifier=sources
+- pkg:maven/com.sun.xsom/xsom@20070407
+- pkg:maven/com.sun.xsom/xsom@20070407?classifier=sources
+- pkg:maven/com.sun.xsom/xsom@20070514
+- pkg:maven/com.sun.xsom/xsom@20070514?classifier=sources
+- pkg:maven/com.sun.xsom/xsom@20070515
+- pkg:maven/com.sun.xsom/xsom@20070515?classifier=sources
+- pkg:maven/com.sun.xsom/xsom@20081112
+- pkg:maven/com.sun.xsom/xsom@20081112?classifier=sources
+- pkg:maven/com.sun.xsom/xsom@20100725
+- pkg:maven/com.sun.xsom/xsom@20100725?classifier=sources
+- pkg:maven/com.sun.xsom/xsom@20110809
+- pkg:maven/com.sun.xsom/xsom@20110809?classifier=sources

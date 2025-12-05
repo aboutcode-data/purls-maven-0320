@@ -1,0 +1,8 @@
+- pkg:maven/org.jboss.aerogear/aerogear-otp-java@1.0.0
+- pkg:maven/org.jboss.aerogear/aerogear-otp-java@1.0.0.CR1
+- pkg:maven/org.jboss.aerogear/aerogear-otp-java@1.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-otp-java@1.0.0.M1
+- pkg:maven/org.jboss.aerogear/aerogear-otp-java@1.0.0.M1?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-otp-java@1.0.0.M8
+- pkg:maven/org.jboss.aerogear/aerogear-otp-java@1.0.0.M8?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-otp-java@1.0.0?classifier=sources

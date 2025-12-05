@@ -1,0 +1,4 @@
+- pkg:maven/jp.go.aist.six.util/six-util@3.7.0
+- pkg:maven/jp.go.aist.six.util/six-util@3.7.0?classifier=sources
+- pkg:maven/jp.go.aist.six.util/six-util@3.7.1
+- pkg:maven/jp.go.aist.six.util/six-util@3.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.javaprinciples.client/client-sample@1.0.0?classifier=sources
+- pkg:maven/net.sf.javaprinciples.client/client-sample@1.0.0?type=war

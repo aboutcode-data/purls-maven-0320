@@ -1,0 +1,2 @@
+- pkg:maven/se.skltp.components/mule-probe@1.0.0-RC1?classifier=sources
+- pkg:maven/se.skltp.components/mule-probe@1.0.0?classifier=sources

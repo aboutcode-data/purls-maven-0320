@@ -1,0 +1,6 @@
+- pkg:maven/org.jenkins-ci/constant-pool-scanner@1.0
+- pkg:maven/org.jenkins-ci/constant-pool-scanner@1.0?classifier=sources
+- pkg:maven/org.jenkins-ci/constant-pool-scanner@1.1
+- pkg:maven/org.jenkins-ci/constant-pool-scanner@1.1?classifier=sources
+- pkg:maven/org.jenkins-ci/constant-pool-scanner@1.2
+- pkg:maven/org.jenkins-ci/constant-pool-scanner@1.2?classifier=sources

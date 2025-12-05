@@ -1,0 +1,8 @@
+- pkg:maven/com.twitter/chill-thrift@0.3.5
+- pkg:maven/com.twitter/chill-thrift@0.3.5?classifier=sources
+- pkg:maven/com.twitter/chill-thrift@0.3.6
+- pkg:maven/com.twitter/chill-thrift@0.3.6?classifier=sources
+- pkg:maven/com.twitter/chill-thrift@0.3.6rc2
+- pkg:maven/com.twitter/chill-thrift@0.3.6rc2?classifier=sources
+- pkg:maven/com.twitter/chill-thrift@0.3.6rc3
+- pkg:maven/com.twitter/chill-thrift@0.3.6rc3?classifier=sources

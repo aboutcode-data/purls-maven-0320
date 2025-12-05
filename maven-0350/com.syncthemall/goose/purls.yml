@@ -1,0 +1,2 @@
+- pkg:maven/com.syncthemall/goose@2.1.25
+- pkg:maven/com.syncthemall/goose@2.1.25?classifier=sources

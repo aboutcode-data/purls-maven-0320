@@ -1,0 +1,2 @@
+- pkg:maven/us.fatehi/sunposition@4.0
+- pkg:maven/us.fatehi/sunposition@4.0?classifier=sources

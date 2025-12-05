@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rotty3000/phidias@0.2.1
+- pkg:maven/com.github.rotty3000/phidias@0.2.1?classifier=sources

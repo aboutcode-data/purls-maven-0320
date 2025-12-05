@@ -1,0 +1,4 @@
+- pkg:maven/ru.xajile.fuchakubutsu4j/fuchakubutsu4j@0.10
+- pkg:maven/ru.xajile.fuchakubutsu4j/fuchakubutsu4j@0.10?classifier=sources
+- pkg:maven/ru.xajile.fuchakubutsu4j/fuchakubutsu4j@0.9
+- pkg:maven/ru.xajile.fuchakubutsu4j/fuchakubutsu4j@0.9?classifier=sources

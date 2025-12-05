@@ -1,0 +1,2 @@
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-android-awt@1.0.12
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-android-awt@1.0.12?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.cafeto.queryserialize/cafeto-queryserialize@0.5.0
+- pkg:maven/net.cafeto.queryserialize/cafeto-queryserialize@0.5.0?classifier=sources

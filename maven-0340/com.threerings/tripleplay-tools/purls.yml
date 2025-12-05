@@ -1,0 +1,12 @@
+- pkg:maven/com.threerings/tripleplay-tools@1.3
+- pkg:maven/com.threerings/tripleplay-tools@1.4
+- pkg:maven/com.threerings/tripleplay-tools@1.5
+- pkg:maven/com.threerings/tripleplay-tools@1.5.1
+- pkg:maven/com.threerings/tripleplay-tools@1.6
+- pkg:maven/com.threerings/tripleplay-tools@1.7
+- pkg:maven/com.threerings/tripleplay-tools@1.7.1
+- pkg:maven/com.threerings/tripleplay-tools@1.7.2
+- pkg:maven/com.threerings/tripleplay-tools@1.8
+- pkg:maven/com.threerings/tripleplay-tools@1.8.5
+- pkg:maven/com.threerings/tripleplay-tools@1.8.5?classifier=sources
+- pkg:maven/com.threerings/tripleplay-tools@1.8?classifier=sources

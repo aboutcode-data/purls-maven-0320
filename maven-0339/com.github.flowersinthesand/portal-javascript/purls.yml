@@ -1,0 +1,7 @@
+- pkg:maven/com.github.flowersinthesand/portal-javascript@0.2?type=war
+- pkg:maven/com.github.flowersinthesand/portal-javascript@0.3
+- pkg:maven/com.github.flowersinthesand/portal-javascript@0.3?classifier=sources
+- pkg:maven/com.github.flowersinthesand/portal-javascript@0.4
+- pkg:maven/com.github.flowersinthesand/portal-javascript@0.4?classifier=sources
+- pkg:maven/com.github.flowersinthesand/portal-javascript@0.5
+- pkg:maven/com.github.flowersinthesand/portal-javascript@0.5?classifier=sources

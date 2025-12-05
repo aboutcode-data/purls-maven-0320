@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.xsite/xsite-website@1.0-beta-1
+- pkg:maven/org.codehaus.xsite/xsite-website@1.0-beta-2
+- pkg:maven/org.codehaus.xsite/xsite-website@1.0-beta-3
+- pkg:maven/org.codehaus.xsite/xsite-website@1.0-beta-3?classifier=sources

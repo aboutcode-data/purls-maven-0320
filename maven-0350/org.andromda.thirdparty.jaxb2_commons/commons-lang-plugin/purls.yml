@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/commons-lang-plugin@2.2
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/commons-lang-plugin@2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.forge/forge-org.jboss.forge.furnace.proxy.javassist@2
+- pkg:maven/org.jboss.forge/forge-org.jboss.forge.furnace.proxy.javassist@2?classifier=sources

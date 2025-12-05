@@ -1,0 +1,4 @@
+- pkg:maven/com.discoverydns/ddns-dnsjava@1.0.6-r1685
+- pkg:maven/com.discoverydns/ddns-dnsjava@1.0.6-r1685?classifier=sources
+- pkg:maven/com.discoverydns/ddns-dnsjava@1.0.7-r1685
+- pkg:maven/com.discoverydns/ddns-dnsjava@1.0.7-r1685?classifier=sources

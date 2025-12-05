@@ -1,0 +1,2 @@
+- pkg:maven/io.pst.mojo/s3-static-uploader-plugin@1.1
+- pkg:maven/io.pst.mojo/s3-static-uploader-plugin@1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/it.unitn.disi/s-match@0.9.12
+- pkg:maven/it.unitn.disi/s-match@0.9.12?classifier=sources
+- pkg:maven/it.unitn.disi/s-match@0.9.19
+- pkg:maven/it.unitn.disi/s-match@0.9.19?classifier=sources
+- pkg:maven/it.unitn.disi/s-match@0.9.21
+- pkg:maven/it.unitn.disi/s-match@0.9.21?classifier=sources

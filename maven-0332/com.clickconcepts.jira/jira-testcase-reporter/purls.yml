@@ -1,0 +1,4 @@
+- pkg:maven/com.clickconcepts.jira/jira-testcase-reporter@0.02
+- pkg:maven/com.clickconcepts.jira/jira-testcase-reporter@0.02?classifier=sources
+- pkg:maven/com.clickconcepts.jira/jira-testcase-reporter@0.05
+- pkg:maven/com.clickconcepts.jira/jira-testcase-reporter@0.05?classifier=sources

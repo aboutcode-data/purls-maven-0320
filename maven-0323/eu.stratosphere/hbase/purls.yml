@@ -1,0 +1,2 @@
+- pkg:maven/eu.stratosphere/hbase@0.4-hadoop2
+- pkg:maven/eu.stratosphere/hbase@0.4-hadoop2?classifier=sources

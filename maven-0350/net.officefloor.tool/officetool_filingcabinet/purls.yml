@@ -1,0 +1,2 @@
+- pkg:maven/net.officefloor.tool/officetool_filingcabinet@1.0.1
+- pkg:maven/net.officefloor.tool/officetool_filingcabinet@1.0.1?classifier=sources

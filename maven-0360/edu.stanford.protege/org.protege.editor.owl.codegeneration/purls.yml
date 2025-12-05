@@ -1,0 +1,4 @@
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl.codegeneration@1.0.0
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl.codegeneration@1.0.0?classifier=sources
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl.codegeneration@1.0.2
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl.codegeneration@1.0.2?classifier=sources

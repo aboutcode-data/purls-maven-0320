@@ -1,0 +1,2 @@
+- pkg:maven/com.thaiopensource/trang@20091111
+- pkg:maven/com.thaiopensource/trang@20091111?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.drools/drools-wb-rest-defaultapprover@6.0.1.Final
+- pkg:maven/org.drools/drools-wb-rest-defaultapprover@6.0.1.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-rest-defaultapprover@6.1.0.Beta1?classifier=sources
+- pkg:maven/org.drools/drools-wb-rest-defaultapprover@6.1.0.Beta2?classifier=sources

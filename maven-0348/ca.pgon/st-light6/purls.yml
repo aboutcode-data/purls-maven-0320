@@ -1,0 +1,2 @@
+- pkg:maven/ca.pgon/st-light6@4.0.0
+- pkg:maven/ca.pgon/st-light6@4.0.0?classifier=sources

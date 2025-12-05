@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.jsr339-api-m13@2.2.0
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.jsr339-api-m13@2.2.0?classifier=sources
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.jsr339-api-m13@2.3.0
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.jsr339-api-m13@2.3.0?classifier=sources
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.jsr339-api-m13@2.4.0
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.jsr339-api-m13@2.4.0?classifier=sources

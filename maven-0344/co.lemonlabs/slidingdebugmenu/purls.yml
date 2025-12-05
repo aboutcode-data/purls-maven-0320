@@ -1,0 +1,2 @@
+- pkg:maven/co.lemonlabs/slidingdebugmenu@0.1.0?classifier=sources
+- pkg:maven/co.lemonlabs/slidingdebugmenu@0.1.0?type=aar

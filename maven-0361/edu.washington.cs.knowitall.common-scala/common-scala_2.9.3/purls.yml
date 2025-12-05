@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.knowitall.common-scala/common-scala_2.9.3@1.1.2
+- pkg:maven/edu.washington.cs.knowitall.common-scala/common-scala_2.9.3@1.1.2?classifier=sources

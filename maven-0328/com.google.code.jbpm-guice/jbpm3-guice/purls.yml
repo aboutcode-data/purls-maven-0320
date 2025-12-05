@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.jbpm-guice/jbpm3-guice@2.0.2
+- pkg:maven/com.google.code.jbpm-guice/jbpm3-guice@2.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/maven/maven-model@3.0.0
+- pkg:maven/maven/maven-model@3.0.1
+- pkg:maven/maven/maven-model@3.0.2
+- pkg:maven/maven/maven-model@3.0.2?classifier=sources

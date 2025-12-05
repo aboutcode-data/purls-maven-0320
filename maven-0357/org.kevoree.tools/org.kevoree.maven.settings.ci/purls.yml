@@ -1,0 +1,2 @@
+- pkg:maven/org.kevoree.tools/org.kevoree.maven.settings.ci@2
+- pkg:maven/org.kevoree.tools/org.kevoree.maven.settings.ci@2?classifier=sources

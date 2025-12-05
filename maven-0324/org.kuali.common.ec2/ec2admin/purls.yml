@@ -1,0 +1,2 @@
+- pkg:maven/org.kuali.common.ec2/ec2admin@1.0.0
+- pkg:maven/org.kuali.common.ec2/ec2admin@1.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.uctool/uctool@1.0
+- pkg:maven/net.sf.uctool/uctool@1.0?classifier=sources
+- pkg:maven/net.sf.uctool/uctool@2.0.0
+- pkg:maven/net.sf.uctool/uctool@2.0.0?classifier=sources
+- pkg:maven/net.sf.uctool/uctool@3.0.0
+- pkg:maven/net.sf.uctool/uctool@3.0.0?classifier=sources

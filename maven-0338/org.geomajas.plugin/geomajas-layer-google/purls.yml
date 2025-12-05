@@ -1,0 +1,8 @@
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google@1.7.1
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google@1.7.1?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google@1.8.0
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google@1.8.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google@2.0.0
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google@2.0.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google@2.1.0
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google@2.1.0?classifier=sources

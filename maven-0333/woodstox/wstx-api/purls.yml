@@ -1,0 +1,8 @@
+- pkg:maven/woodstox/wstx-api@2.8.2
+- pkg:maven/woodstox/wstx-api@2.9
+- pkg:maven/woodstox/wstx-api@2.9.1
+- pkg:maven/woodstox/wstx-api@2.9.2
+- pkg:maven/woodstox/wstx-api@3.0.3
+- pkg:maven/woodstox/wstx-api@3.0rc1
+- pkg:maven/woodstox/wstx-api@3.1.1
+- pkg:maven/woodstox/wstx-api@3.2.0

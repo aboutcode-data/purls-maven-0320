@@ -1,0 +1,2 @@
+- pkg:maven/com.hynnet/pdf-j@5.85
+- pkg:maven/com.hynnet/pdf-j@5.85?classifier=sources

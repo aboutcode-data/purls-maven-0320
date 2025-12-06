@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.emf.xpath@0.1.200
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.emf.xpath@0.1.200?classifier=sources

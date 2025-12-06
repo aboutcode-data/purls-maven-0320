@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.slider/slider@0.81.1-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.slider/slider@0.90.2-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.slider/slider@0.91.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.slider/slider@0.92.0-incubating?classifier=source-release&type=zip

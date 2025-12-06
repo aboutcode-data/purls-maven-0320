@@ -1,0 +1,2 @@
+- pkg:maven/com.virgilsecurity.sdk/secure-enclave@4.4.0-alpha
+- pkg:maven/com.virgilsecurity.sdk/secure-enclave@4.4.0-alpha?classifier=sources

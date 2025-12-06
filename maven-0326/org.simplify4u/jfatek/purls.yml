@@ -1,0 +1,2 @@
+- pkg:maven/org.simplify4u/jfatek@2.0.0
+- pkg:maven/org.simplify4u/jfatek@2.0.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/ch.megard/akka-http-cors_2.12@0.1.10
+- pkg:maven/ch.megard/akka-http-cors_2.12@0.1.10?classifier=sources
+- pkg:maven/ch.megard/akka-http-cors_2.12@0.1.11
+- pkg:maven/ch.megard/akka-http-cors_2.12@0.1.11?classifier=sources
+- pkg:maven/ch.megard/akka-http-cors_2.12@0.1.9
+- pkg:maven/ch.megard/akka-http-cors_2.12@0.1.9?classifier=sources
+- pkg:maven/ch.megard/akka-http-cors_2.12@0.2.1
+- pkg:maven/ch.megard/akka-http-cors_2.12@0.2.1?classifier=sources

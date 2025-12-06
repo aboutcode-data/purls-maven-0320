@@ -1,0 +1,8 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-ce-api@6.4
+- pkg:maven/org.sonarsource.sonarqube/sonar-ce-api@6.4-RC1
+- pkg:maven/org.sonarsource.sonarqube/sonar-ce-api@6.4-RC1?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-ce-api@6.4-RC2
+- pkg:maven/org.sonarsource.sonarqube/sonar-ce-api@6.4-RC2?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-ce-api@6.4-RC3
+- pkg:maven/org.sonarsource.sonarqube/sonar-ce-api@6.4-RC3?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-ce-api@6.4?classifier=sources

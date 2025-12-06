@@ -14,6 +14,8 @@
 - pkg:maven/im.actor/actor-bots-shared@1.0.111?classifier=sources
 - pkg:maven/im.actor/actor-bots-shared@1.0.112
 - pkg:maven/im.actor/actor-bots-shared@1.0.112?classifier=sources
+- pkg:maven/im.actor/actor-bots-shared@1.0.113
+- pkg:maven/im.actor/actor-bots-shared@1.0.113?classifier=sources
 - pkg:maven/im.actor/actor-bots-shared@1.0.17
 - pkg:maven/im.actor/actor-bots-shared@1.0.17?classifier=sources
 - pkg:maven/im.actor/actor-bots-shared@1.0.18

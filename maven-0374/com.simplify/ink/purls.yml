@@ -8,3 +8,4 @@
 - pkg:maven/com.simplify/ink@0.2.3?type=aar
 - pkg:maven/com.simplify/ink@0.2?classifier=sources
 - pkg:maven/com.simplify/ink@0.2?type=aar
+- pkg:maven/com.simplify/ink@1.0.0?type=aar

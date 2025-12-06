@@ -1,0 +1,6 @@
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-google-cloud-pub-sub_2.11@0.7
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-google-cloud-pub-sub_2.11@0.7?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-google-cloud-pub-sub_2.11@0.8
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-google-cloud-pub-sub_2.11@0.8?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-google-cloud-pub-sub_2.11@0.9
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-google-cloud-pub-sub_2.11@0.9?classifier=sources

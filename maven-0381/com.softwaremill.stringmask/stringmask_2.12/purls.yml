@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.stringmask/stringmask_2.12@1.1.1
+- pkg:maven/com.softwaremill.stringmask/stringmask_2.12@1.1.1?classifier=sources
+- pkg:maven/com.softwaremill.stringmask/stringmask_2.12@1.2.0
+- pkg:maven/com.softwaremill.stringmask/stringmask_2.12@1.2.0?classifier=sources

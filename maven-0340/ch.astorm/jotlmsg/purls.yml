@@ -1,0 +1,4 @@
+- pkg:maven/ch.astorm/jotlmsg@1.0
+- pkg:maven/ch.astorm/jotlmsg@1.0?classifier=sources
+- pkg:maven/ch.astorm/jotlmsg@1.1
+- pkg:maven/ch.astorm/jotlmsg@1.1?classifier=sources

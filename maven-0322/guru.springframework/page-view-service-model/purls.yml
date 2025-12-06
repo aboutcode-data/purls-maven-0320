@@ -1,0 +1,4 @@
+- pkg:maven/guru.springframework/page-view-service-model@1.2
+- pkg:maven/guru.springframework/page-view-service-model@1.2?classifier=sources
+- pkg:maven/guru.springframework/page-view-service-model@1.3
+- pkg:maven/guru.springframework/page-view-service-model@1.3?classifier=sources

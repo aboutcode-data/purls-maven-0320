@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.kerby/kerby-all@1.0.0-RC1?classifier=source-release&type=zip
 - pkg:maven/org.apache.kerby/kerby-all@1.0.0-RC2?classifier=source-release&type=zip
+- pkg:maven/org.apache.kerby/kerby-all@1.0.0?classifier=source-release&type=zip

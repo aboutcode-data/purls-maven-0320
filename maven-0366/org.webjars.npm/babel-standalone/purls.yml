@@ -1,5 +1,13 @@
 - pkg:maven/org.webjars.npm/babel-standalone@1.0.0
 - pkg:maven/org.webjars.npm/babel-standalone@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-standalone@6.18.1
+- pkg:maven/org.webjars.npm/babel-standalone@6.18.1?classifier=sources
+- pkg:maven/org.webjars.npm/babel-standalone@6.19.0
+- pkg:maven/org.webjars.npm/babel-standalone@6.19.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-standalone@6.23.1
+- pkg:maven/org.webjars.npm/babel-standalone@6.23.1?classifier=sources
+- pkg:maven/org.webjars.npm/babel-standalone@6.24.0
+- pkg:maven/org.webjars.npm/babel-standalone@6.24.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-standalone@6.6.5
 - pkg:maven/org.webjars.npm/babel-standalone@6.6.5?classifier=sources
 - pkg:maven/org.webjars.npm/babel-standalone@6.7.7

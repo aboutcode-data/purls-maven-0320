@@ -1,0 +1,4 @@
+- pkg:maven/com.github.galigator.openllet/openllet-distribution@2.6.0
+- pkg:maven/com.github.galigator.openllet/openllet-distribution@2.6.0?classifier=sources
+- pkg:maven/com.github.galigator.openllet/openllet-distribution@2.6.1
+- pkg:maven/com.github.galigator.openllet/openllet-distribution@2.6.1?classifier=sources

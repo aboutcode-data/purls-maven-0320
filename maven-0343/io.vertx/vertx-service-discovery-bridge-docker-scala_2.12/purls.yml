@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-service-discovery-bridge-docker-scala_2.12@3.4.1
+- pkg:maven/io.vertx/vertx-service-discovery-bridge-docker-scala_2.12@3.4.2

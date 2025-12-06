@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-valor-software-ng2-bootstrap@1.1.16
+- pkg:maven/org.webjars.npm/github-com-valor-software-ng2-bootstrap@1.1.16-11
+- pkg:maven/org.webjars.npm/github-com-valor-software-ng2-bootstrap@1.1.16-11?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-valor-software-ng2-bootstrap@1.1.16?classifier=sources

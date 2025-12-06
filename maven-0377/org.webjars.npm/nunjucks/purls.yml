@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/nunjucks@2.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/nunjucks@2.4.2
 - pkg:maven/org.webjars.npm/nunjucks@2.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/nunjucks@2.5.2
+- pkg:maven/org.webjars.npm/nunjucks@2.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/nunjucks@3.0.0
+- pkg:maven/org.webjars.npm/nunjucks@3.0.0?classifier=sources

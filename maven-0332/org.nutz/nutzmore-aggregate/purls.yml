@@ -1,0 +1,2 @@
+- pkg:maven/org.nutz/nutzmore-aggregate@1.r.60.r2
+- pkg:maven/org.nutz/nutzmore-aggregate@1.r.60.r2?classifier=sources

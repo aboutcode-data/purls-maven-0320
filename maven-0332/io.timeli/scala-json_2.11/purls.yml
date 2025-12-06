@@ -1,0 +1,4 @@
+- pkg:maven/io.timeli/scala-json_2.11@3.1.06023ff
+- pkg:maven/io.timeli/scala-json_2.11@3.1.06023ff?classifier=sources
+- pkg:maven/io.timeli/scala-json_2.11@3.1.e0ac446
+- pkg:maven/io.timeli/scala-json_2.11@3.1.e0ac446?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/me.lyh/protobuf-generic_2.10@0.1.0
+- pkg:maven/me.lyh/protobuf-generic_2.10@0.1.0?classifier=sources
+- pkg:maven/me.lyh/protobuf-generic_2.10@0.1.1
+- pkg:maven/me.lyh/protobuf-generic_2.10@0.1.1?classifier=sources

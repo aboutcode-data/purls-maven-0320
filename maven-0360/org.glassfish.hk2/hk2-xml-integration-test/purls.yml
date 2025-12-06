@@ -1,0 +1,6 @@
+- pkg:maven/org.glassfish.hk2/hk2-xml-integration-test@2.5.0-b36
+- pkg:maven/org.glassfish.hk2/hk2-xml-integration-test@2.5.0-b36?classifier=sources
+- pkg:maven/org.glassfish.hk2/hk2-xml-integration-test@2.5.0-b37
+- pkg:maven/org.glassfish.hk2/hk2-xml-integration-test@2.5.0-b37?classifier=sources
+- pkg:maven/org.glassfish.hk2/hk2-xml-integration-test@2.5.0-b38
+- pkg:maven/org.glassfish.hk2/hk2-xml-integration-test@2.5.0-b38?classifier=sources

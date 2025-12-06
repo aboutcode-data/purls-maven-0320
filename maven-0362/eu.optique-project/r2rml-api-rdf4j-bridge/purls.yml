@@ -1,0 +1,2 @@
+- pkg:maven/eu.optique-project/r2rml-api-rdf4j-bridge@0.4.0
+- pkg:maven/eu.optique-project/r2rml-api-rdf4j-bridge@0.4.0?classifier=sources

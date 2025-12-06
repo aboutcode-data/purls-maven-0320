@@ -1,3 +1,12 @@
+- pkg:maven/org.zanata/zanata-assets@10.0
+- pkg:maven/org.zanata/zanata-assets@10.1
+- pkg:maven/org.zanata/zanata-assets@10.1?classifier=sources
+- pkg:maven/org.zanata/zanata-assets@10.2
+- pkg:maven/org.zanata/zanata-assets@10.2?classifier=sources
+- pkg:maven/org.zanata/zanata-assets@10.3
+- pkg:maven/org.zanata/zanata-assets@10.3?classifier=sources
+- pkg:maven/org.zanata/zanata-assets@10.4
+- pkg:maven/org.zanata/zanata-assets@10.4?classifier=sources
 - pkg:maven/org.zanata/zanata-assets@7.3
 - pkg:maven/org.zanata/zanata-assets@7.3?classifier=sources
 - pkg:maven/org.zanata/zanata-assets@8.0

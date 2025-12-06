@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/highlight@9.9.0
+- pkg:maven/org.webjars.bower/highlight@9.9.0?classifier=sources

@@ -10,6 +10,16 @@
 - pkg:maven/net.time4j/time4j-tzdata@1.10-2016f?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@1.10-2016g
 - pkg:maven/net.time4j/time4j-tzdata@1.10-2016g?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2016h
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2016h?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2016i
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2016i?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2016j
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2016j?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2017a
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2017a?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2017b
+- pkg:maven/net.time4j/time4j-tzdata@1.10-2017b?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@1.2-2015d
 - pkg:maven/net.time4j/time4j-tzdata@1.2-2015d?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@1.3-2015d

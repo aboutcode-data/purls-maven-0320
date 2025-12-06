@@ -24,6 +24,10 @@
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.9.40?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.9.5
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@1.9.5?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@10.1.3
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@10.1.3?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@11.0.0
+- pkg:maven/com.linkedin.pegasus/restli-netty-standalone@11.0.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@2.1.0
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@2.1.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-netty-standalone@2.12.7

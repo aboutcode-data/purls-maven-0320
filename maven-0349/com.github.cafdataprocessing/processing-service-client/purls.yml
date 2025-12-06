@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cafdataprocessing/processing-service-client@1.0.0-3
+- pkg:maven/com.github.cafdataprocessing/processing-service-client@1.0.0-3?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/processing-service-client@1.1.0-20
+- pkg:maven/com.github.cafdataprocessing/processing-service-client@1.1.0-20?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/net.markenwerk/utils-json-parser@2.1.0?classifier=sources
 - pkg:maven/net.markenwerk/utils-json-parser@3.0.0
 - pkg:maven/net.markenwerk/utils-json-parser@3.0.0?classifier=sources
+- pkg:maven/net.markenwerk/utils-json-parser@3.0.1
+- pkg:maven/net.markenwerk/utils-json-parser@3.0.1?classifier=sources

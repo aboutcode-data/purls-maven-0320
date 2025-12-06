@@ -2,3 +2,5 @@
 - pkg:maven/io.klerch/alexa-skills-kit-states-java@0.2.1?classifier=sources
 - pkg:maven/io.klerch/alexa-skills-kit-states-java@0.2.2
 - pkg:maven/io.klerch/alexa-skills-kit-states-java@0.2.2?classifier=sources
+- pkg:maven/io.klerch/alexa-skills-kit-states-java@1.0.0
+- pkg:maven/io.klerch/alexa-skills-kit-states-java@1.0.0?classifier=sources

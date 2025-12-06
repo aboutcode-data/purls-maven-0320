@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/buffer-crc32@0.2.13
+- pkg:maven/org.webjars.npm/buffer-crc32@0.2.13?classifier=sources
 - pkg:maven/org.webjars.npm/buffer-crc32@0.2.3
 - pkg:maven/org.webjars.npm/buffer-crc32@0.2.3?classifier=sources

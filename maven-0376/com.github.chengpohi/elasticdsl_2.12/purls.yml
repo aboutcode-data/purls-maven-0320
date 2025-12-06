@@ -1,0 +1,2 @@
+- pkg:maven/com.github.chengpohi/elasticdsl_2.12@0.2.2?classifier=sources
+- pkg:maven/com.github.chengpohi/elasticdsl_2.12@0.2.2?type=zip

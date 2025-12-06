@@ -1,0 +1,2 @@
+- pkg:maven/zone.dragon.dropwizard/dropwizard-cors@1.1.2-b3615c
+- pkg:maven/zone.dragon.dropwizard/dropwizard-cors@1.1.2-b3615c?classifier=sources

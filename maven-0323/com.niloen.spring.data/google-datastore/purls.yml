@@ -1,0 +1,2 @@
+- pkg:maven/com.niloen.spring.data/google-datastore@0.0.1
+- pkg:maven/com.niloen.spring.data/google-datastore@0.0.1?classifier=sources

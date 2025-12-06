@@ -1,0 +1,2 @@
+- pkg:maven/org.mutabilitydetector/asm-nonclassloadingextensions@1.0-rc1
+- pkg:maven/org.mutabilitydetector/asm-nonclassloadingextensions@1.0-rc1?classifier=sources

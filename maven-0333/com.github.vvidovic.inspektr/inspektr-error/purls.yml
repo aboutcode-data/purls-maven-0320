@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vvidovic.inspektr/inspektr-error@1.8.GA
+- pkg:maven/com.github.vvidovic.inspektr/inspektr-error@1.8.GA?classifier=sources

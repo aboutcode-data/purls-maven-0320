@@ -12,3 +12,11 @@
 - pkg:maven/ly.kite/facebook-photo-picker@5.5.4?type=aar
 - pkg:maven/ly.kite/facebook-photo-picker@5.6.0?classifier=sources
 - pkg:maven/ly.kite/facebook-photo-picker@5.6.0?type=aar
+- pkg:maven/ly.kite/facebook-photo-picker@5.6.16?classifier=sources
+- pkg:maven/ly.kite/facebook-photo-picker@5.6.16?type=aar
+- pkg:maven/ly.kite/facebook-photo-picker@5.6.26?classifier=sources
+- pkg:maven/ly.kite/facebook-photo-picker@5.6.26?type=aar
+- pkg:maven/ly.kite/facebook-photo-picker@5.6.4?classifier=sources
+- pkg:maven/ly.kite/facebook-photo-picker@5.6.4?type=aar
+- pkg:maven/ly.kite/facebook-photo-picker@5.7.2?classifier=sources
+- pkg:maven/ly.kite/facebook-photo-picker@5.7.2?type=aar

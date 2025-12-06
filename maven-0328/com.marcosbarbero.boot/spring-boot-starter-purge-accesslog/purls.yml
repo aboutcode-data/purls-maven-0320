@@ -1,0 +1,4 @@
+- pkg:maven/com.marcosbarbero.boot/spring-boot-starter-purge-accesslog@1.0.0.RELEASE
+- pkg:maven/com.marcosbarbero.boot/spring-boot-starter-purge-accesslog@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.marcosbarbero.boot/spring-boot-starter-purge-accesslog@1.0.1.RELEASE
+- pkg:maven/com.marcosbarbero.boot/spring-boot-starter-purge-accesslog@1.0.1.RELEASE?classifier=sources

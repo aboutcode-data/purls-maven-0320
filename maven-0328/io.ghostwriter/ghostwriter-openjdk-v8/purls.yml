@@ -1,0 +1,2 @@
+- pkg:maven/io.ghostwriter/ghostwriter-openjdk-v8@0.3.0
+- pkg:maven/io.ghostwriter/ghostwriter-openjdk-v8@0.3.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.propensive/contextual_2.12@0.14
+- pkg:maven/com.propensive/contextual_2.12@0.14?classifier=sources
+- pkg:maven/com.propensive/contextual_2.12@1.0.0
+- pkg:maven/com.propensive/contextual_2.12@1.0.0?classifier=sources
+- pkg:maven/com.propensive/contextual_2.12@1.0.1
+- pkg:maven/com.propensive/contextual_2.12@1.0.1?classifier=sources

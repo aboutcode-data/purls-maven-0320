@@ -1,2 +1,4 @@
 - pkg:maven/kg.apc/jmeter-plugins-emulators@0.2
 - pkg:maven/kg.apc/jmeter-plugins-emulators@0.2?classifier=sources
+- pkg:maven/kg.apc/jmeter-plugins-emulators@0.4
+- pkg:maven/kg.apc/jmeter-plugins-emulators@0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.icfolson.aem.namespace/aem-namespace-extension-api@0.4.0
+- pkg:maven/com.icfolson.aem.namespace/aem-namespace-extension-api@0.4.0?classifier=sources

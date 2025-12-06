@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.11.1
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.11.1?classifier=sources

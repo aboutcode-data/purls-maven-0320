@@ -1,0 +1,2 @@
+- pkg:maven/rocks.elegantly.bd/commons-pattern@0.0.5
+- pkg:maven/rocks.elegantly.bd/commons-pattern@0.0.5?classifier=sources

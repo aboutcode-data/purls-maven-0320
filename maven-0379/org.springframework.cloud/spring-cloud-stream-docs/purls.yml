@@ -3,3 +3,9 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@1.0.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@1.0.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Brooklyn.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Brooklyn.SR1
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Brooklyn.SR2
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Brooklyn.SR3
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Chelsea.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Chelsea.SR1
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Chelsea.SR2

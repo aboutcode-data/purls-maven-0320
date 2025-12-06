@@ -6,7 +6,17 @@
 - pkg:maven/org.eclipse.collections/eclipse-collections@7.0.2?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections@7.1.0
 - pkg:maven/org.eclipse.collections/eclipse-collections@7.1.0?classifier=sources
+- pkg:maven/org.eclipse.collections/eclipse-collections@7.1.1
+- pkg:maven/org.eclipse.collections/eclipse-collections@7.1.1?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections@8.0.0
 - pkg:maven/org.eclipse.collections/eclipse-collections@8.0.0-M1
 - pkg:maven/org.eclipse.collections/eclipse-collections@8.0.0-M1?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections@8.0.0?classifier=sources
+- pkg:maven/org.eclipse.collections/eclipse-collections@8.0.1
+- pkg:maven/org.eclipse.collections/eclipse-collections@8.0.1?classifier=sources
+- pkg:maven/org.eclipse.collections/eclipse-collections@8.1.0
+- pkg:maven/org.eclipse.collections/eclipse-collections@8.1.0-RC
+- pkg:maven/org.eclipse.collections/eclipse-collections@8.1.0-RC?classifier=sources
+- pkg:maven/org.eclipse.collections/eclipse-collections@8.1.0?classifier=sources
+- pkg:maven/org.eclipse.collections/eclipse-collections@8.2.0
+- pkg:maven/org.eclipse.collections/eclipse-collections@8.2.0?classifier=sources

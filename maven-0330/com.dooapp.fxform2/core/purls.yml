@@ -72,3 +72,7 @@
 - pkg:maven/com.dooapp.fxform2/core@8.0.8?classifier=sources
 - pkg:maven/com.dooapp.fxform2/core@8.0.9
 - pkg:maven/com.dooapp.fxform2/core@8.0.9?classifier=sources
+- pkg:maven/com.dooapp.fxform2/core@8.1.0
+- pkg:maven/com.dooapp.fxform2/core@8.1.0?classifier=sources
+- pkg:maven/com.dooapp.fxform2/core@8.1.1
+- pkg:maven/com.dooapp.fxform2/core@8.1.1?classifier=sources

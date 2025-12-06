@@ -8,5 +8,9 @@
 - pkg:maven/io.nats/java-nats-streaming@0.2.1?classifier=sources
 - pkg:maven/io.nats/java-nats-streaming@0.3.0
 - pkg:maven/io.nats/java-nats-streaming@0.3.0?classifier=sources
+- pkg:maven/io.nats/java-nats-streaming@0.4.0
+- pkg:maven/io.nats/java-nats-streaming@0.4.0?classifier=sources
+- pkg:maven/io.nats/java-nats-streaming@0.4.1
+- pkg:maven/io.nats/java-nats-streaming@0.4.1?classifier=sources
 - pkg:maven/io.nats/java-nats-streaming@v0.1.0
 - pkg:maven/io.nats/java-nats-streaming@v0.1.0?classifier=sources

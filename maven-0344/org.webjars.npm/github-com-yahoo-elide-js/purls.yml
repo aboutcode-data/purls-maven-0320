@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/github-com-yahoo-elide-js@0.11.8
+- pkg:maven/org.webjars.npm/github-com-yahoo-elide-js@0.11.8?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-yahoo-elide-js@0.11.9
+- pkg:maven/org.webjars.npm/github-com-yahoo-elide-js@0.11.9?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-yahoo-elide-js@0.9.1
+- pkg:maven/org.webjars.npm/github-com-yahoo-elide-js@0.9.1?classifier=sources

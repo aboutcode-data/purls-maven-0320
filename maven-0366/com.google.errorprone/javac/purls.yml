@@ -10,3 +10,17 @@
 - pkg:maven/com.google.errorprone/javac@1.9.0-dev-r2973-1?classifier=sources
 - pkg:maven/com.google.errorprone/javac@1.9.0-dev-r2973-2
 - pkg:maven/com.google.errorprone/javac@1.9.0-dev-r2973-2?classifier=sources
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-1
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-1-shaded
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-1-shaded?classifier=sources
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-1?classifier=sources
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-2
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-2?classifier=sources
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-3
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-3?classifier=sources
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-4
+- pkg:maven/com.google.errorprone/javac@9-dev-r3297-4?classifier=sources
+- pkg:maven/com.google.errorprone/javac@9-dev-r4023-1
+- pkg:maven/com.google.errorprone/javac@9-dev-r4023-1?classifier=sources
+- pkg:maven/com.google.errorprone/javac@9-dev-r4023-2
+- pkg:maven/com.google.errorprone/javac@9-dev-r4023-2?classifier=sources

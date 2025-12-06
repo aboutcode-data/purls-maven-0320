@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.akka/akka-stream-azure-storage-queue_2.11@0.9
+- pkg:maven/com.lightbend.akka/akka-stream-azure-storage-queue_2.11@0.9?classifier=sources

@@ -3,3 +3,7 @@
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-boot-feature@3.0.0-b2015061001?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-boot-feature@3.0.0-b2015091801?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-boot-feature@3.0.0-b2015110601?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-boot-feature@3.2.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-boot-feature@3.3.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-boot-feature@3.3.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-boot-feature@3.3.2-02?classifier=sources

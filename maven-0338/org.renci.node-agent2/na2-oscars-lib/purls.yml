@@ -1,0 +1,2 @@
+- pkg:maven/org.renci.node-agent2/na2-oscars-lib@0.7.0
+- pkg:maven/org.renci.node-agent2/na2-oscars-lib@0.7.0?classifier=sources

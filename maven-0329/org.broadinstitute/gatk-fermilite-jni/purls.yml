@@ -1,0 +1,2 @@
+- pkg:maven/org.broadinstitute/gatk-fermilite-jni@1.0.0
+- pkg:maven/org.broadinstitute/gatk-fermilite-jni@1.0.0?classifier=sources

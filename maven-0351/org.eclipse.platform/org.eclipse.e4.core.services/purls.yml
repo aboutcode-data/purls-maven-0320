@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.0.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.0.100?classifier=sources

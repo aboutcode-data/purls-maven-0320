@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.ws.xmlschema/xmlschema@2.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.ws.xmlschema/xmlschema@2.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.ws.xmlschema/xmlschema@2.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.ws.xmlschema/xmlschema@2.2.2?classifier=source-release&type=zip

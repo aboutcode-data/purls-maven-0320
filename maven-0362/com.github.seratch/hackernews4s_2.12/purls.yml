@@ -1,0 +1,2 @@
+- pkg:maven/com.github.seratch/hackernews4s_2.12@0.6.1
+- pkg:maven/com.github.seratch/hackernews4s_2.12@0.6.1?classifier=sources

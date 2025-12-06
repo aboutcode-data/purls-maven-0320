@@ -1,0 +1,2 @@
+- pkg:maven/org.derive4j/derive4j-fj@0.1
+- pkg:maven/org.derive4j/derive4j-fj@0.1?classifier=sources

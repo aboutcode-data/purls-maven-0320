@@ -1,0 +1,6 @@
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-13
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-13?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-14
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-14?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-15
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-15?classifier=sources

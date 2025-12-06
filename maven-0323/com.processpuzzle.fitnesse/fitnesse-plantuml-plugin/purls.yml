@@ -1,0 +1,2 @@
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-plantuml-plugin@1.0.2
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-plantuml-plugin@1.0.2?classifier=sources

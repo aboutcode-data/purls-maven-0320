@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/perfect-scrollbar@0.6.11?classifier=sources
 - pkg:maven/org.webjars.npm/perfect-scrollbar@0.6.12
 - pkg:maven/org.webjars.npm/perfect-scrollbar@0.6.12?classifier=sources
+- pkg:maven/org.webjars.npm/perfect-scrollbar@0.7.0
+- pkg:maven/org.webjars.npm/perfect-scrollbar@0.7.0?classifier=sources

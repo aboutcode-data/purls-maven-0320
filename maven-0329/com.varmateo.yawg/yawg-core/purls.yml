@@ -1,0 +1,2 @@
+- pkg:maven/com.varmateo.yawg/yawg-core@0.9.6
+- pkg:maven/com.varmateo.yawg/yawg-core@0.9.6?classifier=sources

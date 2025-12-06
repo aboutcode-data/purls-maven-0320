@@ -26,3 +26,5 @@
 - pkg:maven/org.hawkular.agent/prometheus-scraper@0.21.0.Final?classifier=sources
 - pkg:maven/org.hawkular.agent/prometheus-scraper@0.22.0.Final
 - pkg:maven/org.hawkular.agent/prometheus-scraper@0.22.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/prometheus-scraper@0.23.0.Final
+- pkg:maven/org.hawkular.agent/prometheus-scraper@0.23.0.Final?classifier=sources

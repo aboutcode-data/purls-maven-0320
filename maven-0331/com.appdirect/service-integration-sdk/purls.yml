@@ -1,0 +1,2 @@
+- pkg:maven/com.appdirect/service-integration-sdk@1.24
+- pkg:maven/com.appdirect/service-integration-sdk@1.24?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.207
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.207?classifier=sources
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.208
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.208?classifier=sources
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.209
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.209?classifier=sources
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.210
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.210?classifier=sources
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.211
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.211?classifier=sources
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.212
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.212?classifier=sources
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.213
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.213?classifier=sources
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.215
+- pkg:maven/io.fabric8/jaxrs-utils@2.2.215?classifier=sources

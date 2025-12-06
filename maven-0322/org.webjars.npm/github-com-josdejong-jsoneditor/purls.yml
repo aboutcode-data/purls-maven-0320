@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-josdejong-jsoneditor@5.5.10
+- pkg:maven/org.webjars.npm/github-com-josdejong-jsoneditor@5.5.10?classifier=sources

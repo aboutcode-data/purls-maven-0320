@@ -1,0 +1,2 @@
+- pkg:maven/com.github.arteam/dropwizard-http2-client@0.2
+- pkg:maven/com.github.arteam/dropwizard-http2-client@0.2?classifier=sources

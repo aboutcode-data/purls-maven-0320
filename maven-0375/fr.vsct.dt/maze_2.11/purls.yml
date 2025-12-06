@@ -1,0 +1,2 @@
+- pkg:maven/fr.vsct.dt/maze_2.11@1.0.16
+- pkg:maven/fr.vsct.dt/maze_2.11@1.0.16?classifier=sources

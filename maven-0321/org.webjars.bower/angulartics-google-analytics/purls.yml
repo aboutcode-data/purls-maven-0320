@@ -6,3 +6,7 @@
 - pkg:maven/org.webjars.bower/angulartics-google-analytics@0.1.4?classifier=sources
 - pkg:maven/org.webjars.bower/angulartics-google-analytics@0.2.1
 - pkg:maven/org.webjars.bower/angulartics-google-analytics@0.2.1?classifier=sources
+- pkg:maven/org.webjars.bower/angulartics-google-analytics@0.3.0
+- pkg:maven/org.webjars.bower/angulartics-google-analytics@0.3.0?classifier=sources
+- pkg:maven/org.webjars.bower/angulartics-google-analytics@0.4.0
+- pkg:maven/org.webjars.bower/angulartics-google-analytics@0.4.0?classifier=sources

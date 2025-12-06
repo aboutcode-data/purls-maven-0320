@@ -1,0 +1,2 @@
+- pkg:maven/com.datomic/clj-client@0.8.606
+- pkg:maven/com.datomic/clj-client@0.8.606?classifier=sources

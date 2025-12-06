@@ -52,6 +52,8 @@
 - pkg:maven/com.addhen.android/raiburari@2.19.0?type=aar
 - pkg:maven/com.addhen.android/raiburari@2.2.0?classifier=sources
 - pkg:maven/com.addhen.android/raiburari@2.2.0?type=aar
+- pkg:maven/com.addhen.android/raiburari@2.20.0?classifier=sources
+- pkg:maven/com.addhen.android/raiburari@2.20.0?type=aar
 - pkg:maven/com.addhen.android/raiburari@2.3.0?classifier=sources
 - pkg:maven/com.addhen.android/raiburari@2.3.0?type=aar
 - pkg:maven/com.addhen.android/raiburari@2.3.1?classifier=sources
@@ -70,3 +72,11 @@
 - pkg:maven/com.addhen.android/raiburari@2.8.0?type=aar
 - pkg:maven/com.addhen.android/raiburari@2.9.0?classifier=sources
 - pkg:maven/com.addhen.android/raiburari@2.9.0?type=aar
+- pkg:maven/com.addhen.android/raiburari@3.0.0?classifier=sources
+- pkg:maven/com.addhen.android/raiburari@3.0.0?type=aar
+- pkg:maven/com.addhen.android/raiburari@3.0.1?classifier=sources
+- pkg:maven/com.addhen.android/raiburari@3.0.1?type=aar
+- pkg:maven/com.addhen.android/raiburari@3.0.2?classifier=sources
+- pkg:maven/com.addhen.android/raiburari@3.0.2?type=aar
+- pkg:maven/com.addhen.android/raiburari@3.0.3?classifier=sources
+- pkg:maven/com.addhen.android/raiburari@3.0.3?type=aar

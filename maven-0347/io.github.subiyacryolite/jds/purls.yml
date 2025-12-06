@@ -1,0 +1,14 @@
+- pkg:maven/io.github.subiyacryolite/jds@1.170402
+- pkg:maven/io.github.subiyacryolite/jds@1.170402?classifier=sources
+- pkg:maven/io.github.subiyacryolite/jds@1.170405
+- pkg:maven/io.github.subiyacryolite/jds@1.170405?classifier=sources
+- pkg:maven/io.github.subiyacryolite/jds@1.170414
+- pkg:maven/io.github.subiyacryolite/jds@1.170414?classifier=sources
+- pkg:maven/io.github.subiyacryolite/jds@1.170511
+- pkg:maven/io.github.subiyacryolite/jds@1.170511?classifier=sources
+- pkg:maven/io.github.subiyacryolite/jds@1.170514
+- pkg:maven/io.github.subiyacryolite/jds@1.170514?classifier=sources
+- pkg:maven/io.github.subiyacryolite/jds@1.170531
+- pkg:maven/io.github.subiyacryolite/jds@1.170531?classifier=sources
+- pkg:maven/io.github.subiyacryolite/jds@1.170531b
+- pkg:maven/io.github.subiyacryolite/jds@1.170531b?classifier=sources

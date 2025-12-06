@@ -1,0 +1,2 @@
+- pkg:maven/com.github.b3er/rxfirebase-auth-kotlin@10.1.0?classifier=sources
+- pkg:maven/com.github.b3er/rxfirebase-auth-kotlin@10.1.0?type=aar

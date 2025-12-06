@@ -1,0 +1,2 @@
+- pkg:maven/com.diozero/diozero-provider-bbbiolib@0.10
+- pkg:maven/com.diozero/diozero-provider-bbbiolib@0.10?classifier=sources

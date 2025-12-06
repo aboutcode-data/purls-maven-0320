@@ -6,3 +6,5 @@
 - pkg:maven/de.bluebiz.bluelytics/bluelytics-api@0.8.53?classifier=sources
 - pkg:maven/de.bluebiz.bluelytics/bluelytics-api@0.8.54
 - pkg:maven/de.bluebiz.bluelytics/bluelytics-api@0.8.54?classifier=sources
+- pkg:maven/de.bluebiz.bluelytics/bluelytics-api@0.8.56
+- pkg:maven/de.bluebiz.bluelytics/bluelytics-api@0.8.56?classifier=sources

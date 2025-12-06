@@ -10,3 +10,5 @@
 - pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.3?type=aar
 - pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.4?classifier=sources
 - pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.4?type=aar
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.5?type=aar
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.6?type=aar

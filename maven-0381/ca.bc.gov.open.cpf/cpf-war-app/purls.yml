@@ -1,2 +1,12 @@
 - pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.0-RELEASE?classifier=sources
 - pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.0-RELEASE?type=war
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.1-RELEASE?classifier=sources
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.1-RELEASE?type=war
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.2-RELEASE?classifier=sources
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.2-RELEASE?type=war
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.3-RELEASE?classifier=sources
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.3-RELEASE?type=war
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.4-RELEASE?classifier=sources
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.4-RELEASE?type=war
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.5-RELEASE?classifier=sources
+- pkg:maven/ca.bc.gov.open.cpf/cpf-war-app@5.0.5-RELEASE?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.alexsimo.rxjava2firebase/authentication@0.0.1?classifier=sources
+- pkg:maven/com.alexsimo.rxjava2firebase/authentication@0.0.1?type=aar

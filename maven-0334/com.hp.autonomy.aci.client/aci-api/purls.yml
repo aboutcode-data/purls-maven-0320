@@ -1,2 +1,4 @@
 - pkg:maven/com.hp.autonomy.aci.client/aci-api@5.0.0
 - pkg:maven/com.hp.autonomy.aci.client/aci-api@5.0.0?classifier=sources
+- pkg:maven/com.hp.autonomy.aci.client/aci-api@5.0.1
+- pkg:maven/com.hp.autonomy.aci.client/aci-api@5.0.1?classifier=sources

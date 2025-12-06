@@ -1,0 +1,2 @@
+- pkg:maven/vn.tiki.ab/abtesting@1.0.2?classifier=sources
+- pkg:maven/vn.tiki.ab/abtesting@1.0.2?type=aar

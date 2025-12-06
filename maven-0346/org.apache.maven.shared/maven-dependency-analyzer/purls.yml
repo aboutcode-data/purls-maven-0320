@@ -21,3 +21,6 @@
 - pkg:maven/org.apache.maven.shared/maven-dependency-analyzer@1.6
 - pkg:maven/org.apache.maven.shared/maven-dependency-analyzer@1.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.shared/maven-dependency-analyzer@1.6?classifier=sources
+- pkg:maven/org.apache.maven.shared/maven-dependency-analyzer@1.7
+- pkg:maven/org.apache.maven.shared/maven-dependency-analyzer@1.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-dependency-analyzer@1.7?classifier=sources

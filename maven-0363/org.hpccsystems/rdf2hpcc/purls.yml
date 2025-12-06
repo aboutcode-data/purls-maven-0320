@@ -1,0 +1,2 @@
+- pkg:maven/org.hpccsystems/rdf2hpcc@1.0.0
+- pkg:maven/org.hpccsystems/rdf2hpcc@1.0.0?classifier=sources

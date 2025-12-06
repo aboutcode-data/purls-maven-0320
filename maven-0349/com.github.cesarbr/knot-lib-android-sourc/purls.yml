@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cesarbr/knot-lib-android-sourc@KNOT-v01.00?classifier=sources
+- pkg:maven/com.github.cesarbr/knot-lib-android-sourc@KNOT-v01.00?type=aar

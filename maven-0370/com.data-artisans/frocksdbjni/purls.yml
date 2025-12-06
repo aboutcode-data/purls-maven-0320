@@ -1,0 +1,2 @@
+- pkg:maven/com.data-artisans/frocksdbjni@4.11.2-artisans
+- pkg:maven/com.data-artisans/frocksdbjni@4.11.2-artisans?classifier=sources

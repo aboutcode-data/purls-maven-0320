@@ -4,3 +4,7 @@
 - pkg:maven/pw.stamina/mandate@2.1.0?classifier=sources
 - pkg:maven/pw.stamina/mandate@2.2.0
 - pkg:maven/pw.stamina/mandate@2.2.0?classifier=sources
+- pkg:maven/pw.stamina/mandate@3.0.0
+- pkg:maven/pw.stamina/mandate@3.0.0?classifier=sources
+- pkg:maven/pw.stamina/mandate@3.0.1
+- pkg:maven/pw.stamina/mandate@3.0.1?classifier=sources

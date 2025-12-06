@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-SheetJS-js-xlsx@v0.9.10
+- pkg:maven/org.webjars.bower/github-com-SheetJS-js-xlsx@v0.9.10?classifier=sources

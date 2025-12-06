@@ -1,3 +1,7 @@
 - pkg:maven/org.opensourcebim/console@0.0.1
+- pkg:maven/org.opensourcebim/console@0.0.10
 - pkg:maven/org.opensourcebim/console@0.0.2
 - pkg:maven/org.opensourcebim/console@0.0.3
+- pkg:maven/org.opensourcebim/console@0.0.4
+- pkg:maven/org.opensourcebim/console@0.0.7
+- pkg:maven/org.opensourcebim/console@0.0.8

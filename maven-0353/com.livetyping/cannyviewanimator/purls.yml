@@ -1,2 +1,4 @@
 - pkg:maven/com.livetyping/cannyviewanimator@0.8?classifier=sources
 - pkg:maven/com.livetyping/cannyviewanimator@0.8?type=aar
+- pkg:maven/com.livetyping/cannyviewanimator@0.9-beta?classifier=sources
+- pkg:maven/com.livetyping/cannyviewanimator@0.9-beta?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.postgresql.dbdefinition@1.0.2.v201110070445
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.postgresql.dbdefinition@1.0.2.v201110070445?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.postgresql.dbdefinition@1.1.0.201603142002
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.postgresql.dbdefinition@1.1.0.201603142002?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.ctakes/ctakes-ytex-web@3.2.1?type=war
 - pkg:maven/org.apache.ctakes/ctakes-ytex-web@3.2.2?classifier=sources
 - pkg:maven/org.apache.ctakes/ctakes-ytex-web@3.2.2?type=war
+- pkg:maven/org.apache.ctakes/ctakes-ytex-web@4.0.0?classifier=sources
+- pkg:maven/org.apache.ctakes/ctakes-ytex-web@4.0.0?type=war

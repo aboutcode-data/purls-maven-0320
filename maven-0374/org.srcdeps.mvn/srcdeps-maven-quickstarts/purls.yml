@@ -1,0 +1,5 @@
+- pkg:maven/org.srcdeps.mvn/srcdeps-maven-quickstarts@2.0.3?classifier=sources
+- pkg:maven/org.srcdeps.mvn/srcdeps-maven-quickstarts@2.1.0?classifier=sources
+- pkg:maven/org.srcdeps.mvn/srcdeps-maven-quickstarts@3.0.0?classifier=sources
+- pkg:maven/org.srcdeps.mvn/srcdeps-maven-quickstarts@3.0.1?classifier=sources
+- pkg:maven/org.srcdeps.mvn/srcdeps-maven-quickstarts@3.1.0?classifier=sources

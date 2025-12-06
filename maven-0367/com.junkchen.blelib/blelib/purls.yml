@@ -12,3 +12,5 @@
 - pkg:maven/com.junkchen.blelib/blelib@1.2.2?type=aar
 - pkg:maven/com.junkchen.blelib/blelib@1.2.3?classifier=sources
 - pkg:maven/com.junkchen.blelib/blelib@1.2.3?type=aar
+- pkg:maven/com.junkchen.blelib/blelib@1.2.4?classifier=sources
+- pkg:maven/com.junkchen.blelib/blelib@1.2.4?type=aar

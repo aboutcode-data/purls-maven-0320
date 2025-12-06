@@ -20,5 +20,7 @@
 - pkg:maven/net.objecthunter/exp4j@0.4.6?classifier=sources
 - pkg:maven/net.objecthunter/exp4j@0.4.7
 - pkg:maven/net.objecthunter/exp4j@0.4.7?classifier=sources
+- pkg:maven/net.objecthunter/exp4j@0.4.8
+- pkg:maven/net.objecthunter/exp4j@0.4.8?classifier=sources
 - pkg:maven/net.objecthunter/exp4j@exp4j-0.4.3.BETA-1
 - pkg:maven/net.objecthunter/exp4j@exp4j-0.4.3.BETA-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.demoiselle.jee/demoiselle-multitenancy-hibernate@3.0.0-BETA3
+- pkg:maven/org.demoiselle.jee/demoiselle-multitenancy-hibernate@3.0.0-BETA3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/three-buffer-vertex-data@1.0.0
+- pkg:maven/org.webjars.npm/three-buffer-vertex-data@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/three-buffer-vertex-data@1.1.0
+- pkg:maven/org.webjars.npm/three-buffer-vertex-data@1.1.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.icfolson.aem.harbor/harbor-ui@1.0.0?type=zip
+- pkg:maven/com.icfolson.aem.harbor/harbor-ui@1.0.1?type=zip
+- pkg:maven/com.icfolson.aem.harbor/harbor-ui@1.0.2?type=zip
+- pkg:maven/com.icfolson.aem.harbor/harbor-ui@1.0.3?type=zip
+- pkg:maven/com.icfolson.aem.harbor/harbor-ui@1.0.4?type=zip

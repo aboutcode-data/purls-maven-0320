@@ -1,2 +1,6 @@
 - pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin@1.0.0
 - pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin@1.0.1-hibernate-5.1.2.Final
+- pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin@1.0.1-hibernate-5.1.2.Final?classifier=sources
+- pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin@1.0.1-hibernate-5.2.4.Final
+- pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin@1.0.1-hibernate-5.2.4.Final?classifier=sources

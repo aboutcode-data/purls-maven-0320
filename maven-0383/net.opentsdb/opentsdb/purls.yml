@@ -6,7 +6,11 @@
 - pkg:maven/net.opentsdb/opentsdb@2.2.0RC1?classifier=sources
 - pkg:maven/net.opentsdb/opentsdb@2.2.1
 - pkg:maven/net.opentsdb/opentsdb@2.2.1?classifier=sources
+- pkg:maven/net.opentsdb/opentsdb@2.2.2
+- pkg:maven/net.opentsdb/opentsdb@2.2.2?classifier=sources
+- pkg:maven/net.opentsdb/opentsdb@2.3.0
 - pkg:maven/net.opentsdb/opentsdb@2.3.0-RC1
 - pkg:maven/net.opentsdb/opentsdb@2.3.0-RC1?classifier=sources
 - pkg:maven/net.opentsdb/opentsdb@2.3.0-RC2
 - pkg:maven/net.opentsdb/opentsdb@2.3.0-RC2?classifier=sources
+- pkg:maven/net.opentsdb/opentsdb@2.3.0?classifier=sources

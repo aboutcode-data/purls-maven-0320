@@ -1,0 +1,6 @@
+- pkg:maven/com.barista-v/debug-artist@0.5.10?classifier=sources
+- pkg:maven/com.barista-v/debug-artist@0.5.10?type=aar
+- pkg:maven/com.barista-v/debug-artist@0.5.11?classifier=sources
+- pkg:maven/com.barista-v/debug-artist@0.5.11?type=aar
+- pkg:maven/com.barista-v/debug-artist@0.5.9?classifier=sources
+- pkg:maven/com.barista-v/debug-artist@0.5.9?type=aar

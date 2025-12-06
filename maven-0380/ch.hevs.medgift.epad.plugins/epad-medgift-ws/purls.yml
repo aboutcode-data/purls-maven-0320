@@ -1,0 +1,2 @@
+- pkg:maven/ch.hevs.medgift.epad.plugins/epad-medgift-ws@1.0
+- pkg:maven/ch.hevs.medgift.epad.plugins/epad-medgift-ws@1.0?classifier=sources

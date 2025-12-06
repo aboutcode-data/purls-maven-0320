@@ -1,0 +1,2 @@
+- pkg:maven/com.aerse/ar@2.4
+- pkg:maven/com.aerse/ar@2.4?classifier=sources

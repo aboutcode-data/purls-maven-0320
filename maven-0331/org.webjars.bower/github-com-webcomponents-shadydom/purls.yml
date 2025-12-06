@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-webcomponents-shadydom@v1.0.0
+- pkg:maven/org.webjars.bower/github-com-webcomponents-shadydom@v1.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.obdobion/algebrain@2.1.1?classifier=sources
 - pkg:maven/com.obdobion/algebrain@2.2.1
 - pkg:maven/com.obdobion/algebrain@2.2.1?classifier=sources
+- pkg:maven/com.obdobion/algebrain@2.2.3
+- pkg:maven/com.obdobion/algebrain@2.2.3?classifier=sources

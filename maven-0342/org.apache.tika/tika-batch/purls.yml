@@ -6,6 +6,10 @@
 - pkg:maven/org.apache.tika/tika-batch@1.12?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.13
 - pkg:maven/org.apache.tika/tika-batch@1.13?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@1.14
+- pkg:maven/org.apache.tika/tika-batch@1.14?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@1.15
+- pkg:maven/org.apache.tika/tika-batch@1.15?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.8
 - pkg:maven/org.apache.tika/tika-batch@1.8?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.9

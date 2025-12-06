@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/videojs-contrib-hls@3.6.7
+- pkg:maven/org.webjars.bower/videojs-contrib-hls@3.6.7?classifier=sources

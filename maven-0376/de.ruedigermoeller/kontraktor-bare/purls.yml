@@ -34,3 +34,9 @@
 - pkg:maven/de.ruedigermoeller/kontraktor-bare@3.24?classifier=sources
 - pkg:maven/de.ruedigermoeller/kontraktor-bare@3.26
 - pkg:maven/de.ruedigermoeller/kontraktor-bare@3.26?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor-bare@3.31
+- pkg:maven/de.ruedigermoeller/kontraktor-bare@3.31?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor-bare@3.32
+- pkg:maven/de.ruedigermoeller/kontraktor-bare@3.32?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor-bare@3.33
+- pkg:maven/de.ruedigermoeller/kontraktor-bare@3.33?classifier=sources

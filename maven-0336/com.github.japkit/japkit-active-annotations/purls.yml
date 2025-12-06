@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japkit/japkit-active-annotations@1.12
+- pkg:maven/com.github.japkit/japkit-active-annotations@1.12?classifier=sources

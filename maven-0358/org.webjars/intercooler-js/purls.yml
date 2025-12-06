@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars/intercooler-js@0.4.10
 - pkg:maven/org.webjars/intercooler-js@0.9.4
 - pkg:maven/org.webjars/intercooler-js@0.9.7
+- pkg:maven/org.webjars/intercooler-js@1.0.3

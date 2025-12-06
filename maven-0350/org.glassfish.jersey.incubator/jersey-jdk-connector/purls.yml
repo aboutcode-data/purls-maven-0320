@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.incubator/jersey-jdk-connector@2.26-b04
+- pkg:maven/org.glassfish.jersey.incubator/jersey-jdk-connector@2.26-b04?classifier=sources

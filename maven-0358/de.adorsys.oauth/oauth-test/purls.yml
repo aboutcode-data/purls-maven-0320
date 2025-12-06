@@ -30,3 +30,11 @@
 - pkg:maven/de.adorsys.oauth/oauth-test@0.25?type=war
 - pkg:maven/de.adorsys.oauth/oauth-test@0.26?classifier=sources
 - pkg:maven/de.adorsys.oauth/oauth-test@0.26?type=war
+- pkg:maven/de.adorsys.oauth/oauth-test@0.27?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-test@0.27?type=war
+- pkg:maven/de.adorsys.oauth/oauth-test@0.28?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-test@0.28?type=war
+- pkg:maven/de.adorsys.oauth/oauth-test@0.30?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-test@0.30?type=war
+- pkg:maven/de.adorsys.oauth/oauth-test@0.31?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-test@0.31?type=war

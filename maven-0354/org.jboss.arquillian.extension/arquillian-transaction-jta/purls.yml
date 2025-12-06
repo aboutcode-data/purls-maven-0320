@@ -10,3 +10,5 @@
 - pkg:maven/org.jboss.arquillian.extension/arquillian-transaction-jta@1.0.2.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.extension/arquillian-transaction-jta@1.0.3.Final
 - pkg:maven/org.jboss.arquillian.extension/arquillian-transaction-jta@1.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.extension/arquillian-transaction-jta@1.0.4
+- pkg:maven/org.jboss.arquillian.extension/arquillian-transaction-jta@1.0.4?classifier=sources

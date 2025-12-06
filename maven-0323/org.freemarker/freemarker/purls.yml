@@ -30,5 +30,7 @@
 - pkg:maven/org.freemarker/freemarker@2.3.24-incubating?classifier=sources
 - pkg:maven/org.freemarker/freemarker@2.3.25-incubating
 - pkg:maven/org.freemarker/freemarker@2.3.25-incubating?classifier=sources
+- pkg:maven/org.freemarker/freemarker@2.3.26-incubating
+- pkg:maven/org.freemarker/freemarker@2.3.26-incubating?classifier=sources
 - pkg:maven/org.freemarker/freemarker@2.3.9
 - pkg:maven/org.freemarker/freemarker@2.3.9?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/de.grobmeier.json/jjson@0.1.2?classifier=sources
 - pkg:maven/de.grobmeier.json/jjson@0.1.4
 - pkg:maven/de.grobmeier.json/jjson@0.1.4?classifier=sources
+- pkg:maven/de.grobmeier.json/jjson@0.1.7
+- pkg:maven/de.grobmeier.json/jjson@0.1.7?classifier=sources

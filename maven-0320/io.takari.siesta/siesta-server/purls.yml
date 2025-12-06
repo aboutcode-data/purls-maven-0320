@@ -1,0 +1,2 @@
+- pkg:maven/io.takari.siesta/siesta-server@2.2.1
+- pkg:maven/io.takari.siesta/siesta-server@2.2.1?classifier=sources

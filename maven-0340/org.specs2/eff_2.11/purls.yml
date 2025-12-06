@@ -1,0 +1,2 @@
+- pkg:maven/org.specs2/eff_2.11@1.0.0-20151225021532-c7e405b
+- pkg:maven/org.specs2/eff_2.11@1.0.0-20151225021532-c7e405b?classifier=sources

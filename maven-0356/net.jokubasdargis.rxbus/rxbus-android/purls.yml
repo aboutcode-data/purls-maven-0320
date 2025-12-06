@@ -1,0 +1,4 @@
+- pkg:maven/net.jokubasdargis.rxbus/rxbus-android@1.1.2?classifier=sources
+- pkg:maven/net.jokubasdargis.rxbus/rxbus-android@1.1.2?type=aar
+- pkg:maven/net.jokubasdargis.rxbus/rxbus-android@1.2.0?classifier=sources
+- pkg:maven/net.jokubasdargis.rxbus/rxbus-android@1.2.0?type=aar

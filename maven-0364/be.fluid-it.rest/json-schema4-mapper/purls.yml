@@ -1,0 +1,2 @@
+- pkg:maven/be.fluid-it.rest/json-schema4-mapper@0.1-1
+- pkg:maven/be.fluid-it.rest/json-schema4-mapper@0.1-1?classifier=sources

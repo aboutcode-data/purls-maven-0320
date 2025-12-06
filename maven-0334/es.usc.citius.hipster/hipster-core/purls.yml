@@ -1,4 +1,8 @@
+- pkg:maven/es.usc.citius.hipster/hipster-core@1.0.0
 - pkg:maven/es.usc.citius.hipster/hipster-core@1.0.0-rc1
 - pkg:maven/es.usc.citius.hipster/hipster-core@1.0.0-rc1?classifier=sources
 - pkg:maven/es.usc.citius.hipster/hipster-core@1.0.0-rc2
 - pkg:maven/es.usc.citius.hipster/hipster-core@1.0.0-rc2?classifier=sources
+- pkg:maven/es.usc.citius.hipster/hipster-core@1.0.0?classifier=sources
+- pkg:maven/es.usc.citius.hipster/hipster-core@1.0.1
+- pkg:maven/es.usc.citius.hipster/hipster-core@1.0.1?classifier=sources

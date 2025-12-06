@@ -27,3 +27,5 @@
 - pkg:maven/com.balysv.materialmenu/material-menu-abs@1.5.2?type=aar
 - pkg:maven/com.balysv.materialmenu/material-menu-abs@1.5.3?type=aar
 - pkg:maven/com.balysv.materialmenu/material-menu-abs@1.5.4?type=aar
+- pkg:maven/com.balysv.materialmenu/material-menu-abs@1.5.5?classifier=sources
+- pkg:maven/com.balysv.materialmenu/material-menu-abs@1.5.5?type=aar

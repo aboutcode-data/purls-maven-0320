@@ -4,3 +4,5 @@
 - pkg:maven/io.apigee.trireme/trireme-war-sample@0.8.7?type=war
 - pkg:maven/io.apigee.trireme/trireme-war-sample@0.8.8?classifier=sources
 - pkg:maven/io.apigee.trireme/trireme-war-sample@0.8.8?type=war
+- pkg:maven/io.apigee.trireme/trireme-war-sample@0.8.9?classifier=sources
+- pkg:maven/io.apigee.trireme/trireme-war-sample@0.8.9?type=war

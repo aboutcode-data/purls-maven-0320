@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.equinox.registry@3.6.0.v20150318-1503
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.equinox.registry@3.6.0.v20150318-1503?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.equinox.registry@3.6.100.v20160223-2218
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.equinox.registry@3.6.100.v20160223-2218?classifier=sources

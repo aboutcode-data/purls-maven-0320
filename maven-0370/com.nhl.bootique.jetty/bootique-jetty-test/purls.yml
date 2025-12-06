@@ -1,0 +1,8 @@
+- pkg:maven/com.nhl.bootique.jetty/bootique-jetty-test@0.13
+- pkg:maven/com.nhl.bootique.jetty/bootique-jetty-test@0.13?classifier=sources
+- pkg:maven/com.nhl.bootique.jetty/bootique-jetty-test@0.14
+- pkg:maven/com.nhl.bootique.jetty/bootique-jetty-test@0.14?classifier=sources
+- pkg:maven/com.nhl.bootique.jetty/bootique-jetty-test@0.15
+- pkg:maven/com.nhl.bootique.jetty/bootique-jetty-test@0.15?classifier=sources
+- pkg:maven/com.nhl.bootique.jetty/bootique-jetty-test@0.16
+- pkg:maven/com.nhl.bootique.jetty/bootique-jetty-test@0.16?classifier=sources

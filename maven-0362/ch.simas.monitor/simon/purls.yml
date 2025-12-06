@@ -1,0 +1,2 @@
+- pkg:maven/ch.simas.monitor/simon@2.0.1
+- pkg:maven/ch.simas.monitor/simon@2.0.1?classifier=sources

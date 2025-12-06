@@ -1,0 +1,2 @@
+- pkg:maven/com.androidzeitgeist.android-network-intents/android-network-intents@1.0.0?classifier=sources
+- pkg:maven/com.androidzeitgeist.android-network-intents/android-network-intents@1.0.0?type=aar

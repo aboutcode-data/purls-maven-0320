@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.bower/angular-bootstrap-confirm@0.7.0
+- pkg:maven/org.webjars.bower/angular-bootstrap-confirm@0.7.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-bootstrap-confirm@1.0.1
+- pkg:maven/org.webjars.bower/angular-bootstrap-confirm@1.0.1?classifier=sources
+- pkg:maven/org.webjars.bower/angular-bootstrap-confirm@2.0.0
+- pkg:maven/org.webjars.bower/angular-bootstrap-confirm@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-bootstrap-confirm@2.3.0
+- pkg:maven/org.webjars.bower/angular-bootstrap-confirm@2.3.0?classifier=sources

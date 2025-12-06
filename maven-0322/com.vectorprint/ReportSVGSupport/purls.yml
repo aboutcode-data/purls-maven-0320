@@ -26,3 +26,17 @@
 - pkg:maven/com.vectorprint/ReportSVGSupport@7.1?classifier=sources
 - pkg:maven/com.vectorprint/ReportSVGSupport@7.2
 - pkg:maven/com.vectorprint/ReportSVGSupport@7.2?classifier=sources
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.0
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.0?classifier=sources
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.1
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.10
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.10?classifier=sources
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.1?classifier=sources
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.7
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.7?classifier=sources
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.9
+- pkg:maven/com.vectorprint/ReportSVGSupport@8.9?classifier=sources
+- pkg:maven/com.vectorprint/ReportSVGSupport@9.1
+- pkg:maven/com.vectorprint/ReportSVGSupport@9.1?classifier=sources
+- pkg:maven/com.vectorprint/ReportSVGSupport@9.2
+- pkg:maven/com.vectorprint/ReportSVGSupport@9.2?classifier=sources

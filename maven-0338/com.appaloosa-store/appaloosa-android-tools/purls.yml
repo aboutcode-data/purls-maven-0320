@@ -24,3 +24,4 @@
 - pkg:maven/com.appaloosa-store/appaloosa-android-tools@0.3.2?classifier=sources
 - pkg:maven/com.appaloosa-store/appaloosa-android-tools@0.3.3
 - pkg:maven/com.appaloosa-store/appaloosa-android-tools@0.3.3?classifier=sources
+- pkg:maven/com.appaloosa-store/appaloosa-android-tools@0.3.4?type=aar

@@ -12,3 +12,5 @@
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@1.0.5?classifier=sources
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@1.0.6
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@1.0.6?classifier=sources
+- pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@1.1.0
+- pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@1.1.0?classifier=sources

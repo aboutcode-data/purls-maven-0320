@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.arrow/arrow-java-root@0.1.0?classifier=source-release&type=zip

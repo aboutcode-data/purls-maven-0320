@@ -1,0 +1,4 @@
+- pkg:maven/org.thriftee/thriftee-examples-war@0.4.0?classifier=sources
+- pkg:maven/org.thriftee/thriftee-examples-war@0.4.0?type=war
+- pkg:maven/org.thriftee/thriftee-examples-war@0.5.0?classifier=sources
+- pkg:maven/org.thriftee/thriftee-examples-war@0.5.0?type=war

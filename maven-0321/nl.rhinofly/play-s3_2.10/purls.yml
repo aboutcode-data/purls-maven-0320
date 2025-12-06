@@ -1,0 +1,2 @@
+- pkg:maven/nl.rhinofly/play-s3_2.10@6.0.0
+- pkg:maven/nl.rhinofly/play-s3_2.10@6.0.0?classifier=sources

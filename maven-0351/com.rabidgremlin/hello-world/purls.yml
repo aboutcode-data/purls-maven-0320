@@ -1,0 +1,2 @@
+- pkg:maven/com.rabidgremlin/hello-world@1.0.0
+- pkg:maven/com.rabidgremlin/hello-world@1.0.0?classifier=sources

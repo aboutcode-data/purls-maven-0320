@@ -1,0 +1,2 @@
+- pkg:maven/com.connexta.arbitro.samples.image.filtering/image-filtering-sample@1.0.0
+- pkg:maven/com.connexta.arbitro.samples.image.filtering/image-filtering-sample@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gyntools/gyntools-rest@0.1.0
+- pkg:maven/com.github.gyntools/gyntools-rest@0.1.0?classifier=sources

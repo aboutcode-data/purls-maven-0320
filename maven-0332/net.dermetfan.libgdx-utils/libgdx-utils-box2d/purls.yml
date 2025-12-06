@@ -12,6 +12,10 @@
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.13.0?classifier=sources
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.13.1
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.13.1?classifier=sources
+- pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.13.2
+- pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.13.2?classifier=sources
+- pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.13.3
+- pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.13.3?classifier=sources
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.3.4
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.3.4?classifier=sources
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils-box2d@0.4.0

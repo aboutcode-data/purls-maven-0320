@@ -1,0 +1,4 @@
+- pkg:maven/org.bedework/bw-carddav-dumpres@1.0.4
+- pkg:maven/org.bedework/bw-carddav-dumpres@1.0.4?classifier=sources
+- pkg:maven/org.bedework/bw-carddav-dumpres@4.0.1
+- pkg:maven/org.bedework/bw-carddav-dumpres@4.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.swave/testkit_2.11@0.5-M1
+- pkg:maven/io.swave/testkit_2.11@0.5-M1?classifier=sources

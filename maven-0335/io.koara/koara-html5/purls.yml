@@ -1,0 +1,2 @@
+- pkg:maven/io.koara/koara-html5@0.9.1
+- pkg:maven/io.koara/koara-html5@0.9.1?classifier=sources

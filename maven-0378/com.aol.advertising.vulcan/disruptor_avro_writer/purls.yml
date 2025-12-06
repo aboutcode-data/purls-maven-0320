@@ -1,0 +1,2 @@
+- pkg:maven/com.aol.advertising.vulcan/disruptor_avro_writer@1.1.0
+- pkg:maven/com.aol.advertising.vulcan/disruptor_avro_writer@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pl.allegro.tech/opbox-opel@0.1.0
+- pkg:maven/pl.allegro.tech/opbox-opel@0.1.0?classifier=sources

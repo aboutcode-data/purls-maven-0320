@@ -1,0 +1,4 @@
+- pkg:maven/com.iteblog/flink-elasticsearch2-connector@1.0.1
+- pkg:maven/com.iteblog/flink-elasticsearch2-connector@1.0.1?classifier=sources
+- pkg:maven/com.iteblog/flink-elasticsearch2-connector@1.0.2
+- pkg:maven/com.iteblog/flink-elasticsearch2-connector@1.0.2?classifier=sources

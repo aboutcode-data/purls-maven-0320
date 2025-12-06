@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-button@0.9.1
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-button@0.9.1?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-polymerelements-paper-button@1.0.12
+- pkg:maven/org.webjars.bower/github-com-polymerelements-paper-button@1.0.12?classifier=sources
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-button@1.0.7
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-button@1.0.7?classifier=sources
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-button@1.0.8

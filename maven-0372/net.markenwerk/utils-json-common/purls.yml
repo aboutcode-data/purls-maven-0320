@@ -1,0 +1,6 @@
+- pkg:maven/net.markenwerk/utils-json-common@1.0.0
+- pkg:maven/net.markenwerk/utils-json-common@1.0.0?classifier=sources
+- pkg:maven/net.markenwerk/utils-json-common@2.0.0
+- pkg:maven/net.markenwerk/utils-json-common@2.0.0?classifier=sources
+- pkg:maven/net.markenwerk/utils-json-common@3.0.0
+- pkg:maven/net.markenwerk/utils-json-common@3.0.0?classifier=sources

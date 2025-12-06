@@ -1,0 +1,2 @@
+- pkg:maven/com.tianti/applogger@1.6.2
+- pkg:maven/com.tianti/applogger@1.6.2?classifier=sources

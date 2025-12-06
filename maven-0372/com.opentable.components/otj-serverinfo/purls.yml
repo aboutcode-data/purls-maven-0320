@@ -2,3 +2,5 @@
 - pkg:maven/com.opentable.components/otj-serverinfo@1.6.0?classifier=sources
 - pkg:maven/com.opentable.components/otj-serverinfo@1.7.0
 - pkg:maven/com.opentable.components/otj-serverinfo@1.7.0?classifier=sources
+- pkg:maven/com.opentable.components/otj-serverinfo@1.7.2
+- pkg:maven/com.opentable.components/otj-serverinfo@1.7.2?classifier=sources

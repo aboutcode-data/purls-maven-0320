@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.extras.db_bootstrap/extension-integrator@1.0.5
+- pkg:maven/org.wildfly.extras.db_bootstrap/extension-integrator@1.0.5?classifier=sources

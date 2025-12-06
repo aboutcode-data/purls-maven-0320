@@ -1,0 +1,2 @@
+- pkg:maven/org.mini2Dx/butler@1.0.1
+- pkg:maven/org.mini2Dx/butler@1.0.1?classifier=sources

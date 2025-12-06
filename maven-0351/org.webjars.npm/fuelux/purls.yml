@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/fuelux@3.13.0
+- pkg:maven/org.webjars.npm/fuelux@3.13.0?classifier=sources

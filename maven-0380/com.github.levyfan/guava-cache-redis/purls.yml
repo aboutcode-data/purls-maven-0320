@@ -1,0 +1,2 @@
+- pkg:maven/com.github.levyfan/guava-cache-redis@0.0.2
+- pkg:maven/com.github.levyfan/guava-cache-redis@0.0.2?classifier=sources

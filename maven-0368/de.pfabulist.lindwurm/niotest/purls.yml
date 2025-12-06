@@ -20,3 +20,17 @@
 - pkg:maven/de.pfabulist.lindwurm/niotest@0.28.6?classifier=sources
 - pkg:maven/de.pfabulist.lindwurm/niotest@0.30.1
 - pkg:maven/de.pfabulist.lindwurm/niotest@0.30.1?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32.1
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32.1?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32.2
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32.2?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32.3
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32.3?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32.4
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32.4?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.32?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.33
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.33?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.35
+- pkg:maven/de.pfabulist.lindwurm/niotest@0.35?classifier=sources

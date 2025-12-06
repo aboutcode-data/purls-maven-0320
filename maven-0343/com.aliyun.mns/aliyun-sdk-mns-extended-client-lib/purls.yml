@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.mns/aliyun-sdk-mns-extended-client-lib@0.0.1
+- pkg:maven/com.aliyun.mns/aliyun-sdk-mns-extended-client-lib@0.0.1?classifier=sources

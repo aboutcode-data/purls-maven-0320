@@ -16,3 +16,11 @@
 - pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.0.7?classifier=sources
 - pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.0.8
 - pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.0.8?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.0.9
+- pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.0.9?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.10
+- pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.10?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.11
+- pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.11?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.20
+- pkg:maven/org.pacesys.openstack4j.plugins/openstack4j-log4j@2.20?classifier=sources

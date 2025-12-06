@@ -1,0 +1,2 @@
+- pkg:maven/net.flexmojos.oss/flexmojos-archetypes-mobile-application@7.1.0
+- pkg:maven/net.flexmojos.oss/flexmojos-archetypes-mobile-application@7.1.0?classifier=sources

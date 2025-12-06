@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bettehem.androidtools/androidtools@1.0.10?classifier=sources
+- pkg:maven/com.github.bettehem.androidtools/androidtools@1.0.10?type=aar

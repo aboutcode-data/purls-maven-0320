@@ -1,2 +1,4 @@
 - pkg:maven/org.aksw.rdfunit/rdfunit-manual-tests@0.7.20
 - pkg:maven/org.aksw.rdfunit/rdfunit-manual-tests@0.7.20?classifier=sources
+- pkg:maven/org.aksw.rdfunit/rdfunit-manual-tests@0.8
+- pkg:maven/org.aksw.rdfunit/rdfunit-manual-tests@0.8?classifier=sources

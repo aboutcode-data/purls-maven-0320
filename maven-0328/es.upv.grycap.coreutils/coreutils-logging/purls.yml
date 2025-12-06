@@ -1,0 +1,2 @@
+- pkg:maven/es.upv.grycap.coreutils/coreutils-logging@0.2.0
+- pkg:maven/es.upv.grycap.coreutils/coreutils-logging@0.2.0?classifier=sources

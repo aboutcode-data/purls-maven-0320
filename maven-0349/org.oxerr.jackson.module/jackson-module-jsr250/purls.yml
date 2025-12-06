@@ -1,0 +1,2 @@
+- pkg:maven/org.oxerr.jackson.module/jackson-module-jsr250@0.0.1
+- pkg:maven/org.oxerr.jackson.module/jackson-module-jsr250@0.0.1?classifier=sources

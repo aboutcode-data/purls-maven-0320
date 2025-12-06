@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.archetypes/swarm-camel-rest-archetype@2.2.138?classifier=sources
+- pkg:maven/io.fabric8.archetypes/swarm-camel-rest-archetype@2.2.140?classifier=sources

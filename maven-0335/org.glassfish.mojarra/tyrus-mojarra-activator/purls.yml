@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.mojarra/tyrus-mojarra-activator@2.3.0-m06
+- pkg:maven/org.glassfish.mojarra/tyrus-mojarra-activator@2.3.0-m06?classifier=sources

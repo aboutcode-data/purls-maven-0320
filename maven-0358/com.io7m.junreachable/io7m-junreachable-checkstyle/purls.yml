@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.junreachable/io7m-junreachable-checkstyle@1.0.1
 - pkg:maven/com.io7m.junreachable/io7m-junreachable-checkstyle@1.0.1?classifier=sources
+- pkg:maven/com.io7m.junreachable/io7m-junreachable-checkstyle@1.0.2
+- pkg:maven/com.io7m.junreachable/io7m-junreachable-checkstyle@1.0.2?classifier=sources

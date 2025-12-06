@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angoose@0.3.21
+- pkg:maven/org.webjars.npm/angoose@0.3.21?classifier=sources

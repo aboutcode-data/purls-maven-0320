@@ -5,3 +5,4 @@
 - pkg:maven/com.squareup.rack/rack-servlet-example-guice-servlet@1.4
 - pkg:maven/com.squareup.rack/rack-servlet-example-guice-servlet@1.5
 - pkg:maven/com.squareup.rack/rack-servlet-example-guice-servlet@1.6
+- pkg:maven/com.squareup.rack/rack-servlet-example-guice-servlet@1.7

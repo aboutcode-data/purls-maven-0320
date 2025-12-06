@@ -12,3 +12,5 @@
 - pkg:maven/be.dnsbelgium/rdap-server@1.0.2?classifier=sources
 - pkg:maven/be.dnsbelgium/rdap-server@1.0.3
 - pkg:maven/be.dnsbelgium/rdap-server@1.0.3?classifier=sources
+- pkg:maven/be.dnsbelgium/rdap-server@1.1.0
+- pkg:maven/be.dnsbelgium/rdap-server@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.quickfixj/quickfixj-messages-fix44@1.6.2
+- pkg:maven/org.quickfixj/quickfixj-messages-fix44@1.6.2?classifier=sources

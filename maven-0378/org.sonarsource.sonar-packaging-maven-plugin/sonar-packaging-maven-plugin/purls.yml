@@ -1,2 +1,6 @@
 - pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.15
 - pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.15?classifier=sources
+- pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.16
+- pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.16?classifier=sources
+- pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.17
+- pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.17?classifier=sources

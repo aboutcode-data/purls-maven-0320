@@ -2,6 +2,10 @@
 - pkg:maven/org.apache.tika/tika-xmp@1.10?classifier=sources
 - pkg:maven/org.apache.tika/tika-xmp@1.11
 - pkg:maven/org.apache.tika/tika-xmp@1.11?classifier=sources
+- pkg:maven/org.apache.tika/tika-xmp@1.12
+- pkg:maven/org.apache.tika/tika-xmp@1.12?classifier=sources
+- pkg:maven/org.apache.tika/tika-xmp@1.13
+- pkg:maven/org.apache.tika/tika-xmp@1.13?classifier=sources
 - pkg:maven/org.apache.tika/tika-xmp@1.2
 - pkg:maven/org.apache.tika/tika-xmp@1.2?classifier=sources
 - pkg:maven/org.apache.tika/tika-xmp@1.3

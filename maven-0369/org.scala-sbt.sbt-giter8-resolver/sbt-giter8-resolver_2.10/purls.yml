@@ -1,0 +1,4 @@
+- pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.10@0.1.0
+- pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.10@0.1.0-M1
+- pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.10@0.1.0-M1?classifier=sources
+- pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.10@0.1.0?classifier=sources

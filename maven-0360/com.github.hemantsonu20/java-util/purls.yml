@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hemantsonu20/java-util@1.0.1
+- pkg:maven/com.github.hemantsonu20/java-util@1.0.1?classifier=sources

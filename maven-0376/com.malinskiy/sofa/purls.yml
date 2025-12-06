@@ -1,0 +1,2 @@
+- pkg:maven/com.malinskiy/sofa@0.1.0?classifier=sources
+- pkg:maven/com.malinskiy/sofa@0.1.0?type=aar

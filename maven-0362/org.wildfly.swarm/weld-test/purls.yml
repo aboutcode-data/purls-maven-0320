@@ -1,0 +1,7 @@
+- pkg:maven/org.wildfly.swarm/weld-test@1.0.0.Alpha6
+- pkg:maven/org.wildfly.swarm/weld-test@1.0.0.Alpha7
+- pkg:maven/org.wildfly.swarm/weld-test@1.0.0.Alpha8
+- pkg:maven/org.wildfly.swarm/weld-test@1.0.0.Beta1
+- pkg:maven/org.wildfly.swarm/weld-test@1.0.0.Beta2
+- pkg:maven/org.wildfly.swarm/weld-test@1.0.0.Beta3
+- pkg:maven/org.wildfly.swarm/weld-test@1.0.0.Beta4

@@ -1,1 +1,4 @@
 - pkg:maven/org.fakereplace/fakereplace-weld-tests@1.0.0.Alpha2
+- pkg:maven/org.fakereplace/fakereplace-weld-tests@1.0.0.Alpha3
+- pkg:maven/org.fakereplace/fakereplace-weld-tests@1.0.0.Alpha4
+- pkg:maven/org.fakereplace/fakereplace-weld-tests@1.0.0.Alpha5

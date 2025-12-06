@@ -1,0 +1,2 @@
+- pkg:maven/de.caluga.morphium/influxdbdriver@0.5
+- pkg:maven/de.caluga.morphium/influxdbdriver@0.5?classifier=sources

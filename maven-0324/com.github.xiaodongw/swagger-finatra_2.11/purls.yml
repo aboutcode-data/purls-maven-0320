@@ -1,0 +1,4 @@
+- pkg:maven/com.github.xiaodongw/swagger-finatra_2.11@0.6
+- pkg:maven/com.github.xiaodongw/swagger-finatra_2.11@0.6.0
+- pkg:maven/com.github.xiaodongw/swagger-finatra_2.11@0.6.0?classifier=sources
+- pkg:maven/com.github.xiaodongw/swagger-finatra_2.11@0.6?classifier=sources

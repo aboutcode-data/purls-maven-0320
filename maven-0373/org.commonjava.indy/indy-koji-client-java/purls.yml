@@ -1,0 +1,4 @@
+- pkg:maven/org.commonjava.indy/indy-koji-client-java@0.99.1.5
+- pkg:maven/org.commonjava.indy/indy-koji-client-java@0.99.1.6
+- pkg:maven/org.commonjava.indy/indy-koji-client-java@0.99.1.7
+- pkg:maven/org.commonjava.indy/indy-koji-client-java@1.0.0

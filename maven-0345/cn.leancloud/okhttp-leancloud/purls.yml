@@ -1,0 +1,2 @@
+- pkg:maven/cn.leancloud/okhttp-leancloud@2.6.0
+- pkg:maven/cn.leancloud/okhttp-leancloud@2.6.0?classifier=sources

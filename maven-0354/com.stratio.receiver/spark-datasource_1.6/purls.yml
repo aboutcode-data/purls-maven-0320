@@ -1,0 +1,2 @@
+- pkg:maven/com.stratio.receiver/spark-datasource_1.6@0.1.0
+- pkg:maven/com.stratio.receiver/spark-datasource_1.6@0.1.0?classifier=sources

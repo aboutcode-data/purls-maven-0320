@@ -1,0 +1,2 @@
+- pkg:maven/net.intelie.live/live-api@2.11.1
+- pkg:maven/net.intelie.live/live-api@2.11.1?classifier=sources

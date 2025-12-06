@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/content-api-firehose-client@0.3
+- pkg:maven/com.gu/content-api-firehose-client@0.3?classifier=sources

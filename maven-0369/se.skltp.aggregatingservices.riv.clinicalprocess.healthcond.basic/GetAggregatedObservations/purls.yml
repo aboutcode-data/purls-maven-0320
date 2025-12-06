@@ -1,1 +1,13 @@
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.0.0-RC4?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.0.0-RC5?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.0.0-RC6?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.0.0-RC7?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.0.0-RC8?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.0.0-RC9?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.0.0?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.0.1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.1.0-RC1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.1.0-RC2?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.1.0-RC3?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.1.0?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations@1.2.0-RC1?classifier=sources

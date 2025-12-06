@@ -1,0 +1,4 @@
+- pkg:maven/org.kevoree.mwg.plugins/mavenplugin@6
+- pkg:maven/org.kevoree.mwg.plugins/mavenplugin@6?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/mavenplugin@7
+- pkg:maven/org.kevoree.mwg.plugins/mavenplugin@7?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.auth0/spring-security-auth0@0.2
 - pkg:maven/com.auth0/spring-security-auth0@0.2?classifier=sources
+- pkg:maven/com.auth0/spring-security-auth0@0.3
+- pkg:maven/com.auth0/spring-security-auth0@0.3?classifier=sources
+- pkg:maven/com.auth0/spring-security-auth0@1.0.0
+- pkg:maven/com.auth0/spring-security-auth0@1.0.0?classifier=sources

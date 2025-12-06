@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.falcon/falcon-sharelib-oozie@0.8
+- pkg:maven/org.apache.falcon/falcon-sharelib-oozie@0.9

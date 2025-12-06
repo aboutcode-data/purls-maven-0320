@@ -1,0 +1,4 @@
+- pkg:maven/org.spincast/spincast-plugins-http-caching-tests@0.9.25
+- pkg:maven/org.spincast/spincast-plugins-http-caching-tests@0.9.26
+- pkg:maven/org.spincast/spincast-plugins-http-caching-tests@0.9.27
+- pkg:maven/org.spincast/spincast-plugins-http-caching-tests@0.9.28

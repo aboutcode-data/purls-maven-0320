@@ -1,0 +1,6 @@
+- pkg:maven/cn.tangjiabao/haloDb-springjdbc@0.15
+- pkg:maven/cn.tangjiabao/haloDb-springjdbc@0.15?classifier=sources
+- pkg:maven/cn.tangjiabao/haloDb-springjdbc@0.16
+- pkg:maven/cn.tangjiabao/haloDb-springjdbc@0.16?classifier=sources
+- pkg:maven/cn.tangjiabao/haloDb-springjdbc@0.17
+- pkg:maven/cn.tangjiabao/haloDb-springjdbc@0.17?classifier=sources

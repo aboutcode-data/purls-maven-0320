@@ -1,0 +1,2 @@
+- pkg:maven/org.http4s/http4s-argonaut62_2.10@0.14.1a
+- pkg:maven/org.http4s/http4s-argonaut62_2.10@0.14.1a?classifier=sources

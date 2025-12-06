@@ -1,0 +1,8 @@
+- pkg:maven/org.bitbucket.txdrive/electra@1.0.0
+- pkg:maven/org.bitbucket.txdrive/electra@1.0.0-BETA
+- pkg:maven/org.bitbucket.txdrive/electra@1.0.0-BETA2
+- pkg:maven/org.bitbucket.txdrive/electra@1.0.0-BETA2?classifier=sources
+- pkg:maven/org.bitbucket.txdrive/electra@1.0.0-BETA?classifier=sources
+- pkg:maven/org.bitbucket.txdrive/electra@1.0.0?classifier=sources
+- pkg:maven/org.bitbucket.txdrive/electra@1.0.1
+- pkg:maven/org.bitbucket.txdrive/electra@1.0.1?classifier=sources

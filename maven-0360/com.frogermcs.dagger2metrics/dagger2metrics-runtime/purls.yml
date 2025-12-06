@@ -1,0 +1,4 @@
+- pkg:maven/com.frogermcs.dagger2metrics/dagger2metrics-runtime@0.2.1?classifier=sources
+- pkg:maven/com.frogermcs.dagger2metrics/dagger2metrics-runtime@0.2.1?type=aar
+- pkg:maven/com.frogermcs.dagger2metrics/dagger2metrics-runtime@0.2?classifier=sources
+- pkg:maven/com.frogermcs.dagger2metrics/dagger2metrics-runtime@0.2?type=aar

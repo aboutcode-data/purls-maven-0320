@@ -1,0 +1,2 @@
+- pkg:maven/github.com.taconaut/jtmdb@1.9.17
+- pkg:maven/github.com.taconaut/jtmdb@1.9.17?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.igeak.tools.build/igeak@1.0.4
+- pkg:maven/com.igeak.tools.build/igeak@1.0.4?classifier=sources

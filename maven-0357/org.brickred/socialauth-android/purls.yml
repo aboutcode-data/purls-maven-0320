@@ -1,0 +1,2 @@
+- pkg:maven/org.brickred/socialauth-android@3.2.1?classifier=sources
+- pkg:maven/org.brickred/socialauth-android@3.2.1?type=aar

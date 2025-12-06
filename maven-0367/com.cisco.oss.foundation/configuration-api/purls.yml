@@ -12,3 +12,7 @@
 - pkg:maven/com.cisco.oss.foundation/configuration-api@1.0.2-3?classifier=sources
 - pkg:maven/com.cisco.oss.foundation/configuration-api@1.0.2-4
 - pkg:maven/com.cisco.oss.foundation/configuration-api@1.0.2-4?classifier=sources
+- pkg:maven/com.cisco.oss.foundation/configuration-api@1.0.2-5
+- pkg:maven/com.cisco.oss.foundation/configuration-api@1.0.2-5?classifier=sources
+- pkg:maven/com.cisco.oss.foundation/configuration-api@1.1.0-1
+- pkg:maven/com.cisco.oss.foundation/configuration-api@1.1.0-1?classifier=sources

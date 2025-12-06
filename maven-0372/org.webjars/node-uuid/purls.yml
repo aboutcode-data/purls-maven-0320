@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars/node-uuid@1.4.1
 - pkg:maven/org.webjars/node-uuid@1.4.1-1
+- pkg:maven/org.webjars/node-uuid@1.4.7

@@ -3,3 +3,5 @@
 - pkg:maven/com.xpatterns/xpatterns-spark-api@3.0.0-cm5-spark131-cdh541
 - pkg:maven/com.xpatterns/xpatterns-spark-api@3.0.0-cm5-spark131-cdh541?classifier=sources
 - pkg:maven/com.xpatterns/xpatterns-spark-api@3.0.0-spark110-cdh520
+- pkg:maven/com.xpatterns/xpatterns-spark-api@4.0.0-cm5-spark131-cdh541
+- pkg:maven/com.xpatterns/xpatterns-spark-api@4.0.0-cm5-spark131-cdh541?classifier=sources

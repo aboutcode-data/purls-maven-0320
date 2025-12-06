@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__rx-jquery@1.9.25-alpha
+- pkg:maven/org.webjars.npm/types__rx-jquery@1.9.25-alpha?classifier=sources

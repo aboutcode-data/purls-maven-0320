@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bespalovdn/scala-log_2.10@v1.2
+- pkg:maven/com.github.bespalovdn/scala-log_2.10@v1.2?classifier=sources

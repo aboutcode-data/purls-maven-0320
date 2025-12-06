@@ -31,3 +31,6 @@
 - pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.7
 - pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.7?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.7?classifier=sources
+- pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.8
+- pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.8?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/clirr-maven-plugin@2.8?classifier=sources

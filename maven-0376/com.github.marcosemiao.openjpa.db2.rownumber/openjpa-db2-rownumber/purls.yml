@@ -1,2 +1,4 @@
 - pkg:maven/com.github.marcosemiao.openjpa.db2.rownumber/openjpa-db2-rownumber@1.0.0
 - pkg:maven/com.github.marcosemiao.openjpa.db2.rownumber/openjpa-db2-rownumber@1.0.0?classifier=sources
+- pkg:maven/com.github.marcosemiao.openjpa.db2.rownumber/openjpa-db2-rownumber@1.0.1
+- pkg:maven/com.github.marcosemiao.openjpa.db2.rownumber/openjpa-db2-rownumber@1.0.1?classifier=sources

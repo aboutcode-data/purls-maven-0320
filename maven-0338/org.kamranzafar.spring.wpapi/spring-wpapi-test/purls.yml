@@ -1,0 +1,2 @@
+- pkg:maven/org.kamranzafar.spring.wpapi/spring-wpapi-test@0.1
+- pkg:maven/org.kamranzafar.spring.wpapi/spring-wpapi-test@0.1?classifier=sources

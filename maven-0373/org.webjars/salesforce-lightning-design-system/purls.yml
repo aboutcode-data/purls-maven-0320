@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/salesforce-lightning-design-system@0.8.0
 - pkg:maven/org.webjars/salesforce-lightning-design-system@0.9.1
 - pkg:maven/org.webjars/salesforce-lightning-design-system@0.9.2
+- pkg:maven/org.webjars/salesforce-lightning-design-system@2.0.2

@@ -1,2 +1,4 @@
 - pkg:maven/io.rudin.s7connector/s7connector@1.0
 - pkg:maven/io.rudin.s7connector/s7connector@1.0?classifier=sources
+- pkg:maven/io.rudin.s7connector/s7connector@1.1
+- pkg:maven/io.rudin.s7connector/s7connector@1.1?classifier=sources

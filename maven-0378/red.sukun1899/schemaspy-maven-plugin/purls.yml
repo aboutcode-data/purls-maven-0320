@@ -1,0 +1,4 @@
+- pkg:maven/red.sukun1899/schemaspy-maven-plugin@1.0.2
+- pkg:maven/red.sukun1899/schemaspy-maven-plugin@1.0.2?classifier=sources
+- pkg:maven/red.sukun1899/schemaspy-maven-plugin@1.1.0
+- pkg:maven/red.sukun1899/schemaspy-maven-plugin@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.isisaddons.module.xdocreport/isis-module-xdocreport-dom@1.13.0
+- pkg:maven/org.isisaddons.module.xdocreport/isis-module-xdocreport-dom@1.13.0?classifier=sources

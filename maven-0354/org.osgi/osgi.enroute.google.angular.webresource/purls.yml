@@ -1,0 +1,2 @@
+- pkg:maven/org.osgi/osgi.enroute.google.angular.webresource@1.5.7
+- pkg:maven/org.osgi/osgi.enroute.google.angular.webresource@1.5.7?classifier=sources

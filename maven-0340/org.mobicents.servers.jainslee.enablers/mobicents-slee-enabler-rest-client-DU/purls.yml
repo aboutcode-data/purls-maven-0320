@@ -1,0 +1,3 @@
+- pkg:maven/org.mobicents.servers.jainslee.enablers/mobicents-slee-enabler-rest-client-DU@2.8.3
+- pkg:maven/org.mobicents.servers.jainslee.enablers/mobicents-slee-enabler-rest-client-DU@2.8.4
+- pkg:maven/org.mobicents.servers.jainslee.enablers/mobicents-slee-enabler-rest-client-DU@2.8.5

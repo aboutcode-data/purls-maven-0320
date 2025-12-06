@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.schemaspy/schemaspy@5.0.0
+- pkg:maven/net.sourceforge.schemaspy/schemaspy@5.0.0?classifier=sources

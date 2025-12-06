@@ -1,0 +1,2 @@
+- pkg:maven/com.nablarch.framework/nablarch-fw-messaging-mom@1.0.1
+- pkg:maven/com.nablarch.framework/nablarch-fw-messaging-mom@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gmrodrigues.js.sandbox/js-sandbox@0.1
+- pkg:maven/com.gmrodrigues.js.sandbox/js-sandbox@0.1?classifier=sources

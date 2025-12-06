@@ -2,3 +2,5 @@
 - pkg:maven/org.c64.attitude/afterimage@0.01?classifier=sources
 - pkg:maven/org.c64.attitude/afterimage@0.02
 - pkg:maven/org.c64.attitude/afterimage@0.02?classifier=sources
+- pkg:maven/org.c64.attitude/afterimage@0.03
+- pkg:maven/org.c64.attitude/afterimage@0.03?classifier=sources

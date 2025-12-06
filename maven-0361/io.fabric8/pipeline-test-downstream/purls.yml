@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8/pipeline-test-downstream@1.0.21
+- pkg:maven/io.fabric8/pipeline-test-downstream@1.0.21?classifier=sources

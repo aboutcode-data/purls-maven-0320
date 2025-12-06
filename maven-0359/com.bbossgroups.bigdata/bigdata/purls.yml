@@ -1,0 +1,2 @@
+- pkg:maven/com.bbossgroups.bigdata/bigdata@4.10.8
+- pkg:maven/com.bbossgroups.bigdata/bigdata@4.10.8?classifier=sources

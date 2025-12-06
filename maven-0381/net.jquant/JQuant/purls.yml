@@ -1,0 +1,2 @@
+- pkg:maven/net.jquant/JQuant@0.1
+- pkg:maven/net.jquant/JQuant@0.1?classifier=sources

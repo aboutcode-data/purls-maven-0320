@@ -16,3 +16,5 @@
 - pkg:maven/com.ganshane.monad/monad-mmseg@5.0.18?classifier=sources
 - pkg:maven/com.ganshane.monad/monad-mmseg@5.0.9
 - pkg:maven/com.ganshane.monad/monad-mmseg@5.0.9?classifier=sources
+- pkg:maven/com.ganshane.monad/monad-mmseg@5.1.0
+- pkg:maven/com.ganshane.monad/monad-mmseg@5.1.0?classifier=sources

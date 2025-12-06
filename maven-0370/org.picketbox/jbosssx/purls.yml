@@ -68,5 +68,10 @@
 - pkg:maven/org.picketbox/jbosssx@4.9.1.Final?classifier=sources
 - pkg:maven/org.picketbox/jbosssx@4.9.2.Final?classifier=sources
 - pkg:maven/org.picketbox/jbosssx@4.9.3.Final?classifier=sources
+- pkg:maven/org.picketbox/jbosssx@4.9.4.Final?classifier=sources
+- pkg:maven/org.picketbox/jbosssx@4.9.5.Final?classifier=sources
+- pkg:maven/org.picketbox/jbosssx@4.9.6.Final?classifier=sources
+- pkg:maven/org.picketbox/jbosssx@4.9.7.Final?classifier=sources
 - pkg:maven/org.picketbox/jbosssx@5.0.0.Alpha1?classifier=sources
 - pkg:maven/org.picketbox/jbosssx@5.0.0.Alpha2?classifier=sources
+- pkg:maven/org.picketbox/jbosssx@5.0.0.Alpha3?classifier=sources

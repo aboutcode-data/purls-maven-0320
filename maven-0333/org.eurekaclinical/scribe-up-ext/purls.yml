@@ -1,0 +1,12 @@
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0-Alpha-3
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0-Alpha-3?classifier=sources
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0-Alpha-3?classifier=src&type=tar.gz
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0-Alpha-3?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0-Alpha-4
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0-Alpha-4?classifier=sources
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0-Alpha-4?classifier=src&type=tar.gz
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0-Alpha-4?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0?classifier=sources
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0?classifier=src&type=tar.gz
+- pkg:maven/org.eurekaclinical/scribe-up-ext@1.0?classifier=src&type=zip

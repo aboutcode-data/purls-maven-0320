@@ -1,2 +1,5 @@
 - pkg:maven/org.jadira.refdata/refdata@3.2.0.GA
 - pkg:maven/org.jadira.refdata/refdata@4.0.0.GA
+- pkg:maven/org.jadira.refdata/refdata@5.0.0.GA
+- pkg:maven/org.jadira.refdata/refdata@6.0.0.GA
+- pkg:maven/org.jadira.refdata/refdata@6.0.1.GA

@@ -5,3 +5,8 @@
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-parent@2.2.0-beta-1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-parent@2.2.0-beta-2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-parent@2.2.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-parent@2.2.1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-parent@2.2.2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-parent@2.2.3?classifier=source-release&type=zip
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-parent@2.2.4?classifier=source-release&type=zip
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-parent@3.0.0-alpha-1?classifier=source-release&type=zip

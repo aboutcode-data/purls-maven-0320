@@ -1,1 +1,2 @@
+- pkg:maven/org.ow2.petals.samples/su-activiti-vacationService-provide@1.0.2-1.0.0?classifier=sources
 - pkg:maven/org.ow2.petals.samples/su-activiti-vacationService-provide@5.0.0-M1?classifier=sources

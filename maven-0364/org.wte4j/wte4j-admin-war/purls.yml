@@ -1,2 +1,4 @@
 - pkg:maven/org.wte4j/wte4j-admin-war@0.1.2?classifier=sources
 - pkg:maven/org.wte4j/wte4j-admin-war@0.1.2?type=war
+- pkg:maven/org.wte4j/wte4j-admin-war@0.1.3?classifier=sources
+- pkg:maven/org.wte4j/wte4j-admin-war@0.1.3?type=war

@@ -1,2 +1,6 @@
 - pkg:maven/com.github.vbmacher/java-cup-runtime@11b
+- pkg:maven/com.github.vbmacher/java-cup-runtime@11b-20151001
+- pkg:maven/com.github.vbmacher/java-cup-runtime@11b-20151001?classifier=sources
+- pkg:maven/com.github.vbmacher/java-cup-runtime@11b-20160615
+- pkg:maven/com.github.vbmacher/java-cup-runtime@11b-20160615?classifier=sources
 - pkg:maven/com.github.vbmacher/java-cup-runtime@11b?classifier=sources

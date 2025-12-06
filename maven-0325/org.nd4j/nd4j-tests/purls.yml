@@ -7,8 +7,15 @@
 - pkg:maven/org.nd4j/nd4j-tests@0.4-rc2.2
 - pkg:maven/org.nd4j/nd4j-tests@0.4-rc3
 - pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.1
+- pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.10
 - pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.2
 - pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.3
 - pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.4
 - pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.5
 - pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.6
+- pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.7
+- pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.8
+- pkg:maven/org.nd4j/nd4j-tests@0.4-rc3.9
+- pkg:maven/org.nd4j/nd4j-tests@0.4.0
+- pkg:maven/org.nd4j/nd4j-tests@0.5.0
+- pkg:maven/org.nd4j/nd4j-tests@0.6.0

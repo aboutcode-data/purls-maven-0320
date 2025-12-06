@@ -10,3 +10,7 @@
 - pkg:maven/com.mattprecious.telescope/telescope@1.4.0?classifier=sources
 - pkg:maven/com.mattprecious.telescope/telescope@1.5.0
 - pkg:maven/com.mattprecious.telescope/telescope@1.5.0?classifier=sources
+- pkg:maven/com.mattprecious.telescope/telescope@2.0.0?classifier=sources
+- pkg:maven/com.mattprecious.telescope/telescope@2.0.0?type=aar
+- pkg:maven/com.mattprecious.telescope/telescope@2.1.0?classifier=sources
+- pkg:maven/com.mattprecious.telescope/telescope@2.1.0?type=aar

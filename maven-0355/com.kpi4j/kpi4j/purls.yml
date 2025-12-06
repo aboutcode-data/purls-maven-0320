@@ -1,0 +1,2 @@
+- pkg:maven/com.kpi4j/kpi4j@0.0.2-beta
+- pkg:maven/com.kpi4j/kpi4j@0.0.2-beta?classifier=sources

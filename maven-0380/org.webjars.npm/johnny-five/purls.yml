@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/johnny-five@0.9.24
+- pkg:maven/org.webjars.npm/johnny-five@0.9.24?classifier=sources

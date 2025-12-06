@@ -1,0 +1,6 @@
+- pkg:maven/pw.stamina/mandate@2.0.4
+- pkg:maven/pw.stamina/mandate@2.0.4?classifier=sources
+- pkg:maven/pw.stamina/mandate@2.1.0
+- pkg:maven/pw.stamina/mandate@2.1.0?classifier=sources
+- pkg:maven/pw.stamina/mandate@2.2.0
+- pkg:maven/pw.stamina/mandate@2.2.0?classifier=sources

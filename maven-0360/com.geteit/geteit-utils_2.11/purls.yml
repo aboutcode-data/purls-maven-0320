@@ -1,2 +1,4 @@
 - pkg:maven/com.geteit/geteit-utils_2.11@0.3?classifier=sources
 - pkg:maven/com.geteit/geteit-utils_2.11@0.3?type=aar
+- pkg:maven/com.geteit/geteit-utils_2.11@0.4?classifier=sources
+- pkg:maven/com.geteit/geteit-utils_2.11@0.4?type=aar

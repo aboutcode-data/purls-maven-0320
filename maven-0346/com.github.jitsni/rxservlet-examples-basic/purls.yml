@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jitsni/rxservlet-examples-basic@0.2?classifier=sources
+- pkg:maven/com.github.jitsni/rxservlet-examples-basic@0.2?type=war
+- pkg:maven/com.github.jitsni/rxservlet-examples-basic@0.3?classifier=sources
+- pkg:maven/com.github.jitsni/rxservlet-examples-basic@0.3?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando.stups/autowired-restoperations@0.9.11.M2
+- pkg:maven/org.zalando.stups/autowired-restoperations@0.9.11.M2?classifier=sources

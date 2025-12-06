@@ -4,3 +4,13 @@
 - pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.15.3?classifier=sources
 - pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.15.5
 - pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.15.5?classifier=sources
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.17.1
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.17.1?classifier=sources
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.17.6
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.17.6?classifier=sources
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.18.1
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.18.1?classifier=sources
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.18.8
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.18.8?classifier=sources
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.20.2
+- pkg:maven/org.webjars.bower/angular-bootstrap-calendar@0.20.2?classifier=sources

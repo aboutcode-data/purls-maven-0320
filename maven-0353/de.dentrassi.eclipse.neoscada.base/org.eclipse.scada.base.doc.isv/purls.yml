@@ -1,0 +1,2 @@
+- pkg:maven/de.dentrassi.eclipse.neoscada.base/org.eclipse.scada.base.doc.isv@0.3.0
+- pkg:maven/de.dentrassi.eclipse.neoscada.base/org.eclipse.scada.base.doc.isv@0.3.0?classifier=sources

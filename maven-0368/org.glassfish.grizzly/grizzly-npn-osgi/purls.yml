@@ -2,3 +2,4 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.0-beta1
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.1
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.2
+- pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.3

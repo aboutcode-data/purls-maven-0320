@@ -1,0 +1,2 @@
+- pkg:maven/ae.teletronics.solr/solr-plugins@0.1
+- pkg:maven/ae.teletronics.solr/solr-plugins@0.1?classifier=sources

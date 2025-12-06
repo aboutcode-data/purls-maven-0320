@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/database-metadata-main@1.0.2
+- pkg:maven/com.github.jinahya/database-metadata-main@1.0.2?classifier=sources

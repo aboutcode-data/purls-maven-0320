@@ -5,3 +5,5 @@
 - pkg:maven/net.rdrei.android.dirchooser/library@2.1?type=aar
 - pkg:maven/net.rdrei.android.dirchooser/library@3.0?classifier=sources
 - pkg:maven/net.rdrei.android.dirchooser/library@3.0?type=aar
+- pkg:maven/net.rdrei.android.dirchooser/library@3.2?classifier=sources
+- pkg:maven/net.rdrei.android.dirchooser/library@3.2?type=aar

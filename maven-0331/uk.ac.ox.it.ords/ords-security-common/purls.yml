@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.ox.it.ords/ords-security-common@0.0.6
+- pkg:maven/uk.ac.ox.it.ords/ords-security-common@0.0.6?classifier=sources

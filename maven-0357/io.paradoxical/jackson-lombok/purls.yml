@@ -1,0 +1,4 @@
+- pkg:maven/io.paradoxical/jackson-lombok@1.0
+- pkg:maven/io.paradoxical/jackson-lombok@1.0?classifier=sources
+- pkg:maven/io.paradoxical/jackson-lombok@1.1
+- pkg:maven/io.paradoxical/jackson-lombok@1.1?classifier=sources

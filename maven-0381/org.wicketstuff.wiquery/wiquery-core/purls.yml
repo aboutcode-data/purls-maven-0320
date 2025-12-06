@@ -1,0 +1,2 @@
+- pkg:maven/org.wicketstuff.wiquery/wiquery-core@7.0
+- pkg:maven/org.wicketstuff.wiquery/wiquery-core@7.0?classifier=sources

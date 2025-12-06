@@ -1,0 +1,6 @@
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-osgi@3.4.1
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-osgi@3.5
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-osgi@3.6
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-osgi@3.6?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-osgi@3.7
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-osgi@3.7?classifier=sources

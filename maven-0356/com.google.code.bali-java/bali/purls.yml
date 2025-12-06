@@ -1,0 +1,6 @@
+- pkg:maven/com.google.code.bali-java/bali@1.0.2
+- pkg:maven/com.google.code.bali-java/bali@1.0.2?classifier=sources
+- pkg:maven/com.google.code.bali-java/bali@1.1.1
+- pkg:maven/com.google.code.bali-java/bali@1.1.1?classifier=sources
+- pkg:maven/com.google.code.bali-java/bali@1.1.2
+- pkg:maven/com.google.code.bali-java/bali@1.1.2?classifier=sources

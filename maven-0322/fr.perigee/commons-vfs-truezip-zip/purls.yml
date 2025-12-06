@@ -1,2 +1,4 @@
 - pkg:maven/fr.perigee/commons-vfs-truezip-zip@0.0.2
 - pkg:maven/fr.perigee/commons-vfs-truezip-zip@0.0.2?classifier=sources
+- pkg:maven/fr.perigee/commons-vfs-truezip-zip@0.0.5
+- pkg:maven/fr.perigee/commons-vfs-truezip-zip@0.0.5?classifier=sources

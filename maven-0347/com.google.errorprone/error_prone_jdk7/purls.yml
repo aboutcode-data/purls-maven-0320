@@ -1,0 +1,2 @@
+- pkg:maven/com.google.errorprone/error_prone_jdk7@1.1.2
+- pkg:maven/com.google.errorprone/error_prone_jdk7@1.1.2?classifier=sources

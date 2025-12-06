@@ -1,0 +1,4 @@
+- pkg:maven/com.telly/mrvector@0.1.0?classifier=sources
+- pkg:maven/com.telly/mrvector@0.1.0?type=aar
+- pkg:maven/com.telly/mrvector@0.2.0?classifier=sources
+- pkg:maven/com.telly/mrvector@0.2.0?type=aar

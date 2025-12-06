@@ -22,3 +22,7 @@
 - pkg:maven/org.sakaiproject.search/search-model@1.4.2?classifier=sources
 - pkg:maven/org.sakaiproject.search/search-model@1.4.3
 - pkg:maven/org.sakaiproject.search/search-model@1.4.3?classifier=sources
+- pkg:maven/org.sakaiproject.search/search-model@10.3
+- pkg:maven/org.sakaiproject.search/search-model@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.search/search-model@10.4
+- pkg:maven/org.sakaiproject.search/search-model@10.4?classifier=sources

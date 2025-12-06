@@ -1,0 +1,2 @@
+- pkg:maven/com.tymate.couponlibrary/library@0.9.2?classifier=sources
+- pkg:maven/com.tymate.couponlibrary/library@0.9.2?type=aar

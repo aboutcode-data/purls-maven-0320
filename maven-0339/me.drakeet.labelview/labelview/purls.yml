@@ -1,0 +1,4 @@
+- pkg:maven/me.drakeet.labelview/labelview@0.618?classifier=sources
+- pkg:maven/me.drakeet.labelview/labelview@0.618?type=aar
+- pkg:maven/me.drakeet.labelview/labelview@0.7?classifier=sources
+- pkg:maven/me.drakeet.labelview/labelview@0.7?type=aar

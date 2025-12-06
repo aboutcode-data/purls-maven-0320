@@ -1,0 +1,2 @@
+- pkg:maven/br.uff.sti/jersey-mvc-jasper@0.2
+- pkg:maven/br.uff.sti/jersey-mvc-jasper@0.2?classifier=sources

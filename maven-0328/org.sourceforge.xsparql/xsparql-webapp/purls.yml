@@ -1,0 +1,2 @@
+- pkg:maven/org.sourceforge.xsparql/xsparql-webapp@20140722?classifier=sources
+- pkg:maven/org.sourceforge.xsparql/xsparql-webapp@20140722?type=war

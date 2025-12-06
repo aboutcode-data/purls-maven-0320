@@ -1,0 +1,2 @@
+- pkg:maven/com.github.talberto/easybeans-api@1.0.0-RC-01
+- pkg:maven/com.github.talberto/easybeans-api@1.0.0-RC-01?classifier=sources

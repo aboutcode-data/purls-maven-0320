@@ -1,0 +1,2 @@
+- pkg:maven/pl.allegro.android/fogger@0.9.0?classifier=sources
+- pkg:maven/pl.allegro.android/fogger@0.9.0?type=aar

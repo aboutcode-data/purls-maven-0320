@@ -1,0 +1,2 @@
+- pkg:maven/net.hasor/hasor-quick@0.0.1
+- pkg:maven/net.hasor/hasor-quick@0.0.1?classifier=sources

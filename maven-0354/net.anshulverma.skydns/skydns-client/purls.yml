@@ -1,0 +1,6 @@
+- pkg:maven/net.anshulverma.skydns/skydns-client@0.0.1
+- pkg:maven/net.anshulverma.skydns/skydns-client@0.0.1?classifier=sources
+- pkg:maven/net.anshulverma.skydns/skydns-client@0.0.2
+- pkg:maven/net.anshulverma.skydns/skydns-client@0.0.2?classifier=sources
+- pkg:maven/net.anshulverma.skydns/skydns-client@1.0.0
+- pkg:maven/net.anshulverma.skydns/skydns-client@1.0.0?classifier=sources

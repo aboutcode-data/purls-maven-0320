@@ -6,3 +6,5 @@
 - pkg:maven/ru.finam/slf4j-gwt@1.2.1
 - pkg:maven/ru.finam/slf4j-gwt@1.2.1?classifier=sources
 - pkg:maven/ru.finam/slf4j-gwt@1.2?classifier=sources
+- pkg:maven/ru.finam/slf4j-gwt@1.7.7.1
+- pkg:maven/ru.finam/slf4j-gwt@1.7.7.1?classifier=sources

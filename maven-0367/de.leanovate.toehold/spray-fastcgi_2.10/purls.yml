@@ -1,0 +1,2 @@
+- pkg:maven/de.leanovate.toehold/spray-fastcgi_2.10@0.2.1
+- pkg:maven/de.leanovate.toehold/spray-fastcgi_2.10@0.2.1?classifier=sources

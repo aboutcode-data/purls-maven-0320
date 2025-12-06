@@ -1,0 +1,2 @@
+- pkg:maven/com.netki/wallet-name-resolver@0.0.2
+- pkg:maven/com.netki/wallet-name-resolver@0.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.silpa/sdk-payyans@0.1.4?classifier=sources
+- pkg:maven/org.silpa/sdk-payyans@0.1.4?type=aar
+- pkg:maven/org.silpa/sdk-payyans@1.0.0?classifier=sources
+- pkg:maven/org.silpa/sdk-payyans@1.0.0?type=aar

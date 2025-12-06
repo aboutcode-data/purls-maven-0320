@@ -1,0 +1,2 @@
+- pkg:maven/smartrics.restfixture/smartrics-RestFixture-LiveDoc@4.0
+- pkg:maven/smartrics.restfixture/smartrics-RestFixture-LiveDoc@4.0?classifier=sources

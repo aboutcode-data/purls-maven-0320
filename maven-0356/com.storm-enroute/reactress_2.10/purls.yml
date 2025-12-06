@@ -1,2 +1,4 @@
 - pkg:maven/com.storm-enroute/reactress_2.10@0.2
 - pkg:maven/com.storm-enroute/reactress_2.10@0.2?classifier=sources
+- pkg:maven/com.storm-enroute/reactress_2.10@0.3
+- pkg:maven/com.storm-enroute/reactress_2.10@0.3?classifier=sources

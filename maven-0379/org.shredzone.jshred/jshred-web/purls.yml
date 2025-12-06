@@ -1,0 +1,2 @@
+- pkg:maven/org.shredzone.jshred/jshred-web@19
+- pkg:maven/org.shredzone.jshred/jshred-web@19?classifier=sources

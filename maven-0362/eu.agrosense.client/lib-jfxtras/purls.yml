@@ -1,2 +1,4 @@
 - pkg:maven/eu.agrosense.client/lib-jfxtras@2.2-r4-1-NB72?classifier=sources
 - pkg:maven/eu.agrosense.client/lib-jfxtras@2.2-r4-NB72?classifier=sources
+- pkg:maven/eu.agrosense.client/lib-jfxtras@8.0-r3-NB80?classifier=sources
+- pkg:maven/eu.agrosense.client/lib-jfxtras@8.0.1-r3-NB80?classifier=sources

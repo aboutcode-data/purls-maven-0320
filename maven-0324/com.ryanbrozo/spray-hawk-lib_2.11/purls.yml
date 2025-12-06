@@ -1,0 +1,2 @@
+- pkg:maven/com.ryanbrozo/spray-hawk-lib_2.11@0.3
+- pkg:maven/com.ryanbrozo/spray-hawk-lib_2.11@0.3?classifier=sources

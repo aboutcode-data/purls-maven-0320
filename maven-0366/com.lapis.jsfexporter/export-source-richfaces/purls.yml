@@ -4,3 +4,5 @@
 - pkg:maven/com.lapis.jsfexporter/export-source-richfaces@1.0.1.Final?classifier=sources
 - pkg:maven/com.lapis.jsfexporter/export-source-richfaces@1.0.2.Final
 - pkg:maven/com.lapis.jsfexporter/export-source-richfaces@1.0.2.Final?classifier=sources
+- pkg:maven/com.lapis.jsfexporter/export-source-richfaces@1.0.3.Final
+- pkg:maven/com.lapis.jsfexporter/export-source-richfaces@1.0.3.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tkurz/sparql-mm@1.0
+- pkg:maven/com.github.tkurz/sparql-mm@1.0?classifier=sources

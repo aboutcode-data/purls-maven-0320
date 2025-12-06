@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frtu.simple/simple-logs@0.2.0-logs
+- pkg:maven/com.github.frtu.simple/simple-logs@0.2.0-logs?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.sun.mail/logging-mailhandler@1.5.3
+- pkg:maven/com.sun.mail/logging-mailhandler@1.5.3?classifier=sources
+- pkg:maven/com.sun.mail/logging-mailhandler@1.5.4
+- pkg:maven/com.sun.mail/logging-mailhandler@1.5.4?classifier=sources

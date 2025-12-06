@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jquery-simply-countable@0.5.1
+- pkg:maven/org.webjars.bower/jquery-simply-countable@0.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/es.arcadiaconsulting.javapns/javapns@2.2-json
+- pkg:maven/es.arcadiaconsulting.javapns/javapns@2.2-json?classifier=sources

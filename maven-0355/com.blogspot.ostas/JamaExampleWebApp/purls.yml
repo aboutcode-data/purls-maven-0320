@@ -1,0 +1,4 @@
+- pkg:maven/com.blogspot.ostas/JamaExampleWebApp@1.0.1?classifier=sources
+- pkg:maven/com.blogspot.ostas/JamaExampleWebApp@1.0.1?type=war
+- pkg:maven/com.blogspot.ostas/JamaExampleWebApp@1.0.2?classifier=sources
+- pkg:maven/com.blogspot.ostas/JamaExampleWebApp@1.0.2?type=war

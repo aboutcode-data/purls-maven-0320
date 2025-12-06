@@ -1,2 +1,3 @@
 - pkg:maven/com.alexkasko.krakatau/krakatau-maven-plugin-test@1.0
 - pkg:maven/com.alexkasko.krakatau/krakatau-maven-plugin-test@1.0.1
+- pkg:maven/com.alexkasko.krakatau/krakatau-maven-plugin-test@1.1

@@ -1,0 +1,10 @@
+- pkg:maven/de.androbit/brainslug-docs@0.17?classifier=sources
+- pkg:maven/de.androbit/brainslug-docs@0.17?type=zip
+- pkg:maven/de.androbit/brainslug-docs@0.18?classifier=sources
+- pkg:maven/de.androbit/brainslug-docs@0.18?type=zip
+- pkg:maven/de.androbit/brainslug-docs@0.19?classifier=sources
+- pkg:maven/de.androbit/brainslug-docs@0.19?type=zip
+- pkg:maven/de.androbit/brainslug-docs@0.20?classifier=sources
+- pkg:maven/de.androbit/brainslug-docs@0.20?type=zip
+- pkg:maven/de.androbit/brainslug-docs@0.21?classifier=sources
+- pkg:maven/de.androbit/brainslug-docs@0.21?type=zip

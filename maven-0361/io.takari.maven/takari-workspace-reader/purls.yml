@@ -4,3 +4,4 @@
 - pkg:maven/io.takari.maven/takari-workspace-reader@0.0.2?classifier=sources
 - pkg:maven/io.takari.maven/takari-workspace-reader@0.0.3
 - pkg:maven/io.takari.maven/takari-workspace-reader@0.0.3?classifier=sources
+- pkg:maven/io.takari.maven/takari-workspace-reader@0.4.0?classifier=sources

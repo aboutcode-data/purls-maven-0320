@@ -1,0 +1,2 @@
+- pkg:maven/eu.miman.util.to/object-with-id@1.0.0
+- pkg:maven/eu.miman.util.to/object-with-id@1.0.0?classifier=sources

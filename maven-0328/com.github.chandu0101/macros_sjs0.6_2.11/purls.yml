@@ -1,0 +1,4 @@
+- pkg:maven/com.github.chandu0101/macros_sjs0.6_2.11@0.5
+- pkg:maven/com.github.chandu0101/macros_sjs0.6_2.11@0.5.1
+- pkg:maven/com.github.chandu0101/macros_sjs0.6_2.11@0.5.1?classifier=sources
+- pkg:maven/com.github.chandu0101/macros_sjs0.6_2.11@0.5?classifier=sources

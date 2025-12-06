@@ -3,3 +3,5 @@
 - pkg:maven/com.mariosangiorgio/RateMyApp@1.2.1?type=aar
 - pkg:maven/com.mariosangiorgio/RateMyApp@1.2.2?type=aar
 - pkg:maven/com.mariosangiorgio/RateMyApp@1.2?type=aar
+- pkg:maven/com.mariosangiorgio/RateMyApp@1.3?type=aar
+- pkg:maven/com.mariosangiorgio/RateMyApp@1.4.0?type=aar

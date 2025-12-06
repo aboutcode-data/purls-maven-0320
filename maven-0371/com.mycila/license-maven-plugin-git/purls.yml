@@ -1,0 +1,6 @@
+- pkg:maven/com.mycila/license-maven-plugin-git@2.10
+- pkg:maven/com.mycila/license-maven-plugin-git@2.10?classifier=sources
+- pkg:maven/com.mycila/license-maven-plugin-git@2.11
+- pkg:maven/com.mycila/license-maven-plugin-git@2.11?classifier=sources
+- pkg:maven/com.mycila/license-maven-plugin-git@2.9
+- pkg:maven/com.mycila/license-maven-plugin-git@2.9?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/me.palazzetti/adktoolkit@0.1.0?type=aar
 - pkg:maven/me.palazzetti/adktoolkit@0.2.0?classifier=sources
 - pkg:maven/me.palazzetti/adktoolkit@0.2.0?type=aar
+- pkg:maven/me.palazzetti/adktoolkit@0.2.1?classifier=sources
+- pkg:maven/me.palazzetti/adktoolkit@0.2.1?type=aar
+- pkg:maven/me.palazzetti/adktoolkit@0.3.0?classifier=sources
+- pkg:maven/me.palazzetti/adktoolkit@0.3.0?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/se.skltp.components/mule-probe@1.0.0-RC1?classifier=sources
 - pkg:maven/se.skltp.components/mule-probe@1.0.0?classifier=sources
+- pkg:maven/se.skltp.components/mule-probe@2.0.0?classifier=sources
+- pkg:maven/se.skltp.components/mule-probe@2.0.1-RC1?classifier=sources

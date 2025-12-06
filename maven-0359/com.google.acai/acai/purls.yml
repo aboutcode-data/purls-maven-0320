@@ -1,0 +1,2 @@
+- pkg:maven/com.google.acai/acai@0.1
+- pkg:maven/com.google.acai/acai@0.1?classifier=sources

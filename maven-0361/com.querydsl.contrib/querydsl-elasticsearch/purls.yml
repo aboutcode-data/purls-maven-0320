@@ -1,0 +1,2 @@
+- pkg:maven/com.querydsl.contrib/querydsl-elasticsearch@4.0.4
+- pkg:maven/com.querydsl.contrib/querydsl-elasticsearch@4.0.4?classifier=sources

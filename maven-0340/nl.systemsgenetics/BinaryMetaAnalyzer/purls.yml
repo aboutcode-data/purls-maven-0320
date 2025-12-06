@@ -1,0 +1,4 @@
+- pkg:maven/nl.systemsgenetics/BinaryMetaAnalyzer@1.0.0
+- pkg:maven/nl.systemsgenetics/BinaryMetaAnalyzer@1.0.0?classifier=sources
+- pkg:maven/nl.systemsgenetics/BinaryMetaAnalyzer@1.0.3
+- pkg:maven/nl.systemsgenetics/BinaryMetaAnalyzer@1.0.3?classifier=sources

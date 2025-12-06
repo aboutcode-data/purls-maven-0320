@@ -1,0 +1,2 @@
+- pkg:maven/com.sleepcamel.bsoneer.compiler/bsoneer-compiler-resolver@0.1.0
+- pkg:maven/com.sleepcamel.bsoneer.compiler/bsoneer-compiler-resolver@0.1.0?classifier=sources

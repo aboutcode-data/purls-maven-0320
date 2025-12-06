@@ -1,0 +1,2 @@
+- pkg:maven/fr.zebasto/spring-identity@1.0.0-BETA4
+- pkg:maven/fr.zebasto/spring-identity@1.0.0-BETA4?classifier=sources

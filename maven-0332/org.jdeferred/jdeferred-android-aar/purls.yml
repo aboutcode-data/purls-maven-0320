@@ -2,3 +2,11 @@
 - pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.0-Beta-1?type=aar
 - pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.0?classifier=sources
 - pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.0?type=aar
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.1?classifier=sources
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.1?type=aar
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.2?classifier=sources
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.2?type=aar
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.3?classifier=sources
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.3?type=aar
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.4?classifier=sources
+- pkg:maven/org.jdeferred/jdeferred-android-aar@1.2.4?type=aar

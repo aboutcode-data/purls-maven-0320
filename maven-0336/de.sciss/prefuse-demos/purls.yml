@@ -1,2 +1,4 @@
 - pkg:maven/de.sciss/prefuse-demos@0.20
 - pkg:maven/de.sciss/prefuse-demos@0.21
+- pkg:maven/de.sciss/prefuse-demos@1.0.0
+- pkg:maven/de.sciss/prefuse-demos@1.0.0?classifier=sources

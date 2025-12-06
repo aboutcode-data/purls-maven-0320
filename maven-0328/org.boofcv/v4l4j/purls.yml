@@ -1,0 +1,2 @@
+- pkg:maven/org.boofcv/v4l4j@0.17
+- pkg:maven/org.boofcv/v4l4j@0.17?classifier=sources

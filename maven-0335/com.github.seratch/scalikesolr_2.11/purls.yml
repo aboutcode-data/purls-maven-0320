@@ -1,0 +1,4 @@
+- pkg:maven/com.github.seratch/scalikesolr_2.11@4.10.0
+- pkg:maven/com.github.seratch/scalikesolr_2.11@4.10.0?classifier=sources
+- pkg:maven/com.github.seratch/scalikesolr_2.11@4.9.0
+- pkg:maven/com.github.seratch/scalikesolr_2.11@4.9.0?classifier=sources

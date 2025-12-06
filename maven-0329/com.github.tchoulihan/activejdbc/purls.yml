@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tchoulihan/activejdbc@1.4.20
+- pkg:maven/com.github.tchoulihan/activejdbc@1.4.20?classifier=sources

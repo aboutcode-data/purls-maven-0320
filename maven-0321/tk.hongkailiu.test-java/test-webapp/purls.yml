@@ -1,0 +1,2 @@
+- pkg:maven/tk.hongkailiu.test-java/test-webapp@0.0.4?classifier=sources
+- pkg:maven/tk.hongkailiu.test-java/test-webapp@0.0.4?type=war

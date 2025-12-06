@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.msidor.springframework/spring-toolkit@1.0.1
+- pkg:maven/com.googlecode.msidor.springframework/spring-toolkit@1.0.1?classifier=sources

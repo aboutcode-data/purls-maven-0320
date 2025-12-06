@@ -1,0 +1,4 @@
+- pkg:maven/io.ddf/ddf_core_2.10@1.4.0
+- pkg:maven/io.ddf/ddf_core_2.10@1.4.0?classifier=sources
+- pkg:maven/io.ddf/ddf_core_2.10@1.4.3
+- pkg:maven/io.ddf/ddf_core_2.10@1.4.3?classifier=sources

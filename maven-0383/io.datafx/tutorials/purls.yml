@@ -1,0 +1,4 @@
+- pkg:maven/io.datafx/tutorials@8.0.7
+- pkg:maven/io.datafx/tutorials@8.0.7?classifier=sources
+- pkg:maven/io.datafx/tutorials@8.0b7
+- pkg:maven/io.datafx/tutorials@8.0b7?classifier=sources

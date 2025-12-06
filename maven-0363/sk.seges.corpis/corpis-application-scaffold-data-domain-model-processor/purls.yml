@@ -1,0 +1,2 @@
+- pkg:maven/sk.seges.corpis/corpis-application-scaffold-data-domain-model-processor@2.0.0
+- pkg:maven/sk.seges.corpis/corpis-application-scaffold-data-domain-model-processor@2.0.0?classifier=sources

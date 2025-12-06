@@ -1,0 +1,2 @@
+- pkg:maven/io.reark/reark@0.2-ALPHA?classifier=sources
+- pkg:maven/io.reark/reark@0.2-ALPHA?type=aar

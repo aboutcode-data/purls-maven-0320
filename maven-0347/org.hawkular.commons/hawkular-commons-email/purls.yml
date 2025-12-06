@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.commons/hawkular-commons-email@0.2.2.Final
+- pkg:maven/org.hawkular.commons/hawkular-commons-email@0.2.2.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-email@0.2.3.Final
+- pkg:maven/org.hawkular.commons/hawkular-commons-email@0.2.3.Final?classifier=sources

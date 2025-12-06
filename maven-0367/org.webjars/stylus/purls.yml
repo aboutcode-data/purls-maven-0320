@@ -1,1 +1,5 @@
 - pkg:maven/org.webjars/stylus@0.42.2-1
+- pkg:maven/org.webjars/stylus@0.45.1
+- pkg:maven/org.webjars/stylus@0.49.3
+- pkg:maven/org.webjars/stylus@0.50.0
+- pkg:maven/org.webjars/stylus@0.51.1

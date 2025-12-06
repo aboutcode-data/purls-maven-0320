@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff.gradle/jarjar@1.1.0
+- pkg:maven/ru.tinkoff.gradle/jarjar@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-android-compiler-plugin@0.10.1316
+- pkg:maven/org.jetbrains.kotlin/kotlin-android-compiler-plugin@0.10.1316?classifier=sources

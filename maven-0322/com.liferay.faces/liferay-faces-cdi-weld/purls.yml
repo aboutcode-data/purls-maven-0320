@@ -1,0 +1,6 @@
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-weld@3.1.5-ga6
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-weld@3.1.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-weld@3.2.5-ga6
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-weld@3.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-weld@4.2.5-ga6
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-weld@4.2.5-ga6?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.cocoahero.android/geojson@1.0.0?classifier=sources
+- pkg:maven/com.cocoahero.android/geojson@1.0.0?type=aar
+- pkg:maven/com.cocoahero.android/geojson@1.0.1
+- pkg:maven/com.cocoahero.android/geojson@1.0.1?classifier=sources

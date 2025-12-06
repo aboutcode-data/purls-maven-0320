@@ -1,0 +1,4 @@
+- pkg:maven/com.covisint.core.http.service/http-service-client@1.0.0.RELEASE
+- pkg:maven/com.covisint.core.http.service/http-service-client@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.covisint.core.http.service/http-service-client@1.0.1.RELEASE
+- pkg:maven/com.covisint.core.http.service/http-service-client@1.0.1.RELEASE?classifier=sources

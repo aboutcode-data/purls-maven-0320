@@ -1,3 +1,6 @@
 - pkg:maven/org.apache.tomcat/catalina-ant@6.0.36
 - pkg:maven/org.apache.tomcat/catalina-ant@6.0.37
 - pkg:maven/org.apache.tomcat/catalina-ant@6.0.39
+- pkg:maven/org.apache.tomcat/catalina-ant@6.0.41
+- pkg:maven/org.apache.tomcat/catalina-ant@6.0.43
+- pkg:maven/org.apache.tomcat/catalina-ant@6.0.44

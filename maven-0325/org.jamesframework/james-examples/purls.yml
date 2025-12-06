@@ -1,0 +1,12 @@
+- pkg:maven/org.jamesframework/james-examples@0.1?classifier=sources
+- pkg:maven/org.jamesframework/james-examples@0.1?type=zip
+- pkg:maven/org.jamesframework/james-examples@0.2.1?classifier=sources
+- pkg:maven/org.jamesframework/james-examples@0.2.1?type=zip
+- pkg:maven/org.jamesframework/james-examples@0.2?classifier=sources
+- pkg:maven/org.jamesframework/james-examples@0.2?type=zip
+- pkg:maven/org.jamesframework/james-examples@1.0?classifier=sources
+- pkg:maven/org.jamesframework/james-examples@1.0?type=zip
+- pkg:maven/org.jamesframework/james-examples@1.1.1?classifier=sources
+- pkg:maven/org.jamesframework/james-examples@1.1.1?type=zip
+- pkg:maven/org.jamesframework/james-examples@1.1?classifier=sources
+- pkg:maven/org.jamesframework/james-examples@1.1?type=zip

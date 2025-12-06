@@ -1,0 +1,6 @@
+- pkg:maven/com.tomgibara.bits/bits@1.0.0
+- pkg:maven/com.tomgibara.bits/bits@1.0.0?classifier=sources
+- pkg:maven/com.tomgibara.bits/bits@1.0.1
+- pkg:maven/com.tomgibara.bits/bits@1.0.1-j6
+- pkg:maven/com.tomgibara.bits/bits@1.0.1-j6?classifier=sources
+- pkg:maven/com.tomgibara.bits/bits@1.0.1?classifier=sources

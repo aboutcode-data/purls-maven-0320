@@ -1,0 +1,2 @@
+- pkg:maven/cn.easyproject/easycommons-properties@1.4.1-RELEASE
+- pkg:maven/cn.easyproject/easycommons-properties@1.4.1-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hanhuy.sbt/bintray-update-checker_2.10@0.1
+- pkg:maven/com.hanhuy.sbt/bintray-update-checker_2.10@0.1?classifier=sources

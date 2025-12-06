@@ -1,0 +1,2 @@
+- pkg:maven/name.kazennikov/logger@0.0.1
+- pkg:maven/name.kazennikov/logger@0.0.1?classifier=sources

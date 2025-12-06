@@ -1,0 +1,6 @@
+- pkg:maven/io.sphere.sdk.jvm/sphere-java-client-ning-1_9@1.0.0-M13
+- pkg:maven/io.sphere.sdk.jvm/sphere-java-client-ning-1_9@1.0.0-M13?classifier=sources
+- pkg:maven/io.sphere.sdk.jvm/sphere-java-client-ning-1_9@1.0.0-M14
+- pkg:maven/io.sphere.sdk.jvm/sphere-java-client-ning-1_9@1.0.0-M14?classifier=sources
+- pkg:maven/io.sphere.sdk.jvm/sphere-java-client-ning-1_9@1.0.0-M15
+- pkg:maven/io.sphere.sdk.jvm/sphere-java-client-ning-1_9@1.0.0-M15?classifier=sources

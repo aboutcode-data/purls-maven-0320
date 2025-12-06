@@ -1,0 +1,2 @@
+- pkg:maven/com.indoqa/indoqa-boot@0.2
+- pkg:maven/com.indoqa/indoqa-boot@0.2?classifier=sources

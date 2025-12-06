@@ -1,0 +1,10 @@
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.14
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.14?classifier=sources
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.15
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.15?classifier=sources
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.16
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.16?classifier=sources
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.17
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.17?classifier=sources
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.18
+- pkg:maven/eu.bitwalker/UserAgentUtils@1.18?classifier=sources

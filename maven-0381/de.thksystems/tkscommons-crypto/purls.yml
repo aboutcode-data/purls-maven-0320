@@ -1,0 +1,11 @@
+- pkg:maven/de.thksystems/tkscommons-crypto@0.1
+- pkg:maven/de.thksystems/tkscommons-crypto@0.1.1
+- pkg:maven/de.thksystems/tkscommons-crypto@0.1.1?classifier=sources
+- pkg:maven/de.thksystems/tkscommons-crypto@0.1.2
+- pkg:maven/de.thksystems/tkscommons-crypto@0.1.2?classifier=sources
+- pkg:maven/de.thksystems/tkscommons-crypto@0.1?classifier=sources
+- pkg:maven/de.thksystems/tkscommons-crypto@0.2
+- pkg:maven/de.thksystems/tkscommons-crypto@0.2.1
+- pkg:maven/de.thksystems/tkscommons-crypto@0.2.1?classifier=sources
+- pkg:maven/de.thksystems/tkscommons-crypto@0.2?classifier=sources
+- pkg:maven/de.thksystems/tkscommons-crypto@0.3

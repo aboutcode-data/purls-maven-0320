@@ -13,3 +13,16 @@
 - pkg:maven/com.helpshift/android-lib@3.1.1?classifier=sources
 - pkg:maven/com.helpshift/android-lib@3.2.0?classifier=sources
 - pkg:maven/com.helpshift/android-lib@3.2.1?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.3.0?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.3.1?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.4.0?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.4.1?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.4.2?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.5.0?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.6.0?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.7.0?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.7.1?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.7.2?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.8.0?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.9.0?classifier=sources
+- pkg:maven/com.helpshift/android-lib@3.9.1?classifier=sources

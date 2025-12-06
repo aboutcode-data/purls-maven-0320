@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/radium@0.10.3
+- pkg:maven/org.webjars.bower/radium@0.10.3?classifier=sources
+- pkg:maven/org.webjars.bower/radium@0.12.2
+- pkg:maven/org.webjars.bower/radium@0.12.2?classifier=sources

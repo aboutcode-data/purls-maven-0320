@@ -1,2 +1,6 @@
 - pkg:maven/com.google.auto.factory/auto-factory@0.1-beta1
 - pkg:maven/com.google.auto.factory/auto-factory@0.1-beta1?classifier=sources
+- pkg:maven/com.google.auto.factory/auto-factory@1.0-beta2
+- pkg:maven/com.google.auto.factory/auto-factory@1.0-beta2?classifier=sources
+- pkg:maven/com.google.auto.factory/auto-factory@1.0-beta3
+- pkg:maven/com.google.auto.factory/auto-factory@1.0-beta3?classifier=sources

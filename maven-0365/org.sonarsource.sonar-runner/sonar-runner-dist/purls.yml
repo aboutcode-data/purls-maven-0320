@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.sonar-runner/sonar-runner-dist@2.5-RC1?classifier=sources

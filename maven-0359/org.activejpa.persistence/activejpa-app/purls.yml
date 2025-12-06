@@ -1,0 +1,2 @@
+- pkg:maven/org.activejpa.persistence/activejpa-app@0.0.5
+- pkg:maven/org.activejpa.persistence/activejpa-app@0.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.trinetix/ui-webrobo@1.0?classifier=sources
+- pkg:maven/com.trinetix/ui-webrobo@1.0?type=aar

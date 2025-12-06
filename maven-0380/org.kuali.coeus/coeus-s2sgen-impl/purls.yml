@@ -1,0 +1,2 @@
+- pkg:maven/org.kuali.coeus/coeus-s2sgen-impl@6.0.0
+- pkg:maven/org.kuali.coeus/coeus-s2sgen-impl@6.0.0?classifier=sources

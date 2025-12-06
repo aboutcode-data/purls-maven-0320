@@ -1,0 +1,2 @@
+- pkg:maven/info.android15.nucleus/nucleus-example@0.1?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-example@0.2?classifier=sources

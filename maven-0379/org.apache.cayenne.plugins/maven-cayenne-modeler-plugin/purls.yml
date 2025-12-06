@@ -7,6 +7,8 @@
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.0RC1
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.0RC2
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.0RC3
+- pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.1
+- pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.1?classifier=sources
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.1B1
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.1B1?classifier=sources
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.1B2
@@ -18,3 +20,5 @@
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.1RC1?classifier=sources
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.2M1
 - pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@3.2M1?classifier=sources
+- pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@4.0.M2
+- pkg:maven/org.apache.cayenne.plugins/maven-cayenne-modeler-plugin@4.0.M2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.lamydev/android-notification@1.0.0?classifier=sources
+- pkg:maven/com.github.lamydev/android-notification@1.0.0?type=aar
+- pkg:maven/com.github.lamydev/android-notification@2.0?classifier=sources
+- pkg:maven/com.github.lamydev/android-notification@2.0?type=aar
+- pkg:maven/com.github.lamydev/android-notification@3.0?classifier=sources
+- pkg:maven/com.github.lamydev/android-notification@3.0?type=aar

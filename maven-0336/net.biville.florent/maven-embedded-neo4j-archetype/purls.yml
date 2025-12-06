@@ -1,0 +1,1 @@
+- pkg:maven/net.biville.florent/maven-embedded-neo4j-archetype@1.0?classifier=sources

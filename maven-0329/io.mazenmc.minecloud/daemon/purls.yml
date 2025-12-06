@@ -1,0 +1,2 @@
+- pkg:maven/io.mazenmc.minecloud/daemon@1.0
+- pkg:maven/io.mazenmc.minecloud/daemon@1.0?classifier=sources

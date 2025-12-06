@@ -1,0 +1,2 @@
+- pkg:maven/com.fliptoo/playjpa_2.11@1.0-RELEASE
+- pkg:maven/com.fliptoo/playjpa_2.11@1.0-RELEASE?classifier=sources

@@ -3,3 +3,11 @@
 - pkg:maven/org.webjars/backbone-marionette@1.0.0-beta6-1?classifier=sources
 - pkg:maven/org.webjars/backbone-marionette@1.1.0
 - pkg:maven/org.webjars/backbone-marionette@1.1.0?classifier=sources
+- pkg:maven/org.webjars/backbone-marionette@2.0.1
+- pkg:maven/org.webjars/backbone-marionette@2.0.1?classifier=sources
+- pkg:maven/org.webjars/backbone-marionette@2.0.3
+- pkg:maven/org.webjars/backbone-marionette@2.0.3?classifier=sources
+- pkg:maven/org.webjars/backbone-marionette@2.4.0
+- pkg:maven/org.webjars/backbone-marionette@2.4.0?classifier=sources
+- pkg:maven/org.webjars/backbone-marionette@2.4.1
+- pkg:maven/org.webjars/backbone-marionette@2.4.1?classifier=sources

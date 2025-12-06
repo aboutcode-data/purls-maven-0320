@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/enhanced-resolve@0.8.6
+- pkg:maven/org.webjars.npm/enhanced-resolve@0.8.6?classifier=sources
+- pkg:maven/org.webjars.npm/enhanced-resolve@0.9.0
+- pkg:maven/org.webjars.npm/enhanced-resolve@0.9.0?classifier=sources

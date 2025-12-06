@@ -1,0 +1,2 @@
+- pkg:maven/org.onosproject/copycat@0.3.0.onos
+- pkg:maven/org.onosproject/copycat@0.3.0.onos?classifier=sources

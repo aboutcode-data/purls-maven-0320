@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.15
+- pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.15?classifier=sources

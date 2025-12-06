@@ -1,0 +1,2 @@
+- pkg:maven/org.jitsi/bccontrib@1.0
+- pkg:maven/org.jitsi/bccontrib@1.0?classifier=sources

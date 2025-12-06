@@ -1,0 +1,2 @@
+- pkg:maven/de.entera/gradle-relnotes-plugin@0.1.0
+- pkg:maven/de.entera/gradle-relnotes-plugin@0.1.0?classifier=sources

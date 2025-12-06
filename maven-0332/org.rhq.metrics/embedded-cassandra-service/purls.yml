@@ -1,0 +1,2 @@
+- pkg:maven/org.rhq.metrics/embedded-cassandra-service@0.2.6?classifier=sources
+- pkg:maven/org.rhq.metrics/embedded-cassandra-service@0.2.7?classifier=sources

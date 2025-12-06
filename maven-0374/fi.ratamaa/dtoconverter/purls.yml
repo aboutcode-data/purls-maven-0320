@@ -1,0 +1,4 @@
+- pkg:maven/fi.ratamaa/dtoconverter@2.0.2-RELEASE
+- pkg:maven/fi.ratamaa/dtoconverter@2.0.2-RELEASE?classifier=sources
+- pkg:maven/fi.ratamaa/dtoconverter@2.0.3-RELEASE
+- pkg:maven/fi.ratamaa/dtoconverter@2.0.3-RELEASE?classifier=sources

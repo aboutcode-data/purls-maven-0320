@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@0.5.0
 - pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@0.6.0
 - pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@0.7.0
+- pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@0.8.0
+- pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@1.0.0

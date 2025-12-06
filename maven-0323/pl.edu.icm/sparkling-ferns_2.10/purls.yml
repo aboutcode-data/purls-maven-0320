@@ -1,0 +1,4 @@
+- pkg:maven/pl.edu.icm/sparkling-ferns_2.10@0.1.0
+- pkg:maven/pl.edu.icm/sparkling-ferns_2.10@0.1.0?classifier=sources
+- pkg:maven/pl.edu.icm/sparkling-ferns_2.10@0.2.0
+- pkg:maven/pl.edu.icm/sparkling-ferns_2.10@0.2.0?classifier=sources

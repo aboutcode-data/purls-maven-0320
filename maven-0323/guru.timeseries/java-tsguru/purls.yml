@@ -1,0 +1,4 @@
+- pkg:maven/guru.timeseries/java-tsguru@1.0
+- pkg:maven/guru.timeseries/java-tsguru@1.0?classifier=sources
+- pkg:maven/guru.timeseries/java-tsguru@1.2
+- pkg:maven/guru.timeseries/java-tsguru@1.2?classifier=sources

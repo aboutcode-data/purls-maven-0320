@@ -1,0 +1,4 @@
+- pkg:maven/fr.lirmm.graphik/graal-store-test@0.8.7
+- pkg:maven/fr.lirmm.graphik/graal-store-test@0.9.0
+- pkg:maven/fr.lirmm.graphik/graal-store-test@1.0.0
+- pkg:maven/fr.lirmm.graphik/graal-store-test@1.0.1

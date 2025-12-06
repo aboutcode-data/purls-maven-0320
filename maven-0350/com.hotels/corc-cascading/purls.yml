@@ -1,0 +1,6 @@
+- pkg:maven/com.hotels/corc-cascading@1.0.0
+- pkg:maven/com.hotels/corc-cascading@1.0.0?classifier=sources
+- pkg:maven/com.hotels/corc-cascading@1.1.0
+- pkg:maven/com.hotels/corc-cascading@1.1.0?classifier=sources
+- pkg:maven/com.hotels/corc-cascading@2.0.0
+- pkg:maven/com.hotels/corc-cascading@2.0.0?classifier=sources

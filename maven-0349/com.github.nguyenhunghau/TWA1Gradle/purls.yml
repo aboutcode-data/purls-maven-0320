@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nguyenhunghau/TWA1Gradle@3.0.Alpha2?classifier=sources
+- pkg:maven/com.github.nguyenhunghau/TWA1Gradle@3.0.Alpha2?type=war

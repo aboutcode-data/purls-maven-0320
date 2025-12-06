@@ -10,3 +10,7 @@
 - pkg:maven/se.skltp.tk/tp-vagval-admin-services@1.4.0-RC1?type=war
 - pkg:maven/se.skltp.tk/tp-vagval-admin-services@1.4.0?classifier=sources
 - pkg:maven/se.skltp.tk/tp-vagval-admin-services@1.4.0?type=war
+- pkg:maven/se.skltp.tk/tp-vagval-admin-services@1.4.1-RC1?classifier=sources
+- pkg:maven/se.skltp.tk/tp-vagval-admin-services@1.4.1-RC1?type=war
+- pkg:maven/se.skltp.tk/tp-vagval-admin-services@1.4.1?classifier=sources
+- pkg:maven/se.skltp.tk/tp-vagval-admin-services@1.4.1?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/in.jlibs/org-openide-util@RELEASE65
+- pkg:maven/in.jlibs/org-openide-util@RELEASE65?classifier=sources

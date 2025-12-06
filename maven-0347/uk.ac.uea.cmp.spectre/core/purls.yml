@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.uea.cmp.spectre/core@0.4.0
+- pkg:maven/uk.ac.uea.cmp.spectre/core@0.4.0?classifier=sources

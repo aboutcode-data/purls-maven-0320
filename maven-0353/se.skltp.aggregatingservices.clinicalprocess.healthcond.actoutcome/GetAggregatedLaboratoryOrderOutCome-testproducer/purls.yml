@@ -1,0 +1,2 @@
+- pkg:maven/se.skltp.aggregatingservices.clinicalprocess.healthcond.actoutcome/GetAggregatedLaboratoryOrderOutCome-testproducer@1.0.0-RC5
+- pkg:maven/se.skltp.aggregatingservices.clinicalprocess.healthcond.actoutcome/GetAggregatedLaboratoryOrderOutCome-testproducer@1.0.0-RC5?classifier=sources

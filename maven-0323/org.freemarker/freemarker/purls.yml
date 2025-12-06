@@ -20,5 +20,11 @@
 - pkg:maven/org.freemarker/freemarker@2.3.19?classifier=sources
 - pkg:maven/org.freemarker/freemarker@2.3.20
 - pkg:maven/org.freemarker/freemarker@2.3.20?classifier=sources
+- pkg:maven/org.freemarker/freemarker@2.3.21
+- pkg:maven/org.freemarker/freemarker@2.3.21?classifier=sources
+- pkg:maven/org.freemarker/freemarker@2.3.22
+- pkg:maven/org.freemarker/freemarker@2.3.22?classifier=sources
+- pkg:maven/org.freemarker/freemarker@2.3.23
+- pkg:maven/org.freemarker/freemarker@2.3.23?classifier=sources
 - pkg:maven/org.freemarker/freemarker@2.3.9
 - pkg:maven/org.freemarker/freemarker@2.3.9?classifier=sources

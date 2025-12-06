@@ -1,0 +1,14 @@
+- pkg:maven/me.legrange/mikrotik@1.1.6
+- pkg:maven/me.legrange/mikrotik@1.1.6?classifier=sources
+- pkg:maven/me.legrange/mikrotik@2.0.0
+- pkg:maven/me.legrange/mikrotik@2.0.0?classifier=sources
+- pkg:maven/me.legrange/mikrotik@2.0.1
+- pkg:maven/me.legrange/mikrotik@2.0.1?classifier=sources
+- pkg:maven/me.legrange/mikrotik@2.0.2
+- pkg:maven/me.legrange/mikrotik@2.0.2?classifier=sources
+- pkg:maven/me.legrange/mikrotik@2.0.3
+- pkg:maven/me.legrange/mikrotik@2.0.3?classifier=sources
+- pkg:maven/me.legrange/mikrotik@2.1
+- pkg:maven/me.legrange/mikrotik@2.1?classifier=sources
+- pkg:maven/me.legrange/mikrotik@2.2
+- pkg:maven/me.legrange/mikrotik@2.2?classifier=sources

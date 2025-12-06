@@ -1,0 +1,2 @@
+- pkg:maven/com.mapzen.android/prefs-plus@1.0.0
+- pkg:maven/com.mapzen.android/prefs-plus@1.0.0?classifier=sources

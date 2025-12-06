@@ -10,3 +10,5 @@
 - pkg:maven/com.googlecode.the-fascinator.plugins/plugin-transformer-jsonVelocity-pdf@0.4?classifier=sources
 - pkg:maven/com.googlecode.the-fascinator.plugins/plugin-transformer-jsonVelocity-pdf@1.0
 - pkg:maven/com.googlecode.the-fascinator.plugins/plugin-transformer-jsonVelocity-pdf@1.0?classifier=sources
+- pkg:maven/com.googlecode.the-fascinator.plugins/plugin-transformer-jsonVelocity-pdf@1.1
+- pkg:maven/com.googlecode.the-fascinator.plugins/plugin-transformer-jsonVelocity-pdf@1.1?classifier=sources

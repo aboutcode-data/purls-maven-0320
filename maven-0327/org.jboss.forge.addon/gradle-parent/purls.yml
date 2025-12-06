@@ -1,1 +1,2 @@
+- pkg:maven/org.jboss.forge.addon/gradle-parent@2.12.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.addon/gradle-parent@2.3.0.Final?classifier=source-release&type=zip

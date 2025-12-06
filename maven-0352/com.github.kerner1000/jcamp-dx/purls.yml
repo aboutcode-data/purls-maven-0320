@@ -1,0 +1,6 @@
+- pkg:maven/com.github.kerner1000/jcamp-dx@0.10.2
+- pkg:maven/com.github.kerner1000/jcamp-dx@0.10.2?classifier=sources
+- pkg:maven/com.github.kerner1000/jcamp-dx@0.10.3
+- pkg:maven/com.github.kerner1000/jcamp-dx@0.10.3?classifier=sources
+- pkg:maven/com.github.kerner1000/jcamp-dx@0.10.5
+- pkg:maven/com.github.kerner1000/jcamp-dx@0.10.5?classifier=sources

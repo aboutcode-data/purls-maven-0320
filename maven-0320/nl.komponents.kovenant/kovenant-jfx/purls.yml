@@ -1,0 +1,12 @@
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.4.0
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.4.0?classifier=sources
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.5.0
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.5.0?classifier=sources
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.6.0
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.6.0?classifier=sources
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.7.0
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.7.0?classifier=sources
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.8.0
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.8.0?classifier=sources
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.9.0
+- pkg:maven/nl.komponents.kovenant/kovenant-jfx@2.9.0?classifier=sources

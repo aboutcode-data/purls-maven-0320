@@ -1,0 +1,2 @@
+- pkg:maven/com.github.slezier/sft-core@1.10
+- pkg:maven/com.github.slezier/sft-core@1.10?classifier=sources

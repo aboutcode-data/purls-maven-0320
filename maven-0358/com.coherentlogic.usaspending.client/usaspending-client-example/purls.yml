@@ -2,3 +2,5 @@
 - pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-example@0.8.0?classifier=sources
 - pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-example@0.8.1-RELEASE
 - pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-example@0.8.1-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-example@1.0.1-RELEASE
+- pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-example@1.0.1-RELEASE?classifier=sources

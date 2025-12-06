@@ -1,0 +1,2 @@
+- pkg:maven/com.xebia/jackson-lombok@1.0
+- pkg:maven/com.xebia/jackson-lombok@1.0?classifier=sources

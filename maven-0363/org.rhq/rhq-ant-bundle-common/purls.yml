@@ -14,6 +14,12 @@
 - pkg:maven/org.rhq/rhq-ant-bundle-common@4.0.1?type=zip
 - pkg:maven/org.rhq/rhq-ant-bundle-common@4.10.0?classifier=sources
 - pkg:maven/org.rhq/rhq-ant-bundle-common@4.10.0?type=zip
+- pkg:maven/org.rhq/rhq-ant-bundle-common@4.11.0?classifier=sources
+- pkg:maven/org.rhq/rhq-ant-bundle-common@4.11.0?type=zip
+- pkg:maven/org.rhq/rhq-ant-bundle-common@4.12.0?classifier=sources
+- pkg:maven/org.rhq/rhq-ant-bundle-common@4.12.0?type=zip
+- pkg:maven/org.rhq/rhq-ant-bundle-common@4.13.0?classifier=sources
+- pkg:maven/org.rhq/rhq-ant-bundle-common@4.13.0?type=zip
 - pkg:maven/org.rhq/rhq-ant-bundle-common@4.2.0?classifier=sources
 - pkg:maven/org.rhq/rhq-ant-bundle-common@4.2.0?type=zip
 - pkg:maven/org.rhq/rhq-ant-bundle-common@4.3.0?classifier=sources

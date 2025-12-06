@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/parquet-scala@1.6.0rc1
+- pkg:maven/com.twitter/parquet-scala@1.6.0rc1?classifier=sources

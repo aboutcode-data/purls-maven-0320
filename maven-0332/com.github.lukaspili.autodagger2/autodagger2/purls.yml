@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lukaspili.autodagger2/autodagger2@1.1
+- pkg:maven/com.github.lukaspili.autodagger2/autodagger2@1.1?classifier=sources

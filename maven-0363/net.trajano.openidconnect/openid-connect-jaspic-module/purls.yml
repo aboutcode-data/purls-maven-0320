@@ -1,0 +1,2 @@
+- pkg:maven/net.trajano.openidconnect/openid-connect-jaspic-module@1.0.1
+- pkg:maven/net.trajano.openidconnect/openid-connect-jaspic-module@1.0.1?classifier=sources

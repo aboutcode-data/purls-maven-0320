@@ -1,0 +1,2 @@
+- pkg:maven/com.ddfplus.jaws/ddfplus-examples@1.0.2
+- pkg:maven/com.ddfplus.jaws/ddfplus-examples@1.0.2?classifier=sources

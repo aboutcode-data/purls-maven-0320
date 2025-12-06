@@ -1,0 +1,2 @@
+- pkg:maven/com.signalfuse.public/signalfuse-dropwizard@0.0.7
+- pkg:maven/com.signalfuse.public/signalfuse-dropwizard@0.0.7?classifier=sources

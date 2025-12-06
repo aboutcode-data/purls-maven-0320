@@ -1,0 +1,2 @@
+- pkg:maven/com.github.abj351r7/wechat-java-sdk@1.0.1
+- pkg:maven/com.github.abj351r7/wechat-java-sdk@1.0.1?classifier=sources

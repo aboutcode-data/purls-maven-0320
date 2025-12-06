@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.tagbangers/jgroups-s3-client-ping@1.0.0
+- pkg:maven/jp.co.tagbangers/jgroups-s3-client-ping@1.0.0?classifier=sources

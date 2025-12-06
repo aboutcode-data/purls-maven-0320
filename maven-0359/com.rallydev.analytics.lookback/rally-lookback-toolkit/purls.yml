@@ -1,0 +1,2 @@
+- pkg:maven/com.rallydev.analytics.lookback/rally-lookback-toolkit@1.0.0
+- pkg:maven/com.rallydev.analytics.lookback/rally-lookback-toolkit@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.riotopsys.factotum/factotum@0.0.0
+- pkg:maven/net.riotopsys.factotum/factotum@0.0.0?classifier=sources
+- pkg:maven/net.riotopsys.factotum/factotum@1.0.0
+- pkg:maven/net.riotopsys.factotum/factotum@1.0.0?classifier=sources

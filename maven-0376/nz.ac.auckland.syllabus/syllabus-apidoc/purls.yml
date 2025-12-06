@@ -1,2 +1,4 @@
 - pkg:maven/nz.ac.auckland.syllabus/syllabus-apidoc@1.1
 - pkg:maven/nz.ac.auckland.syllabus/syllabus-apidoc@1.1?classifier=sources
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-apidoc@2.1
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-apidoc@2.1?classifier=sources

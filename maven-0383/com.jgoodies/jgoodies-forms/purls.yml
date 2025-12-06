@@ -4,3 +4,7 @@
 - pkg:maven/com.jgoodies/jgoodies-forms@1.7.1?classifier=sources
 - pkg:maven/com.jgoodies/jgoodies-forms@1.7.2
 - pkg:maven/com.jgoodies/jgoodies-forms@1.7.2?classifier=sources
+- pkg:maven/com.jgoodies/jgoodies-forms@1.8.0
+- pkg:maven/com.jgoodies/jgoodies-forms@1.8.0?classifier=sources
+- pkg:maven/com.jgoodies/jgoodies-forms@1.9.0
+- pkg:maven/com.jgoodies/jgoodies-forms@1.9.0?classifier=sources

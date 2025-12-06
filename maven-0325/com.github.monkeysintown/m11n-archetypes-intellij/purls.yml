@@ -1,0 +1,2 @@
+- pkg:maven/com.github.monkeysintown/m11n-archetypes-intellij@1.0.4?classifier=sources
+- pkg:maven/com.github.monkeysintown/m11n-archetypes-intellij@1.0.5?classifier=sources

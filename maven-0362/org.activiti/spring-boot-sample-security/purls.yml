@@ -1,0 +1,4 @@
+- pkg:maven/org.activiti/spring-boot-sample-security@5.17.0
+- pkg:maven/org.activiti/spring-boot-sample-security@5.18.0
+- pkg:maven/org.activiti/spring-boot-sample-security@5.19.0
+- pkg:maven/org.activiti/spring-boot-sample-security@6.0.0.Beta1

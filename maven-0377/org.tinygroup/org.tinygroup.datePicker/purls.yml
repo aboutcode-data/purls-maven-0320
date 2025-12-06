@@ -1,0 +1,4 @@
+- pkg:maven/org.tinygroup/org.tinygroup.datePicker@2.0.10
+- pkg:maven/org.tinygroup/org.tinygroup.datePicker@2.0.10?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.datePicker@2.0.16
+- pkg:maven/org.tinygroup/org.tinygroup.datePicker@2.0.16?classifier=sources

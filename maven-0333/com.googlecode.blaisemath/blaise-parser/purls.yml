@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.blaisemath/blaise-parser@0.6.3
+- pkg:maven/com.googlecode.blaisemath/blaise-parser@0.6.3?classifier=sources

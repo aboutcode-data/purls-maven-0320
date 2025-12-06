@@ -1,0 +1,2 @@
+- pkg:maven/com.yahoo.mobile.client.android.util.rangeseekbar/rangeseekbar-library@0.1.0?classifier=sources
+- pkg:maven/com.yahoo.mobile.client.android.util.rangeseekbar/rangeseekbar-library@0.1.0?type=aar

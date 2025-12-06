@@ -11,6 +11,10 @@
 - pkg:maven/com.eriwen/gradle-css-plugin@1.1.1?classifier=sources
 - pkg:maven/com.eriwen/gradle-css-plugin@1.1.2
 - pkg:maven/com.eriwen/gradle-css-plugin@1.1.2?classifier=sources
+- pkg:maven/com.eriwen/gradle-css-plugin@1.11.0
+- pkg:maven/com.eriwen/gradle-css-plugin@1.11.0?classifier=sources
+- pkg:maven/com.eriwen/gradle-css-plugin@1.11.1
+- pkg:maven/com.eriwen/gradle-css-plugin@1.11.1?classifier=sources
 - pkg:maven/com.eriwen/gradle-css-plugin@1.1?classifier=sources
 - pkg:maven/com.eriwen/gradle-css-plugin@1.2.1
 - pkg:maven/com.eriwen/gradle-css-plugin@1.2.1?classifier=sources

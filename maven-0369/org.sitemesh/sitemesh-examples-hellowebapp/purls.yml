@@ -1,2 +1,4 @@
 - pkg:maven/org.sitemesh/sitemesh-examples-hellowebapp@3.0-alpha-1?type=war
 - pkg:maven/org.sitemesh/sitemesh-examples-hellowebapp@3.0-alpha-2?type=war
+- pkg:maven/org.sitemesh/sitemesh-examples-hellowebapp@3.0.0?type=war
+- pkg:maven/org.sitemesh/sitemesh-examples-hellowebapp@3.0.1?type=war

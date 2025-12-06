@@ -1,0 +1,2 @@
+- pkg:maven/nu.jibe/jibe-tools-testing@0.6.2
+- pkg:maven/nu.jibe/jibe-tools-testing@0.6.2?classifier=sources

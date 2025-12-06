@@ -1,0 +1,3 @@
+- pkg:maven/com.spotxchange/spotx-sdk-android@1.0.1?type=aar
+- pkg:maven/com.spotxchange/spotx-sdk-android@1.0.2?type=aar
+- pkg:maven/com.spotxchange/spotx-sdk-android@2.0.0?type=aar

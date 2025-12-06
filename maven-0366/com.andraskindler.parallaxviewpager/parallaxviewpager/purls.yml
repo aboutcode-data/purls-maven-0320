@@ -1,0 +1,10 @@
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.1.2?classifier=sources
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.1.2?type=aar
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.2.0?classifier=sources
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.2.0?type=aar
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.2.1?classifier=sources
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.2.1?type=aar
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.3.0?classifier=sources
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.3.0?type=aar
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.3.1?classifier=sources
+- pkg:maven/com.andraskindler.parallaxviewpager/parallaxviewpager@0.3.1?type=aar

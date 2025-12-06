@@ -1,0 +1,14 @@
+- pkg:maven/io.netty/netty-testsuite-osgi@4.0.26.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.0.27.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.0.28.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.0.29.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.0.30.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.0.31.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.0.32.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.0.33.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.1.0.Beta4
+- pkg:maven/io.netty/netty-testsuite-osgi@4.1.0.Beta5
+- pkg:maven/io.netty/netty-testsuite-osgi@4.1.0.Beta6
+- pkg:maven/io.netty/netty-testsuite-osgi@4.1.0.Beta7
+- pkg:maven/io.netty/netty-testsuite-osgi@4.1.0.Beta8
+- pkg:maven/io.netty/netty-testsuite-osgi@5.0.0.Alpha2

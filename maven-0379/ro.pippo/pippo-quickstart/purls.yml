@@ -1,0 +1,4 @@
+- pkg:maven/ro.pippo/pippo-quickstart@0.5.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-quickstart@0.6.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-quickstart@0.6.1?classifier=sources
+- pkg:maven/ro.pippo/pippo-quickstart@0.7.0?classifier=sources

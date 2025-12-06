@@ -1,0 +1,16 @@
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.35-RC0
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.35-RC0?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.35-RC1
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.35-RC1?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.35-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.35-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.36-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.36-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.45-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.45-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.55-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.55-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.65-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.65-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.75-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-nativetools@1.0.75-RELEASE?classifier=sources

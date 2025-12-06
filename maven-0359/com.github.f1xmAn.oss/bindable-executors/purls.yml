@@ -1,0 +1,2 @@
+- pkg:maven/com.github.f1xmAn.oss/bindable-executors@1.0
+- pkg:maven/com.github.f1xmAn.oss/bindable-executors@1.0?classifier=sources

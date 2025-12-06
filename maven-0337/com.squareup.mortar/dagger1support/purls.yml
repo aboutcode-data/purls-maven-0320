@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.mortar/dagger1support@0.17
+- pkg:maven/com.squareup.mortar/dagger1support@0.17?classifier=sources

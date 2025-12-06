@@ -28,3 +28,5 @@
 - pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.logback.appender.multiplex-classic-xml@0.9.42?classifier=sources
 - pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.logback.appender.multiplex-classic-xml@0.9.43
 - pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.logback.appender.multiplex-classic-xml@0.9.43?classifier=sources
+- pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.logback.appender.multiplex-classic-xml@0.9.44
+- pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.logback.appender.multiplex-classic-xml@0.9.44?classifier=sources

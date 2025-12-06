@@ -1,0 +1,2 @@
+- pkg:maven/com.github.luccappellaro/jzopfli-mvn@0.0.4
+- pkg:maven/com.github.luccappellaro/jzopfli-mvn@0.0.4?classifier=sources

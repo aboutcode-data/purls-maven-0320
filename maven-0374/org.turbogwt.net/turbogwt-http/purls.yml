@@ -1,1 +1,2 @@
 - pkg:maven/org.turbogwt.net/turbogwt-http@0.3.0
+- pkg:maven/org.turbogwt.net/turbogwt-http@0.3.0?classifier=sources

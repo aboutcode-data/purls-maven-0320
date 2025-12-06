@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ssedano/jump-consistent-hash@1.0.0
+- pkg:maven/com.github.ssedano/jump-consistent-hash@1.0.0?classifier=sources

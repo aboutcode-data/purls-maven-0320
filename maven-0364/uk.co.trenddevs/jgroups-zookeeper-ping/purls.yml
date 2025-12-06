@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.trenddevs/jgroups-zookeeper-ping@1.0.0
+- pkg:maven/uk.co.trenddevs/jgroups-zookeeper-ping@1.0.0?classifier=sources

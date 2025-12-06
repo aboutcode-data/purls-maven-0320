@@ -1,0 +1,4 @@
+- pkg:maven/com.englishtown.vertx/vertx-jersey-swagger@4.1.0
+- pkg:maven/com.englishtown.vertx/vertx-jersey-swagger@4.1.0?classifier=sources
+- pkg:maven/com.englishtown.vertx/vertx-jersey-swagger@4.2.0
+- pkg:maven/com.englishtown.vertx/vertx-jersey-swagger@4.2.0?classifier=sources

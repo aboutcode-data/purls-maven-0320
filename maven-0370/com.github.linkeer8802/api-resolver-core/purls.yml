@@ -1,0 +1,2 @@
+- pkg:maven/com.github.linkeer8802/api-resolver-core@1.0
+- pkg:maven/com.github.linkeer8802/api-resolver-core@1.0?classifier=sources

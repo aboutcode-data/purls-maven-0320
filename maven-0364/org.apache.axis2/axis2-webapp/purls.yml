@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.axis2/axis2-webapp@1.6.1?type=war
 - pkg:maven/org.apache.axis2/axis2-webapp@1.6.2?classifier=sources
 - pkg:maven/org.apache.axis2/axis2-webapp@1.6.2?type=war
+- pkg:maven/org.apache.axis2/axis2-webapp@1.6.3?classifier=sources
+- pkg:maven/org.apache.axis2/axis2-webapp@1.6.3?type=war

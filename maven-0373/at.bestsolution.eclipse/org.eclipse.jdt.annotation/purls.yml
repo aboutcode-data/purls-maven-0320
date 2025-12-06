@@ -1,0 +1,2 @@
+- pkg:maven/at.bestsolution.eclipse/org.eclipse.jdt.annotation@2.0.100
+- pkg:maven/at.bestsolution.eclipse/org.eclipse.jdt.annotation@2.0.100?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.xiaomi.infra/chronos-client@1.0.0-thrift0.8.0
+- pkg:maven/com.xiaomi.infra/chronos-client@1.0.0-thrift0.8.0?classifier=sources
+- pkg:maven/com.xiaomi.infra/chronos-client@1.0.1-thrift0.8.0
+- pkg:maven/com.xiaomi.infra/chronos-client@1.0.1-thrift0.8.0?classifier=sources

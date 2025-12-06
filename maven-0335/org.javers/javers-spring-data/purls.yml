@@ -1,0 +1,4 @@
+- pkg:maven/org.javers/javers-spring-data@1.0.7
+- pkg:maven/org.javers/javers-spring-data@1.0.7?classifier=sources
+- pkg:maven/org.javers/javers-spring-data@1.1.0-RC1
+- pkg:maven/org.javers/javers-spring-data@1.1.0-RC1?classifier=sources

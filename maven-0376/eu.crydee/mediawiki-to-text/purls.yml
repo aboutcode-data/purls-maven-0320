@@ -1,0 +1,4 @@
+- pkg:maven/eu.crydee/mediawiki-to-text@1.0.0
+- pkg:maven/eu.crydee/mediawiki-to-text@1.0.0?classifier=sources
+- pkg:maven/eu.crydee/mediawiki-to-text@1.1.0
+- pkg:maven/eu.crydee/mediawiki-to-text@1.1.0?classifier=sources

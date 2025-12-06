@@ -1,2 +1,6 @@
 - pkg:maven/net.adamcin.recap/net.adamcin.recap.core@0.8.0
 - pkg:maven/net.adamcin.recap/net.adamcin.recap.core@0.8.0?classifier=sources
+- pkg:maven/net.adamcin.recap/net.adamcin.recap.core@1.0.0
+- pkg:maven/net.adamcin.recap/net.adamcin.recap.core@1.0.0?classifier=sources
+- pkg:maven/net.adamcin.recap/net.adamcin.recap.core@1.0.1
+- pkg:maven/net.adamcin.recap/net.adamcin.recap.core@1.0.1?classifier=sources

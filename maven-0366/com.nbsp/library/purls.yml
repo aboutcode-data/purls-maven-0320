@@ -1,0 +1,4 @@
+- pkg:maven/com.nbsp/library@1.01?classifier=sources
+- pkg:maven/com.nbsp/library@1.01?type=aar
+- pkg:maven/com.nbsp/library@1.0?classifier=sources
+- pkg:maven/com.nbsp/library@1.0?type=aar

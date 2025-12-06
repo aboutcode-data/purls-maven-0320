@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-monitor-installer@0.11.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-monitor-installer@0.11.1.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-monitor-installer@0.11.2.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-monitor-installer@0.11.2.Final?classifier=sources

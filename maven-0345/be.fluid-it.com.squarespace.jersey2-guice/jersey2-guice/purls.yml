@@ -1,0 +1,2 @@
+- pkg:maven/be.fluid-it.com.squarespace.jersey2-guice/jersey2-guice@0.10-fix
+- pkg:maven/be.fluid-it.com.squarespace.jersey2-guice/jersey2-guice@0.10-fix?classifier=sources

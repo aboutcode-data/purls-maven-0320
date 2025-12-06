@@ -1,0 +1,4 @@
+- pkg:maven/org.daisy.pipeline.modules/epub3-to-ssml@1.0.0
+- pkg:maven/org.daisy.pipeline.modules/epub3-to-ssml@1.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/epub3-to-ssml@2.0.0
+- pkg:maven/org.daisy.pipeline.modules/epub3-to-ssml@2.0.0?classifier=sources

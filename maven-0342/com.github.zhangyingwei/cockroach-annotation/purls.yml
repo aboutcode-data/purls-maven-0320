@@ -1,0 +1,3 @@
+- pkg:maven/com.github.zhangyingwei/cockroach-annotation@1.0.5.04-Beta?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach-annotation@1.0.6-Beta
+- pkg:maven/com.github.zhangyingwei/cockroach-annotation@1.0.6-Beta?classifier=sources

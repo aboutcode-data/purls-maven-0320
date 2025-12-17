@@ -1,0 +1,2 @@
+- pkg:maven/de.dentrassi.camel/de.dentrassi.camel.utgard@0.1.0
+- pkg:maven/de.dentrassi.camel/de.dentrassi.camel.utgard@0.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.spotify/folsom-semantic-metrics@1.0.0
 - pkg:maven/com.spotify/folsom-semantic-metrics@1.0.0?classifier=sources
+- pkg:maven/com.spotify/folsom-semantic-metrics@1.1.0
+- pkg:maven/com.spotify/folsom-semantic-metrics@1.1.0?classifier=sources

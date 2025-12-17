@@ -12,3 +12,5 @@
 - pkg:maven/com.github.spt-oss/spring-boot-starter-data-jpa-plus@0.5.0?classifier=sources
 - pkg:maven/com.github.spt-oss/spring-boot-starter-data-jpa-plus@0.5.1
 - pkg:maven/com.github.spt-oss/spring-boot-starter-data-jpa-plus@0.5.1?classifier=sources
+- pkg:maven/com.github.spt-oss/spring-boot-starter-data-jpa-plus@2.0.2.0
+- pkg:maven/com.github.spt-oss/spring-boot-starter-data-jpa-plus@2.0.2.0?classifier=sources

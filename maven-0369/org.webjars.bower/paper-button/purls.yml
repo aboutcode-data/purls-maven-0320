@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bower/paper-button@1.0.15
+- pkg:maven/org.webjars.bower/paper-button@1.0.15?classifier=sources
 - pkg:maven/org.webjars.bower/paper-button@2.0.0
 - pkg:maven/org.webjars.bower/paper-button@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/paper-button@2.1.0
+- pkg:maven/org.webjars.bower/paper-button@2.1.0?classifier=sources

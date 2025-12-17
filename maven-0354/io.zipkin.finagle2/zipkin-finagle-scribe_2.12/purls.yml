@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.12@2.0.0
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.12@2.0.0?classifier=sources

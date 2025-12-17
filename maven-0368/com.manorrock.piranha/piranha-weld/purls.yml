@@ -1,0 +1,4 @@
+- pkg:maven/com.manorrock.piranha/piranha-weld@4.0.0.2
+- pkg:maven/com.manorrock.piranha/piranha-weld@4.0.0.2?classifier=sources
+- pkg:maven/com.manorrock.piranha/piranha-weld@4.0.1.0
+- pkg:maven/com.manorrock.piranha/piranha-weld@4.0.1.0?classifier=sources

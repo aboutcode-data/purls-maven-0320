@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mumath@3.3.4
+- pkg:maven/org.webjars.npm/mumath@3.3.4?classifier=sources

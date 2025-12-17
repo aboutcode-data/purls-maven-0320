@@ -1,0 +1,2 @@
+- pkg:maven/com.virjar/vscrawler-web-api@0.3.0
+- pkg:maven/com.virjar/vscrawler-web-api@0.3.0?classifier=sources

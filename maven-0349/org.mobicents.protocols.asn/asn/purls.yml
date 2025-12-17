@@ -28,6 +28,8 @@
 - pkg:maven/org.mobicents.protocols.asn/asn@2.1.9?classifier=sources
 - pkg:maven/org.mobicents.protocols.asn/asn@2.2.0-11
 - pkg:maven/org.mobicents.protocols.asn/asn@2.2.0-11?classifier=sources
+- pkg:maven/org.mobicents.protocols.asn/asn@2.2.0-143
+- pkg:maven/org.mobicents.protocols.asn/asn@2.2.0-143?classifier=sources
 - pkg:maven/org.mobicents.protocols.asn/asn@2.2.0-16
 - pkg:maven/org.mobicents.protocols.asn/asn@2.2.0-16?classifier=sources
 - pkg:maven/org.mobicents.protocols.asn/asn@2.2.0-19

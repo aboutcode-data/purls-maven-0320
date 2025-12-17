@@ -121,6 +121,8 @@
 - pkg:maven/io.fabric8.forge/fabric8-generator@1.0.75?classifier=sources
 - pkg:maven/io.fabric8.forge/fabric8-generator@1.0.76
 - pkg:maven/io.fabric8.forge/fabric8-generator@1.0.76?classifier=sources
+- pkg:maven/io.fabric8.forge/fabric8-generator@1.0.77
+- pkg:maven/io.fabric8.forge/fabric8-generator@1.0.77?classifier=sources
 - pkg:maven/io.fabric8.forge/fabric8-generator@1.0.7?classifier=sources
 - pkg:maven/io.fabric8.forge/fabric8-generator@1.0.8
 - pkg:maven/io.fabric8.forge/fabric8-generator@1.0.8?classifier=sources

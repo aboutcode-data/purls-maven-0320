@@ -18,3 +18,5 @@
 - pkg:maven/org.sosy-lab/java-smt@1.0.0?classifier=sources
 - pkg:maven/org.sosy-lab/java-smt@1.0.1
 - pkg:maven/org.sosy-lab/java-smt@1.0.1?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@2.0.0-alpha-43-g775a9d3
+- pkg:maven/org.sosy-lab/java-smt@2.0.0-alpha-43-g775a9d3?classifier=sources

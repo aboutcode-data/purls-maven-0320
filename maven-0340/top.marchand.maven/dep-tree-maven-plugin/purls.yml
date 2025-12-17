@@ -1,0 +1,2 @@
+- pkg:maven/top.marchand.maven/dep-tree-maven-plugin@1.0.0
+- pkg:maven/top.marchand.maven/dep-tree-maven-plugin@1.0.0?classifier=sources

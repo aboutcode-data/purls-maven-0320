@@ -1,0 +1,2 @@
+- pkg:maven/com.orange.webcom/sdk-android@1.1.2?classifier=sources
+- pkg:maven/com.orange.webcom/sdk-android@1.1.2?type=aar

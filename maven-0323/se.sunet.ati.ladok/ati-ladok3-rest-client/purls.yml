@@ -6,3 +6,7 @@
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-rest-client@0.84?classifier=sources
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-rest-client@1.0.0
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-rest-client@1.0.0?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-rest-client@1.1.0
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-rest-client@1.1.0?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-rest-client@1.2.0
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-rest-client@1.2.0?classifier=sources

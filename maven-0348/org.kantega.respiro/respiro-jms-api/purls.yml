@@ -10,6 +10,14 @@
 - pkg:maven/org.kantega.respiro/respiro-jms-api@1.8.1
 - pkg:maven/org.kantega.respiro/respiro-jms-api@2.0
 - pkg:maven/org.kantega.respiro/respiro-jms-api@2.1
+- pkg:maven/org.kantega.respiro/respiro-jms-api@2.10
+- pkg:maven/org.kantega.respiro/respiro-jms-api@2.11
+- pkg:maven/org.kantega.respiro/respiro-jms-api@2.12
+- pkg:maven/org.kantega.respiro/respiro-jms-api@2.13
+- pkg:maven/org.kantega.respiro/respiro-jms-api@2.14
+- pkg:maven/org.kantega.respiro/respiro-jms-api@2.15
+- pkg:maven/org.kantega.respiro/respiro-jms-api@2.16
+- pkg:maven/org.kantega.respiro/respiro-jms-api@2.17.2
 - pkg:maven/org.kantega.respiro/respiro-jms-api@2.2
 - pkg:maven/org.kantega.respiro/respiro-jms-api@2.3
 - pkg:maven/org.kantega.respiro/respiro-jms-api@2.4

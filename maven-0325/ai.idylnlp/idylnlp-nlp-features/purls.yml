@@ -1,0 +1,2 @@
+- pkg:maven/ai.idylnlp/idylnlp-nlp-features@1.1.0
+- pkg:maven/ai.idylnlp/idylnlp-nlp-features@1.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/spdy@2.0.0-rc4
+- pkg:maven/org.webjars.npm/spdy@2.0.0-rc4?classifier=sources
+- pkg:maven/org.webjars.npm/spdy@3.4.7
+- pkg:maven/org.webjars.npm/spdy@3.4.7?classifier=sources

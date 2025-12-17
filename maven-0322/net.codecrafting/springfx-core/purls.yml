@@ -1,0 +1,4 @@
+- pkg:maven/net.codecrafting/springfx-core@0.1.0-BETA2
+- pkg:maven/net.codecrafting/springfx-core@0.1.0-BETA2?classifier=sources
+- pkg:maven/net.codecrafting/springfx-core@0.1.0-beta
+- pkg:maven/net.codecrafting/springfx-core@0.1.0-beta?classifier=sources

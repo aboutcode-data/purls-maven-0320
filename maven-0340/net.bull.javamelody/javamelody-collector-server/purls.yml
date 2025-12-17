@@ -12,3 +12,6 @@
 - pkg:maven/net.bull.javamelody/javamelody-collector-server@1.68.0?type=war
 - pkg:maven/net.bull.javamelody/javamelody-collector-server@1.69.0?type=war
 - pkg:maven/net.bull.javamelody/javamelody-collector-server@1.70.0?type=war
+- pkg:maven/net.bull.javamelody/javamelody-collector-server@1.71.0?type=war
+- pkg:maven/net.bull.javamelody/javamelody-collector-server@1.72.0?type=war
+- pkg:maven/net.bull.javamelody/javamelody-collector-server@1.73.0?type=war

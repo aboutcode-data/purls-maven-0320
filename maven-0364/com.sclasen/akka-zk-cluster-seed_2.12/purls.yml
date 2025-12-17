@@ -1,2 +1,4 @@
+- pkg:maven/com.sclasen/akka-zk-cluster-seed_2.12@0.1.10
+- pkg:maven/com.sclasen/akka-zk-cluster-seed_2.12@0.1.10?classifier=sources
 - pkg:maven/com.sclasen/akka-zk-cluster-seed_2.12@0.1.9
 - pkg:maven/com.sclasen/akka-zk-cluster-seed_2.12@0.1.9?classifier=sources

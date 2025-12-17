@@ -1,0 +1,2 @@
+- pkg:maven/it.polimi.genomics/GMQL-Spark@4.0
+- pkg:maven/it.polimi.genomics/GMQL-Spark@4.0?classifier=sources

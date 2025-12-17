@@ -24,6 +24,8 @@
 - pkg:maven/org.webjars.bower/webcomponentsjs@0.7.2?classifier=sources
 - pkg:maven/org.webjars.bower/webcomponentsjs@1.0.14
 - pkg:maven/org.webjars.bower/webcomponentsjs@1.0.14?classifier=sources
+- pkg:maven/org.webjars.bower/webcomponentsjs@1.0.19
+- pkg:maven/org.webjars.bower/webcomponentsjs@1.0.19?classifier=sources
 - pkg:maven/org.webjars.bower/webcomponentsjs@1.0.2
 - pkg:maven/org.webjars.bower/webcomponentsjs@1.0.22
 - pkg:maven/org.webjars.bower/webcomponentsjs@1.0.22?classifier=sources
@@ -32,3 +34,7 @@
 - pkg:maven/org.webjars.bower/webcomponentsjs@1.0.7?classifier=sources
 - pkg:maven/org.webjars.bower/webcomponentsjs@1.0.8
 - pkg:maven/org.webjars.bower/webcomponentsjs@1.0.8?classifier=sources
+- pkg:maven/org.webjars.bower/webcomponentsjs@1.1.0
+- pkg:maven/org.webjars.bower/webcomponentsjs@1.1.0?classifier=sources
+- pkg:maven/org.webjars.bower/webcomponentsjs@1.2.0
+- pkg:maven/org.webjars.bower/webcomponentsjs@1.2.0?classifier=sources

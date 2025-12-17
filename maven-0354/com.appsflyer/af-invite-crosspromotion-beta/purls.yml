@@ -1,0 +1,4 @@
+- pkg:maven/com.appsflyer/af-invite-crosspromotion-beta@4.8.7-rc1?classifier=sources
+- pkg:maven/com.appsflyer/af-invite-crosspromotion-beta@4.8.7-rc1?type=aar
+- pkg:maven/com.appsflyer/af-invite-crosspromotion-beta@4.8.7?classifier=sources
+- pkg:maven/com.appsflyer/af-invite-crosspromotion-beta@4.8.7?type=aar

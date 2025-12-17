@@ -5,3 +5,6 @@
 - pkg:maven/org.wso2.iot/iot-devicetype-archetype@3.1.0-UPDATE8?classifier=sources
 - pkg:maven/org.wso2.iot/iot-devicetype-archetype@3.1.0-UPDATE9?classifier=sources
 - pkg:maven/org.wso2.iot/iot-devicetype-archetype@3.1.0-update10?classifier=sources
+- pkg:maven/org.wso2.iot/iot-devicetype-archetype@3.1.0-update11?classifier=sources
+- pkg:maven/org.wso2.iot/iot-devicetype-archetype@3.2.0?classifier=sources
+- pkg:maven/org.wso2.iot/iot-devicetype-archetype@3.3.0?classifier=sources

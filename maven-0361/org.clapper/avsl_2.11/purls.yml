@@ -12,6 +12,8 @@
 - pkg:maven/org.clapper/avsl_2.11@1.0.15?classifier=sources
 - pkg:maven/org.clapper/avsl_2.11@1.0.16
 - pkg:maven/org.clapper/avsl_2.11@1.0.16?classifier=sources
+- pkg:maven/org.clapper/avsl_2.11@1.0.18
+- pkg:maven/org.clapper/avsl_2.11@1.0.18?classifier=sources
 - pkg:maven/org.clapper/avsl_2.11@1.0.2
 - pkg:maven/org.clapper/avsl_2.11@1.0.2?classifier=sources
 - pkg:maven/org.clapper/avsl_2.11@1.0.3

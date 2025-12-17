@@ -1,0 +1,2 @@
+- pkg:maven/com.github.albfernandez/jboss-el@1.1.0
+- pkg:maven/com.github.albfernandez/jboss-el@1.1.0?classifier=sources

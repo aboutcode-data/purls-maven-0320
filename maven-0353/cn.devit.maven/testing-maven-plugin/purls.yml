@@ -1,0 +1,2 @@
+- pkg:maven/cn.devit.maven/testing-maven-plugin@0.0.1
+- pkg:maven/cn.devit.maven/testing-maven-plugin@0.0.1?classifier=sources

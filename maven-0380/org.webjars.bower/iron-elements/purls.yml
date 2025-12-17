@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars.bower/iron-elements@0.8.0
+- pkg:maven/org.webjars.bower/iron-elements@0.8.0?classifier=sources
+- pkg:maven/org.webjars.bower/iron-elements@1.0.0
+- pkg:maven/org.webjars.bower/iron-elements@1.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/iron-elements@1.0.10
 - pkg:maven/org.webjars.bower/iron-elements@1.0.10?classifier=sources
 - pkg:maven/org.webjars.bower/iron-elements@1.0.3

@@ -1,0 +1,2 @@
+- pkg:maven/fr.bmartel/bboxapi-stb-android@1.0.3?classifier=sources
+- pkg:maven/fr.bmartel/bboxapi-stb-android@1.0.3?type=aar

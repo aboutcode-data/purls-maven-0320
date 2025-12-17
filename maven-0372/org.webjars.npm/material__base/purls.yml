@@ -20,3 +20,9 @@
 - pkg:maven/org.webjars.npm/material__base@0.2.6?classifier=sources
 - pkg:maven/org.webjars.npm/material__base@0.24.0
 - pkg:maven/org.webjars.npm/material__base@0.24.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__base@0.29.0
+- pkg:maven/org.webjars.npm/material__base@0.29.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__base@0.34.0
+- pkg:maven/org.webjars.npm/material__base@0.34.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__base@0.35.0
+- pkg:maven/org.webjars.npm/material__base@0.35.0?classifier=sources

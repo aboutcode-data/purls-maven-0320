@@ -4,3 +4,7 @@
 - pkg:maven/org.bitbucket.charlbrink/spring-cloud-sleuth-camel@0.0.3?classifier=sources
 - pkg:maven/org.bitbucket.charlbrink/spring-cloud-sleuth-camel@0.0.4
 - pkg:maven/org.bitbucket.charlbrink/spring-cloud-sleuth-camel@0.0.4?classifier=sources
+- pkg:maven/org.bitbucket.charlbrink/spring-cloud-sleuth-camel@1.0.0
+- pkg:maven/org.bitbucket.charlbrink/spring-cloud-sleuth-camel@1.0.0?classifier=sources
+- pkg:maven/org.bitbucket.charlbrink/spring-cloud-sleuth-camel@1.0.1
+- pkg:maven/org.bitbucket.charlbrink/spring-cloud-sleuth-camel@1.0.1?classifier=sources

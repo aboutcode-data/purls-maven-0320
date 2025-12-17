@@ -11,3 +11,6 @@
 - pkg:maven/org.sakaiproject.common/sakai-import-util@11.2
 - pkg:maven/org.sakaiproject.common/sakai-import-util@11.3
 - pkg:maven/org.sakaiproject.common/sakai-import-util@11.4
+- pkg:maven/org.sakaiproject.common/sakai-import-util@12.0
+- pkg:maven/org.sakaiproject.common/sakai-import-util@12.1
+- pkg:maven/org.sakaiproject.common/sakai-import-util@12.2

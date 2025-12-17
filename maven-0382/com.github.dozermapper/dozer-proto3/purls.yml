@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dozermapper/dozer-proto3@6.2.0
+- pkg:maven/com.github.dozermapper/dozer-proto3@6.2.0?classifier=sources

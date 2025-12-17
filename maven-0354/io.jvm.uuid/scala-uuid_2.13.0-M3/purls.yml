@@ -1,0 +1,2 @@
+- pkg:maven/io.jvm.uuid/scala-uuid_2.13.0-M3@0.2.4
+- pkg:maven/io.jvm.uuid/scala-uuid_2.13.0-M3@0.2.4?classifier=sources

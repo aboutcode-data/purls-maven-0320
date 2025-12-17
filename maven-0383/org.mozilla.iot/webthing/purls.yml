@@ -1,0 +1,16 @@
+- pkg:maven/org.mozilla.iot/webthing@0.3.0
+- pkg:maven/org.mozilla.iot/webthing@0.3.0?classifier=sources
+- pkg:maven/org.mozilla.iot/webthing@0.4.0
+- pkg:maven/org.mozilla.iot/webthing@0.4.0?classifier=sources
+- pkg:maven/org.mozilla.iot/webthing@0.4.1
+- pkg:maven/org.mozilla.iot/webthing@0.4.1?classifier=sources
+- pkg:maven/org.mozilla.iot/webthing@0.5.0
+- pkg:maven/org.mozilla.iot/webthing@0.5.0?classifier=sources
+- pkg:maven/org.mozilla.iot/webthing@0.5.1
+- pkg:maven/org.mozilla.iot/webthing@0.5.1?classifier=sources
+- pkg:maven/org.mozilla.iot/webthing@0.5.2
+- pkg:maven/org.mozilla.iot/webthing@0.5.2?classifier=sources
+- pkg:maven/org.mozilla.iot/webthing@0.5.3
+- pkg:maven/org.mozilla.iot/webthing@0.5.3?classifier=sources
+- pkg:maven/org.mozilla.iot/webthing@0.6.0
+- pkg:maven/org.mozilla.iot/webthing@0.6.0?classifier=sources

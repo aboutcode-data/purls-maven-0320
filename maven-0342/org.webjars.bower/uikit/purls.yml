@@ -18,3 +18,7 @@
 - pkg:maven/org.webjars.bower/uikit@3.0.0-beta.24?classifier=sources
 - pkg:maven/org.webjars.bower/uikit@3.0.0-beta.25
 - pkg:maven/org.webjars.bower/uikit@3.0.0-beta.25?classifier=sources
+- pkg:maven/org.webjars.bower/uikit@3.0.0-beta.39
+- pkg:maven/org.webjars.bower/uikit@3.0.0-beta.39?classifier=sources
+- pkg:maven/org.webjars.bower/uikit@3.0.0-beta.40
+- pkg:maven/org.webjars.bower/uikit@3.0.0-beta.40?classifier=sources

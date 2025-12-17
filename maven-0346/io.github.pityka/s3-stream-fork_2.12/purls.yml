@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pityka/s3-stream-fork_2.12@0.0.3
+- pkg:maven/io.github.pityka/s3-stream-fork_2.12@0.0.3?classifier=sources

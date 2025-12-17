@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/escodegen-wallaby@1.6.18
+- pkg:maven/org.webjars.npm/escodegen-wallaby@1.6.18?classifier=sources

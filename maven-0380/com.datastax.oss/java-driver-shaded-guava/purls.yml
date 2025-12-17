@@ -1,0 +1,4 @@
+- pkg:maven/com.datastax.oss/java-driver-shaded-guava@24.1-jre
+- pkg:maven/com.datastax.oss/java-driver-shaded-guava@24.1-jre?classifier=sources
+- pkg:maven/com.datastax.oss/java-driver-shaded-guava@25.1-jre
+- pkg:maven/com.datastax.oss/java-driver-shaded-guava@25.1-jre?classifier=sources

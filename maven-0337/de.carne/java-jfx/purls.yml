@@ -8,3 +8,9 @@
 - pkg:maven/de.carne/java-jfx@6?classifier=sources
 - pkg:maven/de.carne/java-jfx@7
 - pkg:maven/de.carne/java-jfx@7?classifier=sources
+- pkg:maven/de.carne/java-jfx@8.0.0
+- pkg:maven/de.carne/java-jfx@8.0.0?classifier=sources
+- pkg:maven/de.carne/java-jfx@8.1.0
+- pkg:maven/de.carne/java-jfx@8.1.0?classifier=sources
+- pkg:maven/de.carne/java-jfx@8.2.0
+- pkg:maven/de.carne/java-jfx@8.2.0?classifier=sources

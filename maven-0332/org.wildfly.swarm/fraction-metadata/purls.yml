@@ -1,6 +1,7 @@
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2012.12.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2017.10.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2017.10.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2017.10.2?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2017.11.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2017.12.0?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2017.12.1?classifier=sources
@@ -15,3 +16,13 @@
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2017.8.1?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2017.9.4?classifier=sources
 - pkg:maven/org.wildfly.swarm/fraction-metadata@2017.9.5?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.1.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.2.0.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.2.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.3.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.3.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.3.2?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.3.3?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.4.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.4.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/fraction-metadata@2018.5.0?classifier=sources

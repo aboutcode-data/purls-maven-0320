@@ -12,3 +12,7 @@
 - pkg:maven/org.jboss.resteasy/resteasy-legacy@3.1.4.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-legacy@4.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/resteasy-legacy@4.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-legacy@4.0.0.Beta2
+- pkg:maven/org.jboss.resteasy/resteasy-legacy@4.0.0.Beta2?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-legacy@4.0.0.Beta3
+- pkg:maven/org.jboss.resteasy/resteasy-legacy@4.0.0.Beta3?classifier=sources

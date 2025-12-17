@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.drill.contrib/drill-storage-kafka@1.12.0
 - pkg:maven/org.apache.drill.contrib/drill-storage-kafka@1.12.0?classifier=sources
+- pkg:maven/org.apache.drill.contrib/drill-storage-kafka@1.13.0
+- pkg:maven/org.apache.drill.contrib/drill-storage-kafka@1.13.0?classifier=sources

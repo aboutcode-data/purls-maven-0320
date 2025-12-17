@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore.sword/easy-sword2-lib@1.0.4
+- pkg:maven/org.mycore.sword/easy-sword2-lib@1.0.4?classifier=sources

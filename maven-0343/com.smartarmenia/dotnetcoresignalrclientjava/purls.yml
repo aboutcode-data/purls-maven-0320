@@ -4,3 +4,13 @@
 - pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.07?type=aar
 - pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.08?classifier=sources
 - pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.08?type=aar
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.10?classifier=sources
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.10?type=aar
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.11?classifier=sources
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.11?type=aar
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.12?classifier=sources
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.12?type=aar
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.13?classifier=sources
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.13?type=aar
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.14?classifier=sources
+- pkg:maven/com.smartarmenia/dotnetcoresignalrclientjava@1.14?type=aar

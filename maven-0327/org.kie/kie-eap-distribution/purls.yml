@@ -25,3 +25,6 @@
 - pkg:maven/org.kie/kie-eap-distribution@7.4.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.4.1.Final?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-eap-distribution@7.6.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-eap-distribution@7.6.0.t022?classifier=sources
+- pkg:maven/org.kie/kie-eap-distribution@7.7.0.Final?classifier=sources

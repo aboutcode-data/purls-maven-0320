@@ -1,5 +1,7 @@
 - pkg:maven/com.generallycloud/baseio-codec@3.1.10.RELEASE
 - pkg:maven/com.generallycloud/baseio-codec@3.1.10.RELEASE?classifier=sources
+- pkg:maven/com.generallycloud/baseio-codec@3.1.8-Alpha1
+- pkg:maven/com.generallycloud/baseio-codec@3.1.8-Alpha1?classifier=sources
 - pkg:maven/com.generallycloud/baseio-codec@3.1.8-Alpha2
 - pkg:maven/com.generallycloud/baseio-codec@3.1.8-Alpha2?classifier=sources
 - pkg:maven/com.generallycloud/baseio-codec@3.1.8-Alpha3
@@ -16,3 +18,5 @@
 - pkg:maven/com.generallycloud/baseio-codec@3.2.2.RELEASE?classifier=sources
 - pkg:maven/com.generallycloud/baseio-codec@3.2.3.RELEASE
 - pkg:maven/com.generallycloud/baseio-codec@3.2.3.RELEASE?classifier=sources
+- pkg:maven/com.generallycloud/baseio-codec@3.2.4.RELEASE
+- pkg:maven/com.generallycloud/baseio-codec@3.2.4.RELEASE?classifier=sources

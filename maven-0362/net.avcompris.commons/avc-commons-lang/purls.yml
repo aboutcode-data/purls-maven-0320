@@ -20,7 +20,13 @@
 - pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.19?classifier=sources
 - pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.20
 - pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.20?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.22
+- pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.22?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.40
+- pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.40?classifier=sources
 - pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.8
 - pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.8?classifier=sources
 - pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.9
 - pkg:maven/net.avcompris.commons/avc-commons-lang@0.4.9?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-commons-lang@0.5.3
+- pkg:maven/net.avcompris.commons/avc-commons-lang@0.5.3?classifier=sources

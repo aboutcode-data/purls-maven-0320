@@ -14,3 +14,5 @@
 - pkg:maven/ro.pippo/pippo-quickstart@1.5.0?classifier=sources
 - pkg:maven/ro.pippo/pippo-quickstart@1.6.0?classifier=sources
 - pkg:maven/ro.pippo/pippo-quickstart@1.7.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-quickstart@1.8.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-quickstart@1.9.0?classifier=sources

@@ -6,4 +6,5 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.5
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.6
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.7
+- pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.8
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1_4

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.ftlabs/fastclick@0.6.11
+- pkg:maven/org.webjars.bowergithub.ftlabs/fastclick@0.6.11?classifier=sources
+- pkg:maven/org.webjars.bowergithub.ftlabs/fastclick@1.0.6
+- pkg:maven/org.webjars.bowergithub.ftlabs/fastclick@1.0.6?classifier=sources

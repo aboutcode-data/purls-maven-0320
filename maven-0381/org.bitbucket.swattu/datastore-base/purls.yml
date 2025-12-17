@@ -1,0 +1,2 @@
+- pkg:maven/org.bitbucket.swattu/datastore-base@2.0.1
+- pkg:maven/org.bitbucket.swattu/datastore-base@2.0.1?classifier=sources

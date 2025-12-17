@@ -2,3 +2,7 @@
 - pkg:maven/com.appslandia/appslandia-jsp-layout@1.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-jsp-layout@1.1
 - pkg:maven/com.appslandia/appslandia-jsp-layout@1.1?classifier=sources
+- pkg:maven/com.appslandia/appslandia-jsp-layout@3.0
+- pkg:maven/com.appslandia/appslandia-jsp-layout@3.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-jsp-layout@3.1
+- pkg:maven/com.appslandia/appslandia-jsp-layout@3.1?classifier=sources

@@ -10,3 +10,9 @@
 - pkg:maven/com.github.vital-software/scala-redox_2.11@0.90?classifier=sources
 - pkg:maven/com.github.vital-software/scala-redox_2.11@0.92
 - pkg:maven/com.github.vital-software/scala-redox_2.11@0.92?classifier=sources
+- pkg:maven/com.github.vital-software/scala-redox_2.11@0.94
+- pkg:maven/com.github.vital-software/scala-redox_2.11@0.94?classifier=sources
+- pkg:maven/com.github.vital-software/scala-redox_2.11@0.95
+- pkg:maven/com.github.vital-software/scala-redox_2.11@0.95?classifier=sources
+- pkg:maven/com.github.vital-software/scala-redox_2.11@0.96
+- pkg:maven/com.github.vital-software/scala-redox_2.11@0.96?classifier=sources

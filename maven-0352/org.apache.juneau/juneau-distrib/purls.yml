@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.juneau/juneau-distrib@6.4.0-incubating?classifier=src&type=zip
 - pkg:maven/org.apache.juneau/juneau-distrib@7.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.juneau/juneau-distrib@7.0.1?classifier=src&type=zip
+- pkg:maven/org.apache.juneau/juneau-distrib@7.1.0?classifier=src&type=zip

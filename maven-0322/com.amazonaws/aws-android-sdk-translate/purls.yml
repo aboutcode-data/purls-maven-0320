@@ -1,0 +1,6 @@
+- pkg:maven/com.amazonaws/aws-android-sdk-translate@2.6.20
+- pkg:maven/com.amazonaws/aws-android-sdk-translate@2.6.20?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-translate@2.6.21
+- pkg:maven/com.amazonaws/aws-android-sdk-translate@2.6.21?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-translate@2.6.22
+- pkg:maven/com.amazonaws/aws-android-sdk-translate@2.6.22?classifier=sources

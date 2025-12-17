@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bower/vaadin-control-state-mixin@1.1.9?classifier=sources
 - pkg:maven/org.webjars.bower/vaadin-control-state-mixin@2.0.2
 - pkg:maven/org.webjars.bower/vaadin-control-state-mixin@2.0.2?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-control-state-mixin@2.0.3
+- pkg:maven/org.webjars.bower/vaadin-control-state-mixin@2.0.3?classifier=sources

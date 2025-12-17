@@ -26,7 +26,15 @@
 - pkg:maven/org.webjars.npm/request@2.74.0?classifier=sources
 - pkg:maven/org.webjars.npm/request@2.75.0
 - pkg:maven/org.webjars.npm/request@2.75.0?classifier=sources
+- pkg:maven/org.webjars.npm/request@2.79.0
+- pkg:maven/org.webjars.npm/request@2.79.0?classifier=sources
 - pkg:maven/org.webjars.npm/request@2.81.0
 - pkg:maven/org.webjars.npm/request@2.81.0?classifier=sources
 - pkg:maven/org.webjars.npm/request@2.83.0
 - pkg:maven/org.webjars.npm/request@2.83.0?classifier=sources
+- pkg:maven/org.webjars.npm/request@2.85.0
+- pkg:maven/org.webjars.npm/request@2.85.0?classifier=sources
+- pkg:maven/org.webjars.npm/request@2.86.0
+- pkg:maven/org.webjars.npm/request@2.86.0?classifier=sources
+- pkg:maven/org.webjars.npm/request@2.87.0
+- pkg:maven/org.webjars.npm/request@2.87.0?classifier=sources

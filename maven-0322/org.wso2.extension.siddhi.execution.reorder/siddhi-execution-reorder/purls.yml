@@ -10,6 +10,10 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.14?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.15
 - pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.15?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.17
+- pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.17?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.18
+- pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.18?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.4
 - pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.4?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.reorder/siddhi-execution-reorder@4.0.5

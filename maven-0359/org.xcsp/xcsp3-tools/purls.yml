@@ -1,0 +1,4 @@
+- pkg:maven/org.xcsp/xcsp3-tools@0.9.0
+- pkg:maven/org.xcsp/xcsp3-tools@0.9.0?classifier=sources
+- pkg:maven/org.xcsp/xcsp3-tools@1.0.0
+- pkg:maven/org.xcsp/xcsp3-tools@1.0.0?classifier=sources

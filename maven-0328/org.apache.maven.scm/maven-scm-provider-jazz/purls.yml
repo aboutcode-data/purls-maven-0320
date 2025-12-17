@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.maven.scm/maven-scm-provider-jazz@1.10.0
+- pkg:maven/org.apache.maven.scm/maven-scm-provider-jazz@1.10.0?classifier=sources
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-jazz@1.7
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-jazz@1.7?classifier=sources
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-jazz@1.8

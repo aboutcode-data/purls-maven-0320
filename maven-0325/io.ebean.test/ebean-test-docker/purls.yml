@@ -1,0 +1,4 @@
+- pkg:maven/io.ebean.test/ebean-test-docker@1.5.8
+- pkg:maven/io.ebean.test/ebean-test-docker@1.5.8?classifier=sources
+- pkg:maven/io.ebean.test/ebean-test-docker@1.5.9
+- pkg:maven/io.ebean.test/ebean-test-docker@1.5.9?classifier=sources

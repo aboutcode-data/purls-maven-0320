@@ -8,3 +8,9 @@
 - pkg:maven/com.github.Y292450104/springs@1.0.0.RELEASE?classifier=sources
 - pkg:maven/com.github.Y292450104/springs@1.0.1.RELEASE
 - pkg:maven/com.github.Y292450104/springs@1.0.1.RELEASE?classifier=sources
+- pkg:maven/com.github.Y292450104/springs@1.0.2.RELEASE
+- pkg:maven/com.github.Y292450104/springs@1.0.2.RELEASE?classifier=sources
+- pkg:maven/com.github.Y292450104/springs@1.0.3.RELEASE
+- pkg:maven/com.github.Y292450104/springs@1.0.3.RELEASE?classifier=sources
+- pkg:maven/com.github.Y292450104/springs@2.0.0.RELEASE
+- pkg:maven/com.github.Y292450104/springs@2.0.0.RELEASE?classifier=sources

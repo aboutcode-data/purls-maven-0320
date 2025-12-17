@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/mocha@3.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/mocha@3.5.0
 - pkg:maven/org.webjars.npm/mocha@3.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/mocha@5.0.2
+- pkg:maven/org.webjars.npm/mocha@5.0.2?classifier=sources

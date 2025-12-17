@@ -1,0 +1,8 @@
+- pkg:maven/com.github.gerp83/SlimAdapter@1.00?classifier=sources
+- pkg:maven/com.github.gerp83/SlimAdapter@1.00?type=aar
+- pkg:maven/com.github.gerp83/SlimAdapter@1.01?classifier=sources
+- pkg:maven/com.github.gerp83/SlimAdapter@1.01?type=aar
+- pkg:maven/com.github.gerp83/SlimAdapter@1.02?classifier=sources
+- pkg:maven/com.github.gerp83/SlimAdapter@1.02?type=aar
+- pkg:maven/com.github.gerp83/SlimAdapter@1.03?classifier=sources
+- pkg:maven/com.github.gerp83/SlimAdapter@1.03?type=aar

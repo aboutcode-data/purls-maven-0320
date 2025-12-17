@@ -6,3 +6,5 @@
 - pkg:maven/org.bdgenomics.adam/adam-apis-spark2_2.11@0.22.0?classifier=sources
 - pkg:maven/org.bdgenomics.adam/adam-apis-spark2_2.11@0.23.0
 - pkg:maven/org.bdgenomics.adam/adam-apis-spark2_2.11@0.23.0?classifier=sources
+- pkg:maven/org.bdgenomics.adam/adam-apis-spark2_2.11@0.24.0
+- pkg:maven/org.bdgenomics.adam/adam-apis-spark2_2.11@0.24.0?classifier=sources

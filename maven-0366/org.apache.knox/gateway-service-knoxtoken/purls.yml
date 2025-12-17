@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.knox/gateway-service-knoxtoken@0.13.0?classifier=sources
 - pkg:maven/org.apache.knox/gateway-service-knoxtoken@0.14.0
 - pkg:maven/org.apache.knox/gateway-service-knoxtoken@0.14.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-service-knoxtoken@1.0.0
+- pkg:maven/org.apache.knox/gateway-service-knoxtoken@1.0.0?classifier=sources

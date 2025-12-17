@@ -1,0 +1,12 @@
+- pkg:maven/net.spals.shaded/protobuf-java@2.5.0
+- pkg:maven/net.spals.shaded/protobuf-java@2.6.0
+- pkg:maven/net.spals.shaded/protobuf-java@2.6.1
+- pkg:maven/net.spals.shaded/protobuf-java@3.0.0
+- pkg:maven/net.spals.shaded/protobuf-java@3.0.2
+- pkg:maven/net.spals.shaded/protobuf-java@3.1.0
+- pkg:maven/net.spals.shaded/protobuf-java@3.2.0
+- pkg:maven/net.spals.shaded/protobuf-java@3.3.0
+- pkg:maven/net.spals.shaded/protobuf-java@3.3.1
+- pkg:maven/net.spals.shaded/protobuf-java@3.4.0
+- pkg:maven/net.spals.shaded/protobuf-java@3.5.0
+- pkg:maven/net.spals.shaded/protobuf-java@3.5.1

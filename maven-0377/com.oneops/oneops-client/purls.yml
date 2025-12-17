@@ -19,6 +19,10 @@
 - pkg:maven/com.oneops/oneops-client@5.0.19
 - pkg:maven/com.oneops/oneops-client@5.0.19?classifier=sources
 - pkg:maven/com.oneops/oneops-client@5.0.2
+- pkg:maven/com.oneops/oneops-client@5.0.20
+- pkg:maven/com.oneops/oneops-client@5.0.20?classifier=sources
+- pkg:maven/com.oneops/oneops-client@5.0.21
+- pkg:maven/com.oneops/oneops-client@5.0.21?classifier=sources
 - pkg:maven/com.oneops/oneops-client@5.0.2?classifier=sources
 - pkg:maven/com.oneops/oneops-client@5.0.3
 - pkg:maven/com.oneops/oneops-client@5.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.intenthq/gander_2.12@1.4
+- pkg:maven/com.intenthq/gander_2.12@1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.triology.versionName/jar@1.0.2
+- pkg:maven/de.triology.versionName/jar@1.0.2?classifier=sources

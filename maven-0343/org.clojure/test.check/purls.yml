@@ -2,6 +2,8 @@
 - pkg:maven/org.clojure/test.check@0.10.0-alpha1?classifier=sources
 - pkg:maven/org.clojure/test.check@0.10.0-alpha2
 - pkg:maven/org.clojure/test.check@0.10.0-alpha2?classifier=sources
+- pkg:maven/org.clojure/test.check@0.10.0-alpha3
+- pkg:maven/org.clojure/test.check@0.10.0-alpha3?classifier=sources
 - pkg:maven/org.clojure/test.check@0.5.7
 - pkg:maven/org.clojure/test.check@0.5.7?classifier=sources
 - pkg:maven/org.clojure/test.check@0.5.8

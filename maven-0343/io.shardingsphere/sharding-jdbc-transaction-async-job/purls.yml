@@ -1,0 +1,1 @@
+- pkg:maven/io.shardingsphere/sharding-jdbc-transaction-async-job@3.0.0.M1?classifier=sources

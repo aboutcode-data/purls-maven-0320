@@ -1,0 +1,2 @@
+- pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.2?classifier=sources
+- pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.2?type=war

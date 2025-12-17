@@ -1,0 +1,3 @@
+- pkg:maven/com.github.hqstevenson.splunk/splunk.jms@0.5.5
+- pkg:maven/com.github.hqstevenson.splunk/splunk.jms@1.0.0
+- pkg:maven/com.github.hqstevenson.splunk/splunk.jms@1.0.1

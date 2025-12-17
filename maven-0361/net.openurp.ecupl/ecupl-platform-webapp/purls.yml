@@ -1,0 +1,2 @@
+- pkg:maven/net.openurp.ecupl/ecupl-platform-webapp@0.0.4?classifier=sources
+- pkg:maven/net.openurp.ecupl/ecupl-platform-webapp@0.0.4?type=war

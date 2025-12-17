@@ -1,0 +1,10 @@
+- pkg:maven/it.mineblock.mbcore/MBCore@2.11
+- pkg:maven/it.mineblock.mbcore/MBCore@2.11.1
+- pkg:maven/it.mineblock.mbcore/MBCore@2.11.1?classifier=sources
+- pkg:maven/it.mineblock.mbcore/MBCore@2.11.2
+- pkg:maven/it.mineblock.mbcore/MBCore@2.11.2?classifier=sources
+- pkg:maven/it.mineblock.mbcore/MBCore@2.11?classifier=sources
+- pkg:maven/it.mineblock.mbcore/MBCore@2.13.0
+- pkg:maven/it.mineblock.mbcore/MBCore@2.13.0?classifier=sources
+- pkg:maven/it.mineblock.mbcore/MBCore@2.13.4
+- pkg:maven/it.mineblock.mbcore/MBCore@2.13.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.bytemechanics.maven/copysource-maven-plugin@1.0.0
+- pkg:maven/org.bytemechanics.maven/copysource-maven-plugin@1.0.0?classifier=sources

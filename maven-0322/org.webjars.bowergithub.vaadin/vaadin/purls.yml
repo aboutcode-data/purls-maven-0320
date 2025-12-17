@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin@10.0.0-alpha14
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin@10.0.0-alpha14?classifier=sources

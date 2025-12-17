@@ -1,4 +1,6 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.11.1
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.11.100
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.11.100?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.11.101
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.11.101?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.11.1?classifier=sources

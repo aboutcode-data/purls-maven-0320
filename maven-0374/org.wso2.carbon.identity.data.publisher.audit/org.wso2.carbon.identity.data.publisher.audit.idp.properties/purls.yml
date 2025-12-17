@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.data.publisher.audit/org.wso2.carbon.identity.data.publisher.audit.idp.properties@1.0.3
+- pkg:maven/org.wso2.carbon.identity.data.publisher.audit/org.wso2.carbon.identity.data.publisher.audit.idp.properties@1.0.3?classifier=sources

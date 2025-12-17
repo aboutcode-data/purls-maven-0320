@@ -1,0 +1,2 @@
+- pkg:maven/io.github.shitlib/shitlib-java@1
+- pkg:maven/io.github.shitlib/shitlib-java@1?classifier=sources

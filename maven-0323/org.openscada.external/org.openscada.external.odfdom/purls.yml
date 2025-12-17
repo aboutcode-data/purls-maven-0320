@@ -1,0 +1,2 @@
+- pkg:maven/org.openscada.external/org.openscada.external.odfdom@0.8.7
+- pkg:maven/org.openscada.external/org.openscada.external.odfdom@0.8.7?classifier=sources

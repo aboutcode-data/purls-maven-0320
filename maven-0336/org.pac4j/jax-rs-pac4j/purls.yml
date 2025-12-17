@@ -18,3 +18,5 @@
 - pkg:maven/org.pac4j/jax-rs-pac4j@2.0.2?classifier=sources
 - pkg:maven/org.pac4j/jax-rs-pac4j@2.1.0
 - pkg:maven/org.pac4j/jax-rs-pac4j@2.1.0?classifier=sources
+- pkg:maven/org.pac4j/jax-rs-pac4j@2.2.0
+- pkg:maven/org.pac4j/jax-rs-pac4j@2.3.0

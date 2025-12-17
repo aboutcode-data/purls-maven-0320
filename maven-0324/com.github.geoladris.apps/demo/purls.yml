@@ -1,0 +1,2 @@
+- pkg:maven/com.github.geoladris.apps/demo@7.0.0?classifier=sources
+- pkg:maven/com.github.geoladris.apps/demo@7.0.0?type=war

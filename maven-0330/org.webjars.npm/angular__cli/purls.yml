@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/angular__cli@1.4.2
 - pkg:maven/org.webjars.npm/angular__cli@1.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/angular__cli@1.6.7
+- pkg:maven/org.webjars.npm/angular__cli@1.6.7?classifier=sources
+- pkg:maven/org.webjars.npm/angular__cli@1.7.0-beta.3
+- pkg:maven/org.webjars.npm/angular__cli@1.7.0-beta.3?classifier=sources

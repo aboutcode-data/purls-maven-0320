@@ -1,0 +1,2 @@
+- pkg:maven/biz.netcentric.aem.sysenvtools/apply-system-env-install-hook@1.2.0
+- pkg:maven/biz.netcentric.aem.sysenvtools/apply-system-env-install-hook@1.2.0?classifier=sources

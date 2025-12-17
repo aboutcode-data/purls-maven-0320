@@ -1,0 +1,12 @@
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m27?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m27?type=zip
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m28?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m28?type=zip
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m29?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m29?type=zip
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m30?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m30?type=zip
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m31?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m31?type=zip
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m32?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.agent@0.9.0-m32?type=zip

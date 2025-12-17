@@ -1,2 +1,4 @@
 - pkg:maven/se.uhr.simone/simone@1.0.0
 - pkg:maven/se.uhr.simone/simone@1.0.0?classifier=sources
+- pkg:maven/se.uhr.simone/simone@2.0.0
+- pkg:maven/se.uhr.simone/simone@2.0.0?classifier=sources

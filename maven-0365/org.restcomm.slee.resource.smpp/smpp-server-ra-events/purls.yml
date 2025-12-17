@@ -114,6 +114,8 @@
 - pkg:maven/org.restcomm.slee.resource.smpp/smpp-server-ra-events@7.1.0-124?classifier=sources
 - pkg:maven/org.restcomm.slee.resource.smpp/smpp-server-ra-events@7.1.0-128
 - pkg:maven/org.restcomm.slee.resource.smpp/smpp-server-ra-events@7.1.0-128?classifier=sources
+- pkg:maven/org.restcomm.slee.resource.smpp/smpp-server-ra-events@7.1.0-136
+- pkg:maven/org.restcomm.slee.resource.smpp/smpp-server-ra-events@7.1.0-136?classifier=sources
 - pkg:maven/org.restcomm.slee.resource.smpp/smpp-server-ra-events@7.1.0-15
 - pkg:maven/org.restcomm.slee.resource.smpp/smpp-server-ra-events@7.1.0-15?classifier=sources
 - pkg:maven/org.restcomm.slee.resource.smpp/smpp-server-ra-events@7.1.0-68

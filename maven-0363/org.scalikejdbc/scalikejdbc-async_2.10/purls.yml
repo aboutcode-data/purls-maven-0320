@@ -1,3 +1,5 @@
+- pkg:maven/org.scalikejdbc/scalikejdbc-async_2.10@0.10.0
+- pkg:maven/org.scalikejdbc/scalikejdbc-async_2.10@0.10.0?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-async_2.10@0.3.0
 - pkg:maven/org.scalikejdbc/scalikejdbc-async_2.10@0.3.0?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-async_2.10@0.3.1

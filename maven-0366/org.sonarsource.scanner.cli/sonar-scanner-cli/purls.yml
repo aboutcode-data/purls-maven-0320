@@ -9,3 +9,5 @@
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@3.0.1.733?classifier=sources
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@3.0.2.768?classifier=sources
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@3.0.3.778?classifier=sources
+- pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@3.1.0.1141?classifier=sources
+- pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@3.2.0.1227?classifier=sources

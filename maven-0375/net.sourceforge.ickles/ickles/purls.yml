@@ -6,6 +6,16 @@
 - pkg:maven/net.sourceforge.ickles/ickles@0.12?classifier=sources
 - pkg:maven/net.sourceforge.ickles/ickles@0.13
 - pkg:maven/net.sourceforge.ickles/ickles@0.13?classifier=sources
+- pkg:maven/net.sourceforge.ickles/ickles@0.14
+- pkg:maven/net.sourceforge.ickles/ickles@0.14?classifier=sources
+- pkg:maven/net.sourceforge.ickles/ickles@0.15
+- pkg:maven/net.sourceforge.ickles/ickles@0.15?classifier=sources
+- pkg:maven/net.sourceforge.ickles/ickles@0.16
+- pkg:maven/net.sourceforge.ickles/ickles@0.16?classifier=sources
+- pkg:maven/net.sourceforge.ickles/ickles@0.17
+- pkg:maven/net.sourceforge.ickles/ickles@0.17?classifier=sources
+- pkg:maven/net.sourceforge.ickles/ickles@0.18
+- pkg:maven/net.sourceforge.ickles/ickles@0.18?classifier=sources
 - pkg:maven/net.sourceforge.ickles/ickles@0.4
 - pkg:maven/net.sourceforge.ickles/ickles@0.4?classifier=sources
 - pkg:maven/net.sourceforge.ickles/ickles@0.5

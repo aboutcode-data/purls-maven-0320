@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang.modules/scala-xml_2.13.0-M4-pre-20d3c21@1.1.0-newCollectionsBootstrap
+- pkg:maven/org.scala-lang.modules/scala-xml_2.13.0-M4-pre-20d3c21@1.1.0-newCollectionsBootstrap?classifier=sources

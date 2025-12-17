@@ -1,0 +1,2 @@
+- pkg:maven/io.thedocs/soyuz-err@2.02
+- pkg:maven/io.thedocs/soyuz-err@2.02?classifier=sources

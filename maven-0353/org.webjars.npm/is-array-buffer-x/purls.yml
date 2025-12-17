@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/is-array-buffer-x@1.7.0
+- pkg:maven/org.webjars.npm/is-array-buffer-x@1.7.0?classifier=sources

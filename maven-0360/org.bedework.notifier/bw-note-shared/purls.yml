@@ -1,0 +1,2 @@
+- pkg:maven/org.bedework.notifier/bw-note-shared@4.0.2
+- pkg:maven/org.bedework.notifier/bw-note-shared@4.0.2?classifier=sources

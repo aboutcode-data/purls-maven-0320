@@ -1,3 +1,5 @@
+- pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@%3D2.5.2
+- pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@%3D2.5.2?classifier=sources
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.0
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.0-BETA1
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.0-BETA1?classifier=sources
@@ -10,7 +12,11 @@
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.0?classifier=sources
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.1
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.1?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.2
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.2-RC1
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.2-RC1?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.2?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.3
+- pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@2.5.3?classifier=sources
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@3.0.0-ALPHA1?classifier=sources
 - pkg:maven/br.gov.frameworkdemoiselle.archetypes/demoiselle-html-rest@3.0.0-ALPHA2?classifier=sources

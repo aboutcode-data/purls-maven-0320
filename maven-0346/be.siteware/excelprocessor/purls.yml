@@ -1,0 +1,2 @@
+- pkg:maven/be.siteware/excelprocessor@1.0.4
+- pkg:maven/be.siteware/excelprocessor@1.0.4?classifier=sources

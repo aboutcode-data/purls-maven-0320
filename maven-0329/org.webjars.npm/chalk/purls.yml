@@ -14,5 +14,15 @@
 - pkg:maven/org.webjars.npm/chalk@2.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/chalk@2.1.0
 - pkg:maven/org.webjars.npm/chalk@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/chalk@2.2.2
+- pkg:maven/org.webjars.npm/chalk@2.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/chalk@2.3.0
 - pkg:maven/org.webjars.npm/chalk@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/chalk@2.3.1
+- pkg:maven/org.webjars.npm/chalk@2.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/chalk@2.3.2
+- pkg:maven/org.webjars.npm/chalk@2.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/chalk@2.4.0
+- pkg:maven/org.webjars.npm/chalk@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/chalk@2.4.1
+- pkg:maven/org.webjars.npm/chalk@2.4.1?classifier=sources

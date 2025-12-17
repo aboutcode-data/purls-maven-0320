@@ -16,3 +16,6 @@
 - pkg:maven/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec@1.0.5.Final
 - pkg:maven/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec@1.0.5.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec@1.0.5.Final?classifier=sources
+- pkg:maven/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec@1.0.6.Final
+- pkg:maven/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec@1.0.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec@1.0.6.Final?classifier=sources

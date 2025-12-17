@@ -40,3 +40,9 @@
 - pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.81?type=war
 - pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.85?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.85?type=war
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.86?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.86?type=war
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.91?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.91?type=war
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.95?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-web@3.0.95?type=war

@@ -4,6 +4,8 @@
 - pkg:maven/org.irenical.drowsy/drowsy-query-mysql@0.1.11?classifier=sources
 - pkg:maven/org.irenical.drowsy/drowsy-query-mysql@0.1.12
 - pkg:maven/org.irenical.drowsy/drowsy-query-mysql@0.1.12?classifier=sources
+- pkg:maven/org.irenical.drowsy/drowsy-query-mysql@0.1.13
+- pkg:maven/org.irenical.drowsy/drowsy-query-mysql@0.1.13?classifier=sources
 - pkg:maven/org.irenical.drowsy/drowsy-query-mysql@0.1.4
 - pkg:maven/org.irenical.drowsy/drowsy-query-mysql@0.1.4?classifier=sources
 - pkg:maven/org.irenical.drowsy/drowsy-query-mysql@0.1.5

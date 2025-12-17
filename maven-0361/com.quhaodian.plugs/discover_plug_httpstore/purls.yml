@@ -1,0 +1,4 @@
+- pkg:maven/com.quhaodian.plugs/discover_plug_httpstore@1.01
+- pkg:maven/com.quhaodian.plugs/discover_plug_httpstore@1.01?classifier=sources
+- pkg:maven/com.quhaodian.plugs/discover_plug_httpstore@1.03
+- pkg:maven/com.quhaodian.plugs/discover_plug_httpstore@1.03?classifier=sources

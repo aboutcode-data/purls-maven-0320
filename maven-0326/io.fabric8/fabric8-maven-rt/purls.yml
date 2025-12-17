@@ -1,0 +1,12 @@
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.34
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.34?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.35
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.35?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.37
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.37?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.38
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.38?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.39
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.39?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.40
+- pkg:maven/io.fabric8/fabric8-maven-rt@3.5.40?classifier=sources

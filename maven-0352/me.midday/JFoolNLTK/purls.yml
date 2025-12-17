@@ -1,0 +1,2 @@
+- pkg:maven/me.midday/JFoolNLTK@1.0
+- pkg:maven/me.midday/JFoolNLTK@1.0?classifier=sources

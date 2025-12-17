@@ -6,3 +6,5 @@
 - pkg:maven/com.smoketurner.snowizard/snowizard-client@1.9.2?classifier=sources
 - pkg:maven/com.smoketurner.snowizard/snowizard-client@2.0.0
 - pkg:maven/com.smoketurner.snowizard/snowizard-client@2.0.0?classifier=sources
+- pkg:maven/com.smoketurner.snowizard/snowizard-client@2.0.1
+- pkg:maven/com.smoketurner.snowizard/snowizard-client@2.0.1?classifier=sources

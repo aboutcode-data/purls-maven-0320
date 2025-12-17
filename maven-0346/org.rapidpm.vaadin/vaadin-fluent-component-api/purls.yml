@@ -1,0 +1,2 @@
+- pkg:maven/org.rapidpm.vaadin/vaadin-fluent-component-api@00.01.00-RPM
+- pkg:maven/org.rapidpm.vaadin/vaadin-fluent-component-api@00.01.00-RPM?classifier=sources

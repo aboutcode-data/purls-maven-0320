@@ -5,3 +5,4 @@
 - pkg:maven/org.elasticsearch/geolite2-databases@20170713
 - pkg:maven/org.elasticsearch/geolite2-databases@20171206
 - pkg:maven/org.elasticsearch/geolite2-databases@20180303
+- pkg:maven/org.elasticsearch/geolite2-databases@20180911

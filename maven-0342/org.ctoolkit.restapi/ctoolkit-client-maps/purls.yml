@@ -28,3 +28,5 @@
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-maps@0.26?classifier=sources
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-maps@0.27
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-maps@0.27?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-maps@0.28
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-maps@0.28?classifier=sources

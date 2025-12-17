@@ -20,6 +20,7 @@
 - pkg:maven/org.kie/kie-eap-distribution@7.1.0.Beta2?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.1.0.Beta3?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.1.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-eap-distribution@7.10.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.2.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.3.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.4.0.Final?classifier=sources
@@ -28,3 +29,5 @@
 - pkg:maven/org.kie/kie-eap-distribution@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.6.0.t022?classifier=sources
 - pkg:maven/org.kie/kie-eap-distribution@7.7.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-eap-distribution@7.8.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-eap-distribution@7.9.0.Final?classifier=sources

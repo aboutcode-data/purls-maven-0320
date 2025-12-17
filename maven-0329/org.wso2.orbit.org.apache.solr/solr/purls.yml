@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.org.apache.solr/solr@5.5.4.wso2v1
+- pkg:maven/org.wso2.orbit.org.apache.solr/solr@5.5.5.wso2v1

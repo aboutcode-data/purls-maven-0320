@@ -18,3 +18,5 @@
 - pkg:maven/com.mytechia/robobo-sensing@0.3.1?type=aar
 - pkg:maven/com.mytechia/robobo-sensing@1.0.1?classifier=sources
 - pkg:maven/com.mytechia/robobo-sensing@1.0.1?type=aar
+- pkg:maven/com.mytechia/robobo-sensing@1.0.2?classifier=sources
+- pkg:maven/com.mytechia/robobo-sensing@1.0.2?type=aar

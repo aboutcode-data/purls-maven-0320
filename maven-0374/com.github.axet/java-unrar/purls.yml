@@ -2,3 +2,5 @@
 - pkg:maven/com.github.axet/java-unrar@1.7.0-1?classifier=sources
 - pkg:maven/com.github.axet/java-unrar@1.7.0-3
 - pkg:maven/com.github.axet/java-unrar@1.7.0-3?classifier=sources
+- pkg:maven/com.github.axet/java-unrar@1.7.0-4
+- pkg:maven/com.github.axet/java-unrar@1.7.0-4?classifier=sources

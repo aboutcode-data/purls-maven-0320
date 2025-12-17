@@ -1,0 +1,4 @@
+- pkg:maven/ru.gildor.databinding/nonnull-observables@3.2.0-androidx?classifier=sources
+- pkg:maven/ru.gildor.databinding/nonnull-observables@3.2.0-androidx?type=aar
+- pkg:maven/ru.gildor.databinding/nonnull-observables@3.2.0?classifier=sources
+- pkg:maven/ru.gildor.databinding/nonnull-observables@3.2.0?type=aar

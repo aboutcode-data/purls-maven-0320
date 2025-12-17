@@ -1,0 +1,2 @@
+- pkg:maven/com.payxpert/connect2pay-client@1.0.13
+- pkg:maven/com.payxpert/connect2pay-client@1.0.13?classifier=sources

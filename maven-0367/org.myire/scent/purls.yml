@@ -1,2 +1,6 @@
 - pkg:maven/org.myire/scent@0.9
 - pkg:maven/org.myire/scent@0.9?classifier=sources
+- pkg:maven/org.myire/scent@1.0
+- pkg:maven/org.myire/scent@1.0?classifier=sources
+- pkg:maven/org.myire/scent@2.0
+- pkg:maven/org.myire/scent@2.0?classifier=sources

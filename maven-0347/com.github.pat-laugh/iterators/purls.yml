@@ -1,2 +1,4 @@
 - pkg:maven/com.github.pat-laugh/iterators@1.0.0
+- pkg:maven/com.github.pat-laugh/iterators@1.0.0-doc
+- pkg:maven/com.github.pat-laugh/iterators@1.0.0-doc?classifier=sources
 - pkg:maven/com.github.pat-laugh/iterators@1.0.0?classifier=sources

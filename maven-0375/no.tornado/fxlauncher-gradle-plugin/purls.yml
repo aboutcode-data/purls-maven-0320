@@ -16,3 +16,5 @@
 - pkg:maven/no.tornado/fxlauncher-gradle-plugin@1.0.17?classifier=sources
 - pkg:maven/no.tornado/fxlauncher-gradle-plugin@1.0.18
 - pkg:maven/no.tornado/fxlauncher-gradle-plugin@1.0.18?classifier=sources
+- pkg:maven/no.tornado/fxlauncher-gradle-plugin@1.0.20
+- pkg:maven/no.tornado/fxlauncher-gradle-plugin@1.0.20?classifier=sources

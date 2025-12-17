@@ -1,0 +1,2 @@
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.3-BATE
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.3-BATE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bjuvensjo/rsimulator-camel-direct@2.1.2
+- pkg:maven/com.github.bjuvensjo/rsimulator-camel-direct@2.1.2?classifier=sources

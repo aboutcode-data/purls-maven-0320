@@ -2,3 +2,11 @@
 - pkg:maven/org.sessl/sessl-pssalib@0.16?classifier=sources
 - pkg:maven/org.sessl/sessl-pssalib@0.17
 - pkg:maven/org.sessl/sessl-pssalib@0.17?classifier=sources
+- pkg:maven/org.sessl/sessl-pssalib@0.18
+- pkg:maven/org.sessl/sessl-pssalib@0.18.1
+- pkg:maven/org.sessl/sessl-pssalib@0.18.1?classifier=sources
+- pkg:maven/org.sessl/sessl-pssalib@0.18?classifier=sources
+- pkg:maven/org.sessl/sessl-pssalib@0.19
+- pkg:maven/org.sessl/sessl-pssalib@0.19?classifier=sources
+- pkg:maven/org.sessl/sessl-pssalib@0.20
+- pkg:maven/org.sessl/sessl-pssalib@0.20?classifier=sources

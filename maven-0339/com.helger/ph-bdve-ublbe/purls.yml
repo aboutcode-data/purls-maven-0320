@@ -1,0 +1,4 @@
+- pkg:maven/com.helger/ph-bdve-ublbe@5.0.5
+- pkg:maven/com.helger/ph-bdve-ublbe@5.0.5?classifier=sources
+- pkg:maven/com.helger/ph-bdve-ublbe@5.0.6
+- pkg:maven/com.helger/ph-bdve-ublbe@5.0.6?classifier=sources

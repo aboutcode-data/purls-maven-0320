@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@0.1.0
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@0.1.0?classifier=sources
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.0.0
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.0.0?classifier=sources

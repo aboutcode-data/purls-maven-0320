@@ -1,0 +1,2 @@
+- pkg:maven/org.jresearch.gwtproject.safehtml/gwt-safehtml-template-processor@1.0.1
+- pkg:maven/org.jresearch.gwtproject.safehtml/gwt-safehtml-template-processor@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/im.ene.kohii/kohii@1.0.0.2802-ALPHA1?classifier=sources
+- pkg:maven/im.ene.kohii/kohii@1.0.0.2802-ALPHA1?type=aar

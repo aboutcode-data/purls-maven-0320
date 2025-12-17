@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt.bundles.xdocreport/fr.opensagres.xdocreport@1.0.6-1
+- pkg:maven/hu.blackbelt.bundles.xdocreport/fr.opensagres.xdocreport@1.0.6-1?classifier=sources

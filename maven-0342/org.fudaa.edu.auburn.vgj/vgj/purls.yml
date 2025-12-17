@@ -1,0 +1,4 @@
+- pkg:maven/org.fudaa.edu.auburn.vgj/vgj@1997-16-02
+- pkg:maven/org.fudaa.edu.auburn.vgj/vgj@1997-16-02?classifier=sources
+- pkg:maven/org.fudaa.edu.auburn.vgj/vgj@19971602
+- pkg:maven/org.fudaa.edu.auburn.vgj/vgj@19971602?classifier=sources

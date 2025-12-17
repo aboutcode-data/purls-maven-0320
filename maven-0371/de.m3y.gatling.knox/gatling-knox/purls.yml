@@ -1,0 +1,2 @@
+- pkg:maven/de.m3y.gatling.knox/gatling-knox@0.1
+- pkg:maven/de.m3y.gatling.knox/gatling-knox@0.1?classifier=sources

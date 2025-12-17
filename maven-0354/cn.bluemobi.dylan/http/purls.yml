@@ -14,3 +14,11 @@
 - pkg:maven/cn.bluemobi.dylan/http@1.8?type=aar
 - pkg:maven/cn.bluemobi.dylan/http@1.9.3?classifier=sources
 - pkg:maven/cn.bluemobi.dylan/http@1.9.3?type=aar
+- pkg:maven/cn.bluemobi.dylan/http@2.0.6?classifier=sources
+- pkg:maven/cn.bluemobi.dylan/http@2.0.6?type=aar
+- pkg:maven/cn.bluemobi.dylan/http@2.0.7?classifier=sources
+- pkg:maven/cn.bluemobi.dylan/http@2.0.7?type=aar
+- pkg:maven/cn.bluemobi.dylan/http@2.0.8?classifier=sources
+- pkg:maven/cn.bluemobi.dylan/http@2.0.8?type=aar
+- pkg:maven/cn.bluemobi.dylan/http@2.1.2?classifier=sources
+- pkg:maven/cn.bluemobi.dylan/http@2.1.2?type=aar

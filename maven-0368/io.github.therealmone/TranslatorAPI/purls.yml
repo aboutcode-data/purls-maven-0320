@@ -1,0 +1,2 @@
+- pkg:maven/io.github.therealmone/TranslatorAPI@1.1.0
+- pkg:maven/io.github.therealmone/TranslatorAPI@1.1.0?classifier=sources

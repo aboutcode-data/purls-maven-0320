@@ -11,3 +11,5 @@
 - pkg:maven/com.mobgen.halo.android/halo-translations@2.5.1?type=aar
 - pkg:maven/com.mobgen.halo.android/halo-translations@2.5.2?classifier=sources
 - pkg:maven/com.mobgen.halo.android/halo-translations@2.5.2?type=aar
+- pkg:maven/com.mobgen.halo.android/halo-translations@2.5.4?classifier=sources
+- pkg:maven/com.mobgen.halo.android/halo-translations@2.5.4?type=aar

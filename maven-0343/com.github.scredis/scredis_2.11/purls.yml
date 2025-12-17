@@ -1,0 +1,12 @@
+- pkg:maven/com.github.scredis/scredis_2.11@2.1.5%2B19-a5ac3984
+- pkg:maven/com.github.scredis/scredis_2.11@2.1.5%2B19-a5ac3984?classifier=sources
+- pkg:maven/com.github.scredis/scredis_2.11@2.1.7
+- pkg:maven/com.github.scredis/scredis_2.11@2.1.7?classifier=sources
+- pkg:maven/com.github.scredis/scredis_2.11@2.1.8
+- pkg:maven/com.github.scredis/scredis_2.11@2.1.8?classifier=sources
+- pkg:maven/com.github.scredis/scredis_2.11@2.1.9
+- pkg:maven/com.github.scredis/scredis_2.11@2.1.9?classifier=sources
+- pkg:maven/com.github.scredis/scredis_2.11@2.2.1
+- pkg:maven/com.github.scredis/scredis_2.11@2.2.1?classifier=sources
+- pkg:maven/com.github.scredis/scredis_2.11@2.2.2
+- pkg:maven/com.github.scredis/scredis_2.11@2.2.2?classifier=sources

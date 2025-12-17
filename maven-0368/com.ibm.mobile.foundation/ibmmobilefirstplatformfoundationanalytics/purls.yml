@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationanalytics@8.0.2018083007?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationanalytics@8.0.2018083007?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationanalytics@8.0.2018092809?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationanalytics@8.0.2018092809?type=aar

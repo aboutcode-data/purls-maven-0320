@@ -20,6 +20,10 @@
 - pkg:maven/org.zalando/tracer-hystrix@0.15.1?classifier=sources
 - pkg:maven/org.zalando/tracer-hystrix@0.16.0
 - pkg:maven/org.zalando/tracer-hystrix@0.16.0?classifier=sources
+- pkg:maven/org.zalando/tracer-hystrix@0.17.0
+- pkg:maven/org.zalando/tracer-hystrix@0.17.0?classifier=sources
+- pkg:maven/org.zalando/tracer-hystrix@0.17.1
+- pkg:maven/org.zalando/tracer-hystrix@0.17.1?classifier=sources
 - pkg:maven/org.zalando/tracer-hystrix@0.5.0
 - pkg:maven/org.zalando/tracer-hystrix@0.5.0?classifier=sources
 - pkg:maven/org.zalando/tracer-hystrix@0.6.0
@@ -30,3 +34,5 @@
 - pkg:maven/org.zalando/tracer-hystrix@0.8.0?classifier=sources
 - pkg:maven/org.zalando/tracer-hystrix@0.9.0
 - pkg:maven/org.zalando/tracer-hystrix@0.9.0?classifier=sources
+- pkg:maven/org.zalando/tracer-hystrix@1.0.0-RC.0
+- pkg:maven/org.zalando/tracer-hystrix@1.0.0-RC.0?classifier=sources

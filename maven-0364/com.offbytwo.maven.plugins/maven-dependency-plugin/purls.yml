@@ -1,0 +1,2 @@
+- pkg:maven/com.offbytwo.maven.plugins/maven-dependency-plugin@3.1.1.MDEP568
+- pkg:maven/com.offbytwo.maven.plugins/maven-dependency-plugin@3.1.1.MDEP568?classifier=sources

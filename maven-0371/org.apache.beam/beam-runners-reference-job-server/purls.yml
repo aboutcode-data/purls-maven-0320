@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.beam/beam-runners-reference-job-server@2.8.0
+- pkg:maven/org.apache.beam/beam-runners-reference-job-server@2.8.0?classifier=sources

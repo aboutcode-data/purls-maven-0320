@@ -1,2 +1,8 @@
 - pkg:maven/io.thorntail/thorntail-fraction-plugin@87
 - pkg:maven/io.thorntail/thorntail-fraction-plugin@87?classifier=sources
+- pkg:maven/io.thorntail/thorntail-fraction-plugin@88
+- pkg:maven/io.thorntail/thorntail-fraction-plugin@88?classifier=sources
+- pkg:maven/io.thorntail/thorntail-fraction-plugin@89
+- pkg:maven/io.thorntail/thorntail-fraction-plugin@89?classifier=sources
+- pkg:maven/io.thorntail/thorntail-fraction-plugin@90
+- pkg:maven/io.thorntail/thorntail-fraction-plugin@90?classifier=sources

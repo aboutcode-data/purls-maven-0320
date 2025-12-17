@@ -1,0 +1,2 @@
+- pkg:maven/com.search3r/config3r@0.9.1-RC1
+- pkg:maven/com.search3r/config3r@0.9.1-RC1?classifier=sources

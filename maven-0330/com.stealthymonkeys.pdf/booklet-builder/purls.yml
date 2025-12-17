@@ -1,0 +1,2 @@
+- pkg:maven/com.stealthymonkeys.pdf/booklet-builder@0.1.1
+- pkg:maven/com.stealthymonkeys.pdf/booklet-builder@0.1.1?classifier=sources

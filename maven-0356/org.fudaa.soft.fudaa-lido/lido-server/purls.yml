@@ -1,0 +1,2 @@
+- pkg:maven/org.fudaa.soft.fudaa-lido/lido-server@1.40
+- pkg:maven/org.fudaa.soft.fudaa-lido/lido-server@1.40?classifier=sources

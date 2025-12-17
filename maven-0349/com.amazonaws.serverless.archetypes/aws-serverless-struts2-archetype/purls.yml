@@ -1,0 +1,1 @@
+- pkg:maven/com.amazonaws.serverless.archetypes/aws-serverless-struts2-archetype@1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cerner.ccl.cdoc/cdoc-parser@2.0
+- pkg:maven/com.cerner.ccl.cdoc/cdoc-parser@2.0?classifier=sources

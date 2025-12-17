@@ -22,3 +22,7 @@
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-api@0.21?classifier=sources
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-api@0.22
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-api@0.22?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-api@0.23
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-api@0.23?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-api@0.24
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-api@0.24?classifier=sources

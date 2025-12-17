@@ -1,0 +1,2 @@
+- pkg:maven/org.keedio.commons/commons-csv@1.1-notrim
+- pkg:maven/org.keedio.commons/commons-csv@1.1-notrim?classifier=sources

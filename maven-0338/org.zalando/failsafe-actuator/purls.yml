@@ -22,3 +22,5 @@
 - pkg:maven/org.zalando/failsafe-actuator@0.6.1-sb2
 - pkg:maven/org.zalando/failsafe-actuator@0.6.1-sb2?classifier=sources
 - pkg:maven/org.zalando/failsafe-actuator@0.6.1?classifier=sources
+- pkg:maven/org.zalando/failsafe-actuator@1.0.0
+- pkg:maven/org.zalando/failsafe-actuator@1.0.0?classifier=sources

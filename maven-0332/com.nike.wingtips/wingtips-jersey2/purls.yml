@@ -1,0 +1,6 @@
+- pkg:maven/com.nike.wingtips/wingtips-jersey2@0.17.0
+- pkg:maven/com.nike.wingtips/wingtips-jersey2@0.17.0?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-jersey2@0.18.0
+- pkg:maven/com.nike.wingtips/wingtips-jersey2@0.18.0?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-jersey2@0.18.1
+- pkg:maven/com.nike.wingtips/wingtips-jersey2@0.18.1?classifier=sources

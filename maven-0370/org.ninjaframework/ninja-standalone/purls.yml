@@ -120,3 +120,7 @@
 - pkg:maven/org.ninjaframework/ninja-standalone@6.2.2?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-standalone@6.3.0
 - pkg:maven/org.ninjaframework/ninja-standalone@6.3.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-standalone@6.4.0
+- pkg:maven/org.ninjaframework/ninja-standalone@6.4.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-standalone@6.4.1
+- pkg:maven/org.ninjaframework/ninja-standalone@6.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apereo.cas/cas-server-support-logback@6.0.0-RC4
+- pkg:maven/org.apereo.cas/cas-server-support-logback@6.0.0-RC4?classifier=sources

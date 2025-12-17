@@ -2,3 +2,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.transport.ecf@1.1.201?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.transport.ecf@1.1.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.transport.ecf@1.1.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.transport.ecf@1.2.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.transport.ecf@1.2.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.transport.ecf@1.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.transport.ecf@1.2.100?classifier=sources

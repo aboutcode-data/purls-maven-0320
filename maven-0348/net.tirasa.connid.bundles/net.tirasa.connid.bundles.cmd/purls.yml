@@ -1,2 +1,4 @@
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.cmd@0.2
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.cmd@0.2?classifier=sources
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.cmd@0.3
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.cmd@0.3?classifier=sources

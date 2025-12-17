@@ -5,6 +5,10 @@
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.20?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.6?classifier=source-release&type=zip

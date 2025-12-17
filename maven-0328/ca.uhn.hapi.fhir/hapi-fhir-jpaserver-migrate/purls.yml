@@ -1,0 +1,4 @@
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-migrate@3.5.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-migrate@3.5.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-migrate@3.6.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-migrate@3.6.0?classifier=sources

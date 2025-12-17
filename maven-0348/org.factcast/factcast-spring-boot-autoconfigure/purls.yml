@@ -1,0 +1,8 @@
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.0.26
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.0.26?classifier=sources
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.0.30
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.0.30?classifier=sources
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.0.31
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.0.31?classifier=sources
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.0.32
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.0.32?classifier=sources

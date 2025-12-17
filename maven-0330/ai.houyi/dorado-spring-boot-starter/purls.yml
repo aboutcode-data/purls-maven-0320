@@ -1,0 +1,12 @@
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.1
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.11
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.12
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.13
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.14
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.15
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.16
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.17
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.18
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.1?classifier=sources
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.2
+- pkg:maven/ai.houyi/dorado-spring-boot-starter@0.0.2?classifier=sources

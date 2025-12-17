@@ -1,0 +1,2 @@
+- pkg:maven/io.zeleo.application/zeleo-application-library@1.0.1
+- pkg:maven/io.zeleo.application/zeleo-application-library@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.steps/okapi-step-idbasedaligner@0.36
+- pkg:maven/net.sf.okapi.steps/okapi-step-idbasedaligner@0.36?classifier=sources

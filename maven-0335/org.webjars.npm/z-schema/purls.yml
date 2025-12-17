@@ -1,4 +1,10 @@
 - pkg:maven/org.webjars.npm/z-schema@3.18.2
 - pkg:maven/org.webjars.npm/z-schema@3.18.2?classifier=sources
+- pkg:maven/org.webjars.npm/z-schema@3.18.4
+- pkg:maven/org.webjars.npm/z-schema@3.18.4?classifier=sources
 - pkg:maven/org.webjars.npm/z-schema@3.22.0
 - pkg:maven/org.webjars.npm/z-schema@3.22.0?classifier=sources
+- pkg:maven/org.webjars.npm/z-schema@3.23.0
+- pkg:maven/org.webjars.npm/z-schema@3.23.0?classifier=sources
+- pkg:maven/org.webjars.npm/z-schema@3.24.1
+- pkg:maven/org.webjars.npm/z-schema@3.24.1?classifier=sources

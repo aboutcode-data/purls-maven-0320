@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.flatpack/flatpack-excel@4.0.3
+- pkg:maven/net.sf.flatpack/flatpack-excel@4.0.3?classifier=sources

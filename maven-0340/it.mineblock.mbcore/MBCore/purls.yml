@@ -8,3 +8,5 @@
 - pkg:maven/it.mineblock.mbcore/MBCore@2.13.0?classifier=sources
 - pkg:maven/it.mineblock.mbcore/MBCore@2.13.4
 - pkg:maven/it.mineblock.mbcore/MBCore@2.13.4?classifier=sources
+- pkg:maven/it.mineblock.mbcore/MBCore@2.14
+- pkg:maven/it.mineblock.mbcore/MBCore@2.14?classifier=sources

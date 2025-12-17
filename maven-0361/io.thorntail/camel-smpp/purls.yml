@@ -1,1 +1,4 @@
 - pkg:maven/io.thorntail/camel-smpp@2.0.0.Final
+- pkg:maven/io.thorntail/camel-smpp@2.1.0.Final
+- pkg:maven/io.thorntail/camel-smpp@2.2.0.Final
+- pkg:maven/io.thorntail/camel-smpp@2.2.1.Final

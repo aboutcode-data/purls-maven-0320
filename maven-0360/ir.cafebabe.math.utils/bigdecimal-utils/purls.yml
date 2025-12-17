@@ -1,0 +1,2 @@
+- pkg:maven/ir.cafebabe.math.utils/bigdecimal-utils@1.3
+- pkg:maven/ir.cafebabe.math.utils/bigdecimal-utils@1.3?classifier=sources

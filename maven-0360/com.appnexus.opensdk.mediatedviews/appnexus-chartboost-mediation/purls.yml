@@ -25,6 +25,11 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@3.5-6.5.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.0-6.5.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.1-6.5.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.10-6.5.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.11-6.5.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.11.1-6.5.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.11.2-6.5.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.12-6.5.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.2-6.5.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.3-6.5.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.4-6.5.1?type=aar
@@ -33,3 +38,4 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.7-6.5.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.8-6.5.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.8.1-6.5.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-chartboost-mediation@4.9-6.5.1?type=aar

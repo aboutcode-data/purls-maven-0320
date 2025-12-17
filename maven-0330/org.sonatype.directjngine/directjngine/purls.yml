@@ -2,3 +2,11 @@
 - pkg:maven/org.sonatype.directjngine/directjngine@2.2.1?classifier=sources
 - pkg:maven/org.sonatype.directjngine/directjngine@2.2.2-01
 - pkg:maven/org.sonatype.directjngine/directjngine@2.2.2-01?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.3-01
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.3-01?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.4
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.4?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.5
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.5?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.6-02
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.6-02?classifier=sources

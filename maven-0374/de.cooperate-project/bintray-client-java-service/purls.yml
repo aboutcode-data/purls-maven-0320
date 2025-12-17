@@ -1,0 +1,2 @@
+- pkg:maven/de.cooperate-project/bintray-client-java-service@0.9.2
+- pkg:maven/de.cooperate-project/bintray-client-java-service@0.9.2?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.protelis/protelis-lang@0.2.1-10.5.1-ee1982d?classifier=sources
 - pkg:maven/org.protelis/protelis-lang@0.2.1-10.5.2-8d22973
 - pkg:maven/org.protelis/protelis-lang@0.2.1-10.5.2-8d22973?classifier=sources
+- pkg:maven/org.protelis/protelis-lang@0.2.1-10.6.0-0f03bd6
+- pkg:maven/org.protelis/protelis-lang@0.2.1-10.6.0-0f03bd6?classifier=sources

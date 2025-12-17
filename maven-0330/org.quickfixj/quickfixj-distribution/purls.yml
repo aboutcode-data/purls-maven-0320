@@ -2,3 +2,4 @@
 - pkg:maven/org.quickfixj/quickfixj-distribution@1.6.3?classifier=src&type=zip
 - pkg:maven/org.quickfixj/quickfixj-distribution@1.6.4?classifier=src&type=zip
 - pkg:maven/org.quickfixj/quickfixj-distribution@2.0.0?classifier=src&type=zip
+- pkg:maven/org.quickfixj/quickfixj-distribution@2.1.0?classifier=src&type=zip

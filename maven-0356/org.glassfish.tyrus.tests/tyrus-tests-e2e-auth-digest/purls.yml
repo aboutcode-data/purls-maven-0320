@@ -10,6 +10,8 @@
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.13.1
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.13.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.13?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.14
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.14?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8.1
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-auth-digest@1.8.1?classifier=sources

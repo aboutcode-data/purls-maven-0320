@@ -1,0 +1,6 @@
+- pkg:maven/net.vectos/itinere-circe_2.12@0.1.0
+- pkg:maven/net.vectos/itinere-circe_2.12@0.1.0%2B5-c69dae33
+- pkg:maven/net.vectos/itinere-circe_2.12@0.1.0%2B5-c69dae33?classifier=sources
+- pkg:maven/net.vectos/itinere-circe_2.12@0.1.0?classifier=sources
+- pkg:maven/net.vectos/itinere-circe_2.12@0.1.1
+- pkg:maven/net.vectos/itinere-circe_2.12@0.1.1?classifier=sources

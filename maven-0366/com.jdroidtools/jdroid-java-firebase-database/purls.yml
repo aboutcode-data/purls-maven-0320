@@ -2,3 +2,5 @@
 - pkg:maven/com.jdroidtools/jdroid-java-firebase-database@0.16.0?classifier=sources
 - pkg:maven/com.jdroidtools/jdroid-java-firebase-database@1.0.0
 - pkg:maven/com.jdroidtools/jdroid-java-firebase-database@1.0.0?classifier=sources
+- pkg:maven/com.jdroidtools/jdroid-java-firebase-database@2.0.0
+- pkg:maven/com.jdroidtools/jdroid-java-firebase-database@2.0.0?classifier=sources

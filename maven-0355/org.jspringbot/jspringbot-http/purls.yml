@@ -14,3 +14,5 @@
 - pkg:maven/org.jspringbot/jspringbot-http@1.5.5
 - pkg:maven/org.jspringbot/jspringbot-http@1.5.5?classifier=sources
 - pkg:maven/org.jspringbot/jspringbot-http@1.5?classifier=sources
+- pkg:maven/org.jspringbot/jspringbot-http@1.9
+- pkg:maven/org.jspringbot/jspringbot-http@1.9?classifier=sources

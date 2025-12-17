@@ -1,0 +1,4 @@
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@2.9.2
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@2.9.2?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.0.0
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.0.0?classifier=sources

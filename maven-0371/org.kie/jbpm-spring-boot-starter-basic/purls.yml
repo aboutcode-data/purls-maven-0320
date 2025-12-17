@@ -1,2 +1,10 @@
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.10.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.11.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.12.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.13.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.14.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.15.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.6.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.7.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.8.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.9.0.Final

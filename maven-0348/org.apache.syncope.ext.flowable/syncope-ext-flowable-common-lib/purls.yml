@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-common-lib@2.1.2
+- pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-common-lib@2.1.2?classifier=sources

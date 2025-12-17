@@ -1,0 +1,10 @@
+- pkg:maven/be.feelio/mollie@0.6.3
+- pkg:maven/be.feelio/mollie@0.6.3?classifier=sources
+- pkg:maven/be.feelio/mollie@0.7.0
+- pkg:maven/be.feelio/mollie@0.7.0?classifier=sources
+- pkg:maven/be.feelio/mollie@0.8.0
+- pkg:maven/be.feelio/mollie@0.8.0?classifier=sources
+- pkg:maven/be.feelio/mollie@0.8.1
+- pkg:maven/be.feelio/mollie@0.8.1?classifier=sources
+- pkg:maven/be.feelio/mollie@1.0.0
+- pkg:maven/be.feelio/mollie@1.0.0?classifier=sources

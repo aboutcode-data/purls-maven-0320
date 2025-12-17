@@ -5,3 +5,4 @@
 - pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-am@1.4.0?classifier=sources
 - pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-am@1.5.0?classifier=sources
 - pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-am@1.6.0?classifier=sources
+- pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-am@1.7.0?classifier=sources

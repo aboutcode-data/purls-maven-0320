@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/progress-bar-webpack-plugin@1.11.0
+- pkg:maven/org.webjars.npm/progress-bar-webpack-plugin@1.11.0?classifier=sources

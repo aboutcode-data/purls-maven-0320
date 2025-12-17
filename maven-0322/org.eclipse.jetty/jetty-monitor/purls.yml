@@ -224,6 +224,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.24.v20180105?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.25.v20180606
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.25.v20180606?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.26.v20180806
+- pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.26.v20180806?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.3.v20140905
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.3.v20140905?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.2.4.v20141103
@@ -296,6 +298,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.23.v20180228?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.24.v20180605
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.24.v20180605?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.25.v20180904
+- pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.25.v20180904?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.3.v20150827
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.3.v20150827?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-monitor@9.3.4.RC0

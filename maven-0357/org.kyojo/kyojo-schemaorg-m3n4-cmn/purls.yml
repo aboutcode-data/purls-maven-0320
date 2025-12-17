@@ -1,0 +1,3 @@
+- pkg:maven/org.kyojo/kyojo-schemaorg-m3n4-cmn@0.5.1?classifier=sources
+- pkg:maven/org.kyojo/kyojo-schemaorg-m3n4-cmn@0.6.0?classifier=sources
+- pkg:maven/org.kyojo/kyojo-schemaorg-m3n4-cmn@0.6.1?classifier=sources

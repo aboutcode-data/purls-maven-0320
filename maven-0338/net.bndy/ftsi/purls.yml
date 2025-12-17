@@ -12,3 +12,7 @@
 - pkg:maven/net.bndy/ftsi@1.4?classifier=sources
 - pkg:maven/net.bndy/ftsi@1.5
 - pkg:maven/net.bndy/ftsi@1.5?classifier=sources
+- pkg:maven/net.bndy/ftsi@1.6
+- pkg:maven/net.bndy/ftsi@1.6.1
+- pkg:maven/net.bndy/ftsi@1.6.1?classifier=sources
+- pkg:maven/net.bndy/ftsi@1.6?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@1.90
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@1.90?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@1.91
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@1.91?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@1.92
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@1.92?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@1.93
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@1.93?classifier=sources

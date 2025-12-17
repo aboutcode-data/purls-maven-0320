@@ -43,3 +43,4 @@
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-cli@1.0.0-alpha2?classifier=sources
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-cli@1.0.0-alpha3?classifier=sources
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-cli@1.0.0-alpha4?classifier=sources
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-cli@1.0.0-beta1?classifier=sources

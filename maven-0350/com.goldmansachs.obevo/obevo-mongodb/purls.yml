@@ -6,3 +6,9 @@
 - pkg:maven/com.goldmansachs.obevo/obevo-mongodb@6.5.2?classifier=sources
 - pkg:maven/com.goldmansachs.obevo/obevo-mongodb@6.6.0
 - pkg:maven/com.goldmansachs.obevo/obevo-mongodb@6.6.0?classifier=sources
+- pkg:maven/com.goldmansachs.obevo/obevo-mongodb@6.6.1
+- pkg:maven/com.goldmansachs.obevo/obevo-mongodb@6.6.1?classifier=sources
+- pkg:maven/com.goldmansachs.obevo/obevo-mongodb@7.0.0
+- pkg:maven/com.goldmansachs.obevo/obevo-mongodb@7.0.0?classifier=sources
+- pkg:maven/com.goldmansachs.obevo/obevo-mongodb@7.0.1
+- pkg:maven/com.goldmansachs.obevo/obevo-mongodb@7.0.1?classifier=sources

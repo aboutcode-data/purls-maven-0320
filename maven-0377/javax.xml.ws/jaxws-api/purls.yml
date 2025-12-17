@@ -50,3 +50,5 @@
 - pkg:maven/javax.xml.ws/jaxws-api@2.2?classifier=sources
 - pkg:maven/javax.xml.ws/jaxws-api@2.3.0
 - pkg:maven/javax.xml.ws/jaxws-api@2.3.0?classifier=sources
+- pkg:maven/javax.xml.ws/jaxws-api@2.3.1
+- pkg:maven/javax.xml.ws/jaxws-api@2.3.1?classifier=sources

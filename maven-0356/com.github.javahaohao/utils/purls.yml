@@ -16,3 +16,11 @@
 - pkg:maven/com.github.javahaohao/utils@2.0-RELEASE?classifier=sources
 - pkg:maven/com.github.javahaohao/utils@2.1-RELEASE
 - pkg:maven/com.github.javahaohao/utils@2.1-RELEASE?classifier=sources
+- pkg:maven/com.github.javahaohao/utils@2.3-RELEASE
+- pkg:maven/com.github.javahaohao/utils@2.3-RELEASE?classifier=sources
+- pkg:maven/com.github.javahaohao/utils@2.4-RELEASE
+- pkg:maven/com.github.javahaohao/utils@2.4-RELEASE?classifier=sources
+- pkg:maven/com.github.javahaohao/utils@2.5-RELEASE
+- pkg:maven/com.github.javahaohao/utils@2.5-RELEASE?classifier=sources
+- pkg:maven/com.github.javahaohao/utils@2.6-RELEASE
+- pkg:maven/com.github.javahaohao/utils@2.6-RELEASE?classifier=sources

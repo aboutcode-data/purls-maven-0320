@@ -110,3 +110,9 @@
 - pkg:maven/cn.ransj.rn/react-native@0.52.f.beta2?type=aar
 - pkg:maven/cn.ransj.rn/react-native@0.52.f.beta?classifier=sources
 - pkg:maven/cn.ransj.rn/react-native@0.52.f.beta?type=aar
+- pkg:maven/cn.ransj.rn/react-native@0.52.f?classifier=sources
+- pkg:maven/cn.ransj.rn/react-native@0.52.f?type=aar
+- pkg:maven/cn.ransj.rn/react-native@0.52.g?classifier=sources
+- pkg:maven/cn.ransj.rn/react-native@0.52.g?type=aar
+- pkg:maven/cn.ransj.rn/react-native@0.52.h?classifier=sources
+- pkg:maven/cn.ransj.rn/react-native@0.52.h?type=aar

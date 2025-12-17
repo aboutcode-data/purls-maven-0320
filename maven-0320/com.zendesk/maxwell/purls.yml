@@ -15,6 +15,11 @@
 - pkg:maven/com.zendesk/maxwell@1.15.0?classifier=sources
 - pkg:maven/com.zendesk/maxwell@1.16.0?classifier=sources
 - pkg:maven/com.zendesk/maxwell@1.16.1?classifier=sources
+- pkg:maven/com.zendesk/maxwell@1.17.0?classifier=sources
+- pkg:maven/com.zendesk/maxwell@1.17.1?classifier=sources
+- pkg:maven/com.zendesk/maxwell@1.18.0?classifier=sources
+- pkg:maven/com.zendesk/maxwell@1.19.0?classifier=sources
+- pkg:maven/com.zendesk/maxwell@1.19.1?classifier=sources
 - pkg:maven/com.zendesk/maxwell@1.7.2
 - pkg:maven/com.zendesk/maxwell@1.7.2?classifier=sources
 - pkg:maven/com.zendesk/maxwell@1.8.0

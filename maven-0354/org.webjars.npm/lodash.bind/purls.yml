@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/lodash.bind@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.bind@4.1.4
 - pkg:maven/org.webjars.npm/lodash.bind@4.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/lodash.bind@4.2.1
+- pkg:maven/org.webjars.npm/lodash.bind@4.2.1?classifier=sources

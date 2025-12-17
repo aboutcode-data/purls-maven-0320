@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.pulsar/protobuf-shaded@2.1.0-incubating
+- pkg:maven/org.apache.pulsar/protobuf-shaded@2.1.0-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/protobuf-shaded@2.1.1-incubating
+- pkg:maven/org.apache.pulsar/protobuf-shaded@2.1.1-incubating?classifier=sources

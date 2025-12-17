@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-zurb-foundation-sites@6.5.0-rc.2
+- pkg:maven/org.webjars.npm/github-com-zurb-foundation-sites@6.5.0-rc.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/tech.redroma.yelp/yelp-api@1.0
 - pkg:maven/tech.redroma.yelp/yelp-api@1.0?classifier=sources
+- pkg:maven/tech.redroma.yelp/yelp-api@1.1
+- pkg:maven/tech.redroma.yelp/yelp-api@1.1?classifier=sources

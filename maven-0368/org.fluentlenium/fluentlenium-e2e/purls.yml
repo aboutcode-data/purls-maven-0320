@@ -1,0 +1,2 @@
+- pkg:maven/org.fluentlenium/fluentlenium-e2e@3.6.0
+- pkg:maven/org.fluentlenium/fluentlenium-e2e@3.6.1

@@ -38,3 +38,5 @@
 - pkg:maven/com.milaboratory/milib@1.8.4
 - pkg:maven/com.milaboratory/milib@1.8.4?classifier=sources
 - pkg:maven/com.milaboratory/milib@1.8?classifier=sources
+- pkg:maven/com.milaboratory/milib@1.9
+- pkg:maven/com.milaboratory/milib@1.9?classifier=sources

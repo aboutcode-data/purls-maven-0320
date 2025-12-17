@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/slash@1.0.0
 - pkg:maven/org.webjars.npm/slash@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/slash@2.0.0
+- pkg:maven/org.webjars.npm/slash@2.0.0?classifier=sources

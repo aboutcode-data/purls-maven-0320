@@ -26,3 +26,5 @@
 - pkg:maven/com.mytechia/robobo-framework@1.0.0?type=aar
 - pkg:maven/com.mytechia/robobo-framework@1.3.3?classifier=sources
 - pkg:maven/com.mytechia/robobo-framework@1.3.3?type=aar
+- pkg:maven/com.mytechia/robobo-framework@1.3.4?classifier=sources
+- pkg:maven/com.mytechia/robobo-framework@1.3.4?type=aar

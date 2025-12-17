@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java-windmill@2.8.0
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java-windmill@2.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.joonasvali.naturalmouse/naturalmouse@1.0.1
+- pkg:maven/com.github.joonasvali.naturalmouse/naturalmouse@1.0.1?classifier=sources

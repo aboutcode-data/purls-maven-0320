@@ -1,0 +1,2 @@
+- pkg:maven/org.jarbframework/jarb@4.0.2.SPRING5
+- pkg:maven/org.jarbframework/jarb@4.0.2.SPRING5?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.cognitect.aws/waf-regional@669.2.364.0
+- pkg:maven/com.cognitect.aws/waf-regional@669.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/waf-regional@684.2.380.0
+- pkg:maven/com.cognitect.aws/waf-regional@684.2.380.0?classifier=sources
+- pkg:maven/com.cognitect.aws/waf-regional@697.2.391.0
+- pkg:maven/com.cognitect.aws/waf-regional@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/waf-regional@711.2.412.0
+- pkg:maven/com.cognitect.aws/waf-regional@711.2.412.0?classifier=sources

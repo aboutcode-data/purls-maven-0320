@@ -1,0 +1,4 @@
+- pkg:maven/org.minbox.framework/api-boot-plugin-datasource-switch@1.0.3.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-datasource-switch@1.0.3.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-plugin-datasource-switch@2.0.3.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-datasource-switch@2.0.3.RELEASE?classifier=sources

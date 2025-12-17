@@ -335,6 +335,8 @@
 - pkg:maven/org.kohsuke.stapler/stapler@1.254?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler@1.255
 - pkg:maven/org.kohsuke.stapler/stapler@1.255?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler@1.257
+- pkg:maven/org.kohsuke.stapler/stapler@1.257?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler@1.25?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler@1.25?classifier=src&type=tar.gz
 - pkg:maven/org.kohsuke.stapler/stapler@1.25?classifier=src&type=zip

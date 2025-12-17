@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-googleautoml@0.37
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-googleautoml@0.37?classifier=sources

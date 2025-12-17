@@ -71,6 +71,8 @@
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.0
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.0?classifier=sources
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.1
+- pkg:maven/org.jpmml/pmml-model-gwt@1.4.10
+- pkg:maven/org.jpmml/pmml-model-gwt@1.4.10?classifier=sources
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.1?classifier=sources
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.2
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.2?classifier=sources
@@ -84,3 +86,7 @@
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.6?classifier=sources
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.7
 - pkg:maven/org.jpmml/pmml-model-gwt@1.4.7?classifier=sources
+- pkg:maven/org.jpmml/pmml-model-gwt@1.4.8
+- pkg:maven/org.jpmml/pmml-model-gwt@1.4.8?classifier=sources
+- pkg:maven/org.jpmml/pmml-model-gwt@1.4.9
+- pkg:maven/org.jpmml/pmml-model-gwt@1.4.9?classifier=sources

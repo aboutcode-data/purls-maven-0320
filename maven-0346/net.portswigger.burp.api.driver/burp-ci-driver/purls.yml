@@ -3,4 +3,6 @@
 - pkg:maven/net.portswigger.burp.api.driver/burp-ci-driver@1.0.3beta
 - pkg:maven/net.portswigger.burp.api.driver/burp-ci-driver@1.0.4beta
 - pkg:maven/net.portswigger.burp.api.driver/burp-ci-driver@1.0.5beta
+- pkg:maven/net.portswigger.burp.api.driver/burp-ci-driver@1.0.6beta
+- pkg:maven/net.portswigger.burp.api.driver/burp-ci-driver@1.0.7beta
 - pkg:maven/net.portswigger.burp.api.driver/burp-ci-driver@1.0beta

@@ -1,0 +1,2 @@
+- pkg:maven/com.haoxuer.plugs/discover-plug-httpstore@1.01
+- pkg:maven/com.haoxuer.plugs/discover-plug-httpstore@1.01?classifier=sources

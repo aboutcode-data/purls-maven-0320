@@ -10,6 +10,12 @@
 - pkg:maven/org.jbpm/jbpm-workitems-email@7.14.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-email@7.15.0.Final
 - pkg:maven/org.jbpm/jbpm-workitems-email@7.15.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-email@7.16.0.Final
+- pkg:maven/org.jbpm/jbpm-workitems-email@7.16.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-email@7.17.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-email@7.18.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-email@7.19.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-email@7.20.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-email@7.3.0.Final
 - pkg:maven/org.jbpm/jbpm-workitems-email@7.3.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-email@7.4.0.Final

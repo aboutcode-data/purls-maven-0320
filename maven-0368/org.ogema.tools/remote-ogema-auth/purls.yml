@@ -1,0 +1,2 @@
+- pkg:maven/org.ogema.tools/remote-ogema-auth@2.2.0_1
+- pkg:maven/org.ogema.tools/remote-ogema-auth@2.2.0_1?classifier=sources

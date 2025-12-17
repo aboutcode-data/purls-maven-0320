@@ -1,2 +1,4 @@
 - pkg:maven/io.thedocs/soyuz-err@2.02
 - pkg:maven/io.thedocs/soyuz-err@2.02?classifier=sources
+- pkg:maven/io.thedocs/soyuz-err@3.01
+- pkg:maven/io.thedocs/soyuz-err@3.01?classifier=sources

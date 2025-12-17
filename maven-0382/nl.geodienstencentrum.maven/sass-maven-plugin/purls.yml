@@ -79,3 +79,7 @@
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.6.1?classifier=sources
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.7.0
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.7.0?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.7.1
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.7.1?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.7.2
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.7.2?classifier=sources

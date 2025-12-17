@@ -1,0 +1,2 @@
+- pkg:maven/org.meteothink/MeteoInfoLab@1.7.5
+- pkg:maven/org.meteothink/MeteoInfoLab@1.7.5?classifier=sources

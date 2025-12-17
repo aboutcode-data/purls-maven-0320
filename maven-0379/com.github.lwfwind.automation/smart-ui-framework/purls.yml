@@ -12,3 +12,5 @@
 - pkg:maven/com.github.lwfwind.automation/smart-ui-framework@3.4?classifier=sources
 - pkg:maven/com.github.lwfwind.automation/smart-ui-framework@3.5
 - pkg:maven/com.github.lwfwind.automation/smart-ui-framework@3.5?classifier=sources
+- pkg:maven/com.github.lwfwind.automation/smart-ui-framework@3.8
+- pkg:maven/com.github.lwfwind.automation/smart-ui-framework@3.8?classifier=sources

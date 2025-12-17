@@ -3,4 +3,8 @@
 - pkg:maven/com.fully-automated/api-automation@1.1
 - pkg:maven/com.fully-automated/api-automation@1.1?classifier=sources
 - pkg:maven/com.fully-automated/api-automation@1.2
+- pkg:maven/com.fully-automated/api-automation@1.2.2
+- pkg:maven/com.fully-automated/api-automation@1.2.2?classifier=sources
+- pkg:maven/com.fully-automated/api-automation@1.2.4
+- pkg:maven/com.fully-automated/api-automation@1.2.4?classifier=sources
 - pkg:maven/com.fully-automated/api-automation@1.2?classifier=sources

@@ -36,3 +36,6 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon@3.9.0.1892?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon@4.0.0.2052?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon@4.0.1.2077?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon@4.0.2.2142?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon@4.1.0.2218?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-daemon@4.2.0.2266?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ignite/ignite-tensorflow@2.7.0
+- pkg:maven/org.apache.ignite/ignite-tensorflow@2.7.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.xiaoyudeguang/easy-netty@1.2.2-RELEASE
+- pkg:maven/io.github.xiaoyudeguang/easy-netty@1.2.2-RELEASE?classifier=sources
+- pkg:maven/io.github.xiaoyudeguang/easy-netty@1.2.3-RELEASE
+- pkg:maven/io.github.xiaoyudeguang/easy-netty@1.2.3-RELEASE?classifier=sources

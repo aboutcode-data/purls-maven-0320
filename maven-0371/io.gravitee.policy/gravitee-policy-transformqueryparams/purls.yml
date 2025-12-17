@@ -5,3 +5,4 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-transformqueryparams@1.0.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-transformqueryparams@1.1.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-transformqueryparams@1.2.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-transformqueryparams@1.3.0?classifier=sources

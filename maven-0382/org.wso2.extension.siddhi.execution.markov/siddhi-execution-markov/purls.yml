@@ -10,6 +10,10 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.14?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.15
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.15?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.16
+- pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.16?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.17
+- pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.17?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.4
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.4?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.5
@@ -22,3 +26,5 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.8?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.9
 - pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.0.9?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.1.0
+- pkg:maven/org.wso2.extension.siddhi.execution.markov/siddhi-execution-markov@4.1.0?classifier=sources

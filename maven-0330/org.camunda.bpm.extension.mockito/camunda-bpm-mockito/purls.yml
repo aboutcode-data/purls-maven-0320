@@ -8,3 +8,5 @@
 - pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@3.2.1?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@4.0.0
 - pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@4.0.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@4.9.0
+- pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@4.9.0?classifier=sources

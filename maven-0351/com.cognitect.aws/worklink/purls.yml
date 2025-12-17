@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/worklink@697.2.395.0
+- pkg:maven/com.cognitect.aws/worklink@697.2.395.0?classifier=sources

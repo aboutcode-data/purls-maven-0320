@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/postcss-modules@0.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-modules@1.1.0
 - pkg:maven/org.webjars.npm/postcss-modules@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-modules@1.4.1
+- pkg:maven/org.webjars.npm/postcss-modules@1.4.1?classifier=sources

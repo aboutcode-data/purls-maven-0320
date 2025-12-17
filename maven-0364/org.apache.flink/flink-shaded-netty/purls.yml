@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.flink/flink-shaded-netty@4.0.56.Final-3.0
 - pkg:maven/org.apache.flink/flink-shaded-netty@4.1.24.Final-4.0
 - pkg:maven/org.apache.flink/flink-shaded-netty@4.1.24.Final-5.0
+- pkg:maven/org.apache.flink/flink-shaded-netty@4.1.32.Final-6.0

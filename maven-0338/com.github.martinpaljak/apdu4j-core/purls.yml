@@ -1,0 +1,2 @@
+- pkg:maven/com.github.martinpaljak/apdu4j-core@19.04.02
+- pkg:maven/com.github.martinpaljak/apdu4j-core@19.04.02?classifier=sources

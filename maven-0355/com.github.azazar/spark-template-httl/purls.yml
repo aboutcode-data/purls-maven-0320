@@ -1,0 +1,2 @@
+- pkg:maven/com.github.azazar/spark-template-httl@2.8.0
+- pkg:maven/com.github.azazar/spark-template-httl@2.8.0?classifier=sources

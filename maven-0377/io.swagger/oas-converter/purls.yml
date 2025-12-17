@@ -1,0 +1,2 @@
+- pkg:maven/io.swagger/oas-converter@1.0.0?classifier=sources
+- pkg:maven/io.swagger/oas-converter@1.0.0?type=war

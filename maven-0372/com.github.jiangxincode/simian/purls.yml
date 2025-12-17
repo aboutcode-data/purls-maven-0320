@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jiangxincode/simian@2.5.10
+- pkg:maven/com.github.jiangxincode/simian@2.5.10?classifier=sources

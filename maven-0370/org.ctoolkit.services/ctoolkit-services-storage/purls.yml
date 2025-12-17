@@ -10,6 +10,16 @@
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.14?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.15
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.15?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.16
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.16?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.17
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.17?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.18
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.18?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.19
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.19?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.20
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.20?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.5
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.5?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-storage@0.6

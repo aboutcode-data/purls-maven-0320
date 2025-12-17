@@ -1,0 +1,2 @@
+- pkg:maven/io.swagger.validator.v3/swagger-validator@2.0.0?classifier=sources
+- pkg:maven/io.swagger.validator.v3/swagger-validator@2.0.0?type=war

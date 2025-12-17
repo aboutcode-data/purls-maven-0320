@@ -1,0 +1,4 @@
+- pkg:maven/org.zalando.spring/k8s-prestop-starter@1.0.0-beta-1
+- pkg:maven/org.zalando.spring/k8s-prestop-starter@1.0.0-beta-1?classifier=sources
+- pkg:maven/org.zalando.spring/k8s-prestop-starter@2.0.0-beta-2
+- pkg:maven/org.zalando.spring/k8s-prestop-starter@2.0.0-beta-2?classifier=sources

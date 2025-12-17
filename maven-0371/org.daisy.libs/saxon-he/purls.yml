@@ -6,3 +6,5 @@
 - pkg:maven/org.daisy.libs/saxon-he@9.5.1.5-1
 - pkg:maven/org.daisy.libs/saxon-he@9.5.1.5-1?classifier=sources
 - pkg:maven/org.daisy.libs/saxon-he@9.5.1.5?classifier=sources
+- pkg:maven/org.daisy.libs/saxon-he@9.8.0.8
+- pkg:maven/org.daisy.libs/saxon-he@9.8.0.8?classifier=sources

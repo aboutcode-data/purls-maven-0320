@@ -1,0 +1,9 @@
+- pkg:maven/cn.com.fishin/Tuz@0.5.2-BETA
+- pkg:maven/cn.com.fishin/Tuz@0.5.2-BETA?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.5.5-BETA
+- pkg:maven/cn.com.fishin/Tuz@0.5.5-BETA?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.5.7-BETA?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.6.0-FINAL
+- pkg:maven/cn.com.fishin/Tuz@0.6.0-FINAL?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.6.4-BETA
+- pkg:maven/cn.com.fishin/Tuz@0.6.4-BETA?classifier=sources

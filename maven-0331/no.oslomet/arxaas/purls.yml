@@ -1,0 +1,2 @@
+- pkg:maven/no.oslomet/arxaas@0.2.2-RELEASE
+- pkg:maven/no.oslomet/arxaas@0.2.2-RELEASE?classifier=sources

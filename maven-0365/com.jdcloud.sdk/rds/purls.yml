@@ -10,3 +10,11 @@
 - pkg:maven/com.jdcloud.sdk/rds@0.3.0?classifier=sources
 - pkg:maven/com.jdcloud.sdk/rds@0.3.3
 - pkg:maven/com.jdcloud.sdk/rds@0.3.3?classifier=sources
+- pkg:maven/com.jdcloud.sdk/rds@0.3.6
+- pkg:maven/com.jdcloud.sdk/rds@0.3.6?classifier=sources
+- pkg:maven/com.jdcloud.sdk/rds@0.4.1
+- pkg:maven/com.jdcloud.sdk/rds@0.4.1?classifier=sources
+- pkg:maven/com.jdcloud.sdk/rds@0.4.3
+- pkg:maven/com.jdcloud.sdk/rds@0.4.3?classifier=sources
+- pkg:maven/com.jdcloud.sdk/rds@0.4.6
+- pkg:maven/com.jdcloud.sdk/rds@0.4.6?classifier=sources

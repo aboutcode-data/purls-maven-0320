@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/firebase__app-types@0.3.7
+- pkg:maven/org.webjars.npm/firebase__app-types@0.3.7?classifier=sources

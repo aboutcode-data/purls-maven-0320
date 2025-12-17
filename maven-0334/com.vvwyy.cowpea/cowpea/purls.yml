@@ -1,2 +1,10 @@
 - pkg:maven/com.vvwyy.cowpea/cowpea@0.0.3-BATE
 - pkg:maven/com.vvwyy.cowpea/cowpea@0.0.3-BATE?classifier=sources
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.4-BATE
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.4-BATE?classifier=sources
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.5-BATE
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.5-BATE?classifier=sources
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.6-BATE
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.6-BATE?classifier=sources
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.7-BATE
+- pkg:maven/com.vvwyy.cowpea/cowpea@0.0.7-BATE?classifier=sources

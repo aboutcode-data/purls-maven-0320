@@ -1,0 +1,2 @@
+- pkg:maven/com.vendasta/socialpost.v1@6.0.0
+- pkg:maven/com.vendasta/socialpost.v1@6.0.0?classifier=sources

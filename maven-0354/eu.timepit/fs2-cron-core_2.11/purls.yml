@@ -1,0 +1,4 @@
+- pkg:maven/eu.timepit/fs2-cron-core_2.11@0.0.12
+- pkg:maven/eu.timepit/fs2-cron-core_2.11@0.0.12?classifier=sources
+- pkg:maven/eu.timepit/fs2-cron-core_2.11@0.1.0
+- pkg:maven/eu.timepit/fs2-cron-core_2.11@0.1.0?classifier=sources

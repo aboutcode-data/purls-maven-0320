@@ -20,3 +20,5 @@
 - pkg:maven/com.github.a14e/mongoless_2.12@0.2?classifier=sources
 - pkg:maven/com.github.a14e/mongoless_2.12@0.3.00
 - pkg:maven/com.github.a14e/mongoless_2.12@0.3.00?classifier=sources
+- pkg:maven/com.github.a14e/mongoless_2.12@0.3.01
+- pkg:maven/com.github.a14e/mongoless_2.12@0.3.01?classifier=sources

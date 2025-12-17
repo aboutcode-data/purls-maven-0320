@@ -46,3 +46,13 @@
 - pkg:maven/com.appdirect/service-integration-sdk@1.52?classifier=sources
 - pkg:maven/com.appdirect/service-integration-sdk@1.53
 - pkg:maven/com.appdirect/service-integration-sdk@1.53?classifier=sources
+- pkg:maven/com.appdirect/service-integration-sdk@1.54
+- pkg:maven/com.appdirect/service-integration-sdk@1.54?classifier=sources
+- pkg:maven/com.appdirect/service-integration-sdk@1.55
+- pkg:maven/com.appdirect/service-integration-sdk@1.55?classifier=sources
+- pkg:maven/com.appdirect/service-integration-sdk@1.57
+- pkg:maven/com.appdirect/service-integration-sdk@1.57?classifier=sources
+- pkg:maven/com.appdirect/service-integration-sdk@1.58
+- pkg:maven/com.appdirect/service-integration-sdk@1.58?classifier=sources
+- pkg:maven/com.appdirect/service-integration-sdk@1.59
+- pkg:maven/com.appdirect/service-integration-sdk@1.59?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.github.jeffreyning/nh-micro-db@1.1.9-RELEASE?classifier=sources
 - pkg:maven/com.github.jeffreyning/nh-micro-db@1.2.0-RELEASE
 - pkg:maven/com.github.jeffreyning/nh-micro-db@1.2.0-RELEASE?classifier=sources
+- pkg:maven/com.github.jeffreyning/nh-micro-db@1.2.1-RELEASE
+- pkg:maven/com.github.jeffreyning/nh-micro-db@1.2.1-RELEASE?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.fatboyindustrial.gson-jodatime-serialisers/gson-jodatime-serialisers@1.6.0?classifier=sources
 - pkg:maven/com.fatboyindustrial.gson-jodatime-serialisers/gson-jodatime-serialisers@1.7.0
 - pkg:maven/com.fatboyindustrial.gson-jodatime-serialisers/gson-jodatime-serialisers@1.7.0?classifier=sources
+- pkg:maven/com.fatboyindustrial.gson-jodatime-serialisers/gson-jodatime-serialisers@1.7.1
+- pkg:maven/com.fatboyindustrial.gson-jodatime-serialisers/gson-jodatime-serialisers@1.7.1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.cognitect.aws/cognito-idp@668.2.364.0
+- pkg:maven/com.cognitect.aws/cognito-idp@668.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cognito-idp@684.2.381.0
+- pkg:maven/com.cognitect.aws/cognito-idp@684.2.381.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cognito-idp@697.2.391.0
+- pkg:maven/com.cognitect.aws/cognito-idp@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cognito-idp@712.2.426.0
+- pkg:maven/com.cognitect.aws/cognito-idp@712.2.426.0?classifier=sources

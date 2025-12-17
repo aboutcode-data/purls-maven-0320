@@ -121,8 +121,16 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.71?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.72
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.72?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.73
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.73?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.74
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.74?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.7?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.8
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.9
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.0.9?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.1.0
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.1.0?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.1.1
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.permissions@6.1.1?classifier=sources

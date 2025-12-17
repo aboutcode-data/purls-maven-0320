@@ -1,0 +1,2 @@
+- pkg:maven/com.google.auto.service/auto-service-annotations@1.0-rc5
+- pkg:maven/com.google.auto.service/auto-service-annotations@1.0-rc5?classifier=sources

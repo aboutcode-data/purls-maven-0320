@@ -70,3 +70,11 @@
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc1?type=war
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc2?classifier=sources
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc2?type=war
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc3?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0-rc3?type=war
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.0?type=war
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.1?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.5.1?type=war
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.6.0?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-gui@3.6.0?type=war

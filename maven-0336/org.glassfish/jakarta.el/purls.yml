@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish/jakarta.el@3.0.2
+- pkg:maven/org.glassfish/jakarta.el@3.0.2?classifier=sources

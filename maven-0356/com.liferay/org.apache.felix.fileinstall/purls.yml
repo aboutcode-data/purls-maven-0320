@@ -6,6 +6,9 @@
 - pkg:maven/com.liferay/org.apache.felix.fileinstall@3.5.4.LIFERAY-PATCHED-3
 - pkg:maven/com.liferay/org.apache.felix.fileinstall@3.5.4.LIFERAY-PATCHED-3?classifier=sources
 - pkg:maven/com.liferay/org.apache.felix.fileinstall@3.5.4.LIFERAY-PATCHED-3?classifier=sources-commercial
+- pkg:maven/com.liferay/org.apache.felix.fileinstall@3.5.4.LIFERAY-PATCHED-4
+- pkg:maven/com.liferay/org.apache.felix.fileinstall@3.5.4.LIFERAY-PATCHED-4?classifier=sources
+- pkg:maven/com.liferay/org.apache.felix.fileinstall@3.5.4.LIFERAY-PATCHED-4?classifier=sources-commercial
 - pkg:maven/com.liferay/org.apache.felix.fileinstall@3.6.4.LIFERAY-PATCHED-1
 - pkg:maven/com.liferay/org.apache.felix.fileinstall@3.6.4.LIFERAY-PATCHED-1?classifier=sources
 - pkg:maven/com.liferay/org.apache.felix.fileinstall@3.6.4.LIFERAY-PATCHED-1?classifier=sources-commercial

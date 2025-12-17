@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.tomee.patch/org.apache.bval.bundle@2.0.0-nonfinal-57300f3
+- pkg:maven/org.apache.tomee.patch/org.apache.bval.bundle@2.0.1-83f28d8

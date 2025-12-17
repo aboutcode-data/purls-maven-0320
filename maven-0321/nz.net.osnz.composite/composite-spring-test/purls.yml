@@ -21,3 +21,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.4
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.5
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.7
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.8
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.9

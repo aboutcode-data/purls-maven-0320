@@ -1,0 +1,4 @@
+- pkg:maven/net.lulihu/toolset@1.0.RELEASE
+- pkg:maven/net.lulihu/toolset@1.0.RELEASE?classifier=sources
+- pkg:maven/net.lulihu/toolset@1.1.RELEASE
+- pkg:maven/net.lulihu/toolset@1.1.RELEASE?classifier=sources

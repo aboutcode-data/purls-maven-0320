@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.http/netty-http@1.2.0
+- pkg:maven/io.cdap.http/netty-http@1.2.0?classifier=sources

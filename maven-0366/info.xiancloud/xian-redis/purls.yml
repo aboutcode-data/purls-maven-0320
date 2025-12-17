@@ -14,5 +14,13 @@
 - pkg:maven/info.xiancloud/xian-redis@0.1.4?classifier=sources
 - pkg:maven/info.xiancloud/xian-redis@0.2.0-pre
 - pkg:maven/info.xiancloud/xian-redis@0.2.0-pre?classifier=sources
+- pkg:maven/info.xiancloud/xian-redis@0.2.1
 - pkg:maven/info.xiancloud/xian-redis@0.2.1-pre0
 - pkg:maven/info.xiancloud/xian-redis@0.2.1-pre0?classifier=sources
+- pkg:maven/info.xiancloud/xian-redis@0.2.1?classifier=sources
+- pkg:maven/info.xiancloud/xian-redis@0.3.3
+- pkg:maven/info.xiancloud/xian-redis@0.3.3.1
+- pkg:maven/info.xiancloud/xian-redis@0.3.3.1?classifier=sources
+- pkg:maven/info.xiancloud/xian-redis@0.3.3.2
+- pkg:maven/info.xiancloud/xian-redis@0.3.3.2?classifier=sources
+- pkg:maven/info.xiancloud/xian-redis@0.3.3?classifier=sources

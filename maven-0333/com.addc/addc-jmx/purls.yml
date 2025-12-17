@@ -1,0 +1,2 @@
+- pkg:maven/com.addc/addc-jmx@2.2
+- pkg:maven/com.addc/addc-jmx@2.2?classifier=sources

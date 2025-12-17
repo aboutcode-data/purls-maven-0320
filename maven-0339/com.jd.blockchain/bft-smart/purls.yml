@@ -1,0 +1,2 @@
+- pkg:maven/com.jd.blockchain/bft-smart@0.0.8.RELEASE
+- pkg:maven/com.jd.blockchain/bft-smart@0.0.8.RELEASE?classifier=sources

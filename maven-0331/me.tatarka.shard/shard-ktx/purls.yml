@@ -1,0 +1,2 @@
+- pkg:maven/me.tatarka.shard/shard-ktx@1.0.0-alpha05?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-ktx@1.0.0-alpha05?type=aar

@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/etag@1.5.1
+- pkg:maven/org.webjars.npm/etag@1.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/etag@1.6.0
 - pkg:maven/org.webjars.npm/etag@1.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/etag@1.7.0

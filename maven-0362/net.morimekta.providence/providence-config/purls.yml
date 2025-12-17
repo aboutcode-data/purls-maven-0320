@@ -72,6 +72,12 @@
 - pkg:maven/net.morimekta.providence/providence-config@1.0.0?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-config@1.1.0
 - pkg:maven/net.morimekta.providence/providence-config@1.1.0?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-config@1.10.0
+- pkg:maven/net.morimekta.providence/providence-config@1.10.0?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-config@1.10.1
+- pkg:maven/net.morimekta.providence/providence-config@1.10.1?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-config@1.10.2
+- pkg:maven/net.morimekta.providence/providence-config@1.10.2?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-config@1.2.0
 - pkg:maven/net.morimekta.providence/providence-config@1.2.0?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-config@1.3.0
@@ -102,3 +108,5 @@
 - pkg:maven/net.morimekta.providence/providence-config@1.8.0?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-config@1.9.0
 - pkg:maven/net.morimekta.providence/providence-config@1.9.0?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-config@1.9.1
+- pkg:maven/net.morimekta.providence/providence-config@1.9.1?classifier=sources

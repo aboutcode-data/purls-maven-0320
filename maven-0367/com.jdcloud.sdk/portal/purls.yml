@@ -1,0 +1,2 @@
+- pkg:maven/com.jdcloud.sdk/portal@0.1.2
+- pkg:maven/com.jdcloud.sdk/portal@0.1.2?classifier=sources

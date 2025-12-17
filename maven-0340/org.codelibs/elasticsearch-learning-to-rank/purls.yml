@@ -6,3 +6,7 @@
 - pkg:maven/org.codelibs/elasticsearch-learning-to-rank@6.4.1?type=zip
 - pkg:maven/org.codelibs/elasticsearch-learning-to-rank@6.5.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-learning-to-rank@6.5.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-learning-to-rank@6.6.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-learning-to-rank@6.6.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-learning-to-rank@6.7.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-learning-to-rank@6.7.0?type=zip

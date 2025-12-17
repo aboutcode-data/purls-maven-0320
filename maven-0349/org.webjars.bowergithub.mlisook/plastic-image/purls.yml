@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.mlisook/plastic-image@1.0.14
 - pkg:maven/org.webjars.bowergithub.mlisook/plastic-image@1.0.14?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mlisook/plastic-image@3.0.2
+- pkg:maven/org.webjars.bowergithub.mlisook/plastic-image@3.0.2?classifier=sources

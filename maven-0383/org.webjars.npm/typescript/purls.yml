@@ -124,3 +124,13 @@
 - pkg:maven/org.webjars.npm/typescript@3.2.0-dev.20181107?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@3.2.0-rc
 - pkg:maven/org.webjars.npm/typescript@3.2.0-rc?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.2.2
+- pkg:maven/org.webjars.npm/typescript@3.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.2.4
+- pkg:maven/org.webjars.npm/typescript@3.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.3.0-dev.20181206
+- pkg:maven/org.webjars.npm/typescript@3.3.0-dev.20181206?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.3.3333
+- pkg:maven/org.webjars.npm/typescript@3.3.3333?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.4.1
+- pkg:maven/org.webjars.npm/typescript@3.4.1?classifier=sources

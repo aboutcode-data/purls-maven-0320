@@ -1,0 +1,1 @@
+- pkg:maven/com.github.jamesnetherton/wildfly-liquibase-distro@0.6.0?classifier=sources

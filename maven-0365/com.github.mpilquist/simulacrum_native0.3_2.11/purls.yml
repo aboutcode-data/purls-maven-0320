@@ -2,3 +2,7 @@
 - pkg:maven/com.github.mpilquist/simulacrum_native0.3_2.11@0.13.0?classifier=sources
 - pkg:maven/com.github.mpilquist/simulacrum_native0.3_2.11@0.14.0
 - pkg:maven/com.github.mpilquist/simulacrum_native0.3_2.11@0.14.0?classifier=sources
+- pkg:maven/com.github.mpilquist/simulacrum_native0.3_2.11@0.15.0
+- pkg:maven/com.github.mpilquist/simulacrum_native0.3_2.11@0.15.0?classifier=sources
+- pkg:maven/com.github.mpilquist/simulacrum_native0.3_2.11@0.16.0
+- pkg:maven/com.github.mpilquist/simulacrum_native0.3_2.11@0.16.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.nightlynexus.handlercalladapterfactory/handlercalladapterfactory@0.1.0?classifier=sources
+- pkg:maven/com.nightlynexus.handlercalladapterfactory/handlercalladapterfactory@0.1.0?type=aar

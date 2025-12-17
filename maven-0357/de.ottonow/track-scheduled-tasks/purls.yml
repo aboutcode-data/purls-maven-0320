@@ -1,0 +1,2 @@
+- pkg:maven/de.ottonow/track-scheduled-tasks@0.1.0
+- pkg:maven/de.ottonow/track-scheduled-tasks@0.1.0?classifier=sources

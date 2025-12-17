@@ -1,2 +1,10 @@
 - pkg:maven/net.bbmsoft/iocfx-example@1.0.0?classifier=sources
 - pkg:maven/net.bbmsoft/iocfx-example@2.0.0?classifier=sources
+- pkg:maven/net.bbmsoft/iocfx-example@3.0.0
+- pkg:maven/net.bbmsoft/iocfx-example@3.0.0?classifier=sources
+- pkg:maven/net.bbmsoft/iocfx-example@3.0.1
+- pkg:maven/net.bbmsoft/iocfx-example@3.0.1?classifier=sources
+- pkg:maven/net.bbmsoft/iocfx-example@3.1.0
+- pkg:maven/net.bbmsoft/iocfx-example@3.1.0?classifier=sources
+- pkg:maven/net.bbmsoft/iocfx-example@3.1.1
+- pkg:maven/net.bbmsoft/iocfx-example@3.1.1?classifier=sources

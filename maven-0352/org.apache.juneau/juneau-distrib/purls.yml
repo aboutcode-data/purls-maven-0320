@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.juneau/juneau-distrib@7.2.0?classifier=src&type=zip
 - pkg:maven/org.apache.juneau/juneau-distrib@7.2.1?classifier=src&type=zip
 - pkg:maven/org.apache.juneau/juneau-distrib@7.2.2?classifier=src&type=zip
+- pkg:maven/org.apache.juneau/juneau-distrib@8.0.0?classifier=src&type=zip

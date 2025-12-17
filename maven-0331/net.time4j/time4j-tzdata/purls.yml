@@ -60,3 +60,9 @@
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2018f?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2018g
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2018g?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2018h
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2018h?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2018i
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2018i?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2019a
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2019a?classifier=sources

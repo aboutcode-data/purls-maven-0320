@@ -1,0 +1,12 @@
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.23
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.23?classifier=sources
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.24
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.24?classifier=sources
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.25
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.25?classifier=sources
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.26
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.26?classifier=sources
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.27
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.27.1
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.27.1?classifier=sources
+- pkg:maven/io.github.minkainc/webwallet-sdk-seven@0.1.27?classifier=sources

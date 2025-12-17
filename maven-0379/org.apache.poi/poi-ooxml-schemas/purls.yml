@@ -33,3 +33,5 @@
 - pkg:maven/org.apache.poi/poi-ooxml-schemas@3.8-beta5
 - pkg:maven/org.apache.poi/poi-ooxml-schemas@3.9
 - pkg:maven/org.apache.poi/poi-ooxml-schemas@4.0.0
+- pkg:maven/org.apache.poi/poi-ooxml-schemas@4.0.1
+- pkg:maven/org.apache.poi/poi-ooxml-schemas@4.1.0

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/graphql@0.13.2?classifier=sources
 - pkg:maven/org.webjars.npm/graphql@0.6.2
 - pkg:maven/org.webjars.npm/graphql@0.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/graphql@0.9.1
+- pkg:maven/org.webjars.npm/graphql@0.9.1?classifier=sources

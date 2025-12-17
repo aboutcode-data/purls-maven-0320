@@ -16,3 +16,5 @@
 - pkg:maven/com.github.drinkjava2/jdialects@1.0.7?classifier=sources
 - pkg:maven/com.github.drinkjava2/jdialects@2.0.2
 - pkg:maven/com.github.drinkjava2/jdialects@2.0.2?classifier=sources
+- pkg:maven/com.github.drinkjava2/jdialects@2.0.4
+- pkg:maven/com.github.drinkjava2/jdialects@2.0.4?classifier=sources

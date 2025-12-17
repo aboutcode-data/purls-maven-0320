@@ -1,0 +1,4 @@
+- pkg:maven/be.tzbob/scalatags-hokko_sjs0.6_2.12@0.4.1
+- pkg:maven/be.tzbob/scalatags-hokko_sjs0.6_2.12@0.4.1?classifier=sources
+- pkg:maven/be.tzbob/scalatags-hokko_sjs0.6_2.12@0.4.2
+- pkg:maven/be.tzbob/scalatags-hokko_sjs0.6_2.12@0.4.2?classifier=sources

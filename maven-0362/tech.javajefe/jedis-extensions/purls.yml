@@ -1,0 +1,2 @@
+- pkg:maven/tech.javajefe/jedis-extensions@0.0.2
+- pkg:maven/tech.javajefe/jedis-extensions@0.0.2?classifier=sources

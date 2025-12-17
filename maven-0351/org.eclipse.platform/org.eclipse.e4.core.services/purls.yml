@@ -6,3 +6,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.1.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.1.200
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.1.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.1.300
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.1.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.1.400
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.services@2.1.400?classifier=sources

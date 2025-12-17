@@ -1,0 +1,4 @@
+- pkg:maven/com.jarxi/genkey@1.0.0
+- pkg:maven/com.jarxi/genkey@1.0.0?classifier=sources
+- pkg:maven/com.jarxi/genkey@1.2.0
+- pkg:maven/com.jarxi/genkey@1.2.0?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/de.alpharogroup/gen-tree@4.10.0?classifier=sources
 - pkg:maven/de.alpharogroup/gen-tree@4.11
 - pkg:maven/de.alpharogroup/gen-tree@4.11?classifier=sources
+- pkg:maven/de.alpharogroup/gen-tree@4.12
+- pkg:maven/de.alpharogroup/gen-tree@4.12?classifier=sources
 - pkg:maven/de.alpharogroup/gen-tree@4.6.0
 - pkg:maven/de.alpharogroup/gen-tree@4.6.0?classifier=sources
 - pkg:maven/de.alpharogroup/gen-tree@4.7.0

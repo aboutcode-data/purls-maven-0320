@@ -1,0 +1,4 @@
+- pkg:maven/digital.toke/vault-java-driver@1.0.0
+- pkg:maven/digital.toke/vault-java-driver@1.0.0?classifier=sources
+- pkg:maven/digital.toke/vault-java-driver@1.0.1
+- pkg:maven/digital.toke/vault-java-driver@1.0.1?classifier=sources

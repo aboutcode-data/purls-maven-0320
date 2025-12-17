@@ -15,3 +15,4 @@
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq-parent@1.1.0?classifier=source-release&type=zip

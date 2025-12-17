@@ -13,3 +13,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.connectionpool@1.0.21
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.connectionpool@1.0.22
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.connectionpool@1.0.9
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.connectionpool@1.1.23
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.connectionpool@1.1.24
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.connectionpool@1.1.25
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.connectionpool@1.1.26

@@ -10,3 +10,11 @@
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.27?classifier=sources
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.28
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.28?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.29
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.29?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.30
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.30?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.31
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.31?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.32
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.32?classifier=sources

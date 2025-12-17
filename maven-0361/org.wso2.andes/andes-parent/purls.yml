@@ -56,4 +56,11 @@
 - pkg:maven/org.wso2.andes/andes-parent@3.2.81?classifier=source-release&type=zip
 - pkg:maven/org.wso2.andes/andes-parent@3.2.82?classifier=source-release&type=zip
 - pkg:maven/org.wso2.andes/andes-parent@3.2.83?classifier=source-release&type=zip
+- pkg:maven/org.wso2.andes/andes-parent@3.2.84?classifier=source-release&type=zip
+- pkg:maven/org.wso2.andes/andes-parent@3.2.85?classifier=source-release&type=zip
+- pkg:maven/org.wso2.andes/andes-parent@3.2.86?classifier=source-release&type=zip
+- pkg:maven/org.wso2.andes/andes-parent@3.2.87?classifier=source-release&type=zip
+- pkg:maven/org.wso2.andes/andes-parent@3.2.88?classifier=source-release&type=zip
+- pkg:maven/org.wso2.andes/andes-parent@3.2.89?classifier=source-release&type=zip
+- pkg:maven/org.wso2.andes/andes-parent@3.2.90?classifier=source-release&type=zip
 - pkg:maven/org.wso2.andes/andes-parent@4.0.0?classifier=source-release&type=zip

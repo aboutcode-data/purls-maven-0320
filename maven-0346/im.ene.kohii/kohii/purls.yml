@@ -1,2 +1,8 @@
 - pkg:maven/im.ene.kohii/kohii@1.0.0.2802-ALPHA1?classifier=sources
 - pkg:maven/im.ene.kohii/kohii@1.0.0.2802-ALPHA1?type=aar
+- pkg:maven/im.ene.kohii/kohii@1.0.0.2904-A03?classifier=sources
+- pkg:maven/im.ene.kohii/kohii@1.0.0.2904-A03?type=aar
+- pkg:maven/im.ene.kohii/kohii@1.0.0.2904-ALPHA04?classifier=sources
+- pkg:maven/im.ene.kohii/kohii@1.0.0.2904-ALPHA04?type=aar
+- pkg:maven/im.ene.kohii/kohii@1.0.0.2906-A05?classifier=sources
+- pkg:maven/im.ene.kohii/kohii@1.0.0.2906-A05?type=aar

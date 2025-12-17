@@ -48,6 +48,12 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.23.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.24.0
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.24.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.25.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.25.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.26.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.26.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.27.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.27.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.7.0
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.7.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-metrics-data@4.7.1

@@ -8,9 +8,17 @@
 - pkg:maven/org.webjars.npm/js-beautify@1.8.0-rc2?classifier=sources
 - pkg:maven/org.webjars.npm/js-beautify@1.8.0-rc9
 - pkg:maven/org.webjars.npm/js-beautify@1.8.0-rc9?classifier=sources
+- pkg:maven/org.webjars.npm/js-beautify@1.8.10-beta1
+- pkg:maven/org.webjars.npm/js-beautify@1.8.10-beta1?classifier=sources
 - pkg:maven/org.webjars.npm/js-beautify@1.8.3-rc3
 - pkg:maven/org.webjars.npm/js-beautify@1.8.3-rc3?classifier=sources
 - pkg:maven/org.webjars.npm/js-beautify@1.8.7
 - pkg:maven/org.webjars.npm/js-beautify@1.8.7?classifier=sources
 - pkg:maven/org.webjars.npm/js-beautify@1.8.8
 - pkg:maven/org.webjars.npm/js-beautify@1.8.8?classifier=sources
+- pkg:maven/org.webjars.npm/js-beautify@1.9.0
+- pkg:maven/org.webjars.npm/js-beautify@1.9.0-beta5
+- pkg:maven/org.webjars.npm/js-beautify@1.9.0-beta5?classifier=sources
+- pkg:maven/org.webjars.npm/js-beautify@1.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/js-beautify@1.9.1
+- pkg:maven/org.webjars.npm/js-beautify@1.9.1?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.touchpoint.eclipse@2.2.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.touchpoint.eclipse@2.2.100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.touchpoint.eclipse@2.2.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.touchpoint.eclipse@2.2.200
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.touchpoint.eclipse@2.2.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.touchpoint.eclipse@2.2.300
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.touchpoint.eclipse@2.2.300?classifier=sources

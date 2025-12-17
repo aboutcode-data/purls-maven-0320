@@ -52,3 +52,5 @@
 - pkg:maven/org.jboss.forge/forge-service-web@1.0.3.Final?type=war
 - pkg:maven/org.jboss.forge/forge-service-web@1.0.4.Final?classifier=sources
 - pkg:maven/org.jboss.forge/forge-service-web@1.0.4.Final?type=war
+- pkg:maven/org.jboss.forge/forge-service-web@1.0.5.Final?classifier=sources
+- pkg:maven/org.jboss.forge/forge-service-web@1.0.5.Final?type=war

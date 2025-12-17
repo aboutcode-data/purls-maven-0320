@@ -1,3 +1,5 @@
 - pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools-mixin@1
 - pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools-mixin@2
 - pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools-mixin@2?classifier=sources
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools-mixin@3
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools-mixin@3?classifier=sources

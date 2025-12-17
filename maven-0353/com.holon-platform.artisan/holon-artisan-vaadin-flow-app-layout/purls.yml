@@ -1,0 +1,4 @@
+- pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@1.0.2
+- pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@1.0.2?classifier=sources
+- pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@1.0.3
+- pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@1.0.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/kotlin@1.2.20
 - pkg:maven/org.webjars.npm/kotlin@1.2.20?classifier=sources
+- pkg:maven/org.webjars.npm/kotlin@1.3.21
+- pkg:maven/org.webjars.npm/kotlin@1.3.21?classifier=sources

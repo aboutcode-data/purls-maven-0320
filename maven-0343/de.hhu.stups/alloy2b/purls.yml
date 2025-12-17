@@ -1,0 +1,16 @@
+- pkg:maven/de.hhu.stups/alloy2b@1.0-BETA
+- pkg:maven/de.hhu.stups/alloy2b@1.0-BETA?classifier=sources
+- pkg:maven/de.hhu.stups/alloy2b@1.01-BETA
+- pkg:maven/de.hhu.stups/alloy2b@1.01-BETA?classifier=sources
+- pkg:maven/de.hhu.stups/alloy2b@1.02-BETA
+- pkg:maven/de.hhu.stups/alloy2b@1.02-BETA?classifier=sources
+- pkg:maven/de.hhu.stups/alloy2b@1.03-BETA
+- pkg:maven/de.hhu.stups/alloy2b@1.03-BETA?classifier=sources
+- pkg:maven/de.hhu.stups/alloy2b@1.05-BETA
+- pkg:maven/de.hhu.stups/alloy2b@1.05-BETA?classifier=sources
+- pkg:maven/de.hhu.stups/alloy2b@1.06-BETA
+- pkg:maven/de.hhu.stups/alloy2b@1.06-BETA?classifier=sources
+- pkg:maven/de.hhu.stups/alloy2b@1.07-BETA
+- pkg:maven/de.hhu.stups/alloy2b@1.07-BETA?classifier=sources
+- pkg:maven/de.hhu.stups/alloy2b@1.08-BETA?classifier=sources
+- pkg:maven/de.hhu.stups/alloy2b@1.1-BETA?classifier=sources

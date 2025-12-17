@@ -9,4 +9,6 @@
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.0.1%2B4-3c1f3ece?classifier=sources
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.0.1%2B5-def19fd1
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.0.1%2B5-def19fd1?classifier=sources
+- pkg:maven/com.emarsys/jwt-akka-http_2.12@1.0.1%2B6-9e96f102
+- pkg:maven/com.emarsys/jwt-akka-http_2.12@1.0.1%2B6-9e96f102?classifier=sources
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/it.moveax.sdkboilerplate/sdk-boilerplate@1.0.0
+- pkg:maven/it.moveax.sdkboilerplate/sdk-boilerplate@1.0.0?classifier=sources

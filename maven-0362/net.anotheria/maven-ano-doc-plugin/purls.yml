@@ -14,3 +14,5 @@
 - pkg:maven/net.anotheria/maven-ano-doc-plugin@2.6.3?classifier=sources
 - pkg:maven/net.anotheria/maven-ano-doc-plugin@2.6.4
 - pkg:maven/net.anotheria/maven-ano-doc-plugin@2.6.4?classifier=sources
+- pkg:maven/net.anotheria/maven-ano-doc-plugin@2.6.5
+- pkg:maven/net.anotheria/maven-ano-doc-plugin@2.6.5?classifier=sources

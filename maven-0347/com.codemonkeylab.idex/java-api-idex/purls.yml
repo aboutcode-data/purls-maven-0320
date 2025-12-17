@@ -1,0 +1,2 @@
+- pkg:maven/com.codemonkeylab.idex/java-api-idex@0.0.2
+- pkg:maven/com.codemonkeylab.idex/java-api-idex@0.0.2?classifier=sources

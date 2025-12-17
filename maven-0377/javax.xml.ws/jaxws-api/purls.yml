@@ -12,6 +12,8 @@
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.10?classifier=sources
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.11
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.11?classifier=sources
+- pkg:maven/javax.xml.ws/jaxws-api@2.2.12
+- pkg:maven/javax.xml.ws/jaxws-api@2.2.12?classifier=sources
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.1?classifier=sources
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.2-promoted-b02
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.2-promoted-b02?classifier=sources
@@ -46,3 +48,5 @@
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.9
 - pkg:maven/javax.xml.ws/jaxws-api@2.2.9?classifier=sources
 - pkg:maven/javax.xml.ws/jaxws-api@2.2?classifier=sources
+- pkg:maven/javax.xml.ws/jaxws-api@2.3.0
+- pkg:maven/javax.xml.ws/jaxws-api@2.3.0?classifier=sources

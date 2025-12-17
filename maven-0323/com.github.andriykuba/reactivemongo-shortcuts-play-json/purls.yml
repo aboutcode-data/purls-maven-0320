@@ -34,3 +34,5 @@
 - pkg:maven/com.github.andriykuba/reactivemongo-shortcuts-play-json@2.5.8?classifier=sources
 - pkg:maven/com.github.andriykuba/reactivemongo-shortcuts-play-json@2.5.9
 - pkg:maven/com.github.andriykuba/reactivemongo-shortcuts-play-json@2.5.9?classifier=sources
+- pkg:maven/com.github.andriykuba/reactivemongo-shortcuts-play-json@2.6.1
+- pkg:maven/com.github.andriykuba/reactivemongo-shortcuts-play-json@2.6.1?classifier=sources

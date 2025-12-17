@@ -1,0 +1,2 @@
+- pkg:maven/org.tinyj.lazy/lazy@1.0.1
+- pkg:maven/org.tinyj.lazy/lazy@1.0.1?classifier=sources

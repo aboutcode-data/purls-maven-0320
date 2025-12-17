@@ -10,6 +10,10 @@
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.1.RC1?classifier=sources
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.1.RC2
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.1.RC2?classifier=sources
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.10
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.10-RC1
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.10-RC1?classifier=sources
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.10?classifier=sources
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.2.RC1
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.2.RC1?classifier=sources
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.2.RELEASE
@@ -30,3 +34,15 @@
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.8?classifier=sources
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.9
 - pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@1.0.9?classifier=sources
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.0.0-RC1
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.0.0-RC1?classifier=sources
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.1.0
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.1.0-rc.1
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.1.0-rc.1?classifier=sources
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.1.0-rc.2
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.1.0-rc.2?classifier=sources
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.1.0?classifier=sources
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.2.0-rc.1
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.2.0-rc.1?classifier=sources
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.2.0-rc.2.dev.0%2B0df4d39
+- pkg:maven/com.github.pivotalservices/ya-cf-app-gradle-plugin@2.2.0-rc.2.dev.0%2B0df4d39?classifier=sources

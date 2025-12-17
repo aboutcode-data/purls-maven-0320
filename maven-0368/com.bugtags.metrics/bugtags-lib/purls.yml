@@ -1,0 +1,2 @@
+- pkg:maven/com.bugtags.metrics/bugtags-lib@2.4.1?classifier=sources
+- pkg:maven/com.bugtags.metrics/bugtags-lib@2.4.1?type=aar

@@ -1,0 +1,6 @@
+- pkg:maven/com.premiumminds/billy-spain@1.1.5
+- pkg:maven/com.premiumminds/billy-spain@1.1.5?classifier=sources
+- pkg:maven/com.premiumminds/billy-spain@2.0.0
+- pkg:maven/com.premiumminds/billy-spain@2.0.0?classifier=sources
+- pkg:maven/com.premiumminds/billy-spain@3.0.0
+- pkg:maven/com.premiumminds/billy-spain@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.kasisoft.mgnl/light-yaml@1.2
+- pkg:maven/com.kasisoft.mgnl/light-yaml@1.2?classifier=sources

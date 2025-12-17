@@ -1,0 +1,2 @@
+- pkg:maven/systems.manifold/archetype@0.5-alpha-test-1?classifier=sources
+- pkg:maven/systems.manifold/archetype@0.5-alpha-test-2?classifier=sources

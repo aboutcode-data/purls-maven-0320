@@ -1,2 +1,4 @@
 - pkg:maven/org.jboss.aerogear/aerogear-android-sync@2.1.0?classifier=source-release&type=zip
 - pkg:maven/org.jboss.aerogear/aerogear-android-sync@2.1.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-android-sync@3.0.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-android-sync@3.0.0?type=aar

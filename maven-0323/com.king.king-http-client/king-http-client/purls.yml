@@ -34,3 +34,9 @@
 - pkg:maven/com.king.king-http-client/king-http-client@2.1.8?classifier=sources
 - pkg:maven/com.king.king-http-client/king-http-client@2.2.0
 - pkg:maven/com.king.king-http-client/king-http-client@2.2.0?classifier=sources
+- pkg:maven/com.king.king-http-client/king-http-client@2.3.0
+- pkg:maven/com.king.king-http-client/king-http-client@2.3.0?classifier=sources
+- pkg:maven/com.king.king-http-client/king-http-client@2.3.1
+- pkg:maven/com.king.king-http-client/king-http-client@2.3.1?classifier=sources
+- pkg:maven/com.king.king-http-client/king-http-client@3.0.0
+- pkg:maven/com.king.king-http-client/king-http-client@3.0.0?classifier=sources

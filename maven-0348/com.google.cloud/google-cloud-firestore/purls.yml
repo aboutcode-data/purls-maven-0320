@@ -1,0 +1,16 @@
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.25.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.25.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.26.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.26.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.27.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.27.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.28.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.28.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.29.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.29.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.30.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.30.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.31.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.31.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.32.0-beta
+- pkg:maven/com.google.cloud/google-cloud-firestore@0.32.0-beta?classifier=sources

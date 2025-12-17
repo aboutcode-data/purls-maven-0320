@@ -1,0 +1,4 @@
+- pkg:maven/dk.nodes.nstack/nstack-kotlin@1.0.0?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin@1.0.0?type=aar
+- pkg:maven/dk.nodes.nstack/nstack-kotlin@1.0?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin@1.0?type=aar

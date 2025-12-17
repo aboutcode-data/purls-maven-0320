@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.8
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.8?classifier=source-release&type=zip

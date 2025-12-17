@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.0.3
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.0.3?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.0.4
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.0.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.0.5
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.0.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-api@1.0.0
 - pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-api@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-api@1.1.0
+- pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-api@1.1.0?classifier=sources

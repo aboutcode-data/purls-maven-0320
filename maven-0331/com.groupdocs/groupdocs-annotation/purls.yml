@@ -17,6 +17,11 @@
 - pkg:maven/com.groupdocs/groupdocs-annotation@1.9.0
 - pkg:maven/com.groupdocs/groupdocs-annotation@1.9.0?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-annotation@17.1.0?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-annotation@17.10.1?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-annotation@17.10.2?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-annotation@17.10?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-annotation@17.5.0?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-annotation@17.6.0?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-annotation@2.0.0
 - pkg:maven/com.groupdocs/groupdocs-annotation@2.0.0?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-annotation@3.1.0?classifier=sources

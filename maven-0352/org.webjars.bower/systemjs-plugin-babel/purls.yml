@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/systemjs-plugin-babel@0.0.25
+- pkg:maven/org.webjars.bower/systemjs-plugin-babel@0.0.25?classifier=sources

@@ -14,7 +14,13 @@
 - pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.16?classifier=sources
 - pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.17
 - pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.17?classifier=sources
+- pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.19
+- pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.19?classifier=sources
 - pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.2
+- pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.20
+- pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.20?classifier=sources
+- pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.21
+- pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.21?classifier=sources
 - pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.2?classifier=sources
 - pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.3
 - pkg:maven/com.github.bingoohuang/spring-rest-client@0.0.3?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/org.webjars.npm/angulartics2@1.6.1?classifier=sources
 - pkg:maven/org.webjars.npm/angulartics2@1.6.3
 - pkg:maven/org.webjars.npm/angulartics2@1.6.3?classifier=sources
+- pkg:maven/org.webjars.npm/angulartics2@3.2.0
+- pkg:maven/org.webjars.npm/angulartics2@3.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/angulartics2@4.5.0
+- pkg:maven/org.webjars.npm/angulartics2@4.5.0?classifier=sources

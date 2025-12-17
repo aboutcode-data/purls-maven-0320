@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.0
+- pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.0-jdk1.6
+- pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.0-jdk1.6?classifier=sources
+- pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.0?classifier=sources

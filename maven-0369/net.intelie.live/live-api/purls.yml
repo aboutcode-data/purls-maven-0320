@@ -16,3 +16,9 @@
 - pkg:maven/net.intelie.live/live-api@2.15.3?classifier=sources
 - pkg:maven/net.intelie.live/live-api@2.16.0
 - pkg:maven/net.intelie.live/live-api@2.16.0?classifier=sources
+- pkg:maven/net.intelie.live/live-api@2.17.0
+- pkg:maven/net.intelie.live/live-api@2.17.0?classifier=sources
+- pkg:maven/net.intelie.live/live-api@2.17.2
+- pkg:maven/net.intelie.live/live-api@2.17.2?classifier=sources
+- pkg:maven/net.intelie.live/live-api@2.17.3
+- pkg:maven/net.intelie.live/live-api@2.17.3?classifier=sources

@@ -40,3 +40,7 @@
 - pkg:maven/io.vertigo/vertigo-struts2@0.9.3a?classifier=sources
 - pkg:maven/io.vertigo/vertigo-struts2@0.9.4
 - pkg:maven/io.vertigo/vertigo-struts2@0.9.4?classifier=sources
+- pkg:maven/io.vertigo/vertigo-struts2@1.0.0
+- pkg:maven/io.vertigo/vertigo-struts2@1.0.0?classifier=sources
+- pkg:maven/io.vertigo/vertigo-struts2@1.1.0
+- pkg:maven/io.vertigo/vertigo-struts2@1.1.0?classifier=sources

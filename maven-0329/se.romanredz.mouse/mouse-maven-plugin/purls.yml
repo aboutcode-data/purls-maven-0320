@@ -1,2 +1,4 @@
 - pkg:maven/se.romanredz.mouse/mouse-maven-plugin@1.0
 - pkg:maven/se.romanredz.mouse/mouse-maven-plugin@1.0?classifier=sources
+- pkg:maven/se.romanredz.mouse/mouse-maven-plugin@1.9.1
+- pkg:maven/se.romanredz.mouse/mouse-maven-plugin@1.9.1?classifier=sources

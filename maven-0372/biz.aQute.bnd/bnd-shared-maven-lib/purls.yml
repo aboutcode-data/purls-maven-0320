@@ -1,0 +1,4 @@
+- pkg:maven/biz.aQute.bnd/bnd-shared-maven-lib@3.4.0
+- pkg:maven/biz.aQute.bnd/bnd-shared-maven-lib@3.4.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/bnd-shared-maven-lib@3.5.0
+- pkg:maven/biz.aQute.bnd/bnd-shared-maven-lib@3.5.0?classifier=sources

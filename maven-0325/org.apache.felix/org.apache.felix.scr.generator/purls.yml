@@ -24,6 +24,9 @@
 - pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.16.0
 - pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.16.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.16.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.17.0
+- pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.17.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.17.0?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.2.0
 - pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.scr.generator@1.2.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/com.cyc/cyc-base-client@1.0.0
 - pkg:maven/com.cyc/cyc-base-client@1.0.0-rc1
 - pkg:maven/com.cyc/cyc-base-client@1.0.0-rc1?classifier=sources
 - pkg:maven/com.cyc/cyc-base-client@1.0.0-rc2
@@ -12,3 +13,14 @@
 - pkg:maven/com.cyc/cyc-base-client@1.0.0-rc5.2
 - pkg:maven/com.cyc/cyc-base-client@1.0.0-rc5.2?classifier=sources
 - pkg:maven/com.cyc/cyc-base-client@1.0.0-rc5?classifier=sources
+- pkg:maven/com.cyc/cyc-base-client@1.0.0-rc6
+- pkg:maven/com.cyc/cyc-base-client@1.0.0-rc6?classifier=sources
+- pkg:maven/com.cyc/cyc-base-client@1.0.0-rc7.0
+- pkg:maven/com.cyc/cyc-base-client@1.0.0-rc7.0?classifier=sources
+- pkg:maven/com.cyc/cyc-base-client@1.0.0-rc8.0
+- pkg:maven/com.cyc/cyc-base-client@1.0.0-rc8.0?classifier=sources
+- pkg:maven/com.cyc/cyc-base-client@1.0.0-rc9.0
+- pkg:maven/com.cyc/cyc-base-client@1.0.0-rc9.0?classifier=sources
+- pkg:maven/com.cyc/cyc-base-client@1.0.0?classifier=sources
+- pkg:maven/com.cyc/cyc-base-client@1.1.0
+- pkg:maven/com.cyc/cyc-base-client@1.1.0?classifier=sources

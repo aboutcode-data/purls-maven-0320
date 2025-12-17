@@ -1,0 +1,4 @@
+- pkg:maven/be.ceau/digitalpodcast-api@0.0.2
+- pkg:maven/be.ceau/digitalpodcast-api@0.0.2?classifier=sources
+- pkg:maven/be.ceau/digitalpodcast-api@1.0.0
+- pkg:maven/be.ceau/digitalpodcast-api@1.0.0?classifier=sources

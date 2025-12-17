@@ -4,3 +4,7 @@
 - pkg:maven/com.github.jinahya/json-retrotranslated@20160212?classifier=sources
 - pkg:maven/com.github.jinahya/json-retrotranslated@20160810
 - pkg:maven/com.github.jinahya/json-retrotranslated@20160810?classifier=sources
+- pkg:maven/com.github.jinahya/json-retrotranslated@20170516
+- pkg:maven/com.github.jinahya/json-retrotranslated@20170516?classifier=sources
+- pkg:maven/com.github.jinahya/json-retrotranslated@20171018
+- pkg:maven/com.github.jinahya/json-retrotranslated@20171018?classifier=sources

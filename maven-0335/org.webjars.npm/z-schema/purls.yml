@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/z-schema@3.18.2
+- pkg:maven/org.webjars.npm/z-schema@3.18.2?classifier=sources

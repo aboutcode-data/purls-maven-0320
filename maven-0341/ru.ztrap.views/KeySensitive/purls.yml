@@ -2,3 +2,7 @@
 - pkg:maven/ru.ztrap.views/KeySensitive@0.0.1-beta1?type=aar
 - pkg:maven/ru.ztrap.views/KeySensitive@1.0.0?classifier=sources
 - pkg:maven/ru.ztrap.views/KeySensitive@1.0.0?type=aar
+- pkg:maven/ru.ztrap.views/KeySensitive@2.0.0?classifier=sources
+- pkg:maven/ru.ztrap.views/KeySensitive@2.0.0?type=aar
+- pkg:maven/ru.ztrap.views/KeySensitive@2.0.1?classifier=sources
+- pkg:maven/ru.ztrap.views/KeySensitive@2.0.1?type=aar

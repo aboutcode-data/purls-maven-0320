@@ -1,1 +1,4 @@
 - pkg:maven/com.eurodyn.qlack2.util/qlack2-util-drivers-ojdbc8@2.2.3
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-drivers-ojdbc8@2.2.4
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-drivers-ojdbc8@2.3.1
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-drivers-ojdbc8@2.3.2

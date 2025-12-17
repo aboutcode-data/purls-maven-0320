@@ -15,6 +15,14 @@
 - pkg:maven/org.webjars.npm/types__react@15.0.27
 - pkg:maven/org.webjars.npm/types__react@15.0.27?classifier=sources
 - pkg:maven/org.webjars.npm/types__react@15.0.3
+- pkg:maven/org.webjars.npm/types__react@15.0.34
+- pkg:maven/org.webjars.npm/types__react@15.0.34?classifier=sources
 - pkg:maven/org.webjars.npm/types__react@15.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/types__react@15.0.4
 - pkg:maven/org.webjars.npm/types__react@15.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__react@15.6.1
+- pkg:maven/org.webjars.npm/types__react@15.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/types__react@16.0.25
+- pkg:maven/org.webjars.npm/types__react@16.0.25?classifier=sources
+- pkg:maven/org.webjars.npm/types__react@16.0.29
+- pkg:maven/org.webjars.npm/types__react@16.0.29?classifier=sources

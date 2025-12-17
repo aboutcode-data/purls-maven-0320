@@ -1,0 +1,2 @@
+- pkg:maven/nl.paultegelaar.liquid.relay/liquid-relay-camel-osgi@1.0.5
+- pkg:maven/nl.paultegelaar.liquid.relay/liquid-relay-camel-osgi@1.0.5?classifier=sources

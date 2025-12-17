@@ -85,3 +85,6 @@
 - pkg:maven/org.codehaus.mojo/gwt-maven-plugin@2.8.1
 - pkg:maven/org.codehaus.mojo/gwt-maven-plugin@2.8.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/gwt-maven-plugin@2.8.1?classifier=sources
+- pkg:maven/org.codehaus.mojo/gwt-maven-plugin@2.8.2
+- pkg:maven/org.codehaus.mojo/gwt-maven-plugin@2.8.2?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/gwt-maven-plugin@2.8.2?classifier=sources

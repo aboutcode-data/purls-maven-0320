@@ -1,0 +1,4 @@
+- pkg:maven/io.github.varoso/jsk@1.1.2
+- pkg:maven/io.github.varoso/jsk@1.1.2?classifier=sources
+- pkg:maven/io.github.varoso/jsk@1.2
+- pkg:maven/io.github.varoso/jsk@1.2?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/materialize-css@0.100.2
+- pkg:maven/org.webjars.npm/materialize-css@0.100.2?classifier=sources
 - pkg:maven/org.webjars.npm/materialize-css@0.97.3
 - pkg:maven/org.webjars.npm/materialize-css@0.97.3?classifier=sources
 - pkg:maven/org.webjars.npm/materialize-css@0.97.5
@@ -12,3 +14,9 @@
 - pkg:maven/org.webjars.npm/materialize-css@0.98.0?classifier=sources
 - pkg:maven/org.webjars.npm/materialize-css@0.98.2
 - pkg:maven/org.webjars.npm/materialize-css@0.98.2?classifier=sources
+- pkg:maven/org.webjars.npm/materialize-css@0.99.0
+- pkg:maven/org.webjars.npm/materialize-css@0.99.0?classifier=sources
+- pkg:maven/org.webjars.npm/materialize-css@1.0.0-alpha.1
+- pkg:maven/org.webjars.npm/materialize-css@1.0.0-alpha.1?classifier=sources
+- pkg:maven/org.webjars.npm/materialize-css@1.0.0-alpha.2
+- pkg:maven/org.webjars.npm/materialize-css@1.0.0-alpha.2?classifier=sources

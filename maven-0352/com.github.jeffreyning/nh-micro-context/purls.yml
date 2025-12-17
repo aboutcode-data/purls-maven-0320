@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jeffreyning/nh-micro-context@1.0.5-RELEASE
+- pkg:maven/com.github.jeffreyning/nh-micro-context@1.0.5-RELEASE?classifier=sources
+- pkg:maven/com.github.jeffreyning/nh-micro-context@1.1.5-RELEASE
+- pkg:maven/com.github.jeffreyning/nh-micro-context@1.1.5-RELEASE?classifier=sources

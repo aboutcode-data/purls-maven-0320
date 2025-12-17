@@ -6,5 +6,7 @@
 - pkg:maven/org.webjars.npm/react-grid-layout@0.13.5?classifier=sources
 - pkg:maven/org.webjars.npm/react-grid-layout@0.13.9
 - pkg:maven/org.webjars.npm/react-grid-layout@0.13.9?classifier=sources
+- pkg:maven/org.webjars.npm/react-grid-layout@0.16.0
+- pkg:maven/org.webjars.npm/react-grid-layout@0.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-grid-layout@0.9.1
 - pkg:maven/org.webjars.npm/react-grid-layout@0.9.1?classifier=sources

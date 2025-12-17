@@ -1,0 +1,2 @@
+- pkg:maven/io.allune/quickfixj-spring-boot-actuator@1.1.0
+- pkg:maven/io.allune/quickfixj-spring-boot-actuator@1.1.0?classifier=sources

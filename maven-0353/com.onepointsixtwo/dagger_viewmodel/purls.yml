@@ -1,0 +1,2 @@
+- pkg:maven/com.onepointsixtwo/dagger_viewmodel@1.0.0
+- pkg:maven/com.onepointsixtwo/dagger_viewmodel@1.0.0?classifier=sources

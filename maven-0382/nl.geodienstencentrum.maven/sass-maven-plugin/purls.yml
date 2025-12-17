@@ -40,6 +40,8 @@
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.23?classifier=sources
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.24
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.24?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.25
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.25?classifier=sources
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.2?classifier=sources
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.3
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.3?classifier=sources
@@ -57,3 +59,9 @@
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.9-RC1
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.9-RC1?classifier=sources
 - pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@2.9?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.5-RC1
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.5-RC1?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.5.0
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.5.0?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.5.1
+- pkg:maven/nl.geodienstencentrum.maven/sass-maven-plugin@3.5.1?classifier=sources

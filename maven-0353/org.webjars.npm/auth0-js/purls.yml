@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/auth0-js@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/auth0-js@8.4.0
 - pkg:maven/org.webjars.npm/auth0-js@8.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/auth0-js@8.8.0
+- pkg:maven/org.webjars.npm/auth0-js@8.8.0?classifier=sources

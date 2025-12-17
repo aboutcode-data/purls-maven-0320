@@ -8,5 +8,9 @@
 - pkg:maven/ru.send-to.dto/DtoCommon@0.0.6?classifier=sources
 - pkg:maven/ru.send-to.dto/DtoCommon@0.1.3
 - pkg:maven/ru.send-to.dto/DtoCommon@0.1.3?classifier=sources
+- pkg:maven/ru.send-to.dto/DtoCommon@0.1.4
+- pkg:maven/ru.send-to.dto/DtoCommon@0.1.4?classifier=sources
 - pkg:maven/ru.send-to.dto/DtoCommon@0.2.0
 - pkg:maven/ru.send-to.dto/DtoCommon@0.2.0?classifier=sources
+- pkg:maven/ru.send-to.dto/DtoCommon@0.3.2
+- pkg:maven/ru.send-to.dto/DtoCommon@0.3.2?classifier=sources

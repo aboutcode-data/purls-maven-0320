@@ -36,3 +36,5 @@
 - pkg:maven/org.scala-sbt/util-collection_2.10@1.0.0-M23?classifier=sources
 - pkg:maven/org.scala-sbt/util-collection_2.10@1.0.0-M24
 - pkg:maven/org.scala-sbt/util-collection_2.10@1.0.0-M24?classifier=sources
+- pkg:maven/org.scala-sbt/util-collection_2.10@1.0.0-M25
+- pkg:maven/org.scala-sbt/util-collection_2.10@1.0.0-M25?classifier=sources

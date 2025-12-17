@@ -1,0 +1,2 @@
+- pkg:maven/com.ip2proxy/ip2proxy-java@1.0.1
+- pkg:maven/com.ip2proxy/ip2proxy-java@1.0.1?classifier=sources

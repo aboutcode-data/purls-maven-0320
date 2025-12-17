@@ -1,0 +1,2 @@
+- pkg:maven/me.javaroad/mcloud-web@1.0.0.RELEASE
+- pkg:maven/me.javaroad/mcloud-web@1.0.0.RELEASE?classifier=sources

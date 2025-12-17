@@ -1,0 +1,2 @@
+- pkg:maven/com.hypertino/scala-uri_2.10@0.4.17-NO-SPRAY
+- pkg:maven/com.hypertino/scala-uri_2.10@0.4.17-NO-SPRAY?classifier=sources

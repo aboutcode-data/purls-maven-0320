@@ -6,3 +6,5 @@
 - pkg:maven/org.wowtools/catframe-rmi@1.0?classifier=sources
 - pkg:maven/org.wowtools/catframe-rmi@1.2STABLE
 - pkg:maven/org.wowtools/catframe-rmi@1.2STABLE?classifier=sources
+- pkg:maven/org.wowtools/catframe-rmi@cell
+- pkg:maven/org.wowtools/catframe-rmi@cell?classifier=sources

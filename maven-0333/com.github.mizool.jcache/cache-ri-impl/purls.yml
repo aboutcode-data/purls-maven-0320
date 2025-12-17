@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mizool.jcache/cache-ri-impl@0.1
+- pkg:maven/com.github.mizool.jcache/cache-ri-impl@0.1?classifier=sources

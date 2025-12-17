@@ -10,3 +10,6 @@
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@1.5.5?classifier=sources
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.0.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.1.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.2.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.3.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.4.0?classifier=sources

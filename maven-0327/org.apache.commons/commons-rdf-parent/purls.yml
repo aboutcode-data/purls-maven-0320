@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.commons/commons-rdf-parent@0.2.0-incubating?classifier=src&type=zip
 - pkg:maven/org.apache.commons/commons-rdf-parent@0.3.0-incubating?classifier=src&type=tar.gz
 - pkg:maven/org.apache.commons/commons-rdf-parent@0.3.0-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-rdf-parent@0.4.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-rdf-parent@0.4.0?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-rdf-parent@0.5.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-rdf-parent@0.5.0?classifier=src&type=zip

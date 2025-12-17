@@ -1,0 +1,4 @@
+- pkg:maven/pl.droidsonroids.testing/mockwebserver-path-dispatcher@1.0.0
+- pkg:maven/pl.droidsonroids.testing/mockwebserver-path-dispatcher@1.0.0?classifier=sources
+- pkg:maven/pl.droidsonroids.testing/mockwebserver-path-dispatcher@1.0.1
+- pkg:maven/pl.droidsonroids.testing/mockwebserver-path-dispatcher@1.0.1?classifier=sources

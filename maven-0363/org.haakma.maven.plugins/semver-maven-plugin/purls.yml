@@ -1,1 +1,2 @@
 - pkg:maven/org.haakma.maven.plugins/semver-maven-plugin@3.3.0
+- pkg:maven/org.haakma.maven.plugins/semver-maven-plugin@3.3.1

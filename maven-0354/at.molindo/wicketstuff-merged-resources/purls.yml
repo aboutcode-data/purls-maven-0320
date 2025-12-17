@@ -8,3 +8,7 @@
 - pkg:maven/at.molindo/wicketstuff-merged-resources@3.1.2?classifier=sources
 - pkg:maven/at.molindo/wicketstuff-merged-resources@3.1.3
 - pkg:maven/at.molindo/wicketstuff-merged-resources@3.1.3?classifier=sources
+- pkg:maven/at.molindo/wicketstuff-merged-resources@4.0.0
+- pkg:maven/at.molindo/wicketstuff-merged-resources@4.0.0?classifier=sources
+- pkg:maven/at.molindo/wicketstuff-merged-resources@4.0.1
+- pkg:maven/at.molindo/wicketstuff-merged-resources@4.0.1?classifier=sources

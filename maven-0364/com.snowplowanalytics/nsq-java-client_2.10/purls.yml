@@ -1,0 +1,6 @@
+- pkg:maven/com.snowplowanalytics/nsq-java-client_2.10@1.1.0
+- pkg:maven/com.snowplowanalytics/nsq-java-client_2.10@1.1.0-rc2
+- pkg:maven/com.snowplowanalytics/nsq-java-client_2.10@1.1.0-rc2?classifier=sources
+- pkg:maven/com.snowplowanalytics/nsq-java-client_2.10@1.1.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/nsq-java-client_2.10@1.2.0-M1
+- pkg:maven/com.snowplowanalytics/nsq-java-client_2.10@1.2.0-M1?classifier=sources

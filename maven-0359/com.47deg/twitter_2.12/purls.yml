@@ -1,0 +1,2 @@
+- pkg:maven/com.47deg/twitter_2.12@0.6.3
+- pkg:maven/com.47deg/twitter_2.12@0.6.3?classifier=sources

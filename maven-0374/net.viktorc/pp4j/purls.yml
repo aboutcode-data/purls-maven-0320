@@ -1,0 +1,4 @@
+- pkg:maven/net.viktorc/pp4j@1.0
+- pkg:maven/net.viktorc/pp4j@1.0?classifier=sources
+- pkg:maven/net.viktorc/pp4j@2.0
+- pkg:maven/net.viktorc/pp4j@2.0?classifier=sources

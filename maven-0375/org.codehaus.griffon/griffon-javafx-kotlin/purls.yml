@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.griffon/griffon-javafx-kotlin@2.13.0
+- pkg:maven/org.codehaus.griffon/griffon-javafx-kotlin@2.13.0?classifier=sources

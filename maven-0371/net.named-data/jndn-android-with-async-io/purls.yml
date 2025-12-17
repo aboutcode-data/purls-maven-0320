@@ -1,0 +1,2 @@
+- pkg:maven/net.named-data/jndn-android-with-async-io@0.16
+- pkg:maven/net.named-data/jndn-android-with-async-io@0.16?classifier=sources

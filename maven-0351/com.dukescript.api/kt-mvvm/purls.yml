@@ -1,0 +1,2 @@
+- pkg:maven/com.dukescript.api/kt-mvvm@0.1
+- pkg:maven/com.dukescript.api/kt-mvvm@0.1?classifier=sources

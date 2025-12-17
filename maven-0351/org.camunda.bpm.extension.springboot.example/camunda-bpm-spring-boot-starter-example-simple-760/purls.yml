@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm.extension.springboot.example/camunda-bpm-spring-boot-starter-example-simple-760@2.2.0
+- pkg:maven/org.camunda.bpm.extension.springboot.example/camunda-bpm-spring-boot-starter-example-simple-760@2.2.0?classifier=sources

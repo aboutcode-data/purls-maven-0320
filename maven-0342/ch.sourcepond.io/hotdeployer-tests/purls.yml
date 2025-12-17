@@ -19,3 +19,5 @@
 - pkg:maven/ch.sourcepond.io/hotdeployer-tests@7.0.3
 - pkg:maven/ch.sourcepond.io/hotdeployer-tests@7.0.4
 - pkg:maven/ch.sourcepond.io/hotdeployer-tests@7.0.5
+- pkg:maven/ch.sourcepond.io/hotdeployer-tests@7.0.6
+- pkg:maven/ch.sourcepond.io/hotdeployer-tests@7.0.7

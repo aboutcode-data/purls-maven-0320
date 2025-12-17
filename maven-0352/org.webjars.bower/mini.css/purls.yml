@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/mini.css@2.1.2
 - pkg:maven/org.webjars.bower/mini.css@2.1.2?classifier=sources
+- pkg:maven/org.webjars.bower/mini.css@3.0.0-alpha.1
+- pkg:maven/org.webjars.bower/mini.css@3.0.0-alpha.1?classifier=sources

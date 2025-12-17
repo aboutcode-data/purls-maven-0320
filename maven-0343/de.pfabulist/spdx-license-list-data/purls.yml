@@ -1,0 +1,2 @@
+- pkg:maven/de.pfabulist/spdx-license-list-data@2.6-1.0
+- pkg:maven/de.pfabulist/spdx-license-list-data@2.6-1.0?classifier=sources

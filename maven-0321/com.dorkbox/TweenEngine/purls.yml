@@ -22,3 +22,11 @@
 - pkg:maven/com.dorkbox/TweenEngine@7.8?classifier=sources
 - pkg:maven/com.dorkbox/TweenEngine@7.9
 - pkg:maven/com.dorkbox/TweenEngine@7.9?classifier=sources
+- pkg:maven/com.dorkbox/TweenEngine@8.0
+- pkg:maven/com.dorkbox/TweenEngine@8.0?classifier=sources
+- pkg:maven/com.dorkbox/TweenEngine@8.1
+- pkg:maven/com.dorkbox/TweenEngine@8.1?classifier=sources
+- pkg:maven/com.dorkbox/TweenEngine@8.2
+- pkg:maven/com.dorkbox/TweenEngine@8.2?classifier=sources
+- pkg:maven/com.dorkbox/TweenEngine@8.3
+- pkg:maven/com.dorkbox/TweenEngine@8.3?classifier=sources

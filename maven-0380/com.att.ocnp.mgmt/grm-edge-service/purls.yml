@@ -1,0 +1,2 @@
+- pkg:maven/com.att.ocnp.mgmt/grm-edge-service@1.1.18-oss
+- pkg:maven/com.att.ocnp.mgmt/grm-edge-service@1.1.18-oss?classifier=sources

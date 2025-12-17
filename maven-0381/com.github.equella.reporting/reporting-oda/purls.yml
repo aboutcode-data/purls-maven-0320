@@ -1,0 +1,2 @@
+- pkg:maven/com.github.equella.reporting/reporting-oda@6.5
+- pkg:maven/com.github.equella.reporting/reporting-oda@6.5?classifier=sources

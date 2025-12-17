@@ -1,0 +1,6 @@
+- pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.0.0.340?classifier=sources
+- pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.1.0.1079?classifier=sources
+- pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.2.0.1484?classifier=sources
+- pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.3.0.1720?classifier=sources
+- pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.4.0.1932?classifier=sources
+- pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.4.1.1991?classifier=sources

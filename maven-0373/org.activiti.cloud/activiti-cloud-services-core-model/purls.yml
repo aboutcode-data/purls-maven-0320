@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-core-model@7-201710-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-core-model@7-201710-EA?classifier=sources

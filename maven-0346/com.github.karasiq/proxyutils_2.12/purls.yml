@@ -1,0 +1,2 @@
+- pkg:maven/com.github.karasiq/proxyutils_2.12@2.0.10
+- pkg:maven/com.github.karasiq/proxyutils_2.12@2.0.10?classifier=sources

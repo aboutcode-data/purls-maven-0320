@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/react-autosuggest@9.3.2
+- pkg:maven/org.webjars.bower/react-autosuggest@9.3.2?classifier=sources

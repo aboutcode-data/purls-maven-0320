@@ -1,0 +1,2 @@
+- pkg:maven/com.github.martinei/spring-template-reverse-routing@0.9.0
+- pkg:maven/com.github.martinei/spring-template-reverse-routing@0.9.0?classifier=sources

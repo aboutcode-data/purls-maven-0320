@@ -1,0 +1,2 @@
+- pkg:maven/io.earcam.maven.plugin/io.earcam.maven.plugin.sitemap@0.0.1
+- pkg:maven/io.earcam.maven.plugin/io.earcam.maven.plugin.sitemap@0.0.1?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/net.aequologica.neo/shakuntala-test@0.5.1?classifier=sources
 - pkg:maven/net.aequologica.neo/shakuntala-test@0.6.0
 - pkg:maven/net.aequologica.neo/shakuntala-test@0.6.0?classifier=sources
+- pkg:maven/net.aequologica.neo/shakuntala-test@0.6.5
+- pkg:maven/net.aequologica.neo/shakuntala-test@0.6.5?classifier=sources

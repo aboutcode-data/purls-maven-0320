@@ -2,3 +2,7 @@
 - pkg:maven/com.okumin/influent-transport@0.1.1?classifier=sources
 - pkg:maven/com.okumin/influent-transport@0.2.0
 - pkg:maven/com.okumin/influent-transport@0.2.0?classifier=sources
+- pkg:maven/com.okumin/influent-transport@0.3.0
+- pkg:maven/com.okumin/influent-transport@0.3.0?classifier=sources
+- pkg:maven/com.okumin/influent-transport@0.4.0-M1
+- pkg:maven/com.okumin/influent-transport@0.4.0-M1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/string_decoder@0.10.31
 - pkg:maven/org.webjars.npm/string_decoder@0.10.31?classifier=sources
+- pkg:maven/org.webjars.npm/string_decoder@1.0.3
+- pkg:maven/org.webjars.npm/string_decoder@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.muoncore.transport/muon-amqp@0.0.15
+- pkg:maven/io.muoncore.transport/muon-amqp@0.0.15?classifier=sources

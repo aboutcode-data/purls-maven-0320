@@ -1,2 +1,4 @@
 - pkg:maven/io.projectreactor/reactor-scala-extensions@0.2.3
 - pkg:maven/io.projectreactor/reactor-scala-extensions@0.2.3?classifier=sources
+- pkg:maven/io.projectreactor/reactor-scala-extensions@0.2.4
+- pkg:maven/io.projectreactor/reactor-scala-extensions@0.2.4?classifier=sources

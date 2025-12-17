@@ -18,3 +18,5 @@
 - pkg:maven/com.github.michael-rapp/android-bottom-sheet@1.4.2?type=aar
 - pkg:maven/com.github.michael-rapp/android-bottom-sheet@1.4.3?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-bottom-sheet@1.4.3?type=aar
+- pkg:maven/com.github.michael-rapp/android-bottom-sheet@1.4.4?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-bottom-sheet@1.4.4?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/com.malliina/util-html_sjs0.6_2.12@4.5.0
+- pkg:maven/com.malliina/util-html_sjs0.6_2.12@4.5.0?classifier=sources
+- pkg:maven/com.malliina/util-html_sjs0.6_2.12@4.5.1
+- pkg:maven/com.malliina/util-html_sjs0.6_2.12@4.5.1?classifier=sources

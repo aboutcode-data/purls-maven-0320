@@ -1,2 +1,4 @@
 - pkg:maven/pro.parseq/gff-explorer@0.1.0
 - pkg:maven/pro.parseq/gff-explorer@0.1.0?classifier=sources
+- pkg:maven/pro.parseq/gff-explorer@1.0.0-RELEASE
+- pkg:maven/pro.parseq/gff-explorer@1.0.0-RELEASE?classifier=sources

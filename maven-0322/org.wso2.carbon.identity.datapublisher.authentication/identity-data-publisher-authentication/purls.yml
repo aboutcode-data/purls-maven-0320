@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/identity-data-publisher-authentication@5.1.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/identity-data-publisher-authentication@5.1.7?classifier=source-release&type=zip

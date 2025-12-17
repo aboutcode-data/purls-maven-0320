@@ -1,0 +1,2 @@
+- pkg:maven/com.datamountaineer/kafka-connect-coap@0.3.0
+- pkg:maven/com.datamountaineer/kafka-connect-coap@0.3.0?classifier=sources

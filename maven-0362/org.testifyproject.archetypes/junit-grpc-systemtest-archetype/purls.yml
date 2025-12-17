@@ -1,0 +1,1 @@
+- pkg:maven/org.testifyproject.archetypes/junit-grpc-systemtest-archetype@1.0.0?classifier=sources

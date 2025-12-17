@@ -1,0 +1,2 @@
+- pkg:maven/be.objectify/objectify-struts2-tags@1.0
+- pkg:maven/be.objectify/objectify-struts2-tags@1.0?classifier=sources

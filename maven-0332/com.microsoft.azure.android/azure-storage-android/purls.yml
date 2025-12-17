@@ -18,3 +18,7 @@
 - pkg:maven/com.microsoft.azure.android/azure-storage-android@0.7.0?classifier=sources
 - pkg:maven/com.microsoft.azure.android/azure-storage-android@0.8.0?classifier=sources
 - pkg:maven/com.microsoft.azure.android/azure-storage-android@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure.android/azure-storage-android@1.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure.android/azure-storage-android@1.2.0?classifier=sources
+- pkg:maven/com.microsoft.azure.android/azure-storage-android@2.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure.android/azure-storage-android@2.0.0?type=aar

@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/tap@10.3.2
+- pkg:maven/org.webjars.npm/tap@10.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/tap@6.3.2
 - pkg:maven/org.webjars.npm/tap@6.3.2?classifier=sources

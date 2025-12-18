@@ -1,0 +1,2 @@
+- pkg:maven/io.kuzzle/sdk-jvm@1.2.1-without-dependencies?classifier=sources
+- pkg:maven/io.kuzzle/sdk-jvm@1.2.1?classifier=sources

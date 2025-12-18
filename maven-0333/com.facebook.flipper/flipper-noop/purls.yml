@@ -13,3 +13,9 @@
 - pkg:maven/com.facebook.flipper/flipper-noop@0.81.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.82.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.82.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.82.2?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.83.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.84.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.85.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.87.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.90.2?classifier=sources

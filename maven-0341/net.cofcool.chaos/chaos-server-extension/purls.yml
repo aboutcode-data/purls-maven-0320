@@ -1,2 +1,4 @@
 - pkg:maven/net.cofcool.chaos/chaos-server-extension@0.5.0
 - pkg:maven/net.cofcool.chaos/chaos-server-extension@0.5.0?classifier=sources
+- pkg:maven/net.cofcool.chaos/chaos-server-extension@0.5.1
+- pkg:maven/net.cofcool.chaos/chaos-server-extension@0.5.1?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/com.github.arucard21.simplyrestful/fields-filter-json@0.14.0?classifier=sources
+- pkg:maven/com.github.arucard21.simplyrestful/fields-filter-json@0.15.0?classifier=sources
+- pkg:maven/com.github.arucard21.simplyrestful/fields-filter-json@0.16.0?classifier=sources
+- pkg:maven/com.github.arucard21.simplyrestful/fields-filter-json@0.16.1?classifier=sources

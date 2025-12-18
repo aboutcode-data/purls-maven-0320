@@ -14,7 +14,15 @@
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.16?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.17
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.17?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.18
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.18?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.19
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.19?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.2
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.20
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.20?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.21
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.21?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.2?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.3
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.3?classifier=sources

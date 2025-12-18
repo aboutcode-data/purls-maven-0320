@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bowergithub.axios/axios@0.19.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.axios/axios@0.21.0
 - pkg:maven/org.webjars.bowergithub.axios/axios@0.21.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.axios/axios@0.21.1
+- pkg:maven/org.webjars.bowergithub.axios/axios@0.21.1?classifier=sources

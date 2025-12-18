@@ -8,3 +8,7 @@
 - pkg:maven/com.gitee.swsk33/reg-java@3.3.10?classifier=sources
 - pkg:maven/com.gitee.swsk33/reg-java@3.3.7-halloween
 - pkg:maven/com.gitee.swsk33/reg-java@3.3.7-halloween?classifier=sources
+- pkg:maven/com.gitee.swsk33/reg-java@3.5.0
+- pkg:maven/com.gitee.swsk33/reg-java@3.5.0?classifier=sources
+- pkg:maven/com.gitee.swsk33/reg-java@3.5.1
+- pkg:maven/com.gitee.swsk33/reg-java@3.5.1?classifier=sources

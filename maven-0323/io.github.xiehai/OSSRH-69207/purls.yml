@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xiehai/OSSRH-69207@1.0.0
+- pkg:maven/io.github.xiehai/OSSRH-69207@1.0.0?classifier=sources

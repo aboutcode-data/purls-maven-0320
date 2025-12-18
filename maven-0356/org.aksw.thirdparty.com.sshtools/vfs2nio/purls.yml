@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.thirdparty.com.sshtools/vfs2nio@0.0.1-1
+- pkg:maven/org.aksw.thirdparty.com.sshtools/vfs2nio@0.0.1-1?classifier=sources

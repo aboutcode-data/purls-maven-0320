@@ -2,3 +2,5 @@
 - pkg:maven/org.opengis.cite/ets-sensorml20@0.10?classifier=sources
 - pkg:maven/org.opengis.cite/ets-sensorml20@0.9
 - pkg:maven/org.opengis.cite/ets-sensorml20@0.9?classifier=sources
+- pkg:maven/org.opengis.cite/ets-sensorml20@1.0
+- pkg:maven/org.opengis.cite/ets-sensorml20@1.0?classifier=sources

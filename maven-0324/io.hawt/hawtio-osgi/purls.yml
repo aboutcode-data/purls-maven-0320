@@ -14,3 +14,7 @@
 - pkg:maven/io.hawt/hawtio-osgi@2.13.1?type=war
 - pkg:maven/io.hawt/hawtio-osgi@2.13.2?classifier=sources
 - pkg:maven/io.hawt/hawtio-osgi@2.13.2?type=war
+- pkg:maven/io.hawt/hawtio-osgi@2.13.3?classifier=sources
+- pkg:maven/io.hawt/hawtio-osgi@2.13.3?type=war
+- pkg:maven/io.hawt/hawtio-osgi@2.13.4?classifier=sources
+- pkg:maven/io.hawt/hawtio-osgi@2.13.4?type=war

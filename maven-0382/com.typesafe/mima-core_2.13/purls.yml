@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe/mima-core_2.13@0.9.0
+- pkg:maven/com.typesafe/mima-core_2.13@0.9.0?classifier=sources
+- pkg:maven/com.typesafe/mima-core_2.13@0.9.1
+- pkg:maven/com.typesafe/mima-core_2.13@0.9.1?classifier=sources

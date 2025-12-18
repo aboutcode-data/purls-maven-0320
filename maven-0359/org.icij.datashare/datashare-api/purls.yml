@@ -120,6 +120,8 @@
 - pkg:maven/org.icij.datashare/datashare-api@7.33.0?classifier=sources
 - pkg:maven/org.icij.datashare/datashare-api@7.34.0
 - pkg:maven/org.icij.datashare/datashare-api@7.34.0?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-api@7.35.0
+- pkg:maven/org.icij.datashare/datashare-api@7.35.0?classifier=sources
 - pkg:maven/org.icij.datashare/datashare-api@7.4.0
 - pkg:maven/org.icij.datashare/datashare-api@7.4.0?classifier=sources
 - pkg:maven/org.icij.datashare/datashare-api@7.5.0

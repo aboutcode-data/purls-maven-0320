@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-pmml-models-clustering-model@7.55.0.Beta1
+- pkg:maven/org.kie/kie-pmml-models-clustering-model@7.55.0.Beta1?classifier=sources

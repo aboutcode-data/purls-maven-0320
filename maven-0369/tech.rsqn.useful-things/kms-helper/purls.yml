@@ -14,3 +14,5 @@
 - pkg:maven/tech.rsqn.useful-things/kms-helper@1.0.61?classifier=sources
 - pkg:maven/tech.rsqn.useful-things/kms-helper@1.0.62
 - pkg:maven/tech.rsqn.useful-things/kms-helper@1.0.62?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/kms-helper@1.0.63
+- pkg:maven/tech.rsqn.useful-things/kms-helper@1.0.63?classifier=sources

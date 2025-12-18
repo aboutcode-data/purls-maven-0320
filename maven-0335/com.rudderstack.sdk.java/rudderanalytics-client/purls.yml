@@ -1,0 +1,2 @@
+- pkg:maven/com.rudderstack.sdk.java/rudderanalytics-client@1.0.1
+- pkg:maven/com.rudderstack.sdk.java/rudderanalytics-client@1.0.1?classifier=sources

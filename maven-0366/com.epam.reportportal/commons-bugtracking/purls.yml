@@ -1,0 +1,15 @@
+- pkg:maven/com.epam.reportportal/commons-bugtracking@2.6.0?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@2.6.1?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@2.6.2?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@2.7.0?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@3.0.0?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@3.1.0?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@3.2.0?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@3.3.0?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@3.3.1?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@4.0.0?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@4.0.1?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@4.0.2?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@4.0.3?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@4.0.4?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-bugtracking@4.2.0?classifier=sources

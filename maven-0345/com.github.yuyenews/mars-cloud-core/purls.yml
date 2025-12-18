@@ -58,3 +58,5 @@
 - pkg:maven/com.github.yuyenews/mars-cloud-core@4.0.7
 - pkg:maven/com.github.yuyenews/mars-cloud-core@4.0.7?classifier=sources
 - pkg:maven/com.github.yuyenews/mars-cloud-core@4.0?classifier=sources
+- pkg:maven/com.github.yuyenews/mars-cloud-core@4.1.0
+- pkg:maven/com.github.yuyenews/mars-cloud-core@4.1.0?classifier=sources

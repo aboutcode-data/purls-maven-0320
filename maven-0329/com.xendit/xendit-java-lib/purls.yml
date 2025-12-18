@@ -1,0 +1,2 @@
+- pkg:maven/com.xendit/xendit-java-lib@1.12.2
+- pkg:maven/com.xendit/xendit-java-lib@1.12.2?classifier=sources

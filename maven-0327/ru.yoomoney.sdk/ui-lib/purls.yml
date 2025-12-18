@@ -1,0 +1,2 @@
+- pkg:maven/ru.yoomoney.sdk/ui-lib@1.26.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk/ui-lib@1.26.0?type=aar

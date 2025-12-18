@@ -1,0 +1,2 @@
+- pkg:maven/io.automatiko.addons/automatiko-user-tasks-management-addon@0.4.0
+- pkg:maven/io.automatiko.addons/automatiko-user-tasks-management-addon@0.4.0?classifier=sources

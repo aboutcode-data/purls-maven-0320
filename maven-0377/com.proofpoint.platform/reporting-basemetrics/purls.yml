@@ -106,3 +106,11 @@
 - pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.44?classifier=sources
 - pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.46
 - pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.46?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.47
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.47?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.48
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.48?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.49
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.49?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.51
+- pkg:maven/com.proofpoint.platform/reporting-basemetrics@2.51?classifier=sources

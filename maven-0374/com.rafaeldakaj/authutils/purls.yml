@@ -1,0 +1,2 @@
+- pkg:maven/com.rafaeldakaj/authutils@0.1.2a
+- pkg:maven/com.rafaeldakaj/authutils@0.1.2a?classifier=sources

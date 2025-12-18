@@ -1,0 +1,2 @@
+- pkg:maven/com.seepine/spring-boot-starter-wrap@0.0.1
+- pkg:maven/com.seepine/spring-boot-starter-wrap@0.0.1?classifier=sources

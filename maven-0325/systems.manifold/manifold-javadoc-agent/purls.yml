@@ -1,0 +1,4 @@
+- pkg:maven/systems.manifold/manifold-javadoc-agent@2021.1.11
+- pkg:maven/systems.manifold/manifold-javadoc-agent@2021.1.11?classifier=sources
+- pkg:maven/systems.manifold/manifold-javadoc-agent@2021.1.12
+- pkg:maven/systems.manifold/manifold-javadoc-agent@2021.1.12?classifier=sources

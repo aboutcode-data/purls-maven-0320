@@ -2,5 +2,7 @@
 - pkg:maven/pt.tecnico.dsi/scala-keystone-client_2.13@0.10.0?classifier=sources
 - pkg:maven/pt.tecnico.dsi/scala-keystone-client_2.13@0.10.1
 - pkg:maven/pt.tecnico.dsi/scala-keystone-client_2.13@0.10.1?classifier=sources
+- pkg:maven/pt.tecnico.dsi/scala-keystone-client_2.13@0.11.0
+- pkg:maven/pt.tecnico.dsi/scala-keystone-client_2.13@0.11.0?classifier=sources
 - pkg:maven/pt.tecnico.dsi/scala-keystone-client_2.13@0.9.2
 - pkg:maven/pt.tecnico.dsi/scala-keystone-client_2.13@0.9.2?classifier=sources

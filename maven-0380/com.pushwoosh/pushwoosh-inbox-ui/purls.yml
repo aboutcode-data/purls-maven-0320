@@ -12,6 +12,7 @@
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.15.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.15.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.16.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.16.0b?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.17.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.17.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.17.2?type=aar
@@ -42,6 +43,7 @@
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.22.4?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.22.5?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.22.6?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.22.7?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.5.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.5.10?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@5.5.1?type=aar
@@ -98,3 +100,5 @@
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@6.2.4?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@6.2.5?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@6.2.6?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@6.2.7?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-inbox-ui@6.2.8?type=aar

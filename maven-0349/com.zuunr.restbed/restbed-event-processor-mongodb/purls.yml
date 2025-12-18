@@ -1,0 +1,2 @@
+- pkg:maven/com.zuunr.restbed/restbed-event-processor-mongodb@1.0.0-5bb0656
+- pkg:maven/com.zuunr.restbed/restbed-event-processor-mongodb@1.0.0-5bb0656?classifier=sources

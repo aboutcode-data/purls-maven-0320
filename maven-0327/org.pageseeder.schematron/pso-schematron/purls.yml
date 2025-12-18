@@ -1,0 +1,2 @@
+- pkg:maven/org.pageseeder.schematron/pso-schematron@1.2.2?classifier=sources
+- pkg:maven/org.pageseeder.schematron/pso-schematron@1.2.3?classifier=sources

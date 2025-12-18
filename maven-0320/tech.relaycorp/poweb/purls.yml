@@ -1,0 +1,3 @@
+- pkg:maven/tech.relaycorp/poweb@1.5.17?classifier=sources
+- pkg:maven/tech.relaycorp/poweb@1.5.18?classifier=sources
+- pkg:maven/tech.relaycorp/poweb@1.5.19?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@4.9.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@5.14.0
 - pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@5.14.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@5.15.0
+- pkg:maven/org.camunda.bpm.extension.mockito/camunda-bpm-mockito@5.15.0?classifier=sources

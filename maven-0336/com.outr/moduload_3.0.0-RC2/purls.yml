@@ -1,0 +1,4 @@
+- pkg:maven/com.outr/moduload_3.0.0-RC2@1.1.3
+- pkg:maven/com.outr/moduload_3.0.0-RC2@1.1.3?classifier=sources
+- pkg:maven/com.outr/moduload_3.0.0-RC2@1.1.4
+- pkg:maven/com.outr/moduload_3.0.0-RC2@1.1.4?classifier=sources

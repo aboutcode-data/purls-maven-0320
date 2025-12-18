@@ -1,0 +1,6 @@
+- pkg:maven/com.conviva.sdk/conviva-nexplayer-sdk@2.145.0?type=aar
+- pkg:maven/com.conviva.sdk/conviva-nexplayer-sdk@2.145.1?type=aar
+- pkg:maven/com.conviva.sdk/conviva-nexplayer-sdk@2.145.2?type=aar
+- pkg:maven/com.conviva.sdk/conviva-nexplayer-sdk@4.0.0?type=aar
+- pkg:maven/com.conviva.sdk/conviva-nexplayer-sdk@4.0.1.4?type=aar
+- pkg:maven/com.conviva.sdk/conviva-nexplayer-sdk@4.0.2.18?type=aar

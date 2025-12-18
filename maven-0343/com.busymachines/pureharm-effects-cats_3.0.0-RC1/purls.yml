@@ -6,3 +6,9 @@
 - pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.1.0-4946221
 - pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.1.0-4946221?classifier=sources
 - pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.1.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.2.0
+- pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.2.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.3.0
+- pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.3.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.4.0
+- pkg:maven/com.busymachines/pureharm-effects-cats_3.0.0-RC1@0.4.0?classifier=sources

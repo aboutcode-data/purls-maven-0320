@@ -1,0 +1,2 @@
+- pkg:maven/app.bondar.gradle.git-version/app.bondar.gradle.git-version.gradle.plugin@1.0.0
+- pkg:maven/app.bondar.gradle.git-version/app.bondar.gradle.git-version.gradle.plugin@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.tpolecat/doobie-munit_3@0.13.4
+- pkg:maven/org.tpolecat/doobie-munit_3@0.13.4?classifier=sources

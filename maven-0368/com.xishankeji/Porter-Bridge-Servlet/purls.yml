@@ -52,6 +52,8 @@
 - pkg:maven/com.xishankeji/Porter-Bridge-Servlet@1.2.186?classifier=sources
 - pkg:maven/com.xishankeji/Porter-Bridge-Servlet@1.2.217
 - pkg:maven/com.xishankeji/Porter-Bridge-Servlet@1.2.217?classifier=sources
+- pkg:maven/com.xishankeji/Porter-Bridge-Servlet@1.2.235
+- pkg:maven/com.xishankeji/Porter-Bridge-Servlet@1.2.235?classifier=sources
 - pkg:maven/com.xishankeji/Porter-Bridge-Servlet@1.2.31
 - pkg:maven/com.xishankeji/Porter-Bridge-Servlet@1.2.31?classifier=sources
 - pkg:maven/com.xishankeji/Porter-Bridge-Servlet@1.2.32

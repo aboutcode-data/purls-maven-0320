@@ -6,3 +6,5 @@
 - pkg:maven/org.unix4j/unix4j-command@0.4?classifier=sources
 - pkg:maven/org.unix4j/unix4j-command@0.5
 - pkg:maven/org.unix4j/unix4j-command@0.5?classifier=sources
+- pkg:maven/org.unix4j/unix4j-command@0.6
+- pkg:maven/org.unix4j/unix4j-command@0.6?classifier=sources

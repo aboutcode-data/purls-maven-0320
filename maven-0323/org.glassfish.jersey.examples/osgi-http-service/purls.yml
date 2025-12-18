@@ -43,6 +43,7 @@
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.2?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.3.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.33?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.34?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.4.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-http-service@2.4?classifier=project-src&type=zip

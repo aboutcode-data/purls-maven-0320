@@ -7,4 +7,6 @@
 - pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@0.0.4
 - pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@0.0.4?classifier=sources
 - pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.1
+- pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.1-b
+- pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.1-b?classifier=sources
 - pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kin.sdk.android/base-shaded@0.4.7?classifier=sources
+- pkg:maven/org.kin.sdk.android/base-shaded@1.0.0?classifier=sources

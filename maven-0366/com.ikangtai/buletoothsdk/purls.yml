@@ -1,0 +1,2 @@
+- pkg:maven/com.ikangtai/buletoothsdk@1.1.9?classifier=sources
+- pkg:maven/com.ikangtai/buletoothsdk@1.1.9?type=aar

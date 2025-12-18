@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-process_3@0.4.0
+- pkg:maven/dev.zio/zio-process_3@0.4.0?classifier=sources

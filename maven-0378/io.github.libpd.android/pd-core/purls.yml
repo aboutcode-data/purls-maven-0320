@@ -1,0 +1,2 @@
+- pkg:maven/io.github.libpd.android/pd-core@1.2.1-rc5?classifier=sources
+- pkg:maven/io.github.libpd.android/pd-core@1.2.1-rc6?classifier=sources

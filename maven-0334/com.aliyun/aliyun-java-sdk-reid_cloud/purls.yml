@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-reid_cloud@1.1.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-reid_cloud@1.1.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-reid_cloud@1.2.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-reid_cloud@1.2.1?classifier=sources

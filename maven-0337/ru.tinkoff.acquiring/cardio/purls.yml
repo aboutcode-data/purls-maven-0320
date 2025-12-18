@@ -24,3 +24,5 @@
 - pkg:maven/ru.tinkoff.acquiring/cardio@2.3.1?type=aar
 - pkg:maven/ru.tinkoff.acquiring/cardio@2.3.2?classifier=sources
 - pkg:maven/ru.tinkoff.acquiring/cardio@2.3.2?type=aar
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.3.3?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.3.3?type=aar

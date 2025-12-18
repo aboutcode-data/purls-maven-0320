@@ -6,3 +6,5 @@
 - pkg:maven/com.xixudi/jfinal@4.9.09-3
 - pkg:maven/com.xixudi/jfinal@4.9.09-3?classifier=sources
 - pkg:maven/com.xixudi/jfinal@4.9.09?classifier=sources
+- pkg:maven/com.xixudi/jfinal@4.9.10
+- pkg:maven/com.xixudi/jfinal@4.9.10?classifier=sources

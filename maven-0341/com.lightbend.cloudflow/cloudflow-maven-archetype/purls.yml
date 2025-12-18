@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.cloudflow/cloudflow-maven-archetype@2.1.0-NIGHTLY20210525
+- pkg:maven/com.lightbend.cloudflow/cloudflow-maven-archetype@2.1.0-NIGHTLY20210525?classifier=sources

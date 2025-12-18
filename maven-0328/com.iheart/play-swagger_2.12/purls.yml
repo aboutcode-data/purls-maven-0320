@@ -1,0 +1,4 @@
+- pkg:maven/com.iheart/play-swagger_2.12@0.10.4
+- pkg:maven/com.iheart/play-swagger_2.12@0.10.4-PLAY2.8
+- pkg:maven/com.iheart/play-swagger_2.12@0.10.4-PLAY2.8?classifier=sources
+- pkg:maven/com.iheart/play-swagger_2.12@0.10.4?classifier=sources

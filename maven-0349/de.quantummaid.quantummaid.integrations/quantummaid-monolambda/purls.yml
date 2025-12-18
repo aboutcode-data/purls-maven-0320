@@ -1,3 +1,15 @@
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.100
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.100?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.101
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.101?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.102
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.102?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.103
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.103?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.104
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.104?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.105
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.105?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.73
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.73?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.74

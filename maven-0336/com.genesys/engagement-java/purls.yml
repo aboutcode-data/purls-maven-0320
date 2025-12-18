@@ -66,3 +66,5 @@
 - pkg:maven/com.genesys/engagement-java@9.0.59?classifier=sources
 - pkg:maven/com.genesys/engagement-java@9.0.60
 - pkg:maven/com.genesys/engagement-java@9.0.60?classifier=sources
+- pkg:maven/com.genesys/engagement-java@9.0.61
+- pkg:maven/com.genesys/engagement-java@9.0.61?classifier=sources

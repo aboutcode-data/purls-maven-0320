@@ -1,0 +1,2 @@
+- pkg:maven/com.mesibo.api/emojiview@0.1.11?classifier=sources
+- pkg:maven/com.mesibo.api/emojiview@0.1.9?classifier=sources

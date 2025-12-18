@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcosemiao.maven.shade/maven-shade-merge-manifest-transformer@0.0.1
+- pkg:maven/com.github.marcosemiao.maven.shade/maven-shade-merge-manifest-transformer@0.0.1?classifier=sources

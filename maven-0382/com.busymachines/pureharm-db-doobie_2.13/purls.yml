@@ -28,3 +28,5 @@
 - pkg:maven/com.busymachines/pureharm-db-doobie_2.13@0.1.0-8d92094
 - pkg:maven/com.busymachines/pureharm-db-doobie_2.13@0.1.0-8d92094?classifier=sources
 - pkg:maven/com.busymachines/pureharm-db-doobie_2.13@0.1.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-doobie_2.13@0.2.0
+- pkg:maven/com.busymachines/pureharm-db-doobie_2.13@0.2.0?classifier=sources

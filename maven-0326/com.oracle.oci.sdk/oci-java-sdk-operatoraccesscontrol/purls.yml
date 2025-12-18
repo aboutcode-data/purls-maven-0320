@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-operatoraccesscontrol@1.36.3
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-operatoraccesscontrol@1.36.3?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-operatoraccesscontrol@1.36.4
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-operatoraccesscontrol@1.36.4?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-operatoraccesscontrol@1.36.5
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-operatoraccesscontrol@1.36.5?classifier=sources

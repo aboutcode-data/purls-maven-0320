@@ -1,0 +1,2 @@
+- pkg:maven/dev.kord/kord-gateway@0.7.0-RC2?classifier=sources
+- pkg:maven/dev.kord/kord-gateway@0.7.0-RC3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.mediax/dokisdk@2.3.0-202005271250?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/dokisdk@2.3.0-202005271250?type=aar

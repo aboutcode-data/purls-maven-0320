@@ -24,3 +24,5 @@
 - pkg:maven/com.xenoamess.p3c/p3c-pmd@2.1.0.4x?classifier=sources
 - pkg:maven/com.xenoamess.p3c/p3c-pmd@2.1.0.5x
 - pkg:maven/com.xenoamess.p3c/p3c-pmd@2.1.0.5x?classifier=sources
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.1.0.6x
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.1.0.6x?classifier=sources

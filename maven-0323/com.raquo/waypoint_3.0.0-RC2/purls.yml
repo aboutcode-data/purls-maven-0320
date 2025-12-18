@@ -1,4 +1,6 @@
+- pkg:maven/com.raquo/waypoint_3.0.0-RC2@0.4.0
 - pkg:maven/com.raquo/waypoint_3.0.0-RC2@0.4.0-M1
 - pkg:maven/com.raquo/waypoint_3.0.0-RC2@0.4.0-M1?classifier=sources
 - pkg:maven/com.raquo/waypoint_3.0.0-RC2@0.4.0-M2
 - pkg:maven/com.raquo/waypoint_3.0.0-RC2@0.4.0-M2?classifier=sources
+- pkg:maven/com.raquo/waypoint_3.0.0-RC2@0.4.0?classifier=sources

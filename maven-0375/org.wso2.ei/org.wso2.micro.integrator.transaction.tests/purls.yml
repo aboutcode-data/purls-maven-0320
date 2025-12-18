@@ -1,5 +1,6 @@
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@1.2.0
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@1.2.0?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@4.0.0
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@4.0.0-alpha
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@4.0.0-alpha?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@4.0.0-beta
@@ -18,3 +19,4 @@
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@4.0.0-m7?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@4.0.0-m8
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@4.0.0-m8?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.transaction.tests@4.0.0?classifier=sources

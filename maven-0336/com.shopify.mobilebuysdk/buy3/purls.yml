@@ -1,0 +1,2 @@
+- pkg:maven/com.shopify.mobilebuysdk/buy3@9.0.1?classifier=sources
+- pkg:maven/com.shopify.mobilebuysdk/buy3@9.0.1?type=aar

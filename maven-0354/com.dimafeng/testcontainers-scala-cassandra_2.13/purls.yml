@@ -44,5 +44,7 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.13@0.39.2?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.13@0.39.3
 - pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.13@0.39.3?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.13@0.39.4
+- pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.13@0.39.4?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.13@1.0.0-alpha1
 - pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.13@1.0.0-alpha1?classifier=sources

@@ -122,6 +122,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.22.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.22.1
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.22.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.23.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.23.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.3.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.3.1

@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-odata@5.10.0
+- pkg:maven/org.eclipse.dirigible/dirigible-odata@5.10.1
+- pkg:maven/org.eclipse.dirigible/dirigible-odata@5.10.2
+- pkg:maven/org.eclipse.dirigible/dirigible-odata@5.10.3
+- pkg:maven/org.eclipse.dirigible/dirigible-odata@5.9.2
+- pkg:maven/org.eclipse.dirigible/dirigible-odata@5.9.3

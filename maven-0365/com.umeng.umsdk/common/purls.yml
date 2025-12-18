@@ -1,0 +1,6 @@
+- pkg:maven/com.umeng.umsdk/common@1.5.4?classifier=sources
+- pkg:maven/com.umeng.umsdk/common@2.0.0?classifier=sources
+- pkg:maven/com.umeng.umsdk/common@9.1.0?classifier=sources
+- pkg:maven/com.umeng.umsdk/common@9.3.2?classifier=sources
+- pkg:maven/com.umeng.umsdk/common@9.3.7?classifier=sources
+- pkg:maven/com.umeng.umsdk/common@9.3.8?classifier=sources

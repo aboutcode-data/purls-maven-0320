@@ -137,3 +137,6 @@
 - pkg:maven/org.jboss.windup.rules/windup-rulesets@5.1.4.Alpha1
 - pkg:maven/org.jboss.windup.rules/windup-rulesets@5.1.4.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup.rules/windup-rulesets@5.1.4.Alpha1?classifier=sources
+- pkg:maven/org.jboss.windup.rules/windup-rulesets@5.1.4.Final
+- pkg:maven/org.jboss.windup.rules/windup-rulesets@5.1.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup.rules/windup-rulesets@5.1.4.Final?classifier=sources

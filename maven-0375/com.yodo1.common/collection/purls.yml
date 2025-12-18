@@ -1,0 +1,4 @@
+- pkg:maven/com.yodo1.common/collection@1.1.2?classifier=sources
+- pkg:maven/com.yodo1.common/collection@1.1.2?type=aar
+- pkg:maven/com.yodo1.common/collection@1.1.4?classifier=sources
+- pkg:maven/com.yodo1.common/collection@1.1.4?type=aar

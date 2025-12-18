@@ -1,0 +1,4 @@
+- pkg:maven/com.clouway.http/chita@1.2
+- pkg:maven/com.clouway.http/chita@1.2?classifier=sources
+- pkg:maven/com.clouway.http/chita@1.4
+- pkg:maven/com.clouway.http/chita@1.4?classifier=sources

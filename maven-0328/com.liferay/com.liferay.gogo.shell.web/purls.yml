@@ -195,9 +195,15 @@
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.38
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.39
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.4
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.40
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@2.0.5
@@ -255,6 +261,9 @@
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.21
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.22
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@3.0.3
@@ -321,6 +330,9 @@
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.22
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.23
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@4.0.3
@@ -347,3 +359,6 @@
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.0
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.1
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.1?classifier=sources-commercial

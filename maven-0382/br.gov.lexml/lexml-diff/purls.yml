@@ -1,0 +1,2 @@
+- pkg:maven/br.gov.lexml/lexml-diff@1.2.0
+- pkg:maven/br.gov.lexml/lexml-diff@1.2.0?classifier=sources

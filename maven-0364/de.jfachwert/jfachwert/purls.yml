@@ -38,3 +38,7 @@
 - pkg:maven/de.jfachwert/jfachwert@2.3.0?classifier=sources
 - pkg:maven/de.jfachwert/jfachwert@3.0.0
 - pkg:maven/de.jfachwert/jfachwert@3.0.0?classifier=sources
+- pkg:maven/de.jfachwert/jfachwert@4.0.0
+- pkg:maven/de.jfachwert/jfachwert@4.0.0?classifier=sources
+- pkg:maven/de.jfachwert/jfachwert@4.0.1
+- pkg:maven/de.jfachwert/jfachwert@4.0.1?classifier=sources

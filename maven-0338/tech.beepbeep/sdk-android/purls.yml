@@ -1,0 +1,4 @@
+- pkg:maven/tech.beepbeep/sdk-android@1.0.7-dev?type=aar
+- pkg:maven/tech.beepbeep/sdk-android@1.1.1-dev?type=aar
+- pkg:maven/tech.beepbeep/sdk-android@1.1.2-dev?type=aar
+- pkg:maven/tech.beepbeep/sdk-android@1.1.3-dev?type=aar

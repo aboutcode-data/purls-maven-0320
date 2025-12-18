@@ -26,6 +26,8 @@
 - pkg:maven/io.github.subiyacryolite/jds@1.170708?classifier=sources
 - pkg:maven/io.github.subiyacryolite/jds@1.170710
 - pkg:maven/io.github.subiyacryolite/jds@1.170710?classifier=sources
+- pkg:maven/io.github.subiyacryolite/jds@10.2.0
+- pkg:maven/io.github.subiyacryolite/jds@10.2.0?classifier=sources
 - pkg:maven/io.github.subiyacryolite/jds@2.17.0711b
 - pkg:maven/io.github.subiyacryolite/jds@2.17.0711b?classifier=sources
 - pkg:maven/io.github.subiyacryolite/jds@2.17.0711c

@@ -1,1 +1,2 @@
+- pkg:maven/org.netbeans.html/pom@1.6.1?classifier=source-release&type=zip
 - pkg:maven/org.netbeans.html/pom@1.6?classifier=source-release&type=zip

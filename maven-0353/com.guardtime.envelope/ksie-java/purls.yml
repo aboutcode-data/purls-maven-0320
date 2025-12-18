@@ -1,0 +1,2 @@
+- pkg:maven/com.guardtime.envelope/ksie-java@1.2.190
+- pkg:maven/com.guardtime.envelope/ksie-java@1.2.190?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/com.orange.webcom/sdk-android@1.4.2?type=aar
 - pkg:maven/com.orange.webcom/sdk-android@1.5.0?classifier=sources
 - pkg:maven/com.orange.webcom/sdk-android@1.5.0?type=aar
+- pkg:maven/com.orange.webcom/sdk-android@1.6.0?classifier=sources
+- pkg:maven/com.orange.webcom/sdk-android@1.6.0?type=aar

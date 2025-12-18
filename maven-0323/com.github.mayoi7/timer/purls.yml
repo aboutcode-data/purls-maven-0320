@@ -1,0 +1,4 @@
+- pkg:maven/com.github.mayoi7/timer@1.0.0-RELEASE
+- pkg:maven/com.github.mayoi7/timer@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.mayoi7/timer@1.2.0-RELEASE
+- pkg:maven/com.github.mayoi7/timer@1.2.0-RELEASE?classifier=sources

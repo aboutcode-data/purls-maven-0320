@@ -1,2 +1,5 @@
 - pkg:maven/br.com.c8tech.tools/c8tech.tools.maven.library.mojo@0.7.6?classifier=sources
 - pkg:maven/br.com.c8tech.tools/c8tech.tools.maven.library.mojo@0.7.8?classifier=sources
+- pkg:maven/br.com.c8tech.tools/c8tech.tools.maven.library.mojo@0.8.0?classifier=sources
+- pkg:maven/br.com.c8tech.tools/c8tech.tools.maven.library.mojo@0.9.0
+- pkg:maven/br.com.c8tech.tools/c8tech.tools.maven.library.mojo@0.9.0?classifier=sources

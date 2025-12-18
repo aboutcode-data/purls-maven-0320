@@ -1,0 +1,4 @@
+- pkg:maven/org.ddahl/rscala_2.13.0-RC1@3.2.7
+- pkg:maven/org.ddahl/rscala_2.13.0-RC1@3.2.7?classifier=sources
+- pkg:maven/org.ddahl/rscala_2.13.0-RC1@3.2.8
+- pkg:maven/org.ddahl/rscala_2.13.0-RC1@3.2.8?classifier=sources

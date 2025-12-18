@@ -4,3 +4,13 @@
 - pkg:maven/com.softwaremill.sttp/zio_2.11@1.5.11?classifier=sources
 - pkg:maven/com.softwaremill.sttp/zio_2.11@1.5.9
 - pkg:maven/com.softwaremill.sttp/zio_2.11@1.5.9?classifier=sources
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.0
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.1
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.1?classifier=sources
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.2
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.2?classifier=sources
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.3
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.4
+- pkg:maven/com.softwaremill.sttp/zio_2.11@1.6.4?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.odpi.egeria/discovery-engine-client@0.1
 - pkg:maven/org.odpi.egeria/discovery-engine-client@0.2
+- pkg:maven/org.odpi.egeria/discovery-engine-client@1.0

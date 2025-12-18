@@ -1,2 +1,4 @@
 - pkg:maven/com.typesafe.akka/akka-coordination_2.11@2.5.22
 - pkg:maven/com.typesafe.akka/akka-coordination_2.11@2.5.22?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-coordination_2.11@2.5.23
+- pkg:maven/com.typesafe.akka/akka-coordination_2.11@2.5.23?classifier=sources

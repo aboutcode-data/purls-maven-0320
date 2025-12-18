@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/desktop-linux_2.13.0-RC2@0.10.3
+- pkg:maven/de.sciss/desktop-linux_2.13.0-RC2@0.10.3?classifier=sources
+- pkg:maven/de.sciss/desktop-linux_2.13.0-RC2@0.10.4
+- pkg:maven/de.sciss/desktop-linux_2.13.0-RC2@0.10.4?classifier=sources

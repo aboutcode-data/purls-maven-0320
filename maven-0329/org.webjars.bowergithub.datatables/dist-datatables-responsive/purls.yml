@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-responsive@2.2.2
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-responsive@2.2.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-responsive@2.2.3
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-responsive@2.2.3?classifier=sources

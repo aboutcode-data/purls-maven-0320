@@ -17,3 +17,5 @@
 - pkg:maven/com.hubspot/BaragonAgentService@0.6.1?classifier=sources
 - pkg:maven/com.hubspot/BaragonAgentService@0.6.2?classifier=sources
 - pkg:maven/com.hubspot/BaragonAgentService@0.7.0?classifier=sources
+- pkg:maven/com.hubspot/BaragonAgentService@0.8.0?classifier=sources
+- pkg:maven/com.hubspot/BaragonAgentService@0.9.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.mycore/mycore-migration@2018.11?classifier=sources
 - pkg:maven/org.mycore/mycore-migration@2019.02
 - pkg:maven/org.mycore/mycore-migration@2019.02?classifier=sources
+- pkg:maven/org.mycore/mycore-migration@2019.05
+- pkg:maven/org.mycore/mycore-migration@2019.05?classifier=sources

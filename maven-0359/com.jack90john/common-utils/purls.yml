@@ -1,0 +1,10 @@
+- pkg:maven/com.jack90john/common-utils@1.0.0.RELEASE
+- pkg:maven/com.jack90john/common-utils@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.jack90john/common-utils@1.1.0.RELEASE
+- pkg:maven/com.jack90john/common-utils@1.1.0.RELEASE?classifier=sources
+- pkg:maven/com.jack90john/common-utils@1.1.1.RELEASE
+- pkg:maven/com.jack90john/common-utils@1.1.1.RELEASE?classifier=sources
+- pkg:maven/com.jack90john/common-utils@2.0.0.RELEASE
+- pkg:maven/com.jack90john/common-utils@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.jack90john/common-utils@2.1.0.RELEASE
+- pkg:maven/com.jack90john/common-utils@2.1.0.RELEASE?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/vue-slimgrid@0.1.38
+- pkg:maven/org.webjars.npm/vue-slimgrid@0.1.38?classifier=sources
+- pkg:maven/org.webjars.npm/vue-slimgrid@0.1.39
+- pkg:maven/org.webjars.npm/vue-slimgrid@0.1.39?classifier=sources

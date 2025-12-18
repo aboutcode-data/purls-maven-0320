@@ -1,0 +1,2 @@
+- pkg:maven/black.door/jose_2.13@0.3.0.1-M1
+- pkg:maven/black.door/jose_2.13@0.3.0.1-M1?classifier=sources

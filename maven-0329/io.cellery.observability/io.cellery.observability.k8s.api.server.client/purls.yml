@@ -1,0 +1,2 @@
+- pkg:maven/io.cellery.observability/io.cellery.observability.k8s.api.server.client@0.1.0
+- pkg:maven/io.cellery.observability/io.cellery.observability.k8s.api.server.client@0.1.0?classifier=sources

@@ -18,3 +18,11 @@
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@1.0.0-rf-p13-095e529?classifier=sources
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@1.0.0-rf-p14-2f97dbe
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@1.0.0-rf-p14-2f97dbe?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@2.22
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@2.22?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@2.23
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@2.23?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@2.24
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@2.24?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@2.25
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webgl@2.25?classifier=sources

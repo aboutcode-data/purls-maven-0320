@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-dd-webservice@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-dd-webservice@RELEASE111?classifier=sources

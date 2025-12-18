@@ -1,0 +1,2 @@
+- pkg:maven/io.symphonia/log4j2-json-helper@1.0.1
+- pkg:maven/io.symphonia/log4j2-json-helper@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.netbeans.archetypes/nbm-suite-root@1.11?classifier=source-release&type=zip
+- pkg:maven/org.apache.netbeans.archetypes/nbm-suite-root@1.11?classifier=sources

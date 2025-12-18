@@ -10,3 +10,15 @@
 - pkg:maven/com.cognitect.aws/storagegateway@712.2.415.0?classifier=sources
 - pkg:maven/com.cognitect.aws/storagegateway@714.2.430.0
 - pkg:maven/com.cognitect.aws/storagegateway@714.2.430.0?classifier=sources
+- pkg:maven/com.cognitect.aws/storagegateway@716.2.438.0
+- pkg:maven/com.cognitect.aws/storagegateway@716.2.438.0?classifier=sources
+- pkg:maven/com.cognitect.aws/storagegateway@718.2.442.0
+- pkg:maven/com.cognitect.aws/storagegateway@718.2.442.0?classifier=sources
+- pkg:maven/com.cognitect.aws/storagegateway@718.2.451.0
+- pkg:maven/com.cognitect.aws/storagegateway@718.2.451.0?classifier=sources
+- pkg:maven/com.cognitect.aws/storagegateway@718.2.455.0
+- pkg:maven/com.cognitect.aws/storagegateway@718.2.455.0?classifier=sources
+- pkg:maven/com.cognitect.aws/storagegateway@722.2.464.0
+- pkg:maven/com.cognitect.aws/storagegateway@722.2.464.0?classifier=sources
+- pkg:maven/com.cognitect.aws/storagegateway@722.2.468.0
+- pkg:maven/com.cognitect.aws/storagegateway@722.2.468.0?classifier=sources

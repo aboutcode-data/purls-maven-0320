@@ -1,0 +1,2 @@
+- pkg:maven/org.pantsbuild/zinc-compiler-native-image-substitutions@0.0.1
+- pkg:maven/org.pantsbuild/zinc-compiler-native-image-substitutions@0.0.1?classifier=sources

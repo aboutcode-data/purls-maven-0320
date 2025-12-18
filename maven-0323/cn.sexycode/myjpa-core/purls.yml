@@ -1,0 +1,2 @@
+- pkg:maven/cn.sexycode/myjpa-core@0.0.2
+- pkg:maven/cn.sexycode/myjpa-core@0.0.2?classifier=sources

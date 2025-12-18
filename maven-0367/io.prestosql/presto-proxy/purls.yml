@@ -7,3 +7,12 @@
 - pkg:maven/io.prestosql/presto-proxy@306?classifier=sources
 - pkg:maven/io.prestosql/presto-proxy@307?classifier=sources
 - pkg:maven/io.prestosql/presto-proxy@308?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@309?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@310?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@311?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@312?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@313?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@314?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@315?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@316?classifier=sources
+- pkg:maven/io.prestosql/presto-proxy@317?classifier=sources

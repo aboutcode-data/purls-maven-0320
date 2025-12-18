@@ -2,6 +2,8 @@
 - pkg:maven/com.googlecode.blaisemath/blaise-graphtheory3@3.0.1-beta?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/blaise-graphtheory3@3.0.10-beta
 - pkg:maven/com.googlecode.blaisemath/blaise-graphtheory3@3.0.10-beta?classifier=sources
+- pkg:maven/com.googlecode.blaisemath/blaise-graphtheory3@3.0.11
+- pkg:maven/com.googlecode.blaisemath/blaise-graphtheory3@3.0.11?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/blaise-graphtheory3@3.0.2-beta
 - pkg:maven/com.googlecode.blaisemath/blaise-graphtheory3@3.0.2-beta?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/blaise-graphtheory3@3.0.4-beta

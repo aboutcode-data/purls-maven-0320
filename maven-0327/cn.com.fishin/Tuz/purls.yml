@@ -7,3 +7,17 @@
 - pkg:maven/cn.com.fishin/Tuz@0.6.0-FINAL?classifier=sources
 - pkg:maven/cn.com.fishin/Tuz@0.6.4-BETA
 - pkg:maven/cn.com.fishin/Tuz@0.6.4-BETA?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.6.6-FINAL
+- pkg:maven/cn.com.fishin/Tuz@0.6.6-FINAL?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.6.7-FINAL
+- pkg:maven/cn.com.fishin/Tuz@0.6.7-FINAL?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.7.0-FINAL
+- pkg:maven/cn.com.fishin/Tuz@0.7.0-FINAL?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.7.2-FINAL
+- pkg:maven/cn.com.fishin/Tuz@0.7.2-FINAL?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.7.4-FINAL
+- pkg:maven/cn.com.fishin/Tuz@0.7.4-FINAL?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.7.8-BETA
+- pkg:maven/cn.com.fishin/Tuz@0.7.8-BETA?classifier=sources
+- pkg:maven/cn.com.fishin/Tuz@0.8.0-FINAL
+- pkg:maven/cn.com.fishin/Tuz@0.8.0-FINAL?classifier=sources

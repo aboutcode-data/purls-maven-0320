@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ui@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ui@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ui@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ui@RELEASE90?classifier=sources

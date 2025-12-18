@@ -2,3 +2,5 @@
 - pkg:maven/com.signicat.hystrix/hystrix-servlet@1.0.11?classifier=sources
 - pkg:maven/com.signicat.hystrix/hystrix-servlet@1.0.8
 - pkg:maven/com.signicat.hystrix/hystrix-servlet@1.0.8?classifier=sources
+- pkg:maven/com.signicat.hystrix/hystrix-servlet@1.1.0
+- pkg:maven/com.signicat.hystrix/hystrix-servlet@1.1.0?classifier=sources

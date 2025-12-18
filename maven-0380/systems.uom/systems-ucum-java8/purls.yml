@@ -8,3 +8,5 @@
 - pkg:maven/systems.uom/systems-ucum-java8@0.8?classifier=sources
 - pkg:maven/systems.uom/systems-ucum-java8@0.9
 - pkg:maven/systems.uom/systems-ucum-java8@0.9?classifier=sources
+- pkg:maven/systems.uom/systems-ucum-java8@1.0
+- pkg:maven/systems.uom/systems-ucum-java8@1.0?classifier=sources

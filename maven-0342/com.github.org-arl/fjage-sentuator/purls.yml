@@ -1,0 +1,2 @@
+- pkg:maven/com.github.org-arl/fjage-sentuator@1.0
+- pkg:maven/com.github.org-arl/fjage-sentuator@1.0?classifier=sources

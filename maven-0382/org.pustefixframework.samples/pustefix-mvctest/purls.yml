@@ -1,5 +1,7 @@
 - pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.10?classifier=sources
 - pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.10?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.11?classifier=sources
+- pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.11?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.2?classifier=sources
 - pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.2?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-mvctest@0.22.3?classifier=sources

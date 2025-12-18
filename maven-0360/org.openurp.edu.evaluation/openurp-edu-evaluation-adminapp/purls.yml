@@ -8,3 +8,5 @@
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-adminapp@0.0.5?type=war
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-adminapp@0.0.6?classifier=sources
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-adminapp@0.0.6?type=war
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-adminapp@0.0.7?classifier=sources
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-adminapp@0.0.7?type=war

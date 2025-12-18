@@ -1,0 +1,4 @@
+- pkg:maven/com.github.akarnokd/rxjava3-extensions@3.0.0-RC0
+- pkg:maven/com.github.akarnokd/rxjava3-extensions@3.0.0-RC0?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-extensions@3.0.0-RC1
+- pkg:maven/com.github.akarnokd/rxjava3-extensions@3.0.0-RC1?classifier=sources

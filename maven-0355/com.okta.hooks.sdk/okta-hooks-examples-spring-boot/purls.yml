@@ -1,0 +1,2 @@
+- pkg:maven/com.okta.hooks.sdk/okta-hooks-examples-spring-boot@0.1.0
+- pkg:maven/com.okta.hooks.sdk/okta-hooks-examples-spring-boot@0.1.0?classifier=sources

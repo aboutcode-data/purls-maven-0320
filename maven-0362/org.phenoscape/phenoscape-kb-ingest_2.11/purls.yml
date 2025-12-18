@@ -1,0 +1,2 @@
+- pkg:maven/org.phenoscape/phenoscape-kb-ingest_2.11@1.6.2
+- pkg:maven/org.phenoscape/phenoscape-kb-ingest_2.11@1.6.2?classifier=sources

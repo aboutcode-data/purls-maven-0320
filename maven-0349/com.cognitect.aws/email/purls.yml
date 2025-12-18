@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/email@668.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/email@697.2.391.0
 - pkg:maven/com.cognitect.aws/email@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/email@722.2.470.0
+- pkg:maven/com.cognitect.aws/email@722.2.470.0?classifier=sources

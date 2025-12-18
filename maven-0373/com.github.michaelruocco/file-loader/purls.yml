@@ -2,3 +2,7 @@
 - pkg:maven/com.github.michaelruocco/file-loader@3.0.3?classifier=sources
 - pkg:maven/com.github.michaelruocco/file-loader@4.0.0
 - pkg:maven/com.github.michaelruocco/file-loader@4.0.0?classifier=sources
+- pkg:maven/com.github.michaelruocco/file-loader@5.0.0
+- pkg:maven/com.github.michaelruocco/file-loader@5.0.0?classifier=sources
+- pkg:maven/com.github.michaelruocco/file-loader@5.0.1
+- pkg:maven/com.github.michaelruocco/file-loader@5.0.1?classifier=sources

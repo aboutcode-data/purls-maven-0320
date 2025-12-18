@@ -214,3 +214,9 @@
 - pkg:maven/ru.hnau/jutils@2.0.7?classifier=sources
 - pkg:maven/ru.hnau/jutils@2.0.8
 - pkg:maven/ru.hnau/jutils@2.0.8?classifier=sources
+- pkg:maven/ru.hnau/jutils@2.0.9
+- pkg:maven/ru.hnau/jutils@2.0.9?classifier=sources
+- pkg:maven/ru.hnau/jutils@2.1.0
+- pkg:maven/ru.hnau/jutils@2.1.0?classifier=sources
+- pkg:maven/ru.hnau/jutils@2.1.1
+- pkg:maven/ru.hnau/jutils@2.1.1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.openapitools.swagger/swagger-maven-plugin@2.0.2?classifier=sources
 - pkg:maven/io.openapitools.swagger/swagger-maven-plugin@2.0.3
 - pkg:maven/io.openapitools.swagger/swagger-maven-plugin@2.0.3?classifier=sources
+- pkg:maven/io.openapitools.swagger/swagger-maven-plugin@2.1.0
+- pkg:maven/io.openapitools.swagger/swagger-maven-plugin@2.1.0?classifier=sources

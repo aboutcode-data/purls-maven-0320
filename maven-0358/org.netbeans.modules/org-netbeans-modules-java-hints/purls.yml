@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints@RELEASE90?classifier=sources

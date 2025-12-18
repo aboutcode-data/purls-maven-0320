@@ -1,0 +1,6 @@
+- pkg:maven/org.imixs.workflow/imixs-adapters-magento-ejb@1.6.2
+- pkg:maven/org.imixs.workflow/imixs-adapters-magento-ejb@1.6.2?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-adapters-magento-ejb@2.0.0
+- pkg:maven/org.imixs.workflow/imixs-adapters-magento-ejb@2.0.0?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-adapters-magento-ejb@2.0.1
+- pkg:maven/org.imixs.workflow/imixs-adapters-magento-ejb@2.0.1?classifier=sources

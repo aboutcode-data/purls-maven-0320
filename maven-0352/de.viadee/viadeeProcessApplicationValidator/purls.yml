@@ -44,3 +44,7 @@
 - pkg:maven/de.viadee/viadeeProcessApplicationValidator@2.8.1?classifier=sources
 - pkg:maven/de.viadee/viadeeProcessApplicationValidator@2.8.2
 - pkg:maven/de.viadee/viadeeProcessApplicationValidator@2.8.2?classifier=sources
+- pkg:maven/de.viadee/viadeeProcessApplicationValidator@3.0.0
+- pkg:maven/de.viadee/viadeeProcessApplicationValidator@3.0.0?classifier=sources
+- pkg:maven/de.viadee/viadeeProcessApplicationValidator@3.0.1
+- pkg:maven/de.viadee/viadeeProcessApplicationValidator@3.0.1?classifier=sources

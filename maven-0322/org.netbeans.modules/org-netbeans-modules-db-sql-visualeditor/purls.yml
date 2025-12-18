@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE90?classifier=sources

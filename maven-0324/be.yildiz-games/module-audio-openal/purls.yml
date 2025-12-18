@@ -15,6 +15,12 @@
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.0
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.0?classifier=sources
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.1
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.10
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.10?classifier=sources
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.11
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.11?classifier=sources
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.12
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.12?classifier=sources
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.1?classifier=sources
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.2
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.2?classifier=sources
@@ -28,3 +34,7 @@
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.6?classifier=sources
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.7
 - pkg:maven/be.yildiz-games/module-audio-openal@2.0.7?classifier=sources
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.8
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.8?classifier=sources
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.9
+- pkg:maven/be.yildiz-games/module-audio-openal@2.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.azure/azure-storage-file@12.0.0-preview.2
+- pkg:maven/com.azure/azure-storage-file@12.0.0-preview.2?classifier=sources

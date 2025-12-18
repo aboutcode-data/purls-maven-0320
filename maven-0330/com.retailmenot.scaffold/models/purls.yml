@@ -1,2 +1,10 @@
+- pkg:maven/com.retailmenot.scaffold/models@1.0.0
 - pkg:maven/com.retailmenot.scaffold/models@1.0.0-beta
 - pkg:maven/com.retailmenot.scaffold/models@1.0.0-beta?classifier=sources
+- pkg:maven/com.retailmenot.scaffold/models@1.0.0?classifier=sources
+- pkg:maven/com.retailmenot.scaffold/models@1.0.1
+- pkg:maven/com.retailmenot.scaffold/models@1.0.1?classifier=sources
+- pkg:maven/com.retailmenot.scaffold/models@1.0.3
+- pkg:maven/com.retailmenot.scaffold/models@1.0.3?classifier=sources
+- pkg:maven/com.retailmenot.scaffold/models@DEV
+- pkg:maven/com.retailmenot.scaffold/models@DEV?classifier=sources

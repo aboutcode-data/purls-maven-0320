@@ -20,3 +20,5 @@
 - pkg:maven/com.crypteron/crypteron-commons@2017.8.1.0?classifier=sources
 - pkg:maven/com.crypteron/crypteron-commons@2018.1.1.0
 - pkg:maven/com.crypteron/crypteron-commons@2018.1.1.0?classifier=sources
+- pkg:maven/com.crypteron/crypteron-commons@2019.6.1.0
+- pkg:maven/com.crypteron/crypteron-commons@2019.6.1.0?classifier=sources

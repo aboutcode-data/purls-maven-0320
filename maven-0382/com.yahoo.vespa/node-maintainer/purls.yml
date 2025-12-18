@@ -328,6 +328,14 @@
 - pkg:maven/com.yahoo.vespa/node-maintainer@7.38.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-maintainer@7.39.5
 - pkg:maven/com.yahoo.vespa/node-maintainer@7.39.5?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-maintainer@7.40.41
+- pkg:maven/com.yahoo.vespa/node-maintainer@7.40.41?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-maintainer@7.41.15
+- pkg:maven/com.yahoo.vespa/node-maintainer@7.41.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-maintainer@7.44.19
+- pkg:maven/com.yahoo.vespa/node-maintainer@7.44.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-maintainer@7.45.22
+- pkg:maven/com.yahoo.vespa/node-maintainer@7.45.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-maintainer@7.5.19
 - pkg:maven/com.yahoo.vespa/node-maintainer@7.5.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-maintainer@7.6.98

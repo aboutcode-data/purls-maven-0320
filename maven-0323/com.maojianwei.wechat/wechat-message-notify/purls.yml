@@ -1,0 +1,4 @@
+- pkg:maven/com.maojianwei.wechat/wechat-message-notify@1.0
+- pkg:maven/com.maojianwei.wechat/wechat-message-notify@1.0.FIX
+- pkg:maven/com.maojianwei.wechat/wechat-message-notify@1.0.FIX?classifier=sources
+- pkg:maven/com.maojianwei.wechat/wechat-message-notify@1.0?classifier=sources

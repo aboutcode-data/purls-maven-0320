@@ -18,5 +18,13 @@
 - pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.7.8?classifier=sources
 - pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.7.9
 - pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.7.9?classifier=sources
+- pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.82.18
+- pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.82.18?classifier=sources
+- pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.82.19
+- pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.82.19?classifier=sources
+- pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.82.20
+- pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.82.20?classifier=sources
+- pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.82.21
+- pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.82.21?classifier=sources
 - pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.83.17
 - pkg:maven/ai.h2o/xgboost4j-osx-minimal@0.83.17?classifier=sources

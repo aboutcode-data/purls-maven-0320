@@ -1,0 +1,2 @@
+- pkg:maven/com.eed3si9n/sjson-new-spray_2.13@0.8.3
+- pkg:maven/com.eed3si9n/sjson-new-spray_2.13@0.8.3?classifier=sources

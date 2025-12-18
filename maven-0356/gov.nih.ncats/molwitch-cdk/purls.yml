@@ -1,0 +1,2 @@
+- pkg:maven/gov.nih.ncats/molwitch-cdk@1.0
+- pkg:maven/gov.nih.ncats/molwitch-cdk@1.0?classifier=sources

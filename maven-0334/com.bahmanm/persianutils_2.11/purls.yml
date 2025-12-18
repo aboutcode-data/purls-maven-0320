@@ -1,2 +1,4 @@
 - pkg:maven/com.bahmanm/persianutils_2.11@2.0
 - pkg:maven/com.bahmanm/persianutils_2.11@2.0?classifier=sources
+- pkg:maven/com.bahmanm/persianutils_2.11@3.0
+- pkg:maven/com.bahmanm/persianutils_2.11@3.0?classifier=sources

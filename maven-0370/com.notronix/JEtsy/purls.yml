@@ -1,0 +1,14 @@
+- pkg:maven/com.notronix/JEtsy@1.0.0001
+- pkg:maven/com.notronix/JEtsy@1.0.0001?classifier=sources
+- pkg:maven/com.notronix/JEtsy@1.0.0002
+- pkg:maven/com.notronix/JEtsy@1.0.0002?classifier=sources
+- pkg:maven/com.notronix/JEtsy@1.0.0003
+- pkg:maven/com.notronix/JEtsy@1.0.0003?classifier=sources
+- pkg:maven/com.notronix/JEtsy@1.0.0004
+- pkg:maven/com.notronix/JEtsy@1.0.0004?classifier=sources
+- pkg:maven/com.notronix/JEtsy@1.0.0005
+- pkg:maven/com.notronix/JEtsy@1.0.0005?classifier=sources
+- pkg:maven/com.notronix/JEtsy@1.0.0006
+- pkg:maven/com.notronix/JEtsy@1.0.0006?classifier=sources
+- pkg:maven/com.notronix/JEtsy@1.0.0007
+- pkg:maven/com.notronix/JEtsy@1.0.0007?classifier=sources

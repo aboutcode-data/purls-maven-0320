@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/markdown-it-imsize@2.0.1
+- pkg:maven/org.webjars.npm/markdown-it-imsize@2.0.1?classifier=sources

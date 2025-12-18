@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.agentloader/linkedin-agent-loader@1.0.4
+- pkg:maven/com.linkedin.agentloader/linkedin-agent-loader@1.0.4?classifier=sources

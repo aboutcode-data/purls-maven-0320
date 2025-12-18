@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.analytics.is/org.wso2.cep.storm.dependencies@1.0.0-alpha
+- pkg:maven/org.wso2.carbon.analytics.is/org.wso2.cep.storm.dependencies@1.0.0-beta

@@ -8,3 +8,11 @@
 - pkg:maven/com.cognitect.aws/organizations@707.2.408.0?classifier=sources
 - pkg:maven/com.cognitect.aws/organizations@711.2.411.0
 - pkg:maven/com.cognitect.aws/organizations@711.2.411.0?classifier=sources
+- pkg:maven/com.cognitect.aws/organizations@716.2.438.0
+- pkg:maven/com.cognitect.aws/organizations@716.2.438.0?classifier=sources
+- pkg:maven/com.cognitect.aws/organizations@716.2.440.0
+- pkg:maven/com.cognitect.aws/organizations@716.2.440.0?classifier=sources
+- pkg:maven/com.cognitect.aws/organizations@722.2.470.0
+- pkg:maven/com.cognitect.aws/organizations@722.2.470.0?classifier=sources
+- pkg:maven/com.cognitect.aws/organizations@726.2.486.0
+- pkg:maven/com.cognitect.aws/organizations@726.2.486.0?classifier=sources

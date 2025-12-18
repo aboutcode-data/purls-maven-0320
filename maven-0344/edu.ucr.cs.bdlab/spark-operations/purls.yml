@@ -1,0 +1,4 @@
+- pkg:maven/edu.ucr.cs.bdlab/spark-operations@0.1.0-RC2
+- pkg:maven/edu.ucr.cs.bdlab/spark-operations@0.1.0-RC2?classifier=sources
+- pkg:maven/edu.ucr.cs.bdlab/spark-operations@0.1.0-RC3
+- pkg:maven/edu.ucr.cs.bdlab/spark-operations@0.1.0-RC3?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Ditmars.SR2
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Ditmars.SR3
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Ditmars.SR4
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Ditmars.SR5
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Elmhurst.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Elmhurst.SR1
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Elmhurst.SR2
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Elmhurst.SR3

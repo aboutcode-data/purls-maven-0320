@@ -1,0 +1,4 @@
+- pkg:maven/com.uber.motif/motif-errormessage@0.0.18
+- pkg:maven/com.uber.motif/motif-errormessage@0.0.18?classifier=sources
+- pkg:maven/com.uber.motif/motif-errormessage@0.1.0
+- pkg:maven/com.uber.motif/motif-errormessage@0.1.0?classifier=sources

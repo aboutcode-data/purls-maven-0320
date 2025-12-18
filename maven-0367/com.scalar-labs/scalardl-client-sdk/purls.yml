@@ -9,3 +9,5 @@
 - pkg:maven/com.scalar-labs/scalardl-client-sdk@1.0.0-alpha.20190221?classifier=sources
 - pkg:maven/com.scalar-labs/scalardl-client-sdk@1.0.0-alpha.20190222
 - pkg:maven/com.scalar-labs/scalardl-client-sdk@1.0.0-alpha.20190222?classifier=sources
+- pkg:maven/com.scalar-labs/scalardl-client-sdk@1.1.0
+- pkg:maven/com.scalar-labs/scalardl-client-sdk@1.1.0?classifier=sources

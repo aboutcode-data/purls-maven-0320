@@ -1,0 +1,2 @@
+- pkg:maven/com.nikvanderhoof/mill-cross-spark_2.12@0.1.0
+- pkg:maven/com.nikvanderhoof/mill-cross-spark_2.12@0.1.0?classifier=sources

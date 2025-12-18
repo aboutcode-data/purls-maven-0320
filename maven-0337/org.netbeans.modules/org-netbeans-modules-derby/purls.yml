@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE90?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/org.sonarsource.sqdbmigrator/mysql-migrator@1.0.0.89?classifier=sources
+- pkg:maven/org.sonarsource.sqdbmigrator/mysql-migrator@1.0.1.102?classifier=sources
+- pkg:maven/org.sonarsource.sqdbmigrator/mysql-migrator@1.0.2.108?classifier=sources
+- pkg:maven/org.sonarsource.sqdbmigrator/mysql-migrator@1.1.0.119?classifier=sources

@@ -20,6 +20,14 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.19.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.20.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.20.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.21.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.21.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.22.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.22.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.23.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.23.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.24.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.24.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.5.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-source-git@7.6.0.Final

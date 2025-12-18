@@ -1,2 +1,4 @@
 - pkg:maven/org.smartrplace.apps/smartrplace-util-proposed@0.9.0.2
 - pkg:maven/org.smartrplace.apps/smartrplace-util-proposed@0.9.0.2?classifier=sources
+- pkg:maven/org.smartrplace.apps/smartrplace-util-proposed@0.9.0.3
+- pkg:maven/org.smartrplace.apps/smartrplace-util-proposed@0.9.0.3?classifier=sources

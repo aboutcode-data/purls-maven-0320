@@ -1,0 +1,6 @@
+- pkg:maven/cc.ikai.tool/spring-bean-caller@0.1.0
+- pkg:maven/cc.ikai.tool/spring-bean-caller@0.1.0?classifier=sources
+- pkg:maven/cc.ikai.tool/spring-bean-caller@0.1.1
+- pkg:maven/cc.ikai.tool/spring-bean-caller@0.1.1?classifier=sources
+- pkg:maven/cc.ikai.tool/spring-bean-caller@0.1.2
+- pkg:maven/cc.ikai.tool/spring-bean-caller@0.1.2?classifier=sources

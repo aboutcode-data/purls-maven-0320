@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/emotion__serialize@0.11.3?classifier=sources
 - pkg:maven/org.webjars.npm/emotion__serialize@0.11.6
 - pkg:maven/org.webjars.npm/emotion__serialize@0.11.6?classifier=sources
+- pkg:maven/org.webjars.npm/emotion__serialize@0.11.9
+- pkg:maven/org.webjars.npm/emotion__serialize@0.11.9?classifier=sources

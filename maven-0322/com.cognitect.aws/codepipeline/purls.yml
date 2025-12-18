@@ -4,3 +4,9 @@
 - pkg:maven/com.cognitect.aws/codepipeline@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codepipeline@712.2.425.0
 - pkg:maven/com.cognitect.aws/codepipeline@712.2.425.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codepipeline@717.2.446.0
+- pkg:maven/com.cognitect.aws/codepipeline@717.2.446.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codepipeline@717.2.450.0
+- pkg:maven/com.cognitect.aws/codepipeline@717.2.450.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codepipeline@718.2.456.0
+- pkg:maven/com.cognitect.aws/codepipeline@718.2.456.0?classifier=sources

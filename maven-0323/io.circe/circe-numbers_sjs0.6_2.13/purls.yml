@@ -1,0 +1,6 @@
+- pkg:maven/io.circe/circe-numbers_sjs0.6_2.13@0.12.0-M3
+- pkg:maven/io.circe/circe-numbers_sjs0.6_2.13@0.12.0-M3?classifier=sources
+- pkg:maven/io.circe/circe-numbers_sjs0.6_2.13@0.12.0-M4
+- pkg:maven/io.circe/circe-numbers_sjs0.6_2.13@0.12.0-M4?classifier=sources
+- pkg:maven/io.circe/circe-numbers_sjs0.6_2.13@0.12.0-RC1
+- pkg:maven/io.circe/circe-numbers_sjs0.6_2.13@0.12.0-RC1?classifier=sources

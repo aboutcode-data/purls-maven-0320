@@ -4,3 +4,5 @@
 - pkg:maven/com.varmateo.yawg/yawg-core@0.9.7?classifier=sources
 - pkg:maven/com.varmateo.yawg/yawg-core@0.9.8
 - pkg:maven/com.varmateo.yawg/yawg-core@0.9.8?classifier=sources
+- pkg:maven/com.varmateo.yawg/yawg-core@1.0.0-RC1
+- pkg:maven/com.varmateo.yawg/yawg-core@1.0.0-RC1?classifier=sources

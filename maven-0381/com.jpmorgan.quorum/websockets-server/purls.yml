@@ -1,0 +1,2 @@
+- pkg:maven/com.jpmorgan.quorum/websockets-server@0.10
+- pkg:maven/com.jpmorgan.quorum/websockets-server@0.10?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.docx4j.org.apache/xalan-serializer@11.0.0
+- pkg:maven/org.docx4j.org.apache/xalan-serializer@11.0.0?classifier=sources
 - pkg:maven/org.docx4j.org.apache/xalan-serializer@8.0.0
 - pkg:maven/org.docx4j.org.apache/xalan-serializer@8.0.0?classifier=sources

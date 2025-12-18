@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/js-beautify@1.10.0
+- pkg:maven/org.webjars.npm/js-beautify@1.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/js-beautify@1.5.10
 - pkg:maven/org.webjars.npm/js-beautify@1.5.10?classifier=sources
 - pkg:maven/org.webjars.npm/js-beautify@1.6.2

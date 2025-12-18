@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE90?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-testrunner@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-testrunner@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-testrunner@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-testrunner@RELEASE90?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.javacook/easy-excel-access@0.8
+- pkg:maven/de.javacook/easy-excel-access@0.8?classifier=sources

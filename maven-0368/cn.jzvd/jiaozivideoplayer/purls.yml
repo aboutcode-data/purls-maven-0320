@@ -43,5 +43,15 @@
 - pkg:maven/cn.jzvd/jiaozivideoplayer@6.4.2?type=aar
 - pkg:maven/cn.jzvd/jiaozivideoplayer@6.4.3?classifier=sources
 - pkg:maven/cn.jzvd/jiaozivideoplayer@6.4.3?type=aar
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.1?classifier=sources
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.1?type=aar
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.2?classifier=sources
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.2?type=aar
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.3?classifier=sources
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.3?type=aar
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.4?classifier=sources
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.4?type=aar
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.5?classifier=sources
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.0.5?type=aar
 - pkg:maven/cn.jzvd/jiaozivideoplayer@7.0_preview?classifier=sources
 - pkg:maven/cn.jzvd/jiaozivideoplayer@7.0_preview?type=aar

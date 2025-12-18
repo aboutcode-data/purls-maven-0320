@@ -38,3 +38,7 @@
 - pkg:maven/org.apereo.uportal/uportal-home@8.3.6?type=war
 - pkg:maven/org.apereo.uportal/uportal-home@9.0.0?classifier=sources
 - pkg:maven/org.apereo.uportal/uportal-home@9.0.0?type=war
+- pkg:maven/org.apereo.uportal/uportal-home@9.1.0?classifier=sources
+- pkg:maven/org.apereo.uportal/uportal-home@9.1.0?type=war
+- pkg:maven/org.apereo.uportal/uportal-home@9.2.0?classifier=sources
+- pkg:maven/org.apereo.uportal/uportal-home@9.2.0?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE90?classifier=sources

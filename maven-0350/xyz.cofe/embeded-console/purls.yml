@@ -1,0 +1,2 @@
+- pkg:maven/xyz.cofe/embeded-console@0.2.2
+- pkg:maven/xyz.cofe/embeded-console@0.2.2?classifier=sources

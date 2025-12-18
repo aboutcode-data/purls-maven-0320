@@ -12,3 +12,7 @@
 - pkg:maven/io.github.piszmog/cloud-config-client@2.2?classifier=sources
 - pkg:maven/io.github.piszmog/cloud-config-client@2.3
 - pkg:maven/io.github.piszmog/cloud-config-client@2.3?classifier=sources
+- pkg:maven/io.github.piszmog/cloud-config-client@2.4
+- pkg:maven/io.github.piszmog/cloud-config-client@2.4?classifier=sources
+- pkg:maven/io.github.piszmog/cloud-config-client@2.5
+- pkg:maven/io.github.piszmog/cloud-config-client@2.5?classifier=sources

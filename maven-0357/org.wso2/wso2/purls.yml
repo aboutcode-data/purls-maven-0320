@@ -1,0 +1,1 @@
+- pkg:maven/org.wso2/wso2@1.1?classifier=source-release&type=zip

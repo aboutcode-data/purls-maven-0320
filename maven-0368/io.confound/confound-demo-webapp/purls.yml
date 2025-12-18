@@ -1,0 +1,2 @@
+- pkg:maven/io.confound/confound-demo-webapp@0.7.0?classifier=sources
+- pkg:maven/io.confound/confound-demo-webapp@0.7.0?type=war

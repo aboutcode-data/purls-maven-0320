@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-test-utils@0.66.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-test-utils@0.67.0
 - pkg:maven/org.apache.streampipes/streampipes-test-utils@0.67.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-test-utils@0.68.0
+- pkg:maven/org.apache.streampipes/streampipes-test-utils@0.68.0?classifier=sources

@@ -107,6 +107,8 @@
 - pkg:maven/com.gitee.silentdoer/CommentManager@15.5.0?classifier=sources
 - pkg:maven/com.gitee.silentdoer/CommentManager@15.5.1
 - pkg:maven/com.gitee.silentdoer/CommentManager@15.5.1?classifier=sources
+- pkg:maven/com.gitee.silentdoer/CommentManager@15.6.0
+- pkg:maven/com.gitee.silentdoer/CommentManager@15.6.0?classifier=sources
 - pkg:maven/com.gitee.silentdoer/CommentManager@2.0.0
 - pkg:maven/com.gitee.silentdoer/CommentManager@2.0.0?classifier=sources
 - pkg:maven/com.gitee.silentdoer/CommentManager@2.2.2

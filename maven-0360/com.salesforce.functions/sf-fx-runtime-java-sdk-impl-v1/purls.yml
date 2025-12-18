@@ -8,3 +8,7 @@
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-sdk-impl-v1@0.2.3?classifier=sources
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-sdk-impl-v1@0.2.4
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-sdk-impl-v1@0.2.4?classifier=sources
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-sdk-impl-v1@1.0.0
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-sdk-impl-v1@1.0.0?classifier=sources
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-sdk-impl-v1@1.0.1
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-sdk-impl-v1@1.0.1?classifier=sources

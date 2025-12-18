@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/rich-markdown-editor@11.17.5
+- pkg:maven/org.webjars.npm/rich-markdown-editor@11.17.5?classifier=sources
+- pkg:maven/org.webjars.npm/rich-markdown-editor@11.17.7
+- pkg:maven/org.webjars.npm/rich-markdown-editor@11.17.7?classifier=sources

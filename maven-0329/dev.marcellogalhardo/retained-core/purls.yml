@@ -1,1 +1,2 @@
 - pkg:maven/dev.marcellogalhardo/retained-core@0.12.0?classifier=sources
+- pkg:maven/dev.marcellogalhardo/retained-core@0.13.0?classifier=sources

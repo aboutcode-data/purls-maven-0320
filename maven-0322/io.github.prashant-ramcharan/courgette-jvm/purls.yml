@@ -56,6 +56,8 @@
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@5.10.1?classifier=sources
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@5.11.0
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@5.11.0?classifier=sources
+- pkg:maven/io.github.prashant-ramcharan/courgette-jvm@5.12.0
+- pkg:maven/io.github.prashant-ramcharan/courgette-jvm@5.12.0?classifier=sources
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@5.2.0
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@5.2.0?classifier=sources
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@5.2.1

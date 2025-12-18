@@ -108,6 +108,8 @@
 - pkg:maven/org.webjars.npm/material__select@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__select@11.0.0
 - pkg:maven/org.webjars.npm/material__select@11.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__select@12.0.0
+- pkg:maven/org.webjars.npm/material__select@12.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__select@2.0.0
 - pkg:maven/org.webjars.npm/material__select@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__select@3.2.0

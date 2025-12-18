@@ -1,3 +1,4 @@
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0-alpha.10
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0-alpha.10?classifier=sources
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0-alpha.9
@@ -8,3 +9,4 @@
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0-dev2?classifier=sources
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0-dev3
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0-dev3?classifier=sources
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0?classifier=sources

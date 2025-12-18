@@ -1,0 +1,2 @@
+- pkg:maven/org.ai-flow/aiflow-client@0.1.0
+- pkg:maven/org.ai-flow/aiflow-client@0.1.0?classifier=sources

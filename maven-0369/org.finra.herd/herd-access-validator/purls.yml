@@ -70,3 +70,5 @@
 - pkg:maven/org.finra.herd/herd-access-validator@0.150.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-access-validator@0.152.0
 - pkg:maven/org.finra.herd/herd-access-validator@0.152.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-access-validator@0.154.0
+- pkg:maven/org.finra.herd/herd-access-validator@0.154.0?classifier=sources

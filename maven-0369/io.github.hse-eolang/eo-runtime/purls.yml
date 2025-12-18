@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hse-eolang/eo-runtime@1.0.1
+- pkg:maven/io.github.hse-eolang/eo-runtime@1.0.1?classifier=sources

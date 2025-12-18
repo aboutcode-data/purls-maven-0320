@@ -6,6 +6,10 @@
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.11.0?classifier=sources
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.12.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.12.0?classifier=sources
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.13.0
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.13.0?classifier=sources
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.14.0
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.14.0?classifier=sources
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.2.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.2.0?classifier=sources
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-client@0.3.0

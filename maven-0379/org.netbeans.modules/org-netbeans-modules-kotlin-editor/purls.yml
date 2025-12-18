@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE125?classifier=sources

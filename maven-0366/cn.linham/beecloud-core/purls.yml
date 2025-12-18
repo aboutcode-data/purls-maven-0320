@@ -50,3 +50,13 @@
 - pkg:maven/cn.linham/beecloud-core@5.7.04?classifier=sources
 - pkg:maven/cn.linham/beecloud-core@5.7.05
 - pkg:maven/cn.linham/beecloud-core@5.7.05?classifier=sources
+- pkg:maven/cn.linham/beecloud-core@5.7.06
+- pkg:maven/cn.linham/beecloud-core@5.7.06?classifier=sources
+- pkg:maven/cn.linham/beecloud-core@5.7.07
+- pkg:maven/cn.linham/beecloud-core@5.7.07?classifier=sources
+- pkg:maven/cn.linham/beecloud-core@5.7.08
+- pkg:maven/cn.linham/beecloud-core@5.7.08?classifier=sources
+- pkg:maven/cn.linham/beecloud-core@5.7.09
+- pkg:maven/cn.linham/beecloud-core@5.7.09?classifier=sources
+- pkg:maven/cn.linham/beecloud-core@5.7.10
+- pkg:maven/cn.linham/beecloud-core@5.7.10?classifier=sources

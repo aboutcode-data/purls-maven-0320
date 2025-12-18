@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-tools-storage@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-tools-storage@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-tools-storage@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-tools-storage@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-tools-storage@RELEASE90?classifier=sources

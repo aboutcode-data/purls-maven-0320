@@ -86,8 +86,16 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.36.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.37.0
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.37.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.38.0
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.38.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.39.0
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.39.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.4.0
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.4.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.40.0
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.40.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.41.0
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.41.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.5.0
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.5.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-generation@2.6.0

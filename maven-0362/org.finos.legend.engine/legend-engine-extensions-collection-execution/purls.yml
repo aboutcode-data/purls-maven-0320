@@ -13,3 +13,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-execution@2.35.1
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-execution@2.36.0
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-execution@2.37.0
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-execution@2.38.0
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-execution@2.39.0
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-execution@2.40.0
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-execution@2.41.0

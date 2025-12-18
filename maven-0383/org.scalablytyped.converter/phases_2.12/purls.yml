@@ -8,3 +8,5 @@
 - pkg:maven/org.scalablytyped.converter/phases_2.12@1.0.0-beta34?classifier=sources
 - pkg:maven/org.scalablytyped.converter/phases_2.12@1.0.0-beta35
 - pkg:maven/org.scalablytyped.converter/phases_2.12@1.0.0-beta35?classifier=sources
+- pkg:maven/org.scalablytyped.converter/phases_2.12@1.0.0-beta36
+- pkg:maven/org.scalablytyped.converter/phases_2.12@1.0.0-beta36?classifier=sources

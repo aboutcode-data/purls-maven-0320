@@ -2,3 +2,4 @@
 - pkg:maven/io.holixon/axon-gateway-spring-boot-starter@0.0.2
 - pkg:maven/io.holixon/axon-gateway-spring-boot-starter@0.0.3
 - pkg:maven/io.holixon/axon-gateway-spring-boot-starter@0.0.4
+- pkg:maven/io.holixon/axon-gateway-spring-boot-starter@0.0.5

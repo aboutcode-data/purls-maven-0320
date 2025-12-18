@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bigbio.external/jmztab@3.0.12?classifier=sources
+- pkg:maven/io.github.bigbio.external/jmztab@3.0.13?classifier=sources

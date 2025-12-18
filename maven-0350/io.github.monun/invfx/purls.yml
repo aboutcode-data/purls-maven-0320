@@ -1,0 +1,2 @@
+- pkg:maven/io.github.monun/invfx@2.2.0?classifier=sources
+- pkg:maven/io.github.monun/invfx@3.0.0?classifier=sources

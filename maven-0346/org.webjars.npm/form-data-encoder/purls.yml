@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/form-data-encoder@1.4.0
+- pkg:maven/org.webjars.npm/form-data-encoder@1.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/form-data-encoder@1.5.3
+- pkg:maven/org.webjars.npm/form-data-encoder@1.5.3?classifier=sources

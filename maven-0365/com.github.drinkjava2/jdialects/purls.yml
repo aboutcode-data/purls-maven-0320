@@ -24,3 +24,5 @@
 - pkg:maven/com.github.drinkjava2/jdialects@4.0.0.jre8?classifier=sources
 - pkg:maven/com.github.drinkjava2/jdialects@5.0.5.jre8
 - pkg:maven/com.github.drinkjava2/jdialects@5.0.5.jre8?classifier=sources
+- pkg:maven/com.github.drinkjava2/jdialects@5.0.6.jre8
+- pkg:maven/com.github.drinkjava2/jdialects@5.0.6.jre8?classifier=sources

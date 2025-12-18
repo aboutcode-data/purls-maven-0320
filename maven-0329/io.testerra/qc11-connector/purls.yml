@@ -1,1 +1,2 @@
 - pkg:maven/io.testerra/qc11-connector@1.0?classifier=sources
+- pkg:maven/io.testerra/qc11-connector@2.0-RC-1?classifier=sources

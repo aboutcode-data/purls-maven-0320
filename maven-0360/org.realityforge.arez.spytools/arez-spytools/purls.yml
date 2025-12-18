@@ -79,6 +79,8 @@
 - pkg:maven/org.realityforge.arez.spytools/arez-spytools@0.127?classifier=sources
 - pkg:maven/org.realityforge.arez.spytools/arez-spytools@0.128
 - pkg:maven/org.realityforge.arez.spytools/arez-spytools@0.128?classifier=sources
+- pkg:maven/org.realityforge.arez.spytools/arez-spytools@0.129
+- pkg:maven/org.realityforge.arez.spytools/arez-spytools@0.129?classifier=sources
 - pkg:maven/org.realityforge.arez.spytools/arez-spytools@0.12?classifier=sources
 - pkg:maven/org.realityforge.arez.spytools/arez-spytools@0.13
 - pkg:maven/org.realityforge.arez.spytools/arez-spytools@0.13?classifier=sources

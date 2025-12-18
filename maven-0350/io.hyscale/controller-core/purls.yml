@@ -2,3 +2,4 @@
 - pkg:maven/io.hyscale/controller-core@0.9.8.4
 - pkg:maven/io.hyscale/controller-core@0.9.9
 - pkg:maven/io.hyscale/controller-core@0.9.9.1
+- pkg:maven/io.hyscale/controller-core@1.0.0

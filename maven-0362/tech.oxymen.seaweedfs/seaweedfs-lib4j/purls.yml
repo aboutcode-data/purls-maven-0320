@@ -1,0 +1,2 @@
+- pkg:maven/tech.oxymen.seaweedfs/seaweedfs-lib4j@1.0.0.RELEASE
+- pkg:maven/tech.oxymen.seaweedfs/seaweedfs-lib4j@1.0.0.RELEASE?classifier=sources

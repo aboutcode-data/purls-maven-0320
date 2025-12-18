@@ -1,0 +1,2 @@
+- pkg:maven/com.github.0x4096/common-base@1.0.0
+- pkg:maven/com.github.0x4096/common-base@1.0.0?classifier=sources

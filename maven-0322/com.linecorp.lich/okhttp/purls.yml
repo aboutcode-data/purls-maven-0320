@@ -4,3 +4,4 @@
 - pkg:maven/com.linecorp.lich/okhttp@2.2.0?classifier=sources
 - pkg:maven/com.linecorp.lich/okhttp@2.2.1?classifier=sources
 - pkg:maven/com.linecorp.lich/okhttp@2.3.0?classifier=sources
+- pkg:maven/com.linecorp.lich/okhttp@2.4.0?classifier=sources

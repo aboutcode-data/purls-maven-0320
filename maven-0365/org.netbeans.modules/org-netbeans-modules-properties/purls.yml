@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE90?classifier=sources

@@ -97,6 +97,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.0-1.4.0
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.0-1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.0-1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.12-1.4.0
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.12-1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.12-1.4.0?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.2-1.4.0
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.2-1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly@1.4.2-1.4.0?classifier=sources

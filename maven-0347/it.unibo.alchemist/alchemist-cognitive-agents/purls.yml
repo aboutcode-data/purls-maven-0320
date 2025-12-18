@@ -8,6 +8,7 @@
 - pkg:maven/it.unibo.alchemist/alchemist-cognitive-agents@11.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-cognitive-agents@11.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-cognitive-agents@11.3.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-cognitive-agents@11.3.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-cognitive-agents@8.1.0
 - pkg:maven/it.unibo.alchemist/alchemist-cognitive-agents@8.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-cognitive-agents@8.1.1

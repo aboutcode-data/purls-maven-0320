@@ -18,3 +18,7 @@
 - pkg:maven/net.openhft/jlbh@1.21ea4?classifier=sources
 - pkg:maven/net.openhft/jlbh@1.21ea5
 - pkg:maven/net.openhft/jlbh@1.21ea5?classifier=sources
+- pkg:maven/net.openhft/jlbh@1.21ea6
+- pkg:maven/net.openhft/jlbh@1.21ea6?classifier=sources
+- pkg:maven/net.openhft/jlbh@1.22ea1
+- pkg:maven/net.openhft/jlbh@1.22ea1?classifier=sources

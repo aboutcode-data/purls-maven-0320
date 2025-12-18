@@ -46,6 +46,8 @@
 - pkg:maven/net.sourceforge.pmd/pmd-ui@6.27.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-ui@6.3.0
 - pkg:maven/net.sourceforge.pmd/pmd-ui@6.3.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-ui@6.37.0
+- pkg:maven/net.sourceforge.pmd/pmd-ui@6.37.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-ui@6.4.0
 - pkg:maven/net.sourceforge.pmd/pmd-ui@6.4.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-ui@6.5.0

@@ -64,3 +64,5 @@
 - pkg:maven/com.tencent.bugly/crashreport@3.3.92?classifier=sources
 - pkg:maven/com.tencent.bugly/crashreport@3.3.92?type=aar
 - pkg:maven/com.tencent.bugly/crashreport@3.3.9?classifier=sources
+- pkg:maven/com.tencent.bugly/crashreport@3.4.4?classifier=sources
+- pkg:maven/com.tencent.bugly/crashreport@3.4.4?type=aar

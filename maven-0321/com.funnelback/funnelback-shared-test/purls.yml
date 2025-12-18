@@ -32,3 +32,7 @@
 - pkg:maven/com.funnelback/funnelback-shared-test@16.2.0?classifier=sources
 - pkg:maven/com.funnelback/funnelback-shared-test@16.4.0
 - pkg:maven/com.funnelback/funnelback-shared-test@16.4.0?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared-test@16.5.2134
+- pkg:maven/com.funnelback/funnelback-shared-test@16.5.2134?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared-test@16.5.2135
+- pkg:maven/com.funnelback/funnelback-shared-test@16.5.2135?classifier=sources

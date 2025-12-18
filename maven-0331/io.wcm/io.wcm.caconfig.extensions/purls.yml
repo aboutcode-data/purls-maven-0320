@@ -28,3 +28,7 @@
 - pkg:maven/io.wcm/io.wcm.caconfig.extensions@1.8.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.caconfig.extensions@1.8.2
 - pkg:maven/io.wcm/io.wcm.caconfig.extensions@1.8.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.caconfig.extensions@1.8.4
+- pkg:maven/io.wcm/io.wcm.caconfig.extensions@1.8.4?classifier=sources
+- pkg:maven/io.wcm/io.wcm.caconfig.extensions@1.8.6
+- pkg:maven/io.wcm/io.wcm.caconfig.extensions@1.8.6?classifier=sources

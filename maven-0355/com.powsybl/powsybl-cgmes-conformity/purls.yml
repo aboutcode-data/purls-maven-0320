@@ -30,6 +30,8 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.1.2
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.2.0
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.2.0-RC1
+- pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.0
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.0-RC1
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.0-RC2
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.0-alpha-1
+- pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.1

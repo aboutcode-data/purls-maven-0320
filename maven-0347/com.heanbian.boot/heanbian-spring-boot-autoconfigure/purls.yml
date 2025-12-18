@@ -57,5 +57,9 @@
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@1.5.2?classifier=sources
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@1.5.4
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@1.5.4?classifier=sources
+- pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@1.5.7
+- pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@1.5.7?classifier=sources
+- pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@1.5.9
+- pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@1.5.9?classifier=sources
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@20200807
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-autoconfigure@20200807?classifier=sources

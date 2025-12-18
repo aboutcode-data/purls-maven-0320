@@ -1,3 +1,4 @@
+- pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0
 - pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC1%2B104-bbf8a8bd
 - pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC1%2B104-bbf8a8bd?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC1%2B125-f68e01bd
@@ -35,4 +36,11 @@
 - pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC1%2B95-d8e1ce7b
 - pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC1%2B95-d8e1ce7b?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC2
+- pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC2%2B17-d73c7ff3
+- pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC2%2B17-d73c7ff3?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC2%2B18-2de6b68e
+- pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC2%2B18-2de6b68e?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC2%2B5-4338faed
+- pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC2%2B5-4338faed?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0-RC2?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-dynamic-sampling-config_2.12@0.12.0?classifier=sources

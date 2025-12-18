@@ -30,6 +30,9 @@
 - pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.130.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.131.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.132.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.133.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.134.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.135.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.13?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.14
 - pkg:maven/com.netflix.spectator/spectator-nflx-plugin@0.14.1

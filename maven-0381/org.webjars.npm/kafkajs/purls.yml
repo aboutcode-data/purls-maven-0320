@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/kafkajs@1.16.0-beta.21
+- pkg:maven/org.webjars.npm/kafkajs@1.16.0-beta.21?classifier=sources

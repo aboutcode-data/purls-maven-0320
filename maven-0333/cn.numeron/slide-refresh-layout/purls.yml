@@ -1,0 +1,2 @@
+- pkg:maven/cn.numeron/slide-refresh-layout@1.0.0?classifier=sources
+- pkg:maven/cn.numeron/slide-refresh-layout@1.1.0?classifier=sources

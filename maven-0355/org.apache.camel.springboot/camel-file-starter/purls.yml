@@ -8,6 +8,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-file-starter@3.10.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-file-starter@3.11.0
 - pkg:maven/org.apache.camel.springboot/camel-file-starter@3.11.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-file-starter@3.11.1
+- pkg:maven/org.apache.camel.springboot/camel-file-starter@3.11.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-file-starter@3.2.0
 - pkg:maven/org.apache.camel.springboot/camel-file-starter@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-file-starter@3.3.0

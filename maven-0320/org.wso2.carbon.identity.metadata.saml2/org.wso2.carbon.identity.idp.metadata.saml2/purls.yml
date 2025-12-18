@@ -32,3 +32,5 @@
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.4.7?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.4.8
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.4.8?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.4.9
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/org.wso2.carbon.identity.idp.metadata.saml2@1.4.9?classifier=sources

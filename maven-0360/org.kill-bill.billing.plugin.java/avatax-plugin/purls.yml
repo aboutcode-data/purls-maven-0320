@@ -22,3 +22,7 @@
 - pkg:maven/org.kill-bill.billing.plugin.java/avatax-plugin@0.8.0?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin.java/avatax-plugin@0.8.2
 - pkg:maven/org.kill-bill.billing.plugin.java/avatax-plugin@0.8.2?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin.java/avatax-plugin@0.8.3
+- pkg:maven/org.kill-bill.billing.plugin.java/avatax-plugin@0.8.3?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin.java/avatax-plugin@0.8.4
+- pkg:maven/org.kill-bill.billing.plugin.java/avatax-plugin@0.8.4?classifier=sources

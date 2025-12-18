@@ -4,3 +4,7 @@
 - pkg:maven/net.cactusthorn.config/config-compiler@0.40?classifier=sources
 - pkg:maven/net.cactusthorn.config/config-compiler@0.50
 - pkg:maven/net.cactusthorn.config/config-compiler@0.50?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-compiler@0.60
+- pkg:maven/net.cactusthorn.config/config-compiler@0.60?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-compiler@0.70
+- pkg:maven/net.cactusthorn.config/config-compiler@0.70?classifier=sources

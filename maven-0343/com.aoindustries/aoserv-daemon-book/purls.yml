@@ -38,3 +38,7 @@
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.8?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.9
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.84.9?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.85.0
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.85.0?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.86.0
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.86.0?classifier=sources

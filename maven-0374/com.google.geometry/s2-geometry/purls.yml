@@ -1,0 +1,2 @@
+- pkg:maven/com.google.geometry/s2-geometry@2.0.0
+- pkg:maven/com.google.geometry/s2-geometry@2.0.0?classifier=sources

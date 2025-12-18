@@ -14,3 +14,13 @@
 - pkg:maven/com.kaleido/kapture-client@3.2.24?classifier=sources
 - pkg:maven/com.kaleido/kapture-client@3.2.25
 - pkg:maven/com.kaleido/kapture-client@3.2.25?classifier=sources
+- pkg:maven/com.kaleido/kapture-client@3.2.26
+- pkg:maven/com.kaleido/kapture-client@3.2.26?classifier=sources
+- pkg:maven/com.kaleido/kapture-client@3.2.27
+- pkg:maven/com.kaleido/kapture-client@3.2.27?classifier=sources
+- pkg:maven/com.kaleido/kapture-client@3.2.28
+- pkg:maven/com.kaleido/kapture-client@3.2.28?classifier=sources
+- pkg:maven/com.kaleido/kapture-client@3.2.29
+- pkg:maven/com.kaleido/kapture-client@3.2.29?classifier=sources
+- pkg:maven/com.kaleido/kapture-client@3.2.30
+- pkg:maven/com.kaleido/kapture-client@3.2.30?classifier=sources

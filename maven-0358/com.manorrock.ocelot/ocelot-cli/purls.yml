@@ -14,3 +14,5 @@
 - pkg:maven/com.manorrock.ocelot/ocelot-cli@21.4.9?classifier=sources
 - pkg:maven/com.manorrock.ocelot/ocelot-cli@21.5.0
 - pkg:maven/com.manorrock.ocelot/ocelot-cli@21.5.0?classifier=sources
+- pkg:maven/com.manorrock.ocelot/ocelot-cli@21.8.0
+- pkg:maven/com.manorrock.ocelot/ocelot-cli@21.8.0?classifier=sources

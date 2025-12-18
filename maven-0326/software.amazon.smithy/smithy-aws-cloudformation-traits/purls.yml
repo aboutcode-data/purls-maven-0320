@@ -1,4 +1,5 @@
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation-traits@1.10.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-aws-cloudformation-traits@1.11.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation-traits@1.4.0
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation-traits@1.4.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation-traits@1.5.0

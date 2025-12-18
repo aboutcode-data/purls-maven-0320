@@ -4,3 +4,5 @@
 - pkg:maven/com.youkol.support.kaptcha/kaptcha-spring-boot-starter@2.3.3?classifier=sources
 - pkg:maven/com.youkol.support.kaptcha/kaptcha-spring-boot-starter@2.3.4
 - pkg:maven/com.youkol.support.kaptcha/kaptcha-spring-boot-starter@2.3.4?classifier=sources
+- pkg:maven/com.youkol.support.kaptcha/kaptcha-spring-boot-starter@2.3.5
+- pkg:maven/com.youkol.support.kaptcha/kaptcha-spring-boot-starter@2.3.5?classifier=sources

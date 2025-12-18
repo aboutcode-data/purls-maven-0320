@@ -17,3 +17,5 @@
 - pkg:maven/com.tencent.matrix/matrix-apk-canary@0.8.1?classifier=sources
 - pkg:maven/com.tencent.matrix/matrix-apk-canary@0.9.0?classifier=sources
 - pkg:maven/com.tencent.matrix/matrix-apk-canary@1.0.0?classifier=sources
+- pkg:maven/com.tencent.matrix/matrix-apk-canary@2.0.0-beta?classifier=sources
+- pkg:maven/com.tencent.matrix/matrix-apk-canary@2.0.0?classifier=sources

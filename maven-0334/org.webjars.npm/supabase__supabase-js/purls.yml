@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/supabase__supabase-js@1.21.0
+- pkg:maven/org.webjars.npm/supabase__supabase-js@1.21.0?classifier=sources
+- pkg:maven/org.webjars.npm/supabase__supabase-js@1.22.3
+- pkg:maven/org.webjars.npm/supabase__supabase-js@1.22.3?classifier=sources

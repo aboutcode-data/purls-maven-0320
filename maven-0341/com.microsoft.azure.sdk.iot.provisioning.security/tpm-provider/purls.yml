@@ -10,3 +10,5 @@
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/tpm-provider@1.1.2?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/tpm-provider@1.1.3
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/tpm-provider@1.1.3?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/tpm-provider@2.0.0-preview-001
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/tpm-provider@2.0.0-preview-001?classifier=sources

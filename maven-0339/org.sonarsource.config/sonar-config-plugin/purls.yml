@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.config/sonar-config-plugin@1.0.0.32?classifier=sources

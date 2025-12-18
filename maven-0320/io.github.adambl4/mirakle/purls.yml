@@ -1,1 +1,3 @@
 - pkg:maven/io.github.adambl4/mirakle@1.4.2?classifier=sources
+- pkg:maven/io.github.adambl4/mirakle@1.4.3?classifier=sources
+- pkg:maven/io.github.adambl4/mirakle@1.5.0-RC-1?classifier=sources

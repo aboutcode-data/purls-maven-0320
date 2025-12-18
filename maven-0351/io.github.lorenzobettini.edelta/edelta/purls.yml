@@ -10,3 +10,4 @@
 - pkg:maven/io.github.lorenzobettini.edelta/edelta@2.4.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta@2.5.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta@2.6.0?classifier=sources
+- pkg:maven/io.github.lorenzobettini.edelta/edelta@2.6.2?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/org.indunet/fastproto@1.6.3?classifier=sources
 - pkg:maven/org.indunet/fastproto@2.0.0
 - pkg:maven/org.indunet/fastproto@2.0.0?classifier=sources
+- pkg:maven/org.indunet/fastproto@2.2.0
+- pkg:maven/org.indunet/fastproto@2.2.0?classifier=sources
+- pkg:maven/org.indunet/fastproto@2.4.0
+- pkg:maven/org.indunet/fastproto@2.4.0?classifier=sources

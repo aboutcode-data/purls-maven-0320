@@ -1,2 +1,4 @@
 - pkg:maven/guru.z3/temple.toolkit@0.1
+- pkg:maven/guru.z3/temple.toolkit@0.1.1
+- pkg:maven/guru.z3/temple.toolkit@0.1.1?classifier=sources
 - pkg:maven/guru.z3/temple.toolkit@0.1?classifier=sources

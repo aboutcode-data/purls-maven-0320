@@ -12,3 +12,6 @@
 - pkg:maven/ru.fix/aggregating-profiler-jmh@1.5.17?classifier=sources
 - pkg:maven/ru.fix/aggregating-profiler-jmh@1.5.18
 - pkg:maven/ru.fix/aggregating-profiler-jmh@1.5.18?classifier=sources
+- pkg:maven/ru.fix/aggregating-profiler-jmh@1.5.19
+- pkg:maven/ru.fix/aggregating-profiler-jmh@1.5.19?classifier=sources
+- pkg:maven/ru.fix/aggregating-profiler-jmh@1.5.21?classifier=sources

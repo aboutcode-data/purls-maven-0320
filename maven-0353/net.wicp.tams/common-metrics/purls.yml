@@ -31,3 +31,5 @@
 - pkg:maven/net.wicp.tams/common-metrics@3.6.3?classifier=sources
 - pkg:maven/net.wicp.tams/common-metrics@3.6.4
 - pkg:maven/net.wicp.tams/common-metrics@3.6.4?classifier=sources
+- pkg:maven/net.wicp.tams/common-metrics@3.6.8
+- pkg:maven/net.wicp.tams/common-metrics@3.6.8?classifier=sources

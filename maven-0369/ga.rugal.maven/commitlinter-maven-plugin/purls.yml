@@ -6,3 +6,5 @@
 - pkg:maven/ga.rugal.maven/commitlinter-maven-plugin@1.2?classifier=sources
 - pkg:maven/ga.rugal.maven/commitlinter-maven-plugin@1.3
 - pkg:maven/ga.rugal.maven/commitlinter-maven-plugin@1.3?classifier=sources
+- pkg:maven/ga.rugal.maven/commitlinter-maven-plugin@1.5.0
+- pkg:maven/ga.rugal.maven/commitlinter-maven-plugin@1.5.0?classifier=sources

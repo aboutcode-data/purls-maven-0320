@@ -1,0 +1,2 @@
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-directions-refresh-models@5.1.0-beta.1
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-directions-refresh-models@5.1.0-beta.1?classifier=sources

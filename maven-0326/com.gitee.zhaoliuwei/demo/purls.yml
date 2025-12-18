@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.zhaoliuwei/demo@6.9
+- pkg:maven/com.gitee.zhaoliuwei/demo@6.9?classifier=sources

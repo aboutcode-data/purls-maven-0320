@@ -4,3 +4,5 @@
 - pkg:maven/com.github.martinpaljak/apdu4j-core@19.04.20?classifier=sources
 - pkg:maven/com.github.martinpaljak/apdu4j-core@19.05.08
 - pkg:maven/com.github.martinpaljak/apdu4j-core@19.05.08?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j-core@2020b1
+- pkg:maven/com.github.martinpaljak/apdu4j-core@2020b1?classifier=sources

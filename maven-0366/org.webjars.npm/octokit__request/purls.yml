@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/octokit__request@4.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/octokit__request@5.0.2
 - pkg:maven/org.webjars.npm/octokit__request@5.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/octokit__request@5.3.1
+- pkg:maven/org.webjars.npm/octokit__request@5.3.1?classifier=sources

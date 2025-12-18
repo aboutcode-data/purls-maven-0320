@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.servertoolsbot.util/messagemanager@1.0.1
+- pkg:maven/com.gitlab.servertoolsbot.util/messagemanager@1.0.1?classifier=sources

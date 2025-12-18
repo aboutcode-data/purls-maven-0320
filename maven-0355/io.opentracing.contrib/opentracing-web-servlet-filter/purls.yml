@@ -32,3 +32,5 @@
 - pkg:maven/io.opentracing.contrib/opentracing-web-servlet-filter@0.3.0?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-web-servlet-filter@0.4.0
 - pkg:maven/io.opentracing.contrib/opentracing-web-servlet-filter@0.4.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-web-servlet-filter@0.4.1
+- pkg:maven/io.opentracing.contrib/opentracing-web-servlet-filter@0.4.1?classifier=sources

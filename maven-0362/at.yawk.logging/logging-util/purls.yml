@@ -1,0 +1,2 @@
+- pkg:maven/at.yawk.logging/logging-util@1.0
+- pkg:maven/at.yawk.logging/logging-util@1.0?classifier=sources

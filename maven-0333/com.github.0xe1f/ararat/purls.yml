@@ -22,6 +22,10 @@
 - pkg:maven/com.github.0xe1f/ararat@1.0.1?type=aar
 - pkg:maven/com.github.0xe1f/ararat@1.0.20?classifier=sources
 - pkg:maven/com.github.0xe1f/ararat@1.0.20?type=aar
+- pkg:maven/com.github.0xe1f/ararat@1.0.21?classifier=sources
+- pkg:maven/com.github.0xe1f/ararat@1.0.21?type=aar
+- pkg:maven/com.github.0xe1f/ararat@1.0.22?classifier=sources
+- pkg:maven/com.github.0xe1f/ararat@1.0.22?type=aar
 - pkg:maven/com.github.0xe1f/ararat@1.0.2?classifier=sources
 - pkg:maven/com.github.0xe1f/ararat@1.0.2?type=aar
 - pkg:maven/com.github.0xe1f/ararat@1.0.3?classifier=sources

@@ -15,3 +15,5 @@
 - pkg:maven/com.holon-platform.mongo/documentation-datastore-mongo@5.2.4?classifier=sources
 - pkg:maven/com.holon-platform.mongo/documentation-datastore-mongo@5.3.0
 - pkg:maven/com.holon-platform.mongo/documentation-datastore-mongo@5.3.0?classifier=sources
+- pkg:maven/com.holon-platform.mongo/documentation-datastore-mongo@5.4.0
+- pkg:maven/com.holon-platform.mongo/documentation-datastore-mongo@5.4.0?classifier=sources

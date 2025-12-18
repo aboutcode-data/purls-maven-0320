@@ -10,6 +10,12 @@
 - pkg:maven/io.smallrye/smallrye-jwt@1.1.4?classifier=sources
 - pkg:maven/io.smallrye/smallrye-jwt@2.0.10
 - pkg:maven/io.smallrye/smallrye-jwt@2.0.10?classifier=sources
+- pkg:maven/io.smallrye/smallrye-jwt@2.0.11
+- pkg:maven/io.smallrye/smallrye-jwt@2.0.11?classifier=sources
+- pkg:maven/io.smallrye/smallrye-jwt@2.0.12
+- pkg:maven/io.smallrye/smallrye-jwt@2.0.12?classifier=sources
+- pkg:maven/io.smallrye/smallrye-jwt@2.0.13
+- pkg:maven/io.smallrye/smallrye-jwt@2.0.13?classifier=sources
 - pkg:maven/io.smallrye/smallrye-jwt@2.0.2
 - pkg:maven/io.smallrye/smallrye-jwt@2.0.2?classifier=sources
 - pkg:maven/io.smallrye/smallrye-jwt@2.0.3

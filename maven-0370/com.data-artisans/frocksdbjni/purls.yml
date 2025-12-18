@@ -2,3 +2,5 @@
 - pkg:maven/com.data-artisans/frocksdbjni@4.11.2-artisans?classifier=sources
 - pkg:maven/com.data-artisans/frocksdbjni@5.17.2-artisans-1.0
 - pkg:maven/com.data-artisans/frocksdbjni@5.17.2-artisans-1.0?classifier=sources
+- pkg:maven/com.data-artisans/frocksdbjni@5.17.2-artisans-2.0
+- pkg:maven/com.data-artisans/frocksdbjni@5.17.2-artisans-2.0?classifier=sources

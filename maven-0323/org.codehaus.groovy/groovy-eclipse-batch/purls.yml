@@ -40,6 +40,10 @@
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.17-01?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.17-02
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.17-02?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.17-03
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.17-03?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.18-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.18-01?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.3-01
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.4.3-01?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.5.6-01
@@ -52,3 +56,11 @@
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.5.8-01?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.5.8-02
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.5.8-02?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.5.8-03
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.5.8-03?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.5.9-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@2.5.9-01?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.0-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.0-01?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.1-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.1-01?classifier=sources

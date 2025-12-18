@@ -1,0 +1,6 @@
+- pkg:maven/tech.beshu.ror/audit@1.18.10
+- pkg:maven/tech.beshu.ror/audit@1.18.10?classifier=sources
+- pkg:maven/tech.beshu.ror/audit@1.18.8
+- pkg:maven/tech.beshu.ror/audit@1.18.8?classifier=sources
+- pkg:maven/tech.beshu.ror/audit@1.18.9
+- pkg:maven/tech.beshu.ror/audit@1.18.9?classifier=sources

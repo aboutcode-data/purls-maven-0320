@@ -1,0 +1,16 @@
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0-release
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.1-release
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.1-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.2-release
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.2-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.3-release
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.3-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.4-release
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.4-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.5-release
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.5-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.6-release
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.6-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.7-release
+- pkg:maven/top.sanguohf.egg/yang-sql-parse@1.0.7-release?classifier=sources

@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-server@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-server@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-server@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-server@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-server@RELEASE90?classifier=sources

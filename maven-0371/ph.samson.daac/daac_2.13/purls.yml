@@ -1,0 +1,2 @@
+- pkg:maven/ph.samson.daac/daac_2.13@1
+- pkg:maven/ph.samson.daac/daac_2.13@1?classifier=sources

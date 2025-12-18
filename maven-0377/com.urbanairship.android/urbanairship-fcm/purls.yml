@@ -4,11 +4,16 @@
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@10.1.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@10.1.2?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@10.1.3?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@10.1.4?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@11.0.0?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@11.0.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@11.0.3?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@11.0.4?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@11.0.5?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@12.0.0?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@12.1.0?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@12.1.1?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@12.2.0?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.1.0?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.1.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.2.0?type=aar
@@ -30,3 +35,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.7.0?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.7.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.7.2?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@9.7.3?type=aar

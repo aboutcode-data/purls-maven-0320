@@ -12,6 +12,8 @@
 - pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0-M5?type=zip
 - pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0-M6?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0-M6?type=zip
+- pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0.13?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0.13?type=zip
 - pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0.3?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0.3?type=zip
 - pkg:maven/de.wayofquality.blended/blended.launcher_2.12@3.0.5?classifier=sources

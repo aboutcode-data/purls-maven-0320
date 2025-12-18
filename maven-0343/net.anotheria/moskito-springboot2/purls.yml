@@ -1,0 +1,2 @@
+- pkg:maven/net.anotheria/moskito-springboot2@2.9.2
+- pkg:maven/net.anotheria/moskito-springboot2@2.9.2?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.thorntail/thorntail-fraction-plugin@96?classifier=sources
 - pkg:maven/io.thorntail/thorntail-fraction-plugin@97
 - pkg:maven/io.thorntail/thorntail-fraction-plugin@97?classifier=sources
+- pkg:maven/io.thorntail/thorntail-fraction-plugin@98
+- pkg:maven/io.thorntail/thorntail-fraction-plugin@98?classifier=sources

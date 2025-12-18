@@ -58,3 +58,5 @@
 - pkg:maven/no.digipost.signature/signature-api-client-java@5.0-RC2?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-client-java@5.0-RC3
 - pkg:maven/no.digipost.signature/signature-api-client-java@5.0-RC3?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-client-java@5.0-RC4
+- pkg:maven/no.digipost.signature/signature-api-client-java@5.0-RC4?classifier=sources

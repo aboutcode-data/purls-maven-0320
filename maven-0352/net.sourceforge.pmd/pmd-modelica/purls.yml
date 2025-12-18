@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@6.21.0
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@6.21.0?classifier=sources

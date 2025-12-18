@@ -1,0 +1,2 @@
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@3.0-beta1
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@3.0-beta1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.querqy/querqy-lucene@4.7.lucene720.0
+- pkg:maven/org.querqy/querqy-lucene@4.7.lucene720.0?classifier=sources
+- pkg:maven/org.querqy/querqy-lucene@4.7.lucene800.0
+- pkg:maven/org.querqy/querqy-lucene@4.7.lucene800.0?classifier=sources
+- pkg:maven/org.querqy/querqy-lucene@4.7.lucene810.0
+- pkg:maven/org.querqy/querqy-lucene@4.7.lucene810.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-popperjs-popper-js@0.0.0
+- pkg:maven/org.webjars.npm/github-com-popperjs-popper-js@0.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-popperjs-popper-js@2.0.0-next.17
+- pkg:maven/org.webjars.npm/github-com-popperjs-popper-js@2.0.0-next.17?classifier=sources

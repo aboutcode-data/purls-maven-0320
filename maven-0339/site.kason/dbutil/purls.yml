@@ -1,2 +1,4 @@
 - pkg:maven/site.kason/dbutil@1.0
 - pkg:maven/site.kason/dbutil@1.0?classifier=sources
+- pkg:maven/site.kason/dbutil@1.1.0
+- pkg:maven/site.kason/dbutil@1.1.0?classifier=sources

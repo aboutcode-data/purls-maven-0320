@@ -9,3 +9,4 @@
 - pkg:maven/com.willowtreeapps.assertk/assertk-jvm@0.18?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk-jvm@0.19?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk-jvm@0.20?classifier=sources
+- pkg:maven/com.willowtreeapps.assertk/assertk-jvm@0.21?classifier=sources

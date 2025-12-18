@@ -1,3 +1,4 @@
+- pkg:maven/org.eclipse.californium/californium-legal@2.0.0
 - pkg:maven/org.eclipse.californium/californium-legal@2.0.0-M13
 - pkg:maven/org.eclipse.californium/californium-legal@2.0.0-M13?classifier=sources
 - pkg:maven/org.eclipse.californium/californium-legal@2.0.0-M14
@@ -7,3 +8,6 @@
 - pkg:maven/org.eclipse.californium/californium-legal@2.0.0-M17
 - pkg:maven/org.eclipse.californium/californium-legal@2.0.0-M18
 - pkg:maven/org.eclipse.californium/californium-legal@2.0.0-RC1
+- pkg:maven/org.eclipse.californium/californium-legal@2.0.0-RC2
+- pkg:maven/org.eclipse.californium/californium-legal@2.1.0-RC1
+- pkg:maven/org.eclipse.californium/californium-legal@2.1.0-RC2

@@ -1,2 +1,4 @@
 - pkg:maven/cn.featherfly/featherfly-persistence@1.2.1
 - pkg:maven/cn.featherfly/featherfly-persistence@1.2.1?classifier=sources
+- pkg:maven/cn.featherfly/featherfly-persistence@1.2.2
+- pkg:maven/cn.featherfly/featherfly-persistence@1.2.2?classifier=sources

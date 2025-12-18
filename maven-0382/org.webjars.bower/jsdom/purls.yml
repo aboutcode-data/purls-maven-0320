@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.bower/jsdom@0.2.14?classifier=sources
 - pkg:maven/org.webjars.bower/jsdom@0.5.7
 - pkg:maven/org.webjars.bower/jsdom@0.5.7?classifier=sources
+- pkg:maven/org.webjars.bower/jsdom@15.2.1
+- pkg:maven/org.webjars.bower/jsdom@15.2.1?classifier=sources
 - pkg:maven/org.webjars.bower/jsdom@8.2.0
 - pkg:maven/org.webjars.bower/jsdom@8.2.0?classifier=sources
 - pkg:maven/org.webjars.bower/jsdom@8.5.0

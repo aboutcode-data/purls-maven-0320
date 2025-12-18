@@ -1,0 +1,2 @@
+- pkg:maven/com.youkol.support.kaptcha/kaptcha-spring-boot-starter@2.3.2
+- pkg:maven/com.youkol.support.kaptcha/kaptcha-spring-boot-starter@2.3.2?classifier=sources

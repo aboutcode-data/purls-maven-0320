@@ -4,6 +4,12 @@
 - pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.11?classifier=sources
 - pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.12
 - pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.12?classifier=sources
+- pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.13
+- pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.13?classifier=sources
+- pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.14
+- pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.14?classifier=sources
+- pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.15
+- pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.15?classifier=sources
 - pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.3
 - pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.3?classifier=sources
 - pkg:maven/org.creativescala/doodle-interact_sjs0.6_2.12@0.9.4

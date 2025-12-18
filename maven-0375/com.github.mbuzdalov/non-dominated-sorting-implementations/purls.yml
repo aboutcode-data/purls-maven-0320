@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mbuzdalov/non-dominated-sorting-implementations@0.2.1
+- pkg:maven/com.github.mbuzdalov/non-dominated-sorting-implementations@0.2.1?classifier=sources

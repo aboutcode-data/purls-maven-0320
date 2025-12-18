@@ -22,6 +22,10 @@
 - pkg:maven/com.google.cloud/google-cloud-trace@0.109.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@0.109.1-beta
 - pkg:maven/com.google.cloud/google-cloud-trace@0.109.1-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-trace@0.109.2-beta
+- pkg:maven/com.google.cloud/google-cloud-trace@0.109.2-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-trace@0.109.3-beta
+- pkg:maven/com.google.cloud/google-cloud-trace@0.109.3-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@0.11.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-trace@0.11.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@0.11.1-alpha
@@ -252,3 +256,7 @@
 - pkg:maven/com.google.cloud/google-cloud-trace@0.98.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@0.99.0-beta
 - pkg:maven/com.google.cloud/google-cloud-trace@0.99.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-trace@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-trace@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-trace@1.0.1
+- pkg:maven/com.google.cloud/google-cloud-trace@1.0.1?classifier=sources

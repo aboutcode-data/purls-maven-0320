@@ -2,3 +2,5 @@
 - pkg:maven/com.lambkit/lambkit@0.2.2?classifier=sources
 - pkg:maven/com.lambkit/lambkit@0.3.1
 - pkg:maven/com.lambkit/lambkit@0.3.1?classifier=sources
+- pkg:maven/com.lambkit/lambkit@1.0.2
+- pkg:maven/com.lambkit/lambkit@1.0.2?classifier=sources

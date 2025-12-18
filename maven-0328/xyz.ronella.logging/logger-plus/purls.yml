@@ -1,0 +1,2 @@
+- pkg:maven/xyz.ronella.logging/logger-plus@1.0.0
+- pkg:maven/xyz.ronella.logging/logger-plus@1.0.0?classifier=sources

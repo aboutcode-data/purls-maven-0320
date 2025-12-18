@@ -2,3 +2,13 @@
 - pkg:maven/com.zengularity/benji-play_2.12@2.0.5-play26?classifier=sources
 - pkg:maven/com.zengularity/benji-play_2.12@2.0.5-play27
 - pkg:maven/com.zengularity/benji-play_2.12@2.0.5-play27?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.1-play27
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.1-play27?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.2-play26
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.2-play26?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.2-play27
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.2-play27?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.3-play26
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.3-play26?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.3-play27
+- pkg:maven/com.zengularity/benji-play_2.12@2.1.3-play27?classifier=sources

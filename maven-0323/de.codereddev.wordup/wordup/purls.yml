@@ -1,0 +1,2 @@
+- pkg:maven/de.codereddev.wordup/wordup@0.1.0?classifier=sources
+- pkg:maven/de.codereddev.wordup/wordup@0.1.0?type=aar

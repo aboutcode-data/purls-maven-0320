@@ -8,5 +8,7 @@
 - pkg:maven/org.tentackle/tentackle-fx-rdc-poi@11.4.0.1?classifier=sources
 - pkg:maven/org.tentackle/tentackle-fx-rdc-poi@11.5.0.0
 - pkg:maven/org.tentackle/tentackle-fx-rdc-poi@11.5.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-fx-rdc-poi@11.6.0.0
+- pkg:maven/org.tentackle/tentackle-fx-rdc-poi@11.6.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-fx-rdc-poi@2.2.0
 - pkg:maven/org.tentackle/tentackle-fx-rdc-poi@2.2.0?classifier=sources

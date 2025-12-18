@@ -1,2 +1,8 @@
 - pkg:maven/org.typelevel/jawn-spray_2.13@0.14.3
 - pkg:maven/org.typelevel/jawn-spray_2.13@0.14.3?classifier=sources
+- pkg:maven/org.typelevel/jawn-spray_2.13@1.0.0
+- pkg:maven/org.typelevel/jawn-spray_2.13@1.0.0-RC3
+- pkg:maven/org.typelevel/jawn-spray_2.13@1.0.0-RC3?classifier=sources
+- pkg:maven/org.typelevel/jawn-spray_2.13@1.0.0-RC4
+- pkg:maven/org.typelevel/jawn-spray_2.13@1.0.0-RC4?classifier=sources
+- pkg:maven/org.typelevel/jawn-spray_2.13@1.0.0?classifier=sources

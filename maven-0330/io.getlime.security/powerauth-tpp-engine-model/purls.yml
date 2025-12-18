@@ -1,0 +1,2 @@
+- pkg:maven/io.getlime.security/powerauth-tpp-engine-model@0.23.0
+- pkg:maven/io.getlime.security/powerauth-tpp-engine-model@0.23.0?classifier=sources

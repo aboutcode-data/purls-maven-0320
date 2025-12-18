@@ -19,3 +19,5 @@
 - pkg:maven/com.github.julianthome/inmemantlr-api@1.5?classifier=sources
 - pkg:maven/com.github.julianthome/inmemantlr-api@1.6
 - pkg:maven/com.github.julianthome/inmemantlr-api@1.6?classifier=sources
+- pkg:maven/com.github.julianthome/inmemantlr-api@1.7.0
+- pkg:maven/com.github.julianthome/inmemantlr-api@1.7.0?classifier=sources

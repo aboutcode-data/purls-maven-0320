@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/ndarray@1.0.18
 - pkg:maven/org.webjars.npm/ndarray@1.0.18?classifier=sources
+- pkg:maven/org.webjars.npm/ndarray@1.0.19
+- pkg:maven/org.webjars.npm/ndarray@1.0.19?classifier=sources

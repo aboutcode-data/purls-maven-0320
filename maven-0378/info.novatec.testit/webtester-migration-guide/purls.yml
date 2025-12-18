@@ -4,3 +4,5 @@
 - pkg:maven/info.novatec.testit/webtester-migration-guide@2.7.0?classifier=sources
 - pkg:maven/info.novatec.testit/webtester-migration-guide@2.8.0
 - pkg:maven/info.novatec.testit/webtester-migration-guide@2.8.0?classifier=sources
+- pkg:maven/info.novatec.testit/webtester-migration-guide@2.9.0
+- pkg:maven/info.novatec.testit/webtester-migration-guide@2.9.0?classifier=sources

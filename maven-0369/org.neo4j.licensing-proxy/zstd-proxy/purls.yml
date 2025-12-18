@@ -4,6 +4,10 @@
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.11?classifier=sources
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.12
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.12?classifier=sources
+- pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.13
+- pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.13?classifier=sources
+- pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.14
+- pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.14?classifier=sources
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.5
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.5?classifier=sources
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.6
@@ -14,3 +18,7 @@
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.8?classifier=sources
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.9
 - pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@3.5.9?classifier=sources
+- pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@4.0.0
+- pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@4.0.0-rc01
+- pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@4.0.0-rc01?classifier=sources
+- pkg:maven/org.neo4j.licensing-proxy/zstd-proxy@4.0.0?classifier=sources

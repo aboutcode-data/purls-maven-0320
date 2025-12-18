@@ -1,0 +1,10 @@
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.0-TEST1?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.0-TEST?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.1.220120?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.1.310120?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.1?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.2.021020?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.2.021120?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.2.021820?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.2?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.2.3?classifier=sources

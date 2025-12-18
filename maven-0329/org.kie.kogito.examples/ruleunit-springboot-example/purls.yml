@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito.examples/ruleunit-springboot-example@0.7.1
+- pkg:maven/org.kie.kogito.examples/ruleunit-springboot-example@0.7.1?classifier=sources

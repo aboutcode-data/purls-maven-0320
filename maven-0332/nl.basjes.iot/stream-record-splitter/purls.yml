@@ -1,0 +1,6 @@
+- pkg:maven/nl.basjes.iot/stream-record-splitter@0.1
+- pkg:maven/nl.basjes.iot/stream-record-splitter@0.1?classifier=sources
+- pkg:maven/nl.basjes.iot/stream-record-splitter@0.2
+- pkg:maven/nl.basjes.iot/stream-record-splitter@0.2?classifier=sources
+- pkg:maven/nl.basjes.iot/stream-record-splitter@0.3
+- pkg:maven/nl.basjes.iot/stream-record-splitter@0.3?classifier=sources

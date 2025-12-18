@@ -32,6 +32,9 @@
 - pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.21.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.22.0
 - pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.22.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.23.0
+- pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.23.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.24.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.4.0
 - pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.4.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-h2-backend@1.4.1

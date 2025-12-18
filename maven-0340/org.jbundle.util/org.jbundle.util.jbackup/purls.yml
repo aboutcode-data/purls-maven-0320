@@ -16,3 +16,5 @@
 - pkg:maven/org.jbundle.util/org.jbundle.util.jbackup@2.0.5?classifier=sources
 - pkg:maven/org.jbundle.util/org.jbundle.util.jbackup@2.0.7
 - pkg:maven/org.jbundle.util/org.jbundle.util.jbackup@2.0.7?classifier=sources
+- pkg:maven/org.jbundle.util/org.jbundle.util.jbackup@2.0.8
+- pkg:maven/org.jbundle.util/org.jbundle.util.jbackup@2.0.8?classifier=sources

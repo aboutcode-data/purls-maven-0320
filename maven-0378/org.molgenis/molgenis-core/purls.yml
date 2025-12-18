@@ -186,3 +186,5 @@
 - pkg:maven/org.molgenis/molgenis-core@8.2.3?classifier=sources
 - pkg:maven/org.molgenis/molgenis-core@8.2.4
 - pkg:maven/org.molgenis/molgenis-core@8.2.4?classifier=sources
+- pkg:maven/org.molgenis/molgenis-core@8.3.4
+- pkg:maven/org.molgenis/molgenis-core@8.3.4?classifier=sources

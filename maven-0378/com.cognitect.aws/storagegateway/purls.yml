@@ -30,3 +30,7 @@
 - pkg:maven/com.cognitect.aws/storagegateway@747.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/storagegateway@770.2.568.0
 - pkg:maven/com.cognitect.aws/storagegateway@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/storagegateway@773.2.576.0
+- pkg:maven/com.cognitect.aws/storagegateway@773.2.576.0?classifier=sources
+- pkg:maven/com.cognitect.aws/storagegateway@789.2.611.0
+- pkg:maven/com.cognitect.aws/storagegateway@789.2.611.0?classifier=sources

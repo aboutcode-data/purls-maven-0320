@@ -6,3 +6,5 @@
 - pkg:maven/ba.sake/hepek-core@0.0.4?classifier=sources
 - pkg:maven/ba.sake/hepek-core@0.1.1
 - pkg:maven/ba.sake/hepek-core@0.1.1?classifier=sources
+- pkg:maven/ba.sake/hepek-core@0.2.0
+- pkg:maven/ba.sake/hepek-core@0.2.0?classifier=sources

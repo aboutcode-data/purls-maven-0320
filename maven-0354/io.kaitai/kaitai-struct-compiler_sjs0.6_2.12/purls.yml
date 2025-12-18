@@ -1,0 +1,2 @@
+- pkg:maven/io.kaitai/kaitai-struct-compiler_sjs0.6_2.12@0.8
+- pkg:maven/io.kaitai/kaitai-struct-compiler_sjs0.6_2.12@0.8?classifier=sources

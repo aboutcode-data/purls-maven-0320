@@ -1,0 +1,4 @@
+- pkg:maven/com.kaleido/kapture-client@3.2.18
+- pkg:maven/com.kaleido/kapture-client@3.2.18?classifier=sources
+- pkg:maven/com.kaleido/kapture-client@3.2.19
+- pkg:maven/com.kaleido/kapture-client@3.2.19?classifier=sources

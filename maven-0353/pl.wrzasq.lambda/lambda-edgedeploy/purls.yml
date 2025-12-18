@@ -82,3 +82,5 @@
 - pkg:maven/pl.wrzasq.lambda/lambda-edgedeploy@1.0.8?classifier=sources
 - pkg:maven/pl.wrzasq.lambda/lambda-edgedeploy@1.0.9
 - pkg:maven/pl.wrzasq.lambda/lambda-edgedeploy@1.0.9?classifier=sources
+- pkg:maven/pl.wrzasq.lambda/lambda-edgedeploy@1.1.0
+- pkg:maven/pl.wrzasq.lambda/lambda-edgedeploy@1.1.0?classifier=sources

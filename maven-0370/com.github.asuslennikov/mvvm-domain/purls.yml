@@ -1,2 +1,6 @@
 - pkg:maven/com.github.asuslennikov/mvvm-domain@0.8.20
 - pkg:maven/com.github.asuslennikov/mvvm-domain@0.8.20?classifier=sources
+- pkg:maven/com.github.asuslennikov/mvvm-domain@0.8.30
+- pkg:maven/com.github.asuslennikov/mvvm-domain@0.8.30?classifier=sources
+- pkg:maven/com.github.asuslennikov/mvvm-domain@0.8.31
+- pkg:maven/com.github.asuslennikov/mvvm-domain@0.8.31?classifier=sources

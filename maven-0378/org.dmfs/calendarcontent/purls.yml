@@ -1,1 +1,8 @@
 - pkg:maven/org.dmfs/calendarcontent@1.1?type=aar
+- pkg:maven/org.dmfs/calendarcontent@1.2?type=aar
+- pkg:maven/org.dmfs/calendarcontent@1.3?type=aar
+- pkg:maven/org.dmfs/calendarcontent@1.4?type=aar
+- pkg:maven/org.dmfs/calendarcontent@1.5?type=aar
+- pkg:maven/org.dmfs/calendarcontent@1.6?type=aar
+- pkg:maven/org.dmfs/calendarcontent@1.7?type=aar
+- pkg:maven/org.dmfs/calendarcontent@1.8?type=aar

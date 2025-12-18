@@ -1,0 +1,10 @@
+- pkg:maven/io.engineblock/eb-docker@2.12.61
+- pkg:maven/io.engineblock/eb-docker@2.12.61?classifier=sources
+- pkg:maven/io.engineblock/eb-docker@2.12.62
+- pkg:maven/io.engineblock/eb-docker@2.12.62?classifier=sources
+- pkg:maven/io.engineblock/eb-docker@2.12.63
+- pkg:maven/io.engineblock/eb-docker@2.12.63?classifier=sources
+- pkg:maven/io.engineblock/eb-docker@2.12.64
+- pkg:maven/io.engineblock/eb-docker@2.12.64?classifier=sources
+- pkg:maven/io.engineblock/eb-docker@2.12.65
+- pkg:maven/io.engineblock/eb-docker@2.12.65?classifier=sources

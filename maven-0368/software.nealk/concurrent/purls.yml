@@ -1,0 +1,6 @@
+- pkg:maven/software.nealk/concurrent@0.2.7
+- pkg:maven/software.nealk/concurrent@0.2.7?classifier=sources
+- pkg:maven/software.nealk/concurrent@0.4.1
+- pkg:maven/software.nealk/concurrent@0.4.1?classifier=sources
+- pkg:maven/software.nealk/concurrent@0.5.0
+- pkg:maven/software.nealk/concurrent@0.5.0?classifier=sources

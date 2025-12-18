@@ -6,3 +6,5 @@
 - pkg:maven/io.cellery.security/io.cellery.security.token.endpoint@0.2.1?type=war
 - pkg:maven/io.cellery.security/io.cellery.security.token.endpoint@0.4.0?classifier=sources
 - pkg:maven/io.cellery.security/io.cellery.security.token.endpoint@0.4.0?type=war
+- pkg:maven/io.cellery.security/io.cellery.security.token.endpoint@0.6.0?classifier=sources
+- pkg:maven/io.cellery.security/io.cellery.security.token.endpoint@0.6.0?type=war

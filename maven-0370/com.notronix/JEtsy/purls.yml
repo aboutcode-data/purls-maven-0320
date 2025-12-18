@@ -12,3 +12,5 @@
 - pkg:maven/com.notronix/JEtsy@1.0.0006?classifier=sources
 - pkg:maven/com.notronix/JEtsy@1.0.0007
 - pkg:maven/com.notronix/JEtsy@1.0.0007?classifier=sources
+- pkg:maven/com.notronix/JEtsy@1.0.0008
+- pkg:maven/com.notronix/JEtsy@1.0.0008?classifier=sources

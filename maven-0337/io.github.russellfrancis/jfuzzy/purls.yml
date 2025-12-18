@@ -1,0 +1,2 @@
+- pkg:maven/io.github.russellfrancis/jfuzzy@1.0.0
+- pkg:maven/io.github.russellfrancis/jfuzzy@1.0.0?classifier=sources

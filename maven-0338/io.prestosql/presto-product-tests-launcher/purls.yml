@@ -1,0 +1,4 @@
+- pkg:maven/io.prestosql/presto-product-tests-launcher@329
+- pkg:maven/io.prestosql/presto-product-tests-launcher@329?classifier=sources
+- pkg:maven/io.prestosql/presto-product-tests-launcher@330
+- pkg:maven/io.prestosql/presto-product-tests-launcher@330?classifier=sources

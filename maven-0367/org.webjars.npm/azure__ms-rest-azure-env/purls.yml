@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/azure__ms-rest-azure-env@1.1.2
+- pkg:maven/org.webjars.npm/azure__ms-rest-azure-env@1.1.2?classifier=sources

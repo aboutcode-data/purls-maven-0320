@@ -1,2 +1,6 @@
 - pkg:maven/net.dongliu/cute-http-gson@1.2.2
 - pkg:maven/net.dongliu/cute-http-gson@1.2.2?classifier=sources
+- pkg:maven/net.dongliu/cute-http-gson@2.0.0
+- pkg:maven/net.dongliu/cute-http-gson@2.0.0?classifier=sources
+- pkg:maven/net.dongliu/cute-http-gson@3.0.0
+- pkg:maven/net.dongliu/cute-http-gson@3.0.0?classifier=sources

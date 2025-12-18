@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/formiojs@4.7.8
+- pkg:maven/org.webjars.npm/formiojs@4.7.8?classifier=sources

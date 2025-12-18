@@ -1,0 +1,2 @@
+- pkg:maven/kr.dogfoot/hwplib@1.0
+- pkg:maven/kr.dogfoot/hwplib@1.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.github.ejin66/QuickHttp@1.0?classifier=sources
 - pkg:maven/com.github.ejin66/QuickHttp@1.1.0
 - pkg:maven/com.github.ejin66/QuickHttp@1.1.0?classifier=sources
+- pkg:maven/com.github.ejin66/QuickHttp@1.1.1
+- pkg:maven/com.github.ejin66/QuickHttp@1.1.1?classifier=sources

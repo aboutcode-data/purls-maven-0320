@@ -1,0 +1,2 @@
+- pkg:maven/com.amap.api/3dmapgp@6.9.3
+- pkg:maven/com.amap.api/3dmapgp@6.9.3?classifier=sources

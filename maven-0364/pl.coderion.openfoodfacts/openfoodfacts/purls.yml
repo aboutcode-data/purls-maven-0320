@@ -1,0 +1,14 @@
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.10
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.10?classifier=sources
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.2
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.2?classifier=sources
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.3
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.3?classifier=sources
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.4
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.4?classifier=sources
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.6
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.6?classifier=sources
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.8
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.8?classifier=sources
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.9
+- pkg:maven/pl.coderion.openfoodfacts/openfoodfacts@0.0.9?classifier=sources

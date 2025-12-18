@@ -4,6 +4,8 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.0.1?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.1.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.1.0?type=aar
+- pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.10.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.10.0?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.2.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.2.0?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.3.0?classifier=sources
@@ -18,3 +20,5 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.7.0?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.8.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.8.0?type=aar
+- pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.9.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.9.0?type=aar

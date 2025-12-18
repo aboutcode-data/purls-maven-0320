@@ -10,5 +10,7 @@
 - pkg:maven/com.github.bluelink8888/google-translate@1.0.4?classifier=sources
 - pkg:maven/com.github.bluelink8888/google-translate@1.0.5
 - pkg:maven/com.github.bluelink8888/google-translate@1.0.5?classifier=sources
+- pkg:maven/com.github.bluelink8888/google-translate@1.0.6
+- pkg:maven/com.github.bluelink8888/google-translate@1.0.6?classifier=sources
 - pkg:maven/com.github.bluelink8888/google-translate@v0.1
 - pkg:maven/com.github.bluelink8888/google-translate@v0.1?classifier=sources

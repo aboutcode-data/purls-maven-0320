@@ -28,7 +28,16 @@
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.28
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.28?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.28?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.29
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.29?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.29?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.3
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.30
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.30?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.30?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.31
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.31?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.31?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.4
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.identity.oauth2.grant.jwt@1.0.5

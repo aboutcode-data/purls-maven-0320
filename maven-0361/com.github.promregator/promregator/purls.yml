@@ -22,7 +22,11 @@
 - pkg:maven/com.github.promregator/promregator@0.7.5?classifier=sources
 - pkg:maven/com.github.promregator/promregator@0.7.6
 - pkg:maven/com.github.promregator/promregator@0.7.6?classifier=sources
+- pkg:maven/com.github.promregator/promregator@0.7.7
+- pkg:maven/com.github.promregator/promregator@0.7.7?classifier=sources
+- pkg:maven/com.github.promregator/promregator@0.8.0
 - pkg:maven/com.github.promregator/promregator@0.8.0-rc1
 - pkg:maven/com.github.promregator/promregator@0.8.0-rc1?classifier=sources
 - pkg:maven/com.github.promregator/promregator@0.8.0-rc2
 - pkg:maven/com.github.promregator/promregator@0.8.0-rc2?classifier=sources
+- pkg:maven/com.github.promregator/promregator@0.8.0?classifier=sources

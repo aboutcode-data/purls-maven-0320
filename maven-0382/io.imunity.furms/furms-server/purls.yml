@@ -1,0 +1,6 @@
+- pkg:maven/io.imunity.furms/furms-server@0.0.1-test1
+- pkg:maven/io.imunity.furms/furms-server@0.0.1-test1?classifier=sources
+- pkg:maven/io.imunity.furms/furms-server@0.0.1-test2
+- pkg:maven/io.imunity.furms/furms-server@0.0.1-test2?classifier=sources
+- pkg:maven/io.imunity.furms/furms-server@0.0.1-test3
+- pkg:maven/io.imunity.furms/furms-server@0.0.1-test3?classifier=sources

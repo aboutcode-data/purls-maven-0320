@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/snowball@796.2.657.0?classifier=sources
 - pkg:maven/com.cognitect.aws/snowball@801.2.699.0
 - pkg:maven/com.cognitect.aws/snowball@801.2.699.0?classifier=sources
+- pkg:maven/com.cognitect.aws/snowball@809.2.784.0
+- pkg:maven/com.cognitect.aws/snowball@809.2.784.0?classifier=sources

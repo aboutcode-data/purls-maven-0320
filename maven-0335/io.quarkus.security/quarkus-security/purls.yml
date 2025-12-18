@@ -16,3 +16,5 @@
 - pkg:maven/io.quarkus.security/quarkus-security@1.1.1.Final?classifier=sources
 - pkg:maven/io.quarkus.security/quarkus-security@1.1.2.Final
 - pkg:maven/io.quarkus.security/quarkus-security@1.1.2.Final?classifier=sources
+- pkg:maven/io.quarkus.security/quarkus-security@1.1.3.Final
+- pkg:maven/io.quarkus.security/quarkus-security@1.1.3.Final?classifier=sources

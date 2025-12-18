@@ -2,3 +2,7 @@
 - pkg:maven/io.github.justtimki/spring-cloud-contract-swagger@1.2.10.RELEASE?classifier=sources
 - pkg:maven/io.github.justtimki/spring-cloud-contract-swagger@1.2.11.RELEASE
 - pkg:maven/io.github.justtimki/spring-cloud-contract-swagger@1.2.11.RELEASE?classifier=sources
+- pkg:maven/io.github.justtimki/spring-cloud-contract-swagger@1.2.12.RELEASE
+- pkg:maven/io.github.justtimki/spring-cloud-contract-swagger@1.2.12.RELEASE?classifier=sources
+- pkg:maven/io.github.justtimki/spring-cloud-contract-swagger@1.2.13.RELEASE
+- pkg:maven/io.github.justtimki/spring-cloud-contract-swagger@1.2.13.RELEASE?classifier=sources

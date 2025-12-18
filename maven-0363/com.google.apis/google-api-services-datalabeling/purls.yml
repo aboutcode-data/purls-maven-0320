@@ -1,0 +1,2 @@
+- pkg:maven/com.google.apis/google-api-services-datalabeling@v1beta1-rev20201020-1.30.10
+- pkg:maven/com.google.apis/google-api-services-datalabeling@v1beta1-rev20201020-1.30.10?classifier=sources

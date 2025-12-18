@@ -1,0 +1,2 @@
+- pkg:maven/com.github.chameleontartu/amazon-mws-orders-maven@1.2.0
+- pkg:maven/com.github.chameleontartu/amazon-mws-orders-maven@1.2.0?classifier=sources

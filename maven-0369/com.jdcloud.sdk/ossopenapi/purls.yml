@@ -4,3 +4,5 @@
 - pkg:maven/com.jdcloud.sdk/ossopenapi@0.8.0?classifier=sources
 - pkg:maven/com.jdcloud.sdk/ossopenapi@0.8.4
 - pkg:maven/com.jdcloud.sdk/ossopenapi@0.8.4?classifier=sources
+- pkg:maven/com.jdcloud.sdk/ossopenapi@0.8.5
+- pkg:maven/com.jdcloud.sdk/ossopenapi@0.8.5?classifier=sources

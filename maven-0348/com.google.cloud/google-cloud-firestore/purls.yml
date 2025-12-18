@@ -212,3 +212,5 @@
 - pkg:maven/com.google.cloud/google-cloud-firestore@1.9.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-firestore@2.0.0
 - pkg:maven/com.google.cloud/google-cloud-firestore@2.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-firestore@2.1.0
+- pkg:maven/com.google.cloud/google-cloud-firestore@2.1.0?classifier=sources

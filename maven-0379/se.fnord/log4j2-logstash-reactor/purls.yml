@@ -1,0 +1,1 @@
+- pkg:maven/se.fnord/log4j2-logstash-reactor@0.7?classifier=sources

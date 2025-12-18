@@ -1,0 +1,7 @@
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test@2.0.1
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test@2.0.2
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test@2.1.0
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test@2.1.1
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test@2.2.0
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test@2.3.0
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test@3.0.0

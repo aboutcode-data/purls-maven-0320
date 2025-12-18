@@ -1,0 +1,8 @@
+- pkg:maven/org.http4s/http4s-finagle_0.26@0.21.8-20.10.0
+- pkg:maven/org.http4s/http4s-finagle_0.26@0.21.8-20.10.0?classifier=sources
+- pkg:maven/org.http4s/http4s-finagle_0.26@0.21.8-20.9.0
+- pkg:maven/org.http4s/http4s-finagle_0.26@0.21.8-20.9.0?classifier=sources
+- pkg:maven/org.http4s/http4s-finagle_0.26@0.21.9-20.10.0
+- pkg:maven/org.http4s/http4s-finagle_0.26@0.21.9-20.10.0?classifier=sources
+- pkg:maven/org.http4s/http4s-finagle_0.26@1.0.0-M5
+- pkg:maven/org.http4s/http4s-finagle_0.26@1.0.0-M5?classifier=sources

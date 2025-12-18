@@ -1,0 +1,6 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.integration-testing@1.0.24
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.integration-testing@1.0.24?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.integration-testing@1.0.28
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.integration-testing@1.0.28?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.integration-testing@1.0.8
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.integration-testing@1.0.8?classifier=sources

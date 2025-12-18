@@ -1,0 +1,2 @@
+- pkg:maven/com.xing.testing/logger@1.1
+- pkg:maven/com.xing.testing/logger@1.1?classifier=sources

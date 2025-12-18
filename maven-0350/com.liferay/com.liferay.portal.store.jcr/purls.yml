@@ -96,8 +96,14 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.38
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.39
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.4
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.40
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.5
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@2.0.5?classifier=sources
@@ -168,6 +174,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.26
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.27
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.jcr@3.0.3

@@ -11,3 +11,5 @@
 - pkg:maven/ch.exense.step/step-controller-api@3.13.4
 - pkg:maven/ch.exense.step/step-controller-api@3.13.5
 - pkg:maven/ch.exense.step/step-controller-api@3.13.6
+- pkg:maven/ch.exense.step/step-controller-api@3.14.0
+- pkg:maven/ch.exense.step/step-controller-api@3.14.1

@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.filetransfer.httpclient45@1.0.300?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.filetransfer.httpclient45@1.0.301?classifier=sources

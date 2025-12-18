@@ -26,6 +26,11 @@
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@13.2.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@13.2.2?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@13.3.0?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@13.3.3?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@13.3.4?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@13.3.5?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@14.0.2?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-fcm@14.0.2?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.1.0?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.1.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-fcm@9.2.0?type=aar

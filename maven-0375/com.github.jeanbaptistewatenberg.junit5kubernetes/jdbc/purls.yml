@@ -1,2 +1,4 @@
 - pkg:maven/com.github.jeanbaptistewatenberg.junit5kubernetes/jdbc@2.0.0?classifier=sources
 - pkg:maven/com.github.jeanbaptistewatenberg.junit5kubernetes/jdbc@2.1.0?classifier=sources
+- pkg:maven/com.github.jeanbaptistewatenberg.junit5kubernetes/jdbc@2.2.0-beta?classifier=sources
+- pkg:maven/com.github.jeanbaptistewatenberg.junit5kubernetes/jdbc@2.3.0-beta?classifier=sources

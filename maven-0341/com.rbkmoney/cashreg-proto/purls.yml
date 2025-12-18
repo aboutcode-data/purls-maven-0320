@@ -1,2 +1,4 @@
 - pkg:maven/com.rbkmoney/cashreg-proto@1.15-f4f228b
 - pkg:maven/com.rbkmoney/cashreg-proto@1.15-f4f228b?classifier=sources
+- pkg:maven/com.rbkmoney/cashreg-proto@1.16-bb4c505
+- pkg:maven/com.rbkmoney/cashreg-proto@1.16-bb4c505?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.73
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-monolambda@1.0.73?classifier=sources

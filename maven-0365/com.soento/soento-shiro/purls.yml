@@ -32,3 +32,5 @@
 - pkg:maven/com.soento/soento-shiro@1.1.7-RELEASE?classifier=sources
 - pkg:maven/com.soento/soento-shiro@1.1.8-RELEASE
 - pkg:maven/com.soento/soento-shiro@1.1.8-RELEASE?classifier=sources
+- pkg:maven/com.soento/soento-shiro@1.2.0-RELEASE
+- pkg:maven/com.soento/soento-shiro@1.2.0-RELEASE?classifier=sources

@@ -16,7 +16,15 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.2
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.21
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.22
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.23
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.24
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.25
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.26
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.27
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.28
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.29
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.3
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.30
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.4
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.5
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.7

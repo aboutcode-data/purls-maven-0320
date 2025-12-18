@@ -1,0 +1,2 @@
+- pkg:maven/de.samply/common-ldmclient.samplystore-biobank@3.0.0
+- pkg:maven/de.samply/common-ldmclient.samplystore-biobank@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.code/openurp-code-std@0.18.0
+- pkg:maven/org.openurp.code/openurp-code-std@0.18.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.trigyn/application-metrics@1.3.12
+- pkg:maven/com.trigyn/application-metrics@1.3.12?classifier=sources
+- pkg:maven/com.trigyn/application-metrics@1.3.13
+- pkg:maven/com.trigyn/application-metrics@1.3.13?classifier=sources

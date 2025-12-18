@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/z-schema@3.23.0?classifier=sources
 - pkg:maven/org.webjars.npm/z-schema@3.24.1
 - pkg:maven/org.webjars.npm/z-schema@3.24.1?classifier=sources
+- pkg:maven/org.webjars.npm/z-schema@3.25.1
+- pkg:maven/org.webjars.npm/z-schema@3.25.1?classifier=sources

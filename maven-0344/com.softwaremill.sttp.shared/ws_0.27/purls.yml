@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.shared/ws_0.27@1.0.0-RC7
+- pkg:maven/com.softwaremill.sttp.shared/ws_0.27@1.0.0-RC7?classifier=sources
+- pkg:maven/com.softwaremill.sttp.shared/ws_0.27@1.0.0-RC8
+- pkg:maven/com.softwaremill.sttp.shared/ws_0.27@1.0.0-RC8?classifier=sources

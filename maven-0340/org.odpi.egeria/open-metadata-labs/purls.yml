@@ -8,3 +8,6 @@
 - pkg:maven/org.odpi.egeria/open-metadata-labs@1.8
 - pkg:maven/org.odpi.egeria/open-metadata-labs@2.0
 - pkg:maven/org.odpi.egeria/open-metadata-labs@2.1
+- pkg:maven/org.odpi.egeria/open-metadata-labs@2.2
+- pkg:maven/org.odpi.egeria/open-metadata-labs@2.3
+- pkg:maven/org.odpi.egeria/open-metadata-labs@2.4

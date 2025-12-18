@@ -44,6 +44,8 @@
 - pkg:maven/org.wso2.carbon.identity.commons/org.wso2.carbon.identity.event@0.1.31?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.commons/org.wso2.carbon.identity.event@0.1.32
 - pkg:maven/org.wso2.carbon.identity.commons/org.wso2.carbon.identity.event@0.1.32?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.commons/org.wso2.carbon.identity.event@0.1.35
+- pkg:maven/org.wso2.carbon.identity.commons/org.wso2.carbon.identity.event@0.1.35?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.commons/org.wso2.carbon.identity.event@0.1.4
 - pkg:maven/org.wso2.carbon.identity.commons/org.wso2.carbon.identity.event@0.1.4?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.commons/org.wso2.carbon.identity.event@0.1.5

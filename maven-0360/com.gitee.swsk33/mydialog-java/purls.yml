@@ -1,0 +1,6 @@
+- pkg:maven/com.gitee.swsk33/mydialog-java@1.2.10
+- pkg:maven/com.gitee.swsk33/mydialog-java@1.2.10?classifier=sources
+- pkg:maven/com.gitee.swsk33/mydialog-java@1.2.13
+- pkg:maven/com.gitee.swsk33/mydialog-java@1.2.13?classifier=sources
+- pkg:maven/com.gitee.swsk33/mydialog-java@1.2.7
+- pkg:maven/com.gitee.swsk33/mydialog-java@1.2.7?classifier=sources

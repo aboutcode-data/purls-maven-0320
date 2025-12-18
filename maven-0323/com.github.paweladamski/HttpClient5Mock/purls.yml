@@ -1,0 +1,2 @@
+- pkg:maven/com.github.paweladamski/HttpClient5Mock@1.0.0-RC1
+- pkg:maven/com.github.paweladamski/HttpClient5Mock@1.0.0-RC1?classifier=sources

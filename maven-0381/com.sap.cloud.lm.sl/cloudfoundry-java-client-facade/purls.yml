@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-java-client-facade@2.0.0
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-java-client-facade@2.0.0?classifier=sources

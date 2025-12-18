@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github__time-elements@3.1.1
+- pkg:maven/org.webjars.npm/github__time-elements@3.1.1?classifier=sources

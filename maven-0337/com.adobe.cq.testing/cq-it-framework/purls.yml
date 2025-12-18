@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.cq.testing/cq-it-framework@2.0.130
+- pkg:maven/com.adobe.cq.testing/cq-it-framework@2.0.130?classifier=sources

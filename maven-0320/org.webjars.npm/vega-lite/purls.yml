@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/vega-lite@3.0.0-rc12?classifier=sources
 - pkg:maven/org.webjars.npm/vega-lite@3.0.0-rc9
 - pkg:maven/org.webjars.npm/vega-lite@3.0.0-rc9?classifier=sources
+- pkg:maven/org.webjars.npm/vega-lite@4.13.1
+- pkg:maven/org.webjars.npm/vega-lite@4.13.1?classifier=sources

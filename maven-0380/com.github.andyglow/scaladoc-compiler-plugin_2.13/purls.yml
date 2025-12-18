@@ -1,0 +1,2 @@
+- pkg:maven/com.github.andyglow/scaladoc-compiler-plugin_2.13@0.0.7
+- pkg:maven/com.github.andyglow/scaladoc-compiler-plugin_2.13@0.0.7?classifier=sources

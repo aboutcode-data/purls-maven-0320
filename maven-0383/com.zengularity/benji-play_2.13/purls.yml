@@ -20,3 +20,7 @@
 - pkg:maven/com.zengularity/benji-play_2.13@2.1.6-play27?classifier=sources
 - pkg:maven/com.zengularity/benji-play_2.13@2.1.6-play28
 - pkg:maven/com.zengularity/benji-play_2.13@2.1.6-play28?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.13@2.1.7-play27
+- pkg:maven/com.zengularity/benji-play_2.13@2.1.7-play27?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.13@2.1.7-play28
+- pkg:maven/com.zengularity/benji-play_2.13@2.1.7-play28?classifier=sources

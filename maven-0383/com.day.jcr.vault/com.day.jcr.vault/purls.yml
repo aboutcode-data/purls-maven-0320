@@ -1,0 +1,13 @@
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.2.12?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.2.22?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.3.0?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.3.12?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.3.16?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.3.4?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.3.6?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.4.0?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.4.18?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.4.22?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.4.32?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.4.6?classifier=sources
+- pkg:maven/com.day.jcr.vault/com.day.jcr.vault@2.5.2?classifier=sources

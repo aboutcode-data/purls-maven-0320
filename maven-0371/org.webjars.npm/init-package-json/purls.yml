@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/init-package-json@1.9.4?classifier=sources
 - pkg:maven/org.webjars.npm/init-package-json@1.9.6
 - pkg:maven/org.webjars.npm/init-package-json@1.9.6?classifier=sources
+- pkg:maven/org.webjars.npm/init-package-json@2.0.1
+- pkg:maven/org.webjars.npm/init-package-json@2.0.1?classifier=sources

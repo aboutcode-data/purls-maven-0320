@@ -10,3 +10,13 @@
 - pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.4.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.5.0
 - pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.5.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.6.0
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.6.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.7.0
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.7.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.8.0
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.8.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.8.1
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.8.1?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.9.0
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-groovy@3.9.0?classifier=sources

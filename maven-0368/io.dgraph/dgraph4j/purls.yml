@@ -30,5 +30,7 @@
 - pkg:maven/io.dgraph/dgraph4j@20.03.0?classifier=sources
 - pkg:maven/io.dgraph/dgraph4j@20.03.1
 - pkg:maven/io.dgraph/dgraph4j@20.03.1?classifier=sources
+- pkg:maven/io.dgraph/dgraph4j@20.03.2
+- pkg:maven/io.dgraph/dgraph4j@20.03.2?classifier=sources
 - pkg:maven/io.dgraph/dgraph4j@20.07.0
 - pkg:maven/io.dgraph/dgraph4j@20.07.0?classifier=sources

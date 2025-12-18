@@ -1,0 +1,2 @@
+- pkg:maven/io.github.martinheywang/products-view-kit@1.1
+- pkg:maven/io.github.martinheywang/products-view-kit@1.1?classifier=sources

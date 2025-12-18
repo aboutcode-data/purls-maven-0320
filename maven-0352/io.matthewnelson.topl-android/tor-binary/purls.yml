@@ -1,3 +1,4 @@
 - pkg:maven/io.matthewnelson.topl-android/tor-binary@0.4.3.5?classifier=sources
 - pkg:maven/io.matthewnelson.topl-android/tor-binary@0.4.3.5a?classifier=sources
 - pkg:maven/io.matthewnelson.topl-android/tor-binary@0.4.3.6?classifier=sources
+- pkg:maven/io.matthewnelson.topl-android/tor-binary@0.4.4.0?classifier=sources

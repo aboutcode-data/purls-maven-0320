@@ -1,3 +1,5 @@
+- pkg:maven/org.smallibs/hpas@0.11.0
+- pkg:maven/org.smallibs/hpas@0.11.0?classifier=sources
 - pkg:maven/org.smallibs/hpas@0.2
 - pkg:maven/org.smallibs/hpas@0.2?classifier=sources
 - pkg:maven/org.smallibs/hpas@0.3

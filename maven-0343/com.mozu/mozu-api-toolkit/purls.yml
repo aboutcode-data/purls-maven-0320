@@ -46,3 +46,7 @@
 - pkg:maven/com.mozu/mozu-api-toolkit@1.1.9-RC1
 - pkg:maven/com.mozu/mozu-api-toolkit@1.1.9-RC1?classifier=sources
 - pkg:maven/com.mozu/mozu-api-toolkit@1.1.9?classifier=sources
+- pkg:maven/com.mozu/mozu-api-toolkit@2.0.0
+- pkg:maven/com.mozu/mozu-api-toolkit@2.0.0-RC1
+- pkg:maven/com.mozu/mozu-api-toolkit@2.0.0-RC1?classifier=sources
+- pkg:maven/com.mozu/mozu-api-toolkit@2.0.0?classifier=sources

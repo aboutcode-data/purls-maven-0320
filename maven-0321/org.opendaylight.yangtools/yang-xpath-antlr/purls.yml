@@ -6,6 +6,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@2.0.12?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@2.0.13
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@2.0.13?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@2.0.14
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@2.0.14?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@2.0.4
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@2.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@2.0.5
@@ -30,3 +32,11 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@5.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@5.0.5
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@5.0.5?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@5.0.6
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@5.0.6?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@5.0.7
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@5.0.7?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@6.0.0
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@6.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@6.0.1
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@6.0.1?classifier=sources

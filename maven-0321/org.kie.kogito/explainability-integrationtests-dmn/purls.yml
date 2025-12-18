@@ -1,1 +1,4 @@
 - pkg:maven/org.kie.kogito/explainability-integrationtests-dmn@0.14.0
+- pkg:maven/org.kie.kogito/explainability-integrationtests-dmn@0.15.0
+- pkg:maven/org.kie.kogito/explainability-integrationtests-dmn@0.16.0
+- pkg:maven/org.kie.kogito/explainability-integrationtests-dmn@0.17.0

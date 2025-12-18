@@ -16,3 +16,5 @@
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-core@0.0.8.RELEASE?classifier=sources
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-core@0.0.9.RELEASE
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-core@0.0.9.RELEASE?classifier=sources
+- pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-core@2.0.0.RELEASE
+- pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-core@2.0.0.RELEASE?classifier=sources

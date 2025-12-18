@@ -1,0 +1,6 @@
+- pkg:maven/com.greenback/greenback-kit-jackson@0.0.1
+- pkg:maven/com.greenback/greenback-kit-jackson@0.0.1?classifier=sources
+- pkg:maven/com.greenback/greenback-kit-jackson@1.0.0
+- pkg:maven/com.greenback/greenback-kit-jackson@1.0.0?classifier=sources
+- pkg:maven/com.greenback/greenback-kit-jackson@1.0.1
+- pkg:maven/com.greenback/greenback-kit-jackson@1.0.1?classifier=sources

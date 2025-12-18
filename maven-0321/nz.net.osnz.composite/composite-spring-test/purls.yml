@@ -29,7 +29,15 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.2
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.21
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.22
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.23
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.24
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.25
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.26
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.27
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.28
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.29
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.3
+- pkg:maven/nz.net.osnz.composite/composite-spring-test@5.30
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.4
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.5
 - pkg:maven/nz.net.osnz.composite/composite-spring-test@5.7

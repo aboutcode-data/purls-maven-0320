@@ -5,3 +5,9 @@
 - pkg:maven/io.prestosql/presto-pinot@338?classifier=sources
 - pkg:maven/io.prestosql/presto-pinot@339?classifier=sources
 - pkg:maven/io.prestosql/presto-pinot@340?classifier=sources
+- pkg:maven/io.prestosql/presto-pinot@341?classifier=sources
+- pkg:maven/io.prestosql/presto-pinot@342?classifier=sources
+- pkg:maven/io.prestosql/presto-pinot@343?classifier=sources
+- pkg:maven/io.prestosql/presto-pinot@344?classifier=sources
+- pkg:maven/io.prestosql/presto-pinot@345?classifier=sources
+- pkg:maven/io.prestosql/presto-pinot@346?classifier=sources

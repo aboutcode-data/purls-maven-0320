@@ -73,6 +73,10 @@
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.0-rc4?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.0?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.1
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.10
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.10?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.11
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.11?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.1?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.2
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.2?classifier=sources
@@ -111,4 +115,6 @@
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.9-rc1?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.9-rc2
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.9-rc2?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.9.1
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.9.1?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@6.9?classifier=sources

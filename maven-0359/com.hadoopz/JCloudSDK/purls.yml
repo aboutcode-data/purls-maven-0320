@@ -1,0 +1,4 @@
+- pkg:maven/com.hadoopz/JCloudSDK@1.0.1
+- pkg:maven/com.hadoopz/JCloudSDK@1.0.1?classifier=sources
+- pkg:maven/com.hadoopz/JCloudSDK@1.0.1_ND
+- pkg:maven/com.hadoopz/JCloudSDK@1.0.1_ND?classifier=sources

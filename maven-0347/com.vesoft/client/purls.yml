@@ -12,3 +12,5 @@
 - pkg:maven/com.vesoft/client@1.0.0-rc4.20200323
 - pkg:maven/com.vesoft/client@1.0.0-rc4.20200323?classifier=sources
 - pkg:maven/com.vesoft/client@1.0.0?classifier=sources
+- pkg:maven/com.vesoft/client@1.0.1
+- pkg:maven/com.vesoft/client@1.0.1?classifier=sources

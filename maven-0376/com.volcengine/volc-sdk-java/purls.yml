@@ -1,0 +1,2 @@
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.0
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.0?classifier=sources

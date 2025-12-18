@@ -1,0 +1,4 @@
+- pkg:maven/net.consensys.quorum.tessera/tessera-recover@1.0.0
+- pkg:maven/net.consensys.quorum.tessera/tessera-recover@1.0.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/tessera-recover@20.10.0
+- pkg:maven/net.consensys.quorum.tessera/tessera-recover@20.10.0?classifier=sources

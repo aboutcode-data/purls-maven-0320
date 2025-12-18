@@ -1,0 +1,2 @@
+- pkg:maven/pl.matsuo.installer/installer-maven-plugin@0.0.1
+- pkg:maven/pl.matsuo.installer/installer-maven-plugin@0.0.1?classifier=sources

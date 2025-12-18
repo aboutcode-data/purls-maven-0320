@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/github-com-josdejong-jsoneditor@7.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-josdejong-jsoneditor@7.4.0
 - pkg:maven/org.webjars.npm/github-com-josdejong-jsoneditor@7.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-josdejong-jsoneditor@9.1.1
+- pkg:maven/org.webjars.npm/github-com-josdejong-jsoneditor@9.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/microsoft__api-extractor-model@7.7.10
+- pkg:maven/org.webjars.npm/microsoft__api-extractor-model@7.7.10?classifier=sources

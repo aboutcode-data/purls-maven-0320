@@ -80,3 +80,15 @@
 - pkg:maven/io.prestosql/presto-benchmark-driver@339?classifier=sources
 - pkg:maven/io.prestosql/presto-benchmark-driver@340
 - pkg:maven/io.prestosql/presto-benchmark-driver@340?classifier=sources
+- pkg:maven/io.prestosql/presto-benchmark-driver@341
+- pkg:maven/io.prestosql/presto-benchmark-driver@341?classifier=sources
+- pkg:maven/io.prestosql/presto-benchmark-driver@342
+- pkg:maven/io.prestosql/presto-benchmark-driver@342?classifier=sources
+- pkg:maven/io.prestosql/presto-benchmark-driver@343
+- pkg:maven/io.prestosql/presto-benchmark-driver@343?classifier=sources
+- pkg:maven/io.prestosql/presto-benchmark-driver@344
+- pkg:maven/io.prestosql/presto-benchmark-driver@344?classifier=sources
+- pkg:maven/io.prestosql/presto-benchmark-driver@345
+- pkg:maven/io.prestosql/presto-benchmark-driver@345?classifier=sources
+- pkg:maven/io.prestosql/presto-benchmark-driver@346
+- pkg:maven/io.prestosql/presto-benchmark-driver@346?classifier=sources

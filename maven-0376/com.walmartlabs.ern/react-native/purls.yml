@@ -60,3 +60,5 @@
 - pkg:maven/com.walmartlabs.ern/react-native@0.63.1?type=aar
 - pkg:maven/com.walmartlabs.ern/react-native@0.63.2?classifier=sources
 - pkg:maven/com.walmartlabs.ern/react-native@0.63.2?type=aar
+- pkg:maven/com.walmartlabs.ern/react-native@0.63.3?classifier=sources
+- pkg:maven/com.walmartlabs.ern/react-native@0.63.3?type=aar

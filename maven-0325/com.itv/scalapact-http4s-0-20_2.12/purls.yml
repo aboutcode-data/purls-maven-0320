@@ -12,6 +12,8 @@
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.16?classifier=sources
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.17
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.17?classifier=sources
+- pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.18
+- pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.18?classifier=sources
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.4
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.4?classifier=sources
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.5
@@ -22,3 +24,5 @@
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.8?classifier=sources
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.9
 - pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.3.9?classifier=sources
+- pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.4.0
+- pkg:maven/com.itv/scalapact-http4s-0-20_2.12@2.4.0?classifier=sources

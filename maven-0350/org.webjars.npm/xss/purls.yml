@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/xss@0.2.16
+- pkg:maven/org.webjars.npm/xss@0.2.16?classifier=sources
 - pkg:maven/org.webjars.npm/xss@0.3.1
 - pkg:maven/org.webjars.npm/xss@0.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/xss@1.0.8
+- pkg:maven/org.webjars.npm/xss@1.0.8?classifier=sources

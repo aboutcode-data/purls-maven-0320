@@ -60,3 +60,7 @@
 - pkg:maven/com.flowlogix/flowlogix-jee@2.3.1
 - pkg:maven/com.flowlogix/flowlogix-jee@2.3.1?classifier=sources
 - pkg:maven/com.flowlogix/flowlogix-jee@2.3?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-jee@3.0
+- pkg:maven/com.flowlogix/flowlogix-jee@3.0?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-jee@4.0
+- pkg:maven/com.flowlogix/flowlogix-jee@4.0?classifier=sources

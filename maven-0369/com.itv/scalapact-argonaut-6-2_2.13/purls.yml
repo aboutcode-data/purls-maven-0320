@@ -1,0 +1,2 @@
+- pkg:maven/com.itv/scalapact-argonaut-6-2_2.13@2.4.0
+- pkg:maven/com.itv/scalapact-argonaut-6-2_2.13@2.4.0?classifier=sources

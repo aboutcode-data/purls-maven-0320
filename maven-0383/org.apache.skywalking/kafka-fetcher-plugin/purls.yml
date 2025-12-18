@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.skywalking/kafka-fetcher-plugin@8.1.0
+- pkg:maven/org.apache.skywalking/kafka-fetcher-plugin@8.2.0

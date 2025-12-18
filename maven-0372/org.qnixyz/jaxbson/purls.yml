@@ -12,3 +12,5 @@
 - pkg:maven/org.qnixyz/jaxbson@0.0.6?classifier=sources
 - pkg:maven/org.qnixyz/jaxbson@0.0.7
 - pkg:maven/org.qnixyz/jaxbson@0.0.7?classifier=sources
+- pkg:maven/org.qnixyz/jaxbson@1.0.0
+- pkg:maven/org.qnixyz/jaxbson@1.0.0?classifier=sources

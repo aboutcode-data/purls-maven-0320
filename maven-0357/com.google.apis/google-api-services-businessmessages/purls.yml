@@ -1,0 +1,2 @@
+- pkg:maven/com.google.apis/google-api-services-businessmessages@1.25.0
+- pkg:maven/com.google.apis/google-api-services-businessmessages@1.25.0?classifier=sources

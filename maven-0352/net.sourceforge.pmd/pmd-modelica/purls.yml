@@ -10,3 +10,9 @@
 - pkg:maven/net.sourceforge.pmd/pmd-modelica@6.25.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-modelica@6.26.0
 - pkg:maven/net.sourceforge.pmd/pmd-modelica@6.26.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@6.27.0
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@6.27.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@6.28.0
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@6.28.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@6.29.0
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@6.29.0?classifier=sources

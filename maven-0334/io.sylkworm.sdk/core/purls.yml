@@ -1,0 +1,2 @@
+- pkg:maven/io.sylkworm.sdk/core@0.1.0
+- pkg:maven/io.sylkworm.sdk/core@0.1.0?classifier=sources

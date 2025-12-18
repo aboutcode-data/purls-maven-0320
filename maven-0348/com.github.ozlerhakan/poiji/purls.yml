@@ -68,3 +68,5 @@
 - pkg:maven/com.github.ozlerhakan/poiji@2.9.0?classifier=sources
 - pkg:maven/com.github.ozlerhakan/poiji@3.0.0
 - pkg:maven/com.github.ozlerhakan/poiji@3.0.0?classifier=sources
+- pkg:maven/com.github.ozlerhakan/poiji@3.0.1
+- pkg:maven/com.github.ozlerhakan/poiji@3.0.1?classifier=sources

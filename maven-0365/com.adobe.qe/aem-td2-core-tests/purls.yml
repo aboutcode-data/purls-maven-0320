@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.qe/aem-td2-core-tests@0.9.2
+- pkg:maven/com.adobe.qe/aem-td2-core-tests@0.9.2?classifier=sources

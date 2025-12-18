@@ -40,6 +40,8 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.0.20.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.0.20.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.0.21.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.0.21.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.0.3.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.0.3.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.0.4.Final
@@ -78,6 +80,8 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.1.4.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.1.5.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.1.5.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.1.6.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@6.1.6.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@7.0.0.Alpha1
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@7.0.0.Alpha1?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-test-utils@7.0.0.Alpha2

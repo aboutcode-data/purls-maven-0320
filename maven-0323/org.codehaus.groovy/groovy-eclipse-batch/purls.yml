@@ -94,3 +94,5 @@
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.4-02?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.5-01
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.5-01?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.6-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-batch@3.0.6-01?classifier=sources

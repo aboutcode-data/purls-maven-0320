@@ -20,3 +20,8 @@
 - pkg:maven/org.finra.herd/herd-sdk-resources@0.123.0
 - pkg:maven/org.finra.herd/herd-sdk-resources@0.124.0
 - pkg:maven/org.finra.herd/herd-sdk-resources@0.125.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.130.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.131.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.132.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.133.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.134.0

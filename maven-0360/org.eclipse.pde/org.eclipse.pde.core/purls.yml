@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.13.300?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.13.400
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.13.400?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.14.0
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.14.0?classifier=sources

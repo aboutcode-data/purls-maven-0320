@@ -24,3 +24,5 @@
 - pkg:maven/vip.toby.rpc/simple-rpc@1.2.1.RELEASE?classifier=sources
 - pkg:maven/vip.toby.rpc/simple-rpc@1.2.3.RELEASE
 - pkg:maven/vip.toby.rpc/simple-rpc@1.2.3.RELEASE?classifier=sources
+- pkg:maven/vip.toby.rpc/simple-rpc@1.2.6.RELEASE
+- pkg:maven/vip.toby.rpc/simple-rpc@1.2.6.RELEASE?classifier=sources

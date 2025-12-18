@@ -7,6 +7,7 @@
 - pkg:maven/com.devonfw.cobigen/cli@1.2.0
 - pkg:maven/com.devonfw.cobigen/cli@1.2.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/cli@2021.08.001?classifier=sources
+- pkg:maven/com.devonfw.cobigen/cli@2021.08.002?classifier=sources
 - pkg:maven/com.devonfw.cobigen/cli@7.0.0
 - pkg:maven/com.devonfw.cobigen/cli@7.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/cli@7.1.0

@@ -18,6 +18,7 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@3.6.0
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@3.7.0
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@3.7.1
+- pkg:maven/com.powsybl/powsybl-cgmes-conformity@3.7.2
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@3.8.0
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@3.8.0-RC1
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@3.8.1
@@ -35,3 +36,5 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.0-RC2
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.0-alpha-1
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.1
+- pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.4.0
+- pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.4.0-RC1

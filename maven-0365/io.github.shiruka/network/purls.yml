@@ -114,3 +114,8 @@
 - pkg:maven/io.github.shiruka/network@2.5.3?classifier=sources
 - pkg:maven/io.github.shiruka/network@2.5.4
 - pkg:maven/io.github.shiruka/network@2.5.4?classifier=sources
+- pkg:maven/io.github.shiruka/network@3.0.0?classifier=sources
+- pkg:maven/io.github.shiruka/network@3.0.1?classifier=sources
+- pkg:maven/io.github.shiruka/network@3.0.2?classifier=sources
+- pkg:maven/io.github.shiruka/network@3.0.3?classifier=sources
+- pkg:maven/io.github.shiruka/network@3.0.4?classifier=sources

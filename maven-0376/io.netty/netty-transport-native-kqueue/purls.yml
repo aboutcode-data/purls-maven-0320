@@ -112,3 +112,7 @@
 - pkg:maven/io.netty/netty-transport-native-kqueue@4.1.66.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-native-kqueue@4.1.67.Final
 - pkg:maven/io.netty/netty-transport-native-kqueue@4.1.67.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-kqueue@4.1.68.Final
+- pkg:maven/io.netty/netty-transport-native-kqueue@4.1.68.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-kqueue@4.1.69.Final
+- pkg:maven/io.netty/netty-transport-native-kqueue@4.1.69.Final?classifier=sources

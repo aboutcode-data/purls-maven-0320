@@ -1,0 +1,4 @@
+- pkg:maven/bio.ferlab/datalake-commons_2.12@0.1.0
+- pkg:maven/bio.ferlab/datalake-commons_2.12@0.1.0?classifier=sources
+- pkg:maven/bio.ferlab/datalake-commons_2.12@0.1.1
+- pkg:maven/bio.ferlab/datalake-commons_2.12@0.1.1?classifier=sources

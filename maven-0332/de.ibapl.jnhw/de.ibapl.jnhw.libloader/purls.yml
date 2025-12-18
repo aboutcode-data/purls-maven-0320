@@ -1,2 +1,4 @@
 - pkg:maven/de.ibapl.jnhw/de.ibapl.jnhw.libloader@1.0.0
 - pkg:maven/de.ibapl.jnhw/de.ibapl.jnhw.libloader@1.0.0?classifier=sources
+- pkg:maven/de.ibapl.jnhw/de.ibapl.jnhw.libloader@3.0.0
+- pkg:maven/de.ibapl.jnhw/de.ibapl.jnhw.libloader@3.0.0?classifier=sources

@@ -121,4 +121,5 @@
 - pkg:maven/com.squarespace.template/template-core@2.8.24?classifier=sources
 - pkg:maven/com.squarespace.template/template-core@2.8.25?classifier=sources
 - pkg:maven/com.squarespace.template/template-core@2.8.26?classifier=sources
+- pkg:maven/com.squarespace.template/template-core@2.8.27?classifier=sources
 - pkg:maven/com.squarespace.template/template-core@2.8.4?classifier=sources

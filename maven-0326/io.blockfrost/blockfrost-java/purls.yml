@@ -1,0 +1,2 @@
+- pkg:maven/io.blockfrost/blockfrost-java@0.1.0-beta3?classifier=sources
+- pkg:maven/io.blockfrost/blockfrost-java@0.1.0-beta?classifier=sources

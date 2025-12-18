@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/mocha@8.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/mocha@9.0.3
 - pkg:maven/org.webjars.npm/mocha@9.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/mocha@9.1.1
+- pkg:maven/org.webjars.npm/mocha@9.1.1?classifier=sources

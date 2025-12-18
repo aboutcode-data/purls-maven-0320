@@ -1,2 +1,5 @@
 - pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@2.0.0
 - pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@2.0.0-rc1
+- pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@3.0.0
+- pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@3.0.0-rc1
+- pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@3.0.1

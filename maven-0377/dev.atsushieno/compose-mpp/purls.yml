@@ -1,0 +1,2 @@
+- pkg:maven/dev.atsushieno/compose-mpp@0.1.1?classifier=sources
+- pkg:maven/dev.atsushieno/compose-mpp@0.1?classifier=sources

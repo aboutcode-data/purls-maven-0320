@@ -5,4 +5,7 @@
 - pkg:maven/me.proton.core/plan@0.1.1?classifier=sources
 - pkg:maven/me.proton.core/plan@0.2.1?classifier=sources
 - pkg:maven/me.proton.core/plan@0.2?classifier=sources
+- pkg:maven/me.proton.core/plan@1.15?classifier=sources
+- pkg:maven/me.proton.core/plan@1.16?classifier=sources
+- pkg:maven/me.proton.core/plan@1.17?classifier=sources
 - pkg:maven/me.proton.core/plan@1.5.2?classifier=sources

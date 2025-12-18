@@ -1,0 +1,16 @@
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-alpha01?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-alpha02?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-alpha03?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-alpha04?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta01?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta02?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta03?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta04?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta06?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta07?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta08?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta09?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0-beta10?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.0?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.1?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.2?classifier=sources

@@ -238,6 +238,16 @@
 - pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20210614-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20210706-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20210706-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20210920-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20210920-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20210927-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20210927-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20211005-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20211005-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20211012-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20211012-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20211018-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev20211018-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudsearch@v1-rev21-1.22.0

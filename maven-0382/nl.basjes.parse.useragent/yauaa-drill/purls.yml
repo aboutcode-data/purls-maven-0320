@@ -62,3 +62,5 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-drill@5.9?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-drill@6.0
 - pkg:maven/nl.basjes.parse.useragent/yauaa-drill@6.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-drill@6.1
+- pkg:maven/nl.basjes.parse.useragent/yauaa-drill@6.1?classifier=sources

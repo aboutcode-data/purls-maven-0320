@@ -14,5 +14,7 @@
 - pkg:maven/com.dooapp.fxform2/extensions@8.2.6?classifier=sources
 - pkg:maven/com.dooapp.fxform2/extensions@8.2.7
 - pkg:maven/com.dooapp.fxform2/extensions@8.2.7?classifier=sources
+- pkg:maven/com.dooapp.fxform2/extensions@8.2.8
+- pkg:maven/com.dooapp.fxform2/extensions@8.2.8?classifier=sources
 - pkg:maven/com.dooapp.fxform2/extensions@9.0.0
 - pkg:maven/com.dooapp.fxform2/extensions@9.0.0?classifier=sources

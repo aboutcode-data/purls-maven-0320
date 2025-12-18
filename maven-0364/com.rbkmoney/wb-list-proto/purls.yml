@@ -10,3 +10,5 @@
 - pkg:maven/com.rbkmoney/wb-list-proto@1.36-feec206?classifier=sources
 - pkg:maven/com.rbkmoney/wb-list-proto@1.37-8cd59c1
 - pkg:maven/com.rbkmoney/wb-list-proto@1.37-8cd59c1?classifier=sources
+- pkg:maven/com.rbkmoney/wb-list-proto@1.39-e20ba71
+- pkg:maven/com.rbkmoney/wb-list-proto@1.39-e20ba71?classifier=sources

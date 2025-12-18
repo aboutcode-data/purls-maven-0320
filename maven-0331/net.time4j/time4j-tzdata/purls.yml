@@ -77,3 +77,6 @@
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2020d?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2020e?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2021a?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2021c?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2021d?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2021e?classifier=sources

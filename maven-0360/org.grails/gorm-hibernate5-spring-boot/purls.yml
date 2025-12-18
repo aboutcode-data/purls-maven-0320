@@ -68,6 +68,7 @@
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.0.4.RELEASE?classifier=sources
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.0.5
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.0.5?classifier=sources
+- pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.1.0-RC4?classifier=sources
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.1.0.M1
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.1.0.M1?classifier=sources
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.1.0.M2
@@ -77,3 +78,4 @@
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.1.0.RC1?classifier=sources
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.1.0.RC2?classifier=sources
 - pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.1.0.RC3?classifier=sources
+- pkg:maven/org.grails/gorm-hibernate5-spring-boot@7.1.0?classifier=sources

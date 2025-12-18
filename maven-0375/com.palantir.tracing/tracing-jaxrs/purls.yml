@@ -47,3 +47,6 @@
 - pkg:maven/com.palantir.tracing/tracing-jaxrs@5.1.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-jaxrs@6.0.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-jaxrs@6.1.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-jaxrs@6.2.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-jaxrs@6.3.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-jaxrs@6.4.0?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/org.codehaus.groovy/groovy-astbuilder@3.0.7
 - pkg:maven/org.codehaus.groovy/groovy-astbuilder@3.0.7?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-astbuilder@3.0.8?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-astbuilder@3.0.9?classifier=sources

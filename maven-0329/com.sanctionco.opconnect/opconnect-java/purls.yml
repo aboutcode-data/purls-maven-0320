@@ -18,3 +18,5 @@
 - pkg:maven/com.sanctionco.opconnect/opconnect-java@0.3.2?classifier=sources
 - pkg:maven/com.sanctionco.opconnect/opconnect-java@0.4.0
 - pkg:maven/com.sanctionco.opconnect/opconnect-java@0.4.0?classifier=sources
+- pkg:maven/com.sanctionco.opconnect/opconnect-java@0.5.0
+- pkg:maven/com.sanctionco.opconnect/opconnect-java@0.5.0?classifier=sources

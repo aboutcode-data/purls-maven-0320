@@ -40,3 +40,4 @@
 - pkg:maven/org.kie.workbench.playground/traffic-violation@7.57.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/traffic-violation@7.58.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/traffic-violation@7.59.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/traffic-violation@7.60.0.Final?classifier=sources

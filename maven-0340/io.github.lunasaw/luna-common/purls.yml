@@ -54,3 +54,15 @@
 - pkg:maven/io.github.lunasaw/luna-common@1.5.8?classifier=sources
 - pkg:maven/io.github.lunasaw/luna-common@1.5.9
 - pkg:maven/io.github.lunasaw/luna-common@1.5.9?classifier=sources
+- pkg:maven/io.github.lunasaw/luna-common@1.6.0
+- pkg:maven/io.github.lunasaw/luna-common@1.6.0-RELEASE
+- pkg:maven/io.github.lunasaw/luna-common@1.6.0-RELEASE?classifier=sources
+- pkg:maven/io.github.lunasaw/luna-common@1.6.0?classifier=sources
+- pkg:maven/io.github.lunasaw/luna-common@1.6.1-RELEASE
+- pkg:maven/io.github.lunasaw/luna-common@1.6.1-RELEASE?classifier=sources
+- pkg:maven/io.github.lunasaw/luna-common@1.6.2-RELEASE
+- pkg:maven/io.github.lunasaw/luna-common@1.6.2-RELEASE?classifier=sources
+- pkg:maven/io.github.lunasaw/luna-common@1.6.3-RELEASE
+- pkg:maven/io.github.lunasaw/luna-common@1.6.3-RELEASE?classifier=sources
+- pkg:maven/io.github.lunasaw/luna-common@1.6.4-RELEASE
+- pkg:maven/io.github.lunasaw/luna-common@1.6.4-RELEASE?classifier=sources

@@ -6,3 +6,6 @@
 - pkg:maven/com.fastjrun.codeg/codeg-test@2.1.5
 - pkg:maven/com.fastjrun.codeg/codeg-test@3.0
 - pkg:maven/com.fastjrun.codeg/codeg-test@3.1
+- pkg:maven/com.fastjrun.codeg/codeg-test@3.2
+- pkg:maven/com.fastjrun.codeg/codeg-test@3.2.1
+- pkg:maven/com.fastjrun.codeg/codeg-test@3.2.2

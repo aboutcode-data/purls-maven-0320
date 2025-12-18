@@ -1,0 +1,2 @@
+- pkg:maven/camp.xit.google/google-api-credentials@1.2.6
+- pkg:maven/camp.xit.google/google-api-credentials@1.2.6?classifier=sources

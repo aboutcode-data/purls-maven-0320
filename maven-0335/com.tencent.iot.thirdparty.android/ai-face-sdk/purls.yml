@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.iot.thirdparty.android/ai-face-sdk@6.0.0.140?classifier=sources
+- pkg:maven/com.tencent.iot.thirdparty.android/ai-face-sdk@6.3.2.156?classifier=sources

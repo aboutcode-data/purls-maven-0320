@@ -34,3 +34,11 @@
 - pkg:maven/in.messai/yuga@1.0.31?classifier=sources
 - pkg:maven/in.messai/yuga@1.0.32
 - pkg:maven/in.messai/yuga@1.0.32?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.33
+- pkg:maven/in.messai/yuga@1.0.33?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.34
+- pkg:maven/in.messai/yuga@1.0.34?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.35
+- pkg:maven/in.messai/yuga@1.0.35?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.36
+- pkg:maven/in.messai/yuga@1.0.36?classifier=sources

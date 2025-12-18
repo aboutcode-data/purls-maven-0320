@@ -34,3 +34,7 @@
 - pkg:maven/org.finra.herd/herd-sdk-resources@0.150.0
 - pkg:maven/org.finra.herd/herd-sdk-resources@0.152.0
 - pkg:maven/org.finra.herd/herd-sdk-resources@0.154.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.155.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.156.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.157.0
+- pkg:maven/org.finra.herd/herd-sdk-resources@0.158.0

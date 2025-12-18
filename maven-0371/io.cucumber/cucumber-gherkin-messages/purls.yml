@@ -82,3 +82,7 @@
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@6.9.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@6.9.1
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@6.9.1?classifier=sources
+- pkg:maven/io.cucumber/cucumber-gherkin-messages@7.0.0
+- pkg:maven/io.cucumber/cucumber-gherkin-messages@7.0.0-RC1
+- pkg:maven/io.cucumber/cucumber-gherkin-messages@7.0.0-RC1?classifier=sources
+- pkg:maven/io.cucumber/cucumber-gherkin-messages@7.0.0?classifier=sources

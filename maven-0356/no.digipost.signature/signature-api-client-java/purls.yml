@@ -74,3 +74,11 @@
 - pkg:maven/no.digipost.signature/signature-api-client-java@6.0-RC3
 - pkg:maven/no.digipost.signature/signature-api-client-java@6.0-RC3?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-client-java@6.0?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-client-java@6.1
+- pkg:maven/no.digipost.signature/signature-api-client-java@6.1?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC1
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC1?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC2
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC2?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC3
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC3?classifier=sources

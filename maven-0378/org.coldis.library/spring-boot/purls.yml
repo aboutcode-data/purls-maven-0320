@@ -149,6 +149,12 @@
 - pkg:maven/org.coldis.library/spring-boot@0.0.82?classifier=sources
 - pkg:maven/org.coldis.library/spring-boot@0.0.83
 - pkg:maven/org.coldis.library/spring-boot@0.0.83?classifier=sources
+- pkg:maven/org.coldis.library/spring-boot@0.0.84
+- pkg:maven/org.coldis.library/spring-boot@0.0.84?classifier=sources
+- pkg:maven/org.coldis.library/spring-boot@0.0.86
+- pkg:maven/org.coldis.library/spring-boot@0.0.86?classifier=sources
+- pkg:maven/org.coldis.library/spring-boot@0.0.87
+- pkg:maven/org.coldis.library/spring-boot@0.0.87?classifier=sources
 - pkg:maven/org.coldis.library/spring-boot@0.0.8?classifier=sources
 - pkg:maven/org.coldis.library/spring-boot@0.0.9
 - pkg:maven/org.coldis.library/spring-boot@0.0.9?classifier=sources

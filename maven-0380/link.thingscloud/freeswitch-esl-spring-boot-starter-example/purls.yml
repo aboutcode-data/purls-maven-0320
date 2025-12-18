@@ -52,3 +52,7 @@
 - pkg:maven/link.thingscloud/freeswitch-esl-spring-boot-starter-example@1.6.1.RELEASE?classifier=sources
 - pkg:maven/link.thingscloud/freeswitch-esl-spring-boot-starter-example@1.6.2.RELEASE
 - pkg:maven/link.thingscloud/freeswitch-esl-spring-boot-starter-example@1.6.2.RELEASE?classifier=sources
+- pkg:maven/link.thingscloud/freeswitch-esl-spring-boot-starter-example@1.6.3.RELEASE
+- pkg:maven/link.thingscloud/freeswitch-esl-spring-boot-starter-example@1.6.3.RELEASE?classifier=sources
+- pkg:maven/link.thingscloud/freeswitch-esl-spring-boot-starter-example@1.6.4.RELEASE
+- pkg:maven/link.thingscloud/freeswitch-esl-spring-boot-starter-example@1.6.4.RELEASE?classifier=sources

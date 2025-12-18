@@ -20,3 +20,5 @@
 - pkg:maven/ch.astorm/jotlmsg@1.7?classifier=sources
 - pkg:maven/ch.astorm/jotlmsg@1.8
 - pkg:maven/ch.astorm/jotlmsg@1.8?classifier=sources
+- pkg:maven/ch.astorm/jotlmsg@2.0
+- pkg:maven/ch.astorm/jotlmsg@2.0?classifier=sources

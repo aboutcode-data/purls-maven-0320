@@ -1,0 +1,2 @@
+- pkg:maven/ch.voulgarakis/spring-cloud-stream-binder-jms@1.0.0.RELEASE
+- pkg:maven/ch.voulgarakis/spring-cloud-stream-binder-jms@1.0.0.RELEASE?classifier=sources

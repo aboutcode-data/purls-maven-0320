@@ -1,2 +1,8 @@
 - pkg:maven/nu.aron/nextversion-maven-plugin@26
 - pkg:maven/nu.aron/nextversion-maven-plugin@26?classifier=sources
+- pkg:maven/nu.aron/nextversion-maven-plugin@27
+- pkg:maven/nu.aron/nextversion-maven-plugin@27?classifier=sources
+- pkg:maven/nu.aron/nextversion-maven-plugin@28
+- pkg:maven/nu.aron/nextversion-maven-plugin@28?classifier=sources
+- pkg:maven/nu.aron/nextversion-maven-plugin@29
+- pkg:maven/nu.aron/nextversion-maven-plugin@29?classifier=sources

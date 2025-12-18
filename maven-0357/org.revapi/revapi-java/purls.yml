@@ -88,6 +88,10 @@
 - pkg:maven/org.revapi/revapi-java@0.24.3?classifier=sources
 - pkg:maven/org.revapi/revapi-java@0.24.4
 - pkg:maven/org.revapi/revapi-java@0.24.4?classifier=sources
+- pkg:maven/org.revapi/revapi-java@0.25.0
+- pkg:maven/org.revapi/revapi-java@0.25.0?classifier=sources
+- pkg:maven/org.revapi/revapi-java@0.26.0
+- pkg:maven/org.revapi/revapi-java@0.26.0?classifier=sources
 - pkg:maven/org.revapi/revapi-java@0.3.0
 - pkg:maven/org.revapi/revapi-java@0.3.0?classifier=sources
 - pkg:maven/org.revapi/revapi-java@0.3.1

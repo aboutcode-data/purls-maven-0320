@@ -22,3 +22,5 @@
 - pkg:maven/net.opentsdb/opentsdb@2.4.0?classifier=sources
 - pkg:maven/net.opentsdb/opentsdb@2.4.0RC1
 - pkg:maven/net.opentsdb/opentsdb@2.4.0RC1?classifier=sources
+- pkg:maven/net.opentsdb/opentsdb@2.4.1
+- pkg:maven/net.opentsdb/opentsdb@2.4.1?classifier=sources

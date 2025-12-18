@@ -40,3 +40,5 @@
 - pkg:maven/org.membrane-soa/service-proxy-war@4.8.1?type=war
 - pkg:maven/org.membrane-soa/service-proxy-war@4.8.2?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-war@4.8.2?type=war
+- pkg:maven/org.membrane-soa/service-proxy-war@4.8.3?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-war@4.8.3?type=war

@@ -25,3 +25,4 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.8.0?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.9.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@1.9.0?type=aar
+- pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@5.12.3.0?classifier=sources

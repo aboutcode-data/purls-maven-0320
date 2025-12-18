@@ -3,3 +3,4 @@
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@0.0.5?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@0.0.6?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@0.0.7?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@7.67.0?classifier=sources

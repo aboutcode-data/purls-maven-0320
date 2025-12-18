@@ -7,3 +7,4 @@
 - pkg:maven/org.checkerframework/checker-util@3.16.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-util@3.17.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-util@3.18.0?classifier=sources
+- pkg:maven/org.checkerframework/checker-util@3.18.1?classifier=sources

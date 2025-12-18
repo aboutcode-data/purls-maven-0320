@@ -4,6 +4,12 @@
 - pkg:maven/com.infomaximum/cluster@1.0.1?classifier=sources
 - pkg:maven/com.infomaximum/cluster@1.0.1p1
 - pkg:maven/com.infomaximum/cluster@1.0.1p1?classifier=sources
+- pkg:maven/com.infomaximum/cluster@1.0.2
+- pkg:maven/com.infomaximum/cluster@1.0.2?classifier=sources
+- pkg:maven/com.infomaximum/cluster@1.0.2p1
+- pkg:maven/com.infomaximum/cluster@1.0.2p1?classifier=sources
+- pkg:maven/com.infomaximum/cluster@1.0.2p2
+- pkg:maven/com.infomaximum/cluster@1.0.2p2?classifier=sources
 - pkg:maven/com.infomaximum/cluster@1.0.2rc1
 - pkg:maven/com.infomaximum/cluster@1.0.2rc1?classifier=sources
 - pkg:maven/com.infomaximum/cluster@1.0.2rc2

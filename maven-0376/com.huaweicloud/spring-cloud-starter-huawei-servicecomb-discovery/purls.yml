@@ -38,3 +38,4 @@
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-servicecomb-discovery@1.5.9-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-servicecomb-discovery@1.6.0-Finchley
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-servicecomb-discovery@1.6.0-Hoxton
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-servicecomb-discovery@1.6.1-Finchley

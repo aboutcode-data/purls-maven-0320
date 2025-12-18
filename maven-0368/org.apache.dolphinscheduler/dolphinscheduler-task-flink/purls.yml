@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-task-flink@2.0.0-alpha?classifier=sources

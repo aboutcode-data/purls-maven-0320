@@ -1,0 +1,2 @@
+- pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.2.0
+- pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.2.0?classifier=sources

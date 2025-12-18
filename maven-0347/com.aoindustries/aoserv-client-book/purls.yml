@@ -30,3 +30,5 @@
 - pkg:maven/com.aoindustries/aoserv-client-book@1.85.0?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-client-book@1.86.0
 - pkg:maven/com.aoindustries/aoserv-client-book@1.86.0?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client-book@1.88.0
+- pkg:maven/com.aoindustries/aoserv-client-book@1.88.0?classifier=sources

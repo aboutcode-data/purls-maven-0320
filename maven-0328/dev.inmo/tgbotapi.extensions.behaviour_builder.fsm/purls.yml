@@ -1,0 +1,2 @@
+- pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder.fsm@0.36.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder.fsm@0.36.1?classifier=sources

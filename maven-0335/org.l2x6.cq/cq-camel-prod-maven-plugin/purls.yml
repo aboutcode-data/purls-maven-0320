@@ -1,0 +1,4 @@
+- pkg:maven/org.l2x6.cq/cq-camel-prod-maven-plugin@2.12.0
+- pkg:maven/org.l2x6.cq/cq-camel-prod-maven-plugin@2.12.0?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-camel-prod-maven-plugin@2.13.0
+- pkg:maven/org.l2x6.cq/cq-camel-prod-maven-plugin@2.13.0?classifier=sources

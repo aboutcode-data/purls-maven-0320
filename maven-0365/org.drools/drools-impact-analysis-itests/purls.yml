@@ -9,3 +9,4 @@
 - pkg:maven/org.drools/drools-impact-analysis-itests@7.58.0.Final
 - pkg:maven/org.drools/drools-impact-analysis-itests@7.59.0.Beta1
 - pkg:maven/org.drools/drools-impact-analysis-itests@7.59.0.Final
+- pkg:maven/org.drools/drools-impact-analysis-itests@7.60.0.Final

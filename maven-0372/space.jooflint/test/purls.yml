@@ -1,0 +1,14 @@
+- pkg:maven/space.jooflint/test@0.14.12?classifier=sources
+- pkg:maven/space.jooflint/test@0.14.13?classifier=sources
+- pkg:maven/space.jooflint/test@0.14.13a?classifier=sources
+- pkg:maven/space.jooflint/test@1.0.0?classifier=sources
+- pkg:maven/space.jooflint/test@1.0.1?classifier=sources
+- pkg:maven/space.jooflint/test@1.0.2?classifier=sources
+- pkg:maven/space.jooflint/test@1.0.3?classifier=sources
+- pkg:maven/space.jooflint/test@1.0.4?classifier=sources
+- pkg:maven/space.jooflint/test@1.0.5?classifier=sources
+- pkg:maven/space.jooflint/test@1.1.0?classifier=sources
+- pkg:maven/space.jooflint/test@1.1.4?classifier=sources
+- pkg:maven/space.jooflint/test@1.1.5?classifier=sources
+- pkg:maven/space.jooflint/test@3.0.1?classifier=sources
+- pkg:maven/space.jooflint/test@3.0.2?classifier=sources

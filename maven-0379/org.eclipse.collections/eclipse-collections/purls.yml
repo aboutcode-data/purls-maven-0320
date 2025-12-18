@@ -32,6 +32,8 @@
 - pkg:maven/org.eclipse.collections/eclipse-collections@11.0.0.M2?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections@11.0.0.M3
 - pkg:maven/org.eclipse.collections/eclipse-collections@11.0.0.M3?classifier=sources
+- pkg:maven/org.eclipse.collections/eclipse-collections@11.0.0.M5
+- pkg:maven/org.eclipse.collections/eclipse-collections@11.0.0.M5?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections@7.0.0
 - pkg:maven/org.eclipse.collections/eclipse-collections@7.0.0?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections@7.0.1

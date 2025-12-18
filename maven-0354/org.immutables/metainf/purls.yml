@@ -249,3 +249,4 @@
 - pkg:maven/org.immutables/metainf@2.9.0-beta3
 - pkg:maven/org.immutables/metainf@2.9.0-beta3?classifier=sources
 - pkg:maven/org.immutables/metainf@2.9.0-rc1
+- pkg:maven/org.immutables/metainf@2.9.0-rc1?classifier=sources

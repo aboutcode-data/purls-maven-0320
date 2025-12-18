@@ -12,3 +12,5 @@
 - pkg:maven/net.colesico.framework/colesico-bundle-srv@4.5.0?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-bundle-srv@4.6.0
 - pkg:maven/net.colesico.framework/colesico-bundle-srv@4.6.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-bundle-srv@5.0.0
+- pkg:maven/net.colesico.framework/colesico-bundle-srv@5.0.0?classifier=sources

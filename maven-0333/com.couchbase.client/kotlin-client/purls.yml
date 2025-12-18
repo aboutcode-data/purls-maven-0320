@@ -2,3 +2,5 @@
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.1?classifier=sources
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.2
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.2?classifier=sources
+- pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.3
+- pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.3?classifier=sources

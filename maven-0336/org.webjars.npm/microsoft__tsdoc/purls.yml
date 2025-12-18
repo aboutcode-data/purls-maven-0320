@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/microsoft__tsdoc@0.12.19
 - pkg:maven/org.webjars.npm/microsoft__tsdoc@0.12.19?classifier=sources
+- pkg:maven/org.webjars.npm/microsoft__tsdoc@0.13.2
+- pkg:maven/org.webjars.npm/microsoft__tsdoc@0.13.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.githup.liuyanggithup/rocketmq-transaction-spring-boot@0.1
+- pkg:maven/com.githup.liuyanggithup/rocketmq-transaction-spring-boot@0.1?classifier=sources

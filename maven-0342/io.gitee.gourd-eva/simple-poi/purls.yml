@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.gourd-eva/simple-poi@0.0.1-Alpha
+- pkg:maven/io.gitee.gourd-eva/simple-poi@0.0.1-Alpha?classifier=sources

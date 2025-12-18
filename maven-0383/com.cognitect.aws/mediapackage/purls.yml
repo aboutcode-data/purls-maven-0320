@@ -26,3 +26,5 @@
 - pkg:maven/com.cognitect.aws/mediapackage@811.2.889.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mediapackage@811.2.934.0
 - pkg:maven/com.cognitect.aws/mediapackage@811.2.934.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediapackage@814.2.986.0
+- pkg:maven/com.cognitect.aws/mediapackage@814.2.986.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.axual.security.principal/principal-builder-util@2.3.0?classifier=sources
 - pkg:maven/io.axual.security.principal/principal-builder-util@2.4.0
 - pkg:maven/io.axual.security.principal/principal-builder-util@2.4.0?classifier=sources
+- pkg:maven/io.axual.security.principal/principal-builder-util@2.5.0
+- pkg:maven/io.axual.security.principal/principal-builder-util@2.5.0?classifier=sources

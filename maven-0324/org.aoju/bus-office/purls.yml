@@ -166,3 +166,7 @@
 - pkg:maven/org.aoju/bus-office@6.2.6?classifier=sources
 - pkg:maven/org.aoju/bus-office@6.2.8
 - pkg:maven/org.aoju/bus-office@6.2.8?classifier=sources
+- pkg:maven/org.aoju/bus-office@6.2.9
+- pkg:maven/org.aoju/bus-office@6.2.9?classifier=sources
+- pkg:maven/org.aoju/bus-office@6.3.0
+- pkg:maven/org.aoju/bus-office@6.3.0?classifier=sources

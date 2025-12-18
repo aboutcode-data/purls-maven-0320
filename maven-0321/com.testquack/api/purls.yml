@@ -1,3 +1,7 @@
+- pkg:maven/com.testquack/api@1.11?classifier=sources
+- pkg:maven/com.testquack/api@1.11?type=war
+- pkg:maven/com.testquack/api@1.12?classifier=sources
+- pkg:maven/com.testquack/api@1.12?type=war
 - pkg:maven/com.testquack/api@1.1?classifier=sources
 - pkg:maven/com.testquack/api@1.1?type=war
 - pkg:maven/com.testquack/api@1.2?classifier=sources

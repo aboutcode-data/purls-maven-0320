@@ -1,0 +1,1 @@
+- pkg:maven/com.parrot.drone.groundsdk/sdkcore-native-runtime@7.0.0?classifier=sources

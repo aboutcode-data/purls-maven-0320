@@ -1,2 +1,5 @@
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem@0.902?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem@0.91?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem@0.92?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem@0.931?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem@0.93?classifier=sources

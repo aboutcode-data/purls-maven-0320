@@ -3,3 +3,5 @@
 - pkg:maven/space.vectrix.ignite/ignite-api@0.4.0?classifier=sources
 - pkg:maven/space.vectrix.ignite/ignite-api@0.5.0?classifier=sources
 - pkg:maven/space.vectrix.ignite/ignite-api@0.5.1?classifier=sources
+- pkg:maven/space.vectrix.ignite/ignite-api@0.5.2?classifier=sources
+- pkg:maven/space.vectrix.ignite/ignite-api@0.5.3?classifier=sources

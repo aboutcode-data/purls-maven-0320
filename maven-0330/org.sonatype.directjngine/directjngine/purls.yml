@@ -14,3 +14,5 @@
 - pkg:maven/org.sonatype.directjngine/directjngine@2.2.7?classifier=sources
 - pkg:maven/org.sonatype.directjngine/directjngine@2.2.8-01
 - pkg:maven/org.sonatype.directjngine/directjngine@2.2.8-01?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.9-02
+- pkg:maven/org.sonatype.directjngine/directjngine@2.2.9-02?classifier=sources

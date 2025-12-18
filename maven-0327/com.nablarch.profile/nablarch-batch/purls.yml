@@ -8,6 +8,7 @@
 - pkg:maven/com.nablarch.profile/nablarch-batch@5u17
 - pkg:maven/com.nablarch.profile/nablarch-batch@5u18
 - pkg:maven/com.nablarch.profile/nablarch-batch@5u19
+- pkg:maven/com.nablarch.profile/nablarch-batch@5u20
 - pkg:maven/com.nablarch.profile/nablarch-batch@5u6
 - pkg:maven/com.nablarch.profile/nablarch-batch@5u7
 - pkg:maven/com.nablarch.profile/nablarch-batch@5u8

@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/aws-signing-jvm@0.7.0-alpha?classifier=sources

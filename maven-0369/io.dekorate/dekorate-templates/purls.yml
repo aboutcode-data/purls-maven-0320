@@ -74,3 +74,7 @@
 - pkg:maven/io.dekorate/dekorate-templates@2.3.3?classifier=sources
 - pkg:maven/io.dekorate/dekorate-templates@2.4.1
 - pkg:maven/io.dekorate/dekorate-templates@2.4.1?classifier=sources
+- pkg:maven/io.dekorate/dekorate-templates@2.5.0
+- pkg:maven/io.dekorate/dekorate-templates@2.5.0?classifier=sources
+- pkg:maven/io.dekorate/dekorate-templates@2.6.0
+- pkg:maven/io.dekorate/dekorate-templates@2.6.0?classifier=sources

@@ -4,5 +4,11 @@
 - pkg:maven/org.webjars.npm/prosemirror-view@1.14.7?classifier=sources
 - pkg:maven/org.webjars.npm/prosemirror-view@1.15.0
 - pkg:maven/org.webjars.npm/prosemirror-view@1.15.0?classifier=sources
+- pkg:maven/org.webjars.npm/prosemirror-view@1.15.4
+- pkg:maven/org.webjars.npm/prosemirror-view@1.15.4?classifier=sources
+- pkg:maven/org.webjars.npm/prosemirror-view@1.18.8
+- pkg:maven/org.webjars.npm/prosemirror-view@1.18.8?classifier=sources
+- pkg:maven/org.webjars.npm/prosemirror-view@1.18.9
+- pkg:maven/org.webjars.npm/prosemirror-view@1.18.9?classifier=sources
 - pkg:maven/org.webjars.npm/prosemirror-view@1.9.14-prerelease6
 - pkg:maven/org.webjars.npm/prosemirror-view@1.9.14-prerelease6?classifier=sources

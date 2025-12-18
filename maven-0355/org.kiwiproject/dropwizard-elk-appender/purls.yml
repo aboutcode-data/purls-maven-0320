@@ -20,5 +20,9 @@
 - pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.18.0?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.19.0
 - pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.19.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.20.0
+- pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.20.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.21.0
+- pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.21.0?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.9.0
 - pkg:maven/org.kiwiproject/dropwizard-elk-appender@0.9.0?classifier=sources

@@ -9,4 +9,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser@RELEASE90?classifier=sources

@@ -28,3 +28,7 @@
 - pkg:maven/com.computablefacts/morta@0.9?classifier=sources
 - pkg:maven/com.computablefacts/morta@1.15
 - pkg:maven/com.computablefacts/morta@1.15?classifier=sources
+- pkg:maven/com.computablefacts/morta@1.16
+- pkg:maven/com.computablefacts/morta@1.16?classifier=sources
+- pkg:maven/com.computablefacts/morta@1.17
+- pkg:maven/com.computablefacts/morta@1.17?classifier=sources

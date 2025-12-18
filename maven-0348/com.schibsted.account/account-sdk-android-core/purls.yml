@@ -1,1 +1,2 @@
 - pkg:maven/com.schibsted.account/account-sdk-android-core@2.0.2?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-core@2.1.0?classifier=sources

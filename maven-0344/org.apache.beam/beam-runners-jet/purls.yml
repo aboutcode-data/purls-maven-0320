@@ -19,3 +19,5 @@
 - pkg:maven/org.apache.beam/beam-runners-jet@2.27.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-jet@2.28.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-jet@2.29.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-jet@2.30.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-jet@2.31.0?classifier=sources

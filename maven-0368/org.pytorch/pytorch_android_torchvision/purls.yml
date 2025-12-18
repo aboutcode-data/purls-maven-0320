@@ -1,3 +1,4 @@
 - pkg:maven/org.pytorch/pytorch_android_torchvision@0.0.9?classifier=sources
 - pkg:maven/org.pytorch/pytorch_android_torchvision@1.8.0?classifier=sources
 - pkg:maven/org.pytorch/pytorch_android_torchvision@1.8.0?type=aar
+- pkg:maven/org.pytorch/pytorch_android_torchvision@1.9.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.fifesoft/tokenmakermaker@3.1.0?classifier=sources
+- pkg:maven/com.fifesoft/tokenmakermaker@3.1.1?classifier=sources

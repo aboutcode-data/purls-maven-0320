@@ -54,6 +54,10 @@
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.53.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.54.0.Final
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.54.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.55.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.55.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.56.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.56.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.0.0.Beta1
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.0.0.Beta1?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.0.0.Final
@@ -72,3 +76,7 @@
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.5.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.6.0.Final
 - pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.6.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.7.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.7.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.8.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@8.8.0.Final?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.embulk/embulk-input-mongodb@0.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.treasuredata.embulk.plugins/embulk-filter-add_time@0.3.0?classifier=sources
+- pkg:maven/com.treasuredata.embulk.plugins/embulk-filter-add_time@0.3.1?classifier=sources

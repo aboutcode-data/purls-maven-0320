@@ -16,3 +16,7 @@
 - pkg:maven/com.github.outerman.be/business-engine-core@1.0.7?classifier=sources
 - pkg:maven/com.github.outerman.be/business-engine-core@1.0.8
 - pkg:maven/com.github.outerman.be/business-engine-core@1.0.8?classifier=sources
+- pkg:maven/com.github.outerman.be/business-engine-core@1.1.17
+- pkg:maven/com.github.outerman.be/business-engine-core@1.1.17?classifier=sources
+- pkg:maven/com.github.outerman.be/business-engine-core@1.1.18
+- pkg:maven/com.github.outerman.be/business-engine-core@1.1.18?classifier=sources

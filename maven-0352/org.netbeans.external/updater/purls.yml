@@ -9,4 +9,5 @@
 - pkg:maven/org.netbeans.external/updater@RELEASE121
 - pkg:maven/org.netbeans.external/updater@RELEASE122
 - pkg:maven/org.netbeans.external/updater@RELEASE123
+- pkg:maven/org.netbeans.external/updater@RELEASE124
 - pkg:maven/org.netbeans.external/updater@RELEASE90

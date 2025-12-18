@@ -28,3 +28,9 @@
 - pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@2.4.0?classifier=sources
 - pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@2.5.0
 - pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@2.5.0?classifier=sources
+- pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@3.0.0
+- pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@3.0.0?classifier=sources
+- pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@3.1.0
+- pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@3.1.0?classifier=sources
+- pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@3.2.0
+- pkg:maven/io.github.origin-energy/java-snapshot-testing-junit4@3.2.0?classifier=sources

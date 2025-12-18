@@ -66,6 +66,7 @@
 - pkg:maven/com.razorpay/checkout@1.5.7?classifier=sources
 - pkg:maven/com.razorpay/checkout@1.5.8?classifier=sources
 - pkg:maven/com.razorpay/checkout@1.6.0?classifier=sources
+- pkg:maven/com.razorpay/checkout@1.6.10?classifier=sources
 - pkg:maven/com.razorpay/checkout@1.6.2?classifier=sources
 - pkg:maven/com.razorpay/checkout@1.6.3?classifier=sources
 - pkg:maven/com.razorpay/checkout@1.6.4?classifier=sources
@@ -73,3 +74,4 @@
 - pkg:maven/com.razorpay/checkout@1.6.6?classifier=sources
 - pkg:maven/com.razorpay/checkout@1.6.7?classifier=sources
 - pkg:maven/com.razorpay/checkout@1.6.8?classifier=sources
+- pkg:maven/com.razorpay/checkout@1.6.9?classifier=sources

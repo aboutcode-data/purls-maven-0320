@@ -60,3 +60,7 @@
 - pkg:maven/org.sosy-lab/java-smt@3.7.0-61-gea80187e
 - pkg:maven/org.sosy-lab/java-smt@3.7.0-61-gea80187e?classifier=sources
 - pkg:maven/org.sosy-lab/java-smt@3.7.0?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@3.8.0
+- pkg:maven/org.sosy-lab/java-smt@3.8.0?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@3.9.0-1-g304079c2
+- pkg:maven/org.sosy-lab/java-smt@3.9.0-1-g304079c2?classifier=sources

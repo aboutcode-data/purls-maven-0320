@@ -264,6 +264,8 @@
 - pkg:maven/com.graphhopper/graphhopper-tools@3.0-pre5
 - pkg:maven/com.graphhopper/graphhopper-tools@3.0-pre5?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-tools@3.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-tools@4.0-pre1
+- pkg:maven/com.graphhopper/graphhopper-tools@4.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-tools@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/graphhopper-tools@client_hc_no_vehicle?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-tools@feature_1850_01

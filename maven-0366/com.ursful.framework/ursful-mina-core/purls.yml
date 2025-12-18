@@ -16,3 +16,5 @@
 - pkg:maven/com.ursful.framework/ursful-mina-core@2.0?classifier=sources
 - pkg:maven/com.ursful.framework/ursful-mina-core@3.0.2
 - pkg:maven/com.ursful.framework/ursful-mina-core@3.0.2?classifier=sources
+- pkg:maven/com.ursful.framework/ursful-mina-core@3.0.4
+- pkg:maven/com.ursful.framework/ursful-mina-core@3.0.4?classifier=sources

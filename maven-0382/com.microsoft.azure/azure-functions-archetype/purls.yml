@@ -31,6 +31,7 @@
 - pkg:maven/com.microsoft.azure/azure-functions-archetype@1.36
 - pkg:maven/com.microsoft.azure/azure-functions-archetype@1.37
 - pkg:maven/com.microsoft.azure/azure-functions-archetype@1.38
+- pkg:maven/com.microsoft.azure/azure-functions-archetype@1.39
 - pkg:maven/com.microsoft.azure/azure-functions-archetype@1.4
 - pkg:maven/com.microsoft.azure/azure-functions-archetype@1.5
 - pkg:maven/com.microsoft.azure/azure-functions-archetype@1.6

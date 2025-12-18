@@ -42,8 +42,13 @@
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.30
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.31
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.35
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@3.36
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@3.37
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@3.39.1-01
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.4.20181203-154456.a0c3711
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.4.20181205-180005.1567c7b
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@3.40.0-01
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@3.41.0-01
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.5.20190114-150153.a6e0a60
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.5.20190214-161444.e18b487
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.5.20190215-094356.8a0ba7f

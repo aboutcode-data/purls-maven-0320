@@ -202,3 +202,5 @@
 - pkg:maven/com.rbmhtechnology.vind/analysis-report@3.1.8?classifier=sources
 - pkg:maven/com.rbmhtechnology.vind/analysis-report@3.1.9
 - pkg:maven/com.rbmhtechnology.vind/analysis-report@3.1.9?classifier=sources
+- pkg:maven/com.rbmhtechnology.vind/analysis-report@3.2.0
+- pkg:maven/com.rbmhtechnology.vind/analysis-report@3.2.0?classifier=sources

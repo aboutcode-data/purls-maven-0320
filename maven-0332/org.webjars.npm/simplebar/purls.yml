@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/simplebar@3.1.0
 - pkg:maven/org.webjars.npm/simplebar@3.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/simplebar@5.3.4
+- pkg:maven/org.webjars.npm/simplebar@5.3.4?classifier=sources

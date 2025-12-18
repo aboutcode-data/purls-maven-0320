@@ -1,0 +1,2 @@
+- pkg:maven/dev.rikka.rikkax.io/little-endian-data-stream@1.0.0?classifier=sources
+- pkg:maven/dev.rikka.rikkax.io/little-endian-data-stream@1.0.1?classifier=sources

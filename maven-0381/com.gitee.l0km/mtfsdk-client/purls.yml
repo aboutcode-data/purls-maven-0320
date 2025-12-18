@@ -12,3 +12,5 @@
 - pkg:maven/com.gitee.l0km/mtfsdk-client@1.1.3?classifier=sources
 - pkg:maven/com.gitee.l0km/mtfsdk-client@1.1.4
 - pkg:maven/com.gitee.l0km/mtfsdk-client@1.1.4?classifier=sources
+- pkg:maven/com.gitee.l0km/mtfsdk-client@2.0.0
+- pkg:maven/com.gitee.l0km/mtfsdk-client@2.0.0?classifier=sources

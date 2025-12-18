@@ -2,3 +2,7 @@
 - pkg:maven/com.kerb4j/kerb4j-base64-java7@0.0.9?classifier=sources
 - pkg:maven/com.kerb4j/kerb4j-base64-java7@0.1.0
 - pkg:maven/com.kerb4j/kerb4j-base64-java7@0.1.0?classifier=sources
+- pkg:maven/com.kerb4j/kerb4j-base64-java7@0.1.1
+- pkg:maven/com.kerb4j/kerb4j-base64-java7@0.1.1?classifier=sources
+- pkg:maven/com.kerb4j/kerb4j-base64-java7@0.1.2
+- pkg:maven/com.kerb4j/kerb4j-base64-java7@0.1.2?classifier=sources

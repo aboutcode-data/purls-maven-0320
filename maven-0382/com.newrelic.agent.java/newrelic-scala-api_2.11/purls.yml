@@ -1,0 +1,1 @@
+- pkg:maven/com.newrelic.agent.java/newrelic-scala-api_2.11@7.1.0?classifier=sources

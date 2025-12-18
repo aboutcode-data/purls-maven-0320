@@ -36,9 +36,15 @@
 - pkg:maven/org.apache.tika/tika-batch@1.25?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.26
 - pkg:maven/org.apache.tika/tika-batch@1.26?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@1.27
+- pkg:maven/org.apache.tika/tika-batch@1.27?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.8
 - pkg:maven/org.apache.tika/tika-batch@1.8?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.9
 - pkg:maven/org.apache.tika/tika-batch@1.9?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@2.0.0
 - pkg:maven/org.apache.tika/tika-batch@2.0.0-ALPHA
 - pkg:maven/org.apache.tika/tika-batch@2.0.0-ALPHA?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@2.0.0-BETA
+- pkg:maven/org.apache.tika/tika-batch@2.0.0-BETA?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@2.0.0?classifier=sources

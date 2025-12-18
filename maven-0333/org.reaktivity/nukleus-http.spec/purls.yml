@@ -22,6 +22,8 @@
 - pkg:maven/org.reaktivity/nukleus-http.spec@0.109?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-http.spec@0.10?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-http.spec@0.11
+- pkg:maven/org.reaktivity/nukleus-http.spec@0.110
+- pkg:maven/org.reaktivity/nukleus-http.spec@0.110?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-http.spec@0.11?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-http.spec@0.12
 - pkg:maven/org.reaktivity/nukleus-http.spec@0.12?classifier=sources

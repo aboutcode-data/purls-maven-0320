@@ -17,8 +17,12 @@
 - pkg:maven/org.infinispan/infinispan-console@0.14.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-console@0.14.2.Final
 - pkg:maven/org.infinispan/infinispan-console@0.14.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-console@0.14.3.Final
+- pkg:maven/org.infinispan/infinispan-console@0.14.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-console@0.14.Final
 - pkg:maven/org.infinispan/infinispan-console@0.14.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-console@0.15.0.Final
+- pkg:maven/org.infinispan/infinispan-console@0.15.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-console@0.2.Final
 - pkg:maven/org.infinispan/infinispan-console@0.3.Final
 - pkg:maven/org.infinispan/infinispan-console@0.4.1.Final

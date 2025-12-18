@@ -1,5 +1,9 @@
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.10
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.10?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.12
+- pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.12?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.13
+- pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.13?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.2
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.2?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.4

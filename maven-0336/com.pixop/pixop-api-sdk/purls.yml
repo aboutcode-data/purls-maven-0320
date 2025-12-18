@@ -16,3 +16,5 @@
 - pkg:maven/com.pixop/pixop-api-sdk@3.0.0?classifier=sources
 - pkg:maven/com.pixop/pixop-api-sdk@4.0.0
 - pkg:maven/com.pixop/pixop-api-sdk@4.0.0?classifier=sources
+- pkg:maven/com.pixop/pixop-api-sdk@4.1.0
+- pkg:maven/com.pixop/pixop-api-sdk@4.1.0?classifier=sources

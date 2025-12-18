@@ -212,6 +212,8 @@
 - pkg:maven/org.apache.camel/camel-jetty@2.25.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@2.25.3
 - pkg:maven/org.apache.camel/camel-jetty@2.25.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-jetty@2.25.4
+- pkg:maven/org.apache.camel/camel-jetty@2.25.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@2.3.0
 - pkg:maven/org.apache.camel/camel-jetty@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@2.4.0
@@ -287,6 +289,8 @@
 - pkg:maven/org.apache.camel/camel-jetty@3.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.10.0
 - pkg:maven/org.apache.camel/camel-jetty@3.10.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-jetty@3.11.0
+- pkg:maven/org.apache.camel/camel-jetty@3.11.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.2.0
 - pkg:maven/org.apache.camel/camel-jetty@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.3.0
@@ -303,6 +307,8 @@
 - pkg:maven/org.apache.camel/camel-jetty@3.4.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.4.5
 - pkg:maven/org.apache.camel/camel-jetty@3.4.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-jetty@3.4.6
+- pkg:maven/org.apache.camel/camel-jetty@3.4.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.5.0
 - pkg:maven/org.apache.camel/camel-jetty@3.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.6.0
@@ -317,6 +323,8 @@
 - pkg:maven/org.apache.camel/camel-jetty@3.7.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.7.4
 - pkg:maven/org.apache.camel/camel-jetty@3.7.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-jetty@3.7.5
+- pkg:maven/org.apache.camel/camel-jetty@3.7.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.8.0
 - pkg:maven/org.apache.camel/camel-jetty@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jetty@3.9.0

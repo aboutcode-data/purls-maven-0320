@@ -12,3 +12,5 @@
 - pkg:maven/com.kaleido/kapture-client@3.2.23?classifier=sources
 - pkg:maven/com.kaleido/kapture-client@3.2.24
 - pkg:maven/com.kaleido/kapture-client@3.2.24?classifier=sources
+- pkg:maven/com.kaleido/kapture-client@3.2.25
+- pkg:maven/com.kaleido/kapture-client@3.2.25?classifier=sources

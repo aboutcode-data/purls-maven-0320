@@ -16,3 +16,5 @@
 - pkg:maven/edu.gemini/react-aladin_sjs1_2.13@0.4.3?classifier=sources
 - pkg:maven/edu.gemini/react-aladin_sjs1_2.13@0.5.0
 - pkg:maven/edu.gemini/react-aladin_sjs1_2.13@0.5.0?classifier=sources
+- pkg:maven/edu.gemini/react-aladin_sjs1_2.13@0.5.1
+- pkg:maven/edu.gemini/react-aladin_sjs1_2.13@0.5.1?classifier=sources

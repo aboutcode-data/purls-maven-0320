@@ -7,3 +7,7 @@
 - pkg:maven/com.garyclayburg/upbanner-starter@2.2.5?classifier=sources
 - pkg:maven/com.garyclayburg/upbanner-starter@2.3.0
 - pkg:maven/com.garyclayburg/upbanner-starter@2.3.0?classifier=sources
+- pkg:maven/com.garyclayburg/upbanner-starter@2.3.1
+- pkg:maven/com.garyclayburg/upbanner-starter@2.3.1?classifier=sources
+- pkg:maven/com.garyclayburg/upbanner-starter@2.3.2
+- pkg:maven/com.garyclayburg/upbanner-starter@2.3.2?classifier=sources

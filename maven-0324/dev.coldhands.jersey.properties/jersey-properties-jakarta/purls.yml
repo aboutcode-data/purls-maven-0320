@@ -1,0 +1,2 @@
+- pkg:maven/dev.coldhands.jersey.properties/jersey-properties-jakarta@1.0.0
+- pkg:maven/dev.coldhands.jersey.properties/jersey-properties-jakarta@1.0.0?classifier=sources

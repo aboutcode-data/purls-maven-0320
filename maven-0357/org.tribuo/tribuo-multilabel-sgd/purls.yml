@@ -1,0 +1,2 @@
+- pkg:maven/org.tribuo/tribuo-multilabel-sgd@4.1.0
+- pkg:maven/org.tribuo/tribuo-multilabel-sgd@4.1.0?classifier=sources

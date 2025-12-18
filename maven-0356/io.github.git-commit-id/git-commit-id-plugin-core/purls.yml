@@ -1,0 +1,2 @@
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@5.0.0
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@5.0.0?classifier=sources

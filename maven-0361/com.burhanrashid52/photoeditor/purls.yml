@@ -16,3 +16,8 @@
 - pkg:maven/com.burhanrashid52/photoeditor@1.1.1-beta?classifier=sources
 - pkg:maven/com.burhanrashid52/photoeditor@1.1.1?type=aar
 - pkg:maven/com.burhanrashid52/photoeditor@1.1.2?classifier=sources
+- pkg:maven/com.burhanrashid52/photoeditor@1.1.3-beta01?classifier=sources
+- pkg:maven/com.burhanrashid52/photoeditor@1.1.3-beta02?classifier=sources
+- pkg:maven/com.burhanrashid52/photoeditor@1.1.3?classifier=sources
+- pkg:maven/com.burhanrashid52/photoeditor@1.1.4?classifier=sources
+- pkg:maven/com.burhanrashid52/photoeditor@1.5.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.adtran/betablocker-plugin@1.0.9?classifier=sources
 - pkg:maven/com.adtran/betablocker-plugin@1.2.0
 - pkg:maven/com.adtran/betablocker-plugin@1.2.0?classifier=sources
+- pkg:maven/com.adtran/betablocker-plugin@1.2.3?classifier=sources

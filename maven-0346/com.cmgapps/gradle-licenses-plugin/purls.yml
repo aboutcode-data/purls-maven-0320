@@ -1,3 +1,4 @@
 - pkg:maven/com.cmgapps/gradle-licenses-plugin@2.1.0?classifier=sources
 - pkg:maven/com.cmgapps/gradle-licenses-plugin@3.0.0?classifier=sources
 - pkg:maven/com.cmgapps/gradle-licenses-plugin@3.1.0?classifier=sources
+- pkg:maven/com.cmgapps/gradle-licenses-plugin@3.2.0?classifier=sources

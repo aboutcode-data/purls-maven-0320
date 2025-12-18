@@ -1,3 +1,4 @@
+- pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.0
 - pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.0-m03
 - pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.0-m03?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.0-m04
@@ -16,3 +17,8 @@
 - pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.0-rc07?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.0-rc08
 - pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.0-rc08?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.0?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.1
+- pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.1?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.2
+- pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.2?classifier=sources

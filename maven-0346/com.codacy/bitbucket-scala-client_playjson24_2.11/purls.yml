@@ -56,3 +56,7 @@
 - pkg:maven/com.codacy/bitbucket-scala-client_playjson24_2.11@15.5.3?classifier=sources
 - pkg:maven/com.codacy/bitbucket-scala-client_playjson24_2.11@15.5.4
 - pkg:maven/com.codacy/bitbucket-scala-client_playjson24_2.11@15.5.4?classifier=sources
+- pkg:maven/com.codacy/bitbucket-scala-client_playjson24_2.11@15.6.0
+- pkg:maven/com.codacy/bitbucket-scala-client_playjson24_2.11@15.6.0?classifier=sources
+- pkg:maven/com.codacy/bitbucket-scala-client_playjson24_2.11@15.6.1
+- pkg:maven/com.codacy/bitbucket-scala-client_playjson24_2.11@15.6.1?classifier=sources

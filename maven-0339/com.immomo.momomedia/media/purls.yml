@@ -2,5 +2,17 @@
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210427105402?type=aar
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210428156201?classifier=sources
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210428156201?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210601181801?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210601181801?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210611170002?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210611170002?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210622140002?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210622140002?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210624110002?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210624110002?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210624110004?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210624110004?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210707114701?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20210707114701?type=aar
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.medialive.20210427105401?classifier=sources
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.medialive.20210427105401?type=aar

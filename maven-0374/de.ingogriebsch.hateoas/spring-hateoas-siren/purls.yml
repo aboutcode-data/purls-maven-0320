@@ -14,3 +14,5 @@
 - pkg:maven/de.ingogriebsch.hateoas/spring-hateoas-siren@1.0.3?classifier=sources
 - pkg:maven/de.ingogriebsch.hateoas/spring-hateoas-siren@1.1.0
 - pkg:maven/de.ingogriebsch.hateoas/spring-hateoas-siren@1.1.0?classifier=sources
+- pkg:maven/de.ingogriebsch.hateoas/spring-hateoas-siren@1.2.0
+- pkg:maven/de.ingogriebsch.hateoas/spring-hateoas-siren@1.2.0?classifier=sources

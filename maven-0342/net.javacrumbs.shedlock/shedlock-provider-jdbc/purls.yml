@@ -124,6 +124,10 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.22.1?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.23.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.23.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.24.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.24.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.25.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.25.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.3.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.3.1

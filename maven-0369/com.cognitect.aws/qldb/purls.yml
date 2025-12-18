@@ -6,3 +6,5 @@
 - pkg:maven/com.cognitect.aws/qldb@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/qldb@801.2.698.0
 - pkg:maven/com.cognitect.aws/qldb@801.2.698.0?classifier=sources
+- pkg:maven/com.cognitect.aws/qldb@811.2.934.0
+- pkg:maven/com.cognitect.aws/qldb@811.2.934.0?classifier=sources

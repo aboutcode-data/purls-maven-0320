@@ -106,6 +106,10 @@
 - pkg:maven/org.webjars.npm/swagger-ui@3.48.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui@3.49.0
 - pkg:maven/org.webjars.npm/swagger-ui@3.49.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-ui@3.50.0
+- pkg:maven/org.webjars.npm/swagger-ui@3.50.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-ui@3.51.0
+- pkg:maven/org.webjars.npm/swagger-ui@3.51.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui@3.6.1
 - pkg:maven/org.webjars.npm/swagger-ui@3.6.1?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui@3.9.3

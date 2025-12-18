@@ -5,3 +5,4 @@
 - pkg:maven/com.baremetalcloud/multiplatform-runblocking-jvm@0.51?classifier=sources
 - pkg:maven/com.baremetalcloud/multiplatform-runblocking-jvm@0.52?classifier=sources
 - pkg:maven/com.baremetalcloud/multiplatform-runblocking-jvm@1.0?classifier=sources
+- pkg:maven/com.baremetalcloud/multiplatform-runblocking-jvm@1.1?classifier=sources

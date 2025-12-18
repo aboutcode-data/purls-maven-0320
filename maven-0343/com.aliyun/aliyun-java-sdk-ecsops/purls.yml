@@ -2,3 +2,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecsops@2.3.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecsops@5.10.20
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecsops@5.10.20?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecsops@5.10.75
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecsops@5.10.75?classifier=sources

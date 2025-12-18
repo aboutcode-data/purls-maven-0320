@@ -1,4 +1,12 @@
+- pkg:maven/com.winnerlook/voice-sdk@1.0.0_test
+- pkg:maven/com.winnerlook/voice-sdk@1.0.0_test?classifier=sources
 - pkg:maven/com.winnerlook/voice-sdk@1.1.1
+- pkg:maven/com.winnerlook/voice-sdk@1.1.10
+- pkg:maven/com.winnerlook/voice-sdk@1.1.10?classifier=sources
+- pkg:maven/com.winnerlook/voice-sdk@1.1.10_Test
+- pkg:maven/com.winnerlook/voice-sdk@1.1.10_Test?classifier=sources
+- pkg:maven/com.winnerlook/voice-sdk@1.1.11
+- pkg:maven/com.winnerlook/voice-sdk@1.1.11?classifier=sources
 - pkg:maven/com.winnerlook/voice-sdk@1.1.1?classifier=sources
 - pkg:maven/com.winnerlook/voice-sdk@1.1.2
 - pkg:maven/com.winnerlook/voice-sdk@1.1.2?classifier=sources
@@ -12,3 +20,5 @@
 - pkg:maven/com.winnerlook/voice-sdk@1.1.8?classifier=sources
 - pkg:maven/com.winnerlook/voice-sdk@1.1.8_prod
 - pkg:maven/com.winnerlook/voice-sdk@1.1.8_prod?classifier=sources
+- pkg:maven/com.winnerlook/voice-sdk@1.1.9
+- pkg:maven/com.winnerlook/voice-sdk@1.1.9?classifier=sources

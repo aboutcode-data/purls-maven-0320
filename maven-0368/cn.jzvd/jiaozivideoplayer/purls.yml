@@ -77,3 +77,5 @@
 - pkg:maven/cn.jzvd/jiaozivideoplayer@7.5.0?classifier=sources
 - pkg:maven/cn.jzvd/jiaozivideoplayer@7.6.0?classifier=sources
 - pkg:maven/cn.jzvd/jiaozivideoplayer@7.6.0?type=aar
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.7.0?classifier=sources
+- pkg:maven/cn.jzvd/jiaozivideoplayer@7.7.0?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.kuraun/aws-secretsmanager-jdbc@1.0.7
+- pkg:maven/io.github.kuraun/aws-secretsmanager-jdbc@1.0.7?classifier=sources
+- pkg:maven/io.github.kuraun/aws-secretsmanager-jdbc@1.0.8-M1
+- pkg:maven/io.github.kuraun/aws-secretsmanager-jdbc@1.0.8-M1?classifier=sources

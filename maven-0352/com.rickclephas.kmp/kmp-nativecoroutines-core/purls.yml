@@ -1,0 +1,4 @@
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core@0.1.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core@0.2.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core@0.3.0-kotlin-1.5.10?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/webjars-play_3@2.8.8-1
+- pkg:maven/org.webjars/webjars-play_3@2.8.8-1?classifier=sources

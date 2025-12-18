@@ -44,6 +44,8 @@
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-deployment@0.23.0?classifier=sources
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-deployment@0.24.0
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-deployment@0.24.0?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-deployment@0.25.0
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-deployment@0.25.0?classifier=sources
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-deployment@0.3.0
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-deployment@0.3.0?classifier=sources
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-deployment@0.4.0

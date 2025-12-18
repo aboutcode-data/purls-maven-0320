@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/minipass-json-stream@1.0.1
+- pkg:maven/org.webjars.npm/minipass-json-stream@1.0.1?classifier=sources

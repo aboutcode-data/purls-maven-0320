@@ -54,6 +54,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@4.4.1?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@4.4.2
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@4.4.2?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@4.5.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@4.5.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@5.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@5.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@5.0.1
@@ -182,6 +184,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@6.5.1?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@6.6.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@6.6.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@6.6.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@6.6.1?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@7.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@7.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@7.0.1
@@ -240,3 +244,11 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@9.1.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@9.2.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@9.2.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@9.3.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@9.3.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@9.3.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@9.3.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@9.3.2
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@9.3.2?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@9.3.3
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@9.3.3?classifier=sources

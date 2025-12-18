@@ -10,3 +10,5 @@
 - pkg:maven/org.kie.kogito/explainability-integrationtests-pmml@1.4.1.Final
 - pkg:maven/org.kie.kogito/explainability-integrationtests-pmml@1.5.0.Final
 - pkg:maven/org.kie.kogito/explainability-integrationtests-pmml@1.6.0.Final
+- pkg:maven/org.kie.kogito/explainability-integrationtests-pmml@1.7.0.Final
+- pkg:maven/org.kie.kogito/explainability-integrationtests-pmml@1.8.0.Final

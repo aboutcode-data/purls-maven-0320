@@ -1,0 +1,2 @@
+- pkg:maven/com.aoapps/ao-taglib-book@7.0.0
+- pkg:maven/com.aoapps/ao-taglib-book@7.0.0?classifier=sources

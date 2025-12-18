@@ -1,4 +1,8 @@
 - pkg:maven/com.aptopayments.sdk/ui@3.10.0?classifier=sources
 - pkg:maven/com.aptopayments.sdk/ui@3.11.0?classifier=sources
+- pkg:maven/com.aptopayments.sdk/ui@3.11.1?classifier=sources
+- pkg:maven/com.aptopayments.sdk/ui@3.12.0?classifier=sources
+- pkg:maven/com.aptopayments.sdk/ui@3.12.1?classifier=sources
+- pkg:maven/com.aptopayments.sdk/ui@3.13.0?classifier=sources
 - pkg:maven/com.aptopayments.sdk/ui@3.9.0?classifier=sources
 - pkg:maven/com.aptopayments.sdk/ui@3.9.1?classifier=sources

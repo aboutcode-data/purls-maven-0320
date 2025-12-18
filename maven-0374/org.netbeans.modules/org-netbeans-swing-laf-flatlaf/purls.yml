@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE124?classifier=sources

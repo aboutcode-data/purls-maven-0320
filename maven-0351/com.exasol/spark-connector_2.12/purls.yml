@@ -8,3 +8,5 @@
 - pkg:maven/com.exasol/spark-connector_2.12@0.3.2?classifier=sources
 - pkg:maven/com.exasol/spark-connector_2.12@1.0.0
 - pkg:maven/com.exasol/spark-connector_2.12@1.0.0?classifier=sources
+- pkg:maven/com.exasol/spark-connector_2.12@1.1.0
+- pkg:maven/com.exasol/spark-connector_2.12@1.1.0?classifier=sources

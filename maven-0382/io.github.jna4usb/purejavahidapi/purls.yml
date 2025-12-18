@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jna4usb/purejavahidapi@0.0.1
+- pkg:maven/io.github.jna4usb/purejavahidapi@0.0.1?classifier=sources

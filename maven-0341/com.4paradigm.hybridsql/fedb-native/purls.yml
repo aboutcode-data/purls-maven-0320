@@ -1,0 +1,10 @@
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.2.0-allinone
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.2.0-allinone?classifier=sources
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.2.2
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.2.2-macos
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.2.2-macos?classifier=sources
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.2.2?classifier=sources
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.3.0
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.3.0-macos
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.3.0-macos?classifier=sources
+- pkg:maven/com.4paradigm.hybridsql/fedb-native@2.3.0?classifier=sources

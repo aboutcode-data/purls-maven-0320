@@ -1,0 +1,4 @@
+- pkg:maven/io.github.deepeshpatel/OpenAlgo@1.0.1
+- pkg:maven/io.github.deepeshpatel/OpenAlgo@1.0.1?classifier=sources
+- pkg:maven/io.github.deepeshpatel/OpenAlgo@1.0.2-testing
+- pkg:maven/io.github.deepeshpatel/OpenAlgo@1.0.2-testing?classifier=sources

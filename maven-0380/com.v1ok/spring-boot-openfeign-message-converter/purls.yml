@@ -1,0 +1,2 @@
+- pkg:maven/com.v1ok/spring-boot-openfeign-message-converter@0.0.4
+- pkg:maven/com.v1ok/spring-boot-openfeign-message-converter@0.0.4?classifier=sources

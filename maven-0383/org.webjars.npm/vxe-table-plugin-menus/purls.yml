@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/vxe-table-plugin-menus@2.0.1
+- pkg:maven/org.webjars.npm/vxe-table-plugin-menus@2.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/vxe-table-plugin-menus@3.0.4
+- pkg:maven/org.webjars.npm/vxe-table-plugin-menus@3.0.4?classifier=sources

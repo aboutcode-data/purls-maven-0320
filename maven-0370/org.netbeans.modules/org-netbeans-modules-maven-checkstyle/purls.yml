@@ -9,4 +9,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE90?classifier=sources

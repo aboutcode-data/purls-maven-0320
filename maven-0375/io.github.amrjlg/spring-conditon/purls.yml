@@ -1,0 +1,2 @@
+- pkg:maven/io.github.amrjlg/spring-conditon@1.0-RELEASE
+- pkg:maven/io.github.amrjlg/spring-conditon@1.0-RELEASE?classifier=sources

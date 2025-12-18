@@ -52,6 +52,7 @@
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.132.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.133.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.134.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@1.135.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.74.0
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.74.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.75.0
@@ -112,3 +113,15 @@
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.98.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.99.0
 - pkg:maven/com.palantir.dialogue/dialogue-futures@1.99.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.0.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.0.1?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.1.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.10.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.11.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.3.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.5.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.6.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.7.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.8.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@2.9.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@3.0.0?classifier=sources

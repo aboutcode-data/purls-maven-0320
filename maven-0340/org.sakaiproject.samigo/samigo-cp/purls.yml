@@ -74,3 +74,5 @@
 - pkg:maven/org.sakaiproject.samigo/samigo-cp@20.3?classifier=sources
 - pkg:maven/org.sakaiproject.samigo/samigo-cp@21.0
 - pkg:maven/org.sakaiproject.samigo/samigo-cp@21.0?classifier=sources
+- pkg:maven/org.sakaiproject.samigo/samigo-cp@21.1
+- pkg:maven/org.sakaiproject.samigo/samigo-cp@21.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/io.trino.tempto/tempto-ldap@183
 - pkg:maven/io.trino.tempto/tempto-ldap@183?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-ldap@184
+- pkg:maven/io.trino.tempto/tempto-ldap@184?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-ldap@185
+- pkg:maven/io.trino.tempto/tempto-ldap@185?classifier=sources

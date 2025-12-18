@@ -12,3 +12,5 @@
 - pkg:maven/com.gitee.swsk33/reg-java@3.5.0?classifier=sources
 - pkg:maven/com.gitee.swsk33/reg-java@3.5.1
 - pkg:maven/com.gitee.swsk33/reg-java@3.5.1?classifier=sources
+- pkg:maven/com.gitee.swsk33/reg-java@4.0.0
+- pkg:maven/com.gitee.swsk33/reg-java@4.0.0?classifier=sources

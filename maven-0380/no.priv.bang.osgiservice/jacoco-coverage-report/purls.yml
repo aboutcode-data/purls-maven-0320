@@ -3,3 +3,4 @@
 - pkg:maven/no.priv.bang.osgiservice/jacoco-coverage-report@1.7.0
 - pkg:maven/no.priv.bang.osgiservice/jacoco-coverage-report@1.7.1
 - pkg:maven/no.priv.bang.osgiservice/jacoco-coverage-report@1.7.2
+- pkg:maven/no.priv.bang.osgiservice/jacoco-coverage-report@1.7.3

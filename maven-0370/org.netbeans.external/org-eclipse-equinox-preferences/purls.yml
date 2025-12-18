@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-preferences@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-preferences@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-preferences@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-equinox-preferences@RELEASE124?classifier=sources

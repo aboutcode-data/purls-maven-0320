@@ -7,3 +7,4 @@
 - pkg:maven/pl.rzrz/assertj-reactor@1.0.5
 - pkg:maven/pl.rzrz/assertj-reactor@1.0.5?classifier=sources
 - pkg:maven/pl.rzrz/assertj-reactor@1.0.7?classifier=sources
+- pkg:maven/pl.rzrz/assertj-reactor@1.0.8?classifier=sources

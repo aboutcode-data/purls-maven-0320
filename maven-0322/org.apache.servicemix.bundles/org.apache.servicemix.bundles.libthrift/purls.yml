@@ -18,6 +18,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.14.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.14.1_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.14.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.14.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.14.2_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.14.2_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.14.2_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.7.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.7.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.libthrift@0.8.0_1

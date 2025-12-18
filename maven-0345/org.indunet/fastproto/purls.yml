@@ -1,0 +1,16 @@
+- pkg:maven/org.indunet/fastproto@1.1.2
+- pkg:maven/org.indunet/fastproto@1.1.2?classifier=sources
+- pkg:maven/org.indunet/fastproto@1.2.3
+- pkg:maven/org.indunet/fastproto@1.2.3?classifier=sources
+- pkg:maven/org.indunet/fastproto@1.3.0
+- pkg:maven/org.indunet/fastproto@1.3.0?classifier=sources
+- pkg:maven/org.indunet/fastproto@1.4.1
+- pkg:maven/org.indunet/fastproto@1.4.1?classifier=sources
+- pkg:maven/org.indunet/fastproto@1.5.2
+- pkg:maven/org.indunet/fastproto@1.5.2?classifier=sources
+- pkg:maven/org.indunet/fastproto@1.6.2
+- pkg:maven/org.indunet/fastproto@1.6.2?classifier=sources
+- pkg:maven/org.indunet/fastproto@1.6.3
+- pkg:maven/org.indunet/fastproto@1.6.3?classifier=sources
+- pkg:maven/org.indunet/fastproto@2.0.0
+- pkg:maven/org.indunet/fastproto@2.0.0?classifier=sources

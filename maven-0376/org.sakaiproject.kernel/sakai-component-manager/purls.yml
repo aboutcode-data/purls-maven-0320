@@ -84,3 +84,5 @@
 - pkg:maven/org.sakaiproject.kernel/sakai-component-manager@20.3?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-component-manager@21.0
 - pkg:maven/org.sakaiproject.kernel/sakai-component-manager@21.0?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-component-manager@21.1
+- pkg:maven/org.sakaiproject.kernel/sakai-component-manager@21.1?classifier=sources

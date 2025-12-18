@@ -46,6 +46,8 @@
 - pkg:maven/org.apache.hive.hcatalog/hive-hcatalog-pig-adapter@2.3.7?classifier=sources
 - pkg:maven/org.apache.hive.hcatalog/hive-hcatalog-pig-adapter@2.3.8
 - pkg:maven/org.apache.hive.hcatalog/hive-hcatalog-pig-adapter@2.3.8?classifier=sources
+- pkg:maven/org.apache.hive.hcatalog/hive-hcatalog-pig-adapter@2.3.9
+- pkg:maven/org.apache.hive.hcatalog/hive-hcatalog-pig-adapter@2.3.9?classifier=sources
 - pkg:maven/org.apache.hive.hcatalog/hive-hcatalog-pig-adapter@3.0.0
 - pkg:maven/org.apache.hive.hcatalog/hive-hcatalog-pig-adapter@3.0.0?classifier=sources
 - pkg:maven/org.apache.hive.hcatalog/hive-hcatalog-pig-adapter@3.1.0

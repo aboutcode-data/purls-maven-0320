@@ -4,6 +4,8 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.10.1000
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.10.1000?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.10.100?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.10.1100
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.10.1100?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.10.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.10.200?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.core@3.10.300

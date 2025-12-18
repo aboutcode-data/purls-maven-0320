@@ -130,3 +130,7 @@
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@7.0-rc2
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@7.0-rc2?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@7.0?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@7.1
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@7.1?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@7.2
+- pkg:maven/org.bsc.maven/confluence-reporting-maven-plugin@7.2?classifier=sources

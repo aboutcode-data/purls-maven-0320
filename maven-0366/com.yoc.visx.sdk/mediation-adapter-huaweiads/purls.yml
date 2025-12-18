@@ -1,2 +1,5 @@
 - pkg:maven/com.yoc.visx.sdk/mediation-adapter-huaweiads@13.4.34.301.1?classifier=sources
+- pkg:maven/com.yoc.visx.sdk/mediation-adapter-huaweiads@13.4.34.301.2?classifier=sources
+- pkg:maven/com.yoc.visx.sdk/mediation-adapter-huaweiads@13.4.34.301.3?classifier=sources
+- pkg:maven/com.yoc.visx.sdk/mediation-adapter-huaweiads@13.4.34.301.4?classifier=sources
 - pkg:maven/com.yoc.visx.sdk/mediation-adapter-huaweiads@13.4.34.301?classifier=sources

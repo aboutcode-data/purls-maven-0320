@@ -8,3 +8,5 @@
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@0.18.1?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@0.19.0
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@0.19.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/openehr-terminology@1.0.0
+- pkg:maven/com.nedap.healthcare.archie/openehr-terminology@1.0.0?classifier=sources

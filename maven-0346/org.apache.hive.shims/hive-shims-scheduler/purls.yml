@@ -36,6 +36,8 @@
 - pkg:maven/org.apache.hive.shims/hive-shims-scheduler@2.3.7?classifier=sources
 - pkg:maven/org.apache.hive.shims/hive-shims-scheduler@2.3.8
 - pkg:maven/org.apache.hive.shims/hive-shims-scheduler@2.3.8?classifier=sources
+- pkg:maven/org.apache.hive.shims/hive-shims-scheduler@2.3.9
+- pkg:maven/org.apache.hive.shims/hive-shims-scheduler@2.3.9?classifier=sources
 - pkg:maven/org.apache.hive.shims/hive-shims-scheduler@3.0.0
 - pkg:maven/org.apache.hive.shims/hive-shims-scheduler@3.0.0?classifier=sources
 - pkg:maven/org.apache.hive.shims/hive-shims-scheduler@3.1.0

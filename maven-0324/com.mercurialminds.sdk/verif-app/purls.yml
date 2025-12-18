@@ -1,1 +1,2 @@
 - pkg:maven/com.mercurialminds.sdk/verif-app@1.0.0?classifier=sources
+- pkg:maven/com.mercurialminds.sdk/verif-app@1.0.1?classifier=sources

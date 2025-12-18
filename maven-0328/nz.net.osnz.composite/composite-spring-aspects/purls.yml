@@ -30,3 +30,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.7
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.8
 - pkg:maven/nz.net.osnz.composite/composite-spring-aspects@5.9
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@6.1.1
+- pkg:maven/nz.net.osnz.composite/composite-spring-aspects@6.1.2

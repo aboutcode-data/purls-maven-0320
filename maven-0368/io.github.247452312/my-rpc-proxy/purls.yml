@@ -1,0 +1,2 @@
+- pkg:maven/io.github.247452312/my-rpc-proxy@1.0.0.my
+- pkg:maven/io.github.247452312/my-rpc-proxy@1.0.0.my?classifier=sources

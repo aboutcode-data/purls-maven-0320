@@ -1,0 +1,2 @@
+- pkg:maven/ch.ergon.adam/postgresql@1.0.0
+- pkg:maven/ch.ergon.adam/postgresql@1.0.0?classifier=sources

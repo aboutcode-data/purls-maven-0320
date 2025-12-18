@@ -2,3 +2,5 @@
 - pkg:maven/com.applovin.mediation/yandex-adapter@2.170.3?type=aar
 - pkg:maven/com.applovin.mediation/yandex-adapter@2.170.4?classifier=sources
 - pkg:maven/com.applovin.mediation/yandex-adapter@2.170.4?type=aar
+- pkg:maven/com.applovin.mediation/yandex-adapter@4.1.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/yandex-adapter@4.1.0.0?type=aar

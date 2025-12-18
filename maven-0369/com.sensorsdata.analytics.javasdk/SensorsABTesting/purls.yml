@@ -1,0 +1,2 @@
+- pkg:maven/com.sensorsdata.analytics.javasdk/SensorsABTesting@0.0.1
+- pkg:maven/com.sensorsdata.analytics.javasdk/SensorsABTesting@0.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/pl.wrzasq.parent/parent-lambda@1.1.10
+- pkg:maven/pl.wrzasq.parent/parent-lambda@1.1.10?classifier=sources
+- pkg:maven/pl.wrzasq.parent/parent-lambda@1.1.9
+- pkg:maven/pl.wrzasq.parent/parent-lambda@1.1.9?classifier=sources

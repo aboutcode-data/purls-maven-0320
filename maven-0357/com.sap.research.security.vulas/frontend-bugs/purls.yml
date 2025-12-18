@@ -1,5 +1,7 @@
 - pkg:maven/com.sap.research.security.vulas/frontend-bugs@3.1.10?type=war
 - pkg:maven/com.sap.research.security.vulas/frontend-bugs@3.1.11?type=war
+- pkg:maven/com.sap.research.security.vulas/frontend-bugs@3.1.12?type=war
+- pkg:maven/com.sap.research.security.vulas/frontend-bugs@3.1.13?type=war
 - pkg:maven/com.sap.research.security.vulas/frontend-bugs@3.1.6?type=war
 - pkg:maven/com.sap.research.security.vulas/frontend-bugs@3.1.7?type=war
 - pkg:maven/com.sap.research.security.vulas/frontend-bugs@3.1.8?type=war

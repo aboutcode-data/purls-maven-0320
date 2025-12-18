@@ -1,0 +1,4 @@
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.30.2
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.30.2?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.31.0
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.31.0?classifier=sources

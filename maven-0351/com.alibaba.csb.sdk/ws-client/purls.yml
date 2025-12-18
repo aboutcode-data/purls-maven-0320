@@ -12,3 +12,5 @@
 - pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.5.2?classifier=sources
 - pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.5.7
 - pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.5.7?classifier=sources
+- pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.5.8
+- pkg:maven/com.alibaba.csb.sdk/ws-client@1.1.5.8?classifier=sources

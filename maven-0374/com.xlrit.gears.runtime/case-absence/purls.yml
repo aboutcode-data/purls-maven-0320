@@ -1,2 +1,14 @@
 - pkg:maven/com.xlrit.gears.runtime/case-absence@0.2?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/case-absence@0.2?type=war
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.4?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.4?type=war
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.5?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.5?type=war
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.6?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.6?type=war
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.7?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.7?type=war
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.8?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.8?type=war
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.9?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.9?type=war

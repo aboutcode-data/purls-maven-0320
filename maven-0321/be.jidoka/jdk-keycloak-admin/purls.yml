@@ -1,0 +1,4 @@
+- pkg:maven/be.jidoka/jdk-keycloak-admin@1.0.0
+- pkg:maven/be.jidoka/jdk-keycloak-admin@1.0.0?classifier=sources
+- pkg:maven/be.jidoka/jdk-keycloak-admin@1.1.0
+- pkg:maven/be.jidoka/jdk-keycloak-admin@1.1.0?classifier=sources

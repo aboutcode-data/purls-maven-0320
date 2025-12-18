@@ -42,3 +42,7 @@
 - pkg:maven/com.github.tix320/kiwi@0.8.0?classifier=sources
 - pkg:maven/com.github.tix320/kiwi@0.9.0
 - pkg:maven/com.github.tix320/kiwi@0.9.0?classifier=sources
+- pkg:maven/com.github.tix320/kiwi@1.0.0
+- pkg:maven/com.github.tix320/kiwi@1.0.0?classifier=sources
+- pkg:maven/com.github.tix320/kiwi@1.0.1
+- pkg:maven/com.github.tix320/kiwi@1.0.1?classifier=sources

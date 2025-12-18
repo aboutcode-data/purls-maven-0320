@@ -1,0 +1,2 @@
+- pkg:maven/io.seventytwo.oss/jooq-utilities@1.0.0
+- pkg:maven/io.seventytwo.oss/jooq-utilities@1.0.0?classifier=sources

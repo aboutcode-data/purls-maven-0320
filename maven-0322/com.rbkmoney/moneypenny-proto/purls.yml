@@ -1,0 +1,2 @@
+- pkg:maven/com.rbkmoney/moneypenny-proto@1.8-26054d1
+- pkg:maven/com.rbkmoney/moneypenny-proto@1.8-26054d1?classifier=sources

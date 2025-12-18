@@ -6,3 +6,7 @@
 - pkg:maven/com.sandinh/couchbase-core-io@2.1.0-b6f381a?classifier=sources
 - pkg:maven/com.sandinh/couchbase-core-io@2.1.0-bc3c546
 - pkg:maven/com.sandinh/couchbase-core-io@2.1.0-bc3c546?classifier=sources
+- pkg:maven/com.sandinh/couchbase-core-io@2.1.0-ccccac0
+- pkg:maven/com.sandinh/couchbase-core-io@2.1.0-ccccac0?classifier=sources
+- pkg:maven/com.sandinh/couchbase-core-io@2.1.0-e582b2a
+- pkg:maven/com.sandinh/couchbase-core-io@2.1.0-e582b2a?classifier=sources

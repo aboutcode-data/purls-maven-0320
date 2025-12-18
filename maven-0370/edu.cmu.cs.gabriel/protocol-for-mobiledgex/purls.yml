@@ -1,4 +1,10 @@
 - pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@0.1.14
 - pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@0.1.14?classifier=sources
+- pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@0.1.15
+- pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@0.1.15?classifier=sources
 - pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@0.1.4
 - pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@0.1.4?classifier=sources
+- pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@1.0.0
+- pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@1.0.0?classifier=sources
+- pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@2.0.1
+- pkg:maven/edu.cmu.cs.gabriel/protocol-for-mobiledgex@2.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-longpolling@A.2.0.0.RC1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-longpolling@A.2.0.0.RC1?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-longpolling@B.1.0.0-RC1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-longpolling@B.1.0.0-RC1?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-longpolling@C.1.0.0-RC1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-longpolling@C.1.0.0-RC1?classifier=sources

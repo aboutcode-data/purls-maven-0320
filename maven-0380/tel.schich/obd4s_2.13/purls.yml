@@ -1,0 +1,2 @@
+- pkg:maven/tel.schich/obd4s_2.13@1.0.0
+- pkg:maven/tel.schich/obd4s_2.13@1.0.0?classifier=sources

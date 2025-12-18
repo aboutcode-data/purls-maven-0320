@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.t.yaghoubi/bitrahClient@1.0.0
+- pkg:maven/io.gitlab.t.yaghoubi/bitrahClient@1.0.0?classifier=sources

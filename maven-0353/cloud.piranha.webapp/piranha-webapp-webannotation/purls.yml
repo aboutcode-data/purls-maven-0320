@@ -1,0 +1,6 @@
+- pkg:maven/cloud.piranha.webapp/piranha-webapp-webannotation@20.6.0
+- pkg:maven/cloud.piranha.webapp/piranha-webapp-webannotation@20.6.0?classifier=sources
+- pkg:maven/cloud.piranha.webapp/piranha-webapp-webannotation@20.7.0
+- pkg:maven/cloud.piranha.webapp/piranha-webapp-webannotation@20.7.0?classifier=sources
+- pkg:maven/cloud.piranha.webapp/piranha-webapp-webannotation@20.8.0
+- pkg:maven/cloud.piranha.webapp/piranha-webapp-webannotation@20.8.0?classifier=sources

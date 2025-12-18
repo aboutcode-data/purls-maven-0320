@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/styx-flyte-client@2.1.76
+- pkg:maven/com.spotify/styx-flyte-client@2.1.76?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.alibaba.blink/flink-annotations@blink-3.4.0?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-annotations@blink-3.5.0-RELEASE
 - pkg:maven/com.alibaba.blink/flink-annotations@blink-3.5.0-RELEASE?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-annotations@blink-3.7.0
+- pkg:maven/com.alibaba.blink/flink-annotations@blink-3.7.0?classifier=sources

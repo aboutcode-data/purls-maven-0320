@@ -20,3 +20,5 @@
 - pkg:maven/com.cognitect.aws/es@795.2.646.0?classifier=sources
 - pkg:maven/com.cognitect.aws/es@796.2.661.0
 - pkg:maven/com.cognitect.aws/es@796.2.661.0?classifier=sources
+- pkg:maven/com.cognitect.aws/es@801.2.689.0
+- pkg:maven/com.cognitect.aws/es@801.2.689.0?classifier=sources

@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE90?classifier=sources

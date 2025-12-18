@@ -1,0 +1,2 @@
+- pkg:maven/cn.itlym/shoulder-crypto-negotiation@0.1
+- pkg:maven/cn.itlym/shoulder-crypto-negotiation@0.1?classifier=sources

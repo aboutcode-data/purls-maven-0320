@@ -12,3 +12,7 @@
 - pkg:maven/io.github.mohabmohie/SHAFT_ENGINE@4.1.20200330?classifier=sources
 - pkg:maven/io.github.mohabmohie/SHAFT_ENGINE@4.2.20200506
 - pkg:maven/io.github.mohabmohie/SHAFT_ENGINE@4.2.20200506?classifier=sources
+- pkg:maven/io.github.mohabmohie/SHAFT_ENGINE@4.3.20200629
+- pkg:maven/io.github.mohabmohie/SHAFT_ENGINE@4.3.20200629?classifier=sources
+- pkg:maven/io.github.mohabmohie/SHAFT_ENGINE@4.3.20200810
+- pkg:maven/io.github.mohabmohie/SHAFT_ENGINE@4.3.20200810?classifier=sources

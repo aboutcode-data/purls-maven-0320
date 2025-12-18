@@ -36,3 +36,5 @@
 - pkg:maven/net.intelie.live/plugin-annotations@2.25.8?classifier=sources
 - pkg:maven/net.intelie.live/plugin-annotations@2.26.0
 - pkg:maven/net.intelie.live/plugin-annotations@2.26.0?classifier=sources
+- pkg:maven/net.intelie.live/plugin-annotations@2.26.1
+- pkg:maven/net.intelie.live/plugin-annotations@2.26.1?classifier=sources

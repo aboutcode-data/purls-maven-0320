@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hegdepranav21/testpackage1@1.0.2
+- pkg:maven/com.github.hegdepranav21/testpackage1@1.0.2?classifier=sources

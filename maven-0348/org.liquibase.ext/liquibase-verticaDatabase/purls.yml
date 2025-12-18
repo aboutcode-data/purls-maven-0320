@@ -1,0 +1,4 @@
+- pkg:maven/org.liquibase.ext/liquibase-verticaDatabase@3.10.2
+- pkg:maven/org.liquibase.ext/liquibase-verticaDatabase@3.10.2?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-verticaDatabase@4.0.0
+- pkg:maven/org.liquibase.ext/liquibase-verticaDatabase@4.0.0?classifier=sources

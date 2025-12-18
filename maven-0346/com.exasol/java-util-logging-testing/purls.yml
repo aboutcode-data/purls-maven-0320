@@ -1,2 +1,4 @@
 - pkg:maven/com.exasol/java-util-logging-testing@1.0.0
 - pkg:maven/com.exasol/java-util-logging-testing@1.0.0?classifier=sources
+- pkg:maven/com.exasol/java-util-logging-testing@2.0.0
+- pkg:maven/com.exasol/java-util-logging-testing@2.0.0?classifier=sources

@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-versioning@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-versioning@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-versioning@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-versioning@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-versioning@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-versioning@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-versioning@RELEASE90?classifier=sources

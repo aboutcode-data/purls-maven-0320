@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE90?classifier=sources

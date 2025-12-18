@@ -6,3 +6,5 @@
 - pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.17?classifier=sources
 - pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.18.0.372
 - pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.18.0.372?classifier=sources
+- pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.19.0.397
+- pkg:maven/org.sonarsource.sonar-packaging-maven-plugin/sonar-packaging-maven-plugin@1.19.0.397?classifier=sources

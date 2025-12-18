@@ -40,3 +40,5 @@
 - pkg:maven/com.swisscom.cloud.sb/utils@6.18.4?classifier=sources
 - pkg:maven/com.swisscom.cloud.sb/utils@6.18.7
 - pkg:maven/com.swisscom.cloud.sb/utils@6.18.7?classifier=sources
+- pkg:maven/com.swisscom.cloud.sb/utils@6.19.1?classifier=sources
+- pkg:maven/com.swisscom.cloud.sb/utils@6.20.1?classifier=sources

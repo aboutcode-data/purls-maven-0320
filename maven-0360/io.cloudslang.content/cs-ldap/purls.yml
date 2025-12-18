@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudslang.content/cs-ldap@0.0.1-RC1
+- pkg:maven/io.cloudslang.content/cs-ldap@0.0.1-RC1?classifier=sources

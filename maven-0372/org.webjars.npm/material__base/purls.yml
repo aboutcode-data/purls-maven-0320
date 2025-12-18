@@ -44,3 +44,5 @@
 - pkg:maven/org.webjars.npm/material__base@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__base@6.0.0
 - pkg:maven/org.webjars.npm/material__base@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__base@7.0.0
+- pkg:maven/org.webjars.npm/material__base@7.0.0?classifier=sources

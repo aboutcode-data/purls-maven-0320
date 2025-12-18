@@ -1,0 +1,2 @@
+- pkg:maven/io.agrest/agrest-cayenne@3.5
+- pkg:maven/io.agrest/agrest-cayenne@3.5?classifier=sources

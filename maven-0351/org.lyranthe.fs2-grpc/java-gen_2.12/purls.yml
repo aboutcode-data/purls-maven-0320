@@ -1,0 +1,2 @@
+- pkg:maven/org.lyranthe.fs2-grpc/java-gen_2.12@0.7.3
+- pkg:maven/org.lyranthe.fs2-grpc/java-gen_2.12@0.7.3?classifier=sources

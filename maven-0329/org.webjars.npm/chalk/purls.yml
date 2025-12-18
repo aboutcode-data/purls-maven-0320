@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.npm/chalk@3.0.0-beta.2
 - pkg:maven/org.webjars.npm/chalk@3.0.0-beta.2?classifier=sources
 - pkg:maven/org.webjars.npm/chalk@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/chalk@4.1.0
+- pkg:maven/org.webjars.npm/chalk@4.1.0?classifier=sources

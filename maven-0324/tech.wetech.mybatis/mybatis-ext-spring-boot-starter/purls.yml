@@ -9,3 +9,7 @@
 - pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-starter@1.5.2
 - pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-starter@1.5.3
 - pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-starter@1.5.4
+- pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-starter@1.6.0
+- pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-starter@1.6.1
+- pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-starter@1.6.2
+- pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-starter@1.6.3

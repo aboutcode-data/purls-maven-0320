@@ -22,6 +22,12 @@
 - pkg:maven/com.zuunr/forms@0.1.0.M18-1d179cf?classifier=sources
 - pkg:maven/com.zuunr/forms@0.1.0.M19-6705fd7
 - pkg:maven/com.zuunr/forms@0.1.0.M19-6705fd7?classifier=sources
+- pkg:maven/com.zuunr/forms@0.1.0.M20-e13ec81
+- pkg:maven/com.zuunr/forms@0.1.0.M20-e13ec81?classifier=sources
+- pkg:maven/com.zuunr/forms@0.1.0.M21-95187db
+- pkg:maven/com.zuunr/forms@0.1.0.M21-95187db?classifier=sources
+- pkg:maven/com.zuunr/forms@0.1.0.M22-35a3f08
+- pkg:maven/com.zuunr/forms@0.1.0.M22-35a3f08?classifier=sources
 - pkg:maven/com.zuunr/forms@0.1.0.M3
 - pkg:maven/com.zuunr/forms@0.1.0.M3?classifier=sources
 - pkg:maven/com.zuunr/forms@0.1.0.M4

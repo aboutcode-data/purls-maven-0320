@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE90?classifier=sources

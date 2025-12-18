@@ -1,0 +1,4 @@
+- pkg:maven/com.rbkmoney/wb-list-proto@1.32-70b8f80
+- pkg:maven/com.rbkmoney/wb-list-proto@1.32-70b8f80?classifier=sources
+- pkg:maven/com.rbkmoney/wb-list-proto@1.33-554d59c
+- pkg:maven/com.rbkmoney/wb-list-proto@1.33-554d59c?classifier=sources

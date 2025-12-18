@@ -48,3 +48,9 @@
 - pkg:maven/com.github.tix320/sonder@0.23.2?classifier=sources
 - pkg:maven/com.github.tix320/sonder@0.23.3
 - pkg:maven/com.github.tix320/sonder@0.23.3?classifier=sources
+- pkg:maven/com.github.tix320/sonder@0.24.0
+- pkg:maven/com.github.tix320/sonder@0.24.0?classifier=sources
+- pkg:maven/com.github.tix320/sonder@1.0.0
+- pkg:maven/com.github.tix320/sonder@1.0.0?classifier=sources
+- pkg:maven/com.github.tix320/sonder@1.0.1
+- pkg:maven/com.github.tix320/sonder@1.0.1?classifier=sources

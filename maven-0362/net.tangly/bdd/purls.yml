@@ -1,1 +1,2 @@
 - pkg:maven/net.tangly/bdd@0.2.3?classifier=sources
+- pkg:maven/net.tangly/bdd@0.2.4?classifier=sources

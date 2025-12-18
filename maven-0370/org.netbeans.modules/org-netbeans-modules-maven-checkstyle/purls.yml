@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE90?classifier=sources

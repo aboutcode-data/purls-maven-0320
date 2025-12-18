@@ -16,3 +16,5 @@
 - pkg:maven/com.aol.one.reporting/forecast-api-client_2.11@3.1.7?classifier=sources
 - pkg:maven/com.aol.one.reporting/forecast-api-client_2.11@3.1.8
 - pkg:maven/com.aol.one.reporting/forecast-api-client_2.11@3.1.8?classifier=sources
+- pkg:maven/com.aol.one.reporting/forecast-api-client_2.11@3.1.9
+- pkg:maven/com.aol.one.reporting/forecast-api-client_2.11@3.1.9?classifier=sources

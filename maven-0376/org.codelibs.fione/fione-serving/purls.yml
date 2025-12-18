@@ -2,3 +2,9 @@
 - pkg:maven/org.codelibs.fione/fione-serving@0.1.0?classifier=sources
 - pkg:maven/org.codelibs.fione/fione-serving@3.30.0.0
 - pkg:maven/org.codelibs.fione/fione-serving@3.30.0.0?classifier=sources
+- pkg:maven/org.codelibs.fione/fione-serving@3.30.0.1
+- pkg:maven/org.codelibs.fione/fione-serving@3.30.0.1?classifier=sources
+- pkg:maven/org.codelibs.fione/fione-serving@3.30.0.2
+- pkg:maven/org.codelibs.fione/fione-serving@3.30.0.2?classifier=sources
+- pkg:maven/org.codelibs.fione/fione-serving@3.30.0.3
+- pkg:maven/org.codelibs.fione/fione-serving@3.30.0.3?classifier=sources

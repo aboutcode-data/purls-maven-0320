@@ -4,3 +4,5 @@
 - pkg:maven/org.gnieh/swam-text_2.13@0.5.0?classifier=sources
 - pkg:maven/org.gnieh/swam-text_2.13@0.6.0-RC3
 - pkg:maven/org.gnieh/swam-text_2.13@0.6.0-RC3?classifier=sources
+- pkg:maven/org.gnieh/swam-text_2.13@0.6.0-RC4
+- pkg:maven/org.gnieh/swam-text_2.13@0.6.0-RC4?classifier=sources

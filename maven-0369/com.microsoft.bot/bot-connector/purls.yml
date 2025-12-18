@@ -4,3 +4,7 @@
 - pkg:maven/com.microsoft.bot/bot-connector@4.6.0-preview3?classifier=sources
 - pkg:maven/com.microsoft.bot/bot-connector@4.6.0-preview4
 - pkg:maven/com.microsoft.bot/bot-connector@4.6.0-preview4?classifier=sources
+- pkg:maven/com.microsoft.bot/bot-connector@4.6.0-preview5
+- pkg:maven/com.microsoft.bot/bot-connector@4.6.0-preview5?classifier=sources
+- pkg:maven/com.microsoft.bot/bot-connector@4.6.0-preview6
+- pkg:maven/com.microsoft.bot/bot-connector@4.6.0-preview6?classifier=sources

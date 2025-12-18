@@ -1,0 +1,2 @@
+- pkg:maven/com.github.euler-io/euler-core@0.1.2
+- pkg:maven/com.github.euler-io/euler-core@0.1.2?classifier=sources

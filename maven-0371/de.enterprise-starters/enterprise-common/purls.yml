@@ -1,4 +1,8 @@
 - pkg:maven/de.enterprise-starters/enterprise-common@2.2.0-alpha
 - pkg:maven/de.enterprise-starters/enterprise-common@2.2.0-alpha2
 - pkg:maven/de.enterprise-starters/enterprise-common@2.2.0-alpha2?classifier=sources
+- pkg:maven/de.enterprise-starters/enterprise-common@2.2.0-alpha3
+- pkg:maven/de.enterprise-starters/enterprise-common@2.2.0-alpha3?classifier=sources
+- pkg:maven/de.enterprise-starters/enterprise-common@2.2.0-alpha4
+- pkg:maven/de.enterprise-starters/enterprise-common@2.2.0-alpha4?classifier=sources
 - pkg:maven/de.enterprise-starters/enterprise-common@2.2.0-alpha?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/bayern.steinbrecher/DBSchemeDescriptor@0.1
+- pkg:maven/bayern.steinbrecher/DBSchemeDescriptor@0.1?classifier=sources

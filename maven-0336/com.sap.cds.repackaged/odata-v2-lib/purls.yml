@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cds.repackaged/odata-v2-lib@1.8.1
+- pkg:maven/com.sap.cds.repackaged/odata-v2-lib@1.8.1?classifier=sources

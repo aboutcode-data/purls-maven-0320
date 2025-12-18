@@ -5,3 +5,4 @@
 - pkg:maven/io.bootique.jersey/bootique-jersey-jackson@1.0
 - pkg:maven/io.bootique.jersey/bootique-jersey-jackson@1.0.RC1
 - pkg:maven/io.bootique.jersey/bootique-jersey-jackson@1.1
+- pkg:maven/io.bootique.jersey/bootique-jersey-jackson@1.2

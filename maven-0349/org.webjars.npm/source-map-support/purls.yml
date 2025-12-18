@@ -24,6 +24,8 @@
 - pkg:maven/org.webjars.npm/source-map-support@0.5.13?classifier=sources
 - pkg:maven/org.webjars.npm/source-map-support@0.5.16
 - pkg:maven/org.webjars.npm/source-map-support@0.5.16?classifier=sources
+- pkg:maven/org.webjars.npm/source-map-support@0.5.19
+- pkg:maven/org.webjars.npm/source-map-support@0.5.19?classifier=sources
 - pkg:maven/org.webjars.npm/source-map-support@0.5.3
 - pkg:maven/org.webjars.npm/source-map-support@0.5.3?classifier=sources
 - pkg:maven/org.webjars.npm/source-map-support@0.5.4

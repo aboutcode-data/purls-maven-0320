@@ -1,2 +1,4 @@
 - pkg:maven/com.xnx3.weixin/xnx3-weixin@1.0
 - pkg:maven/com.xnx3.weixin/xnx3-weixin@1.0?classifier=sources
+- pkg:maven/com.xnx3.weixin/xnx3-weixin@1.2
+- pkg:maven/com.xnx3.weixin/xnx3-weixin@1.2?classifier=sources

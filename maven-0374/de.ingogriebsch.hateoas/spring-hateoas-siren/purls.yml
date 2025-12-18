@@ -1,0 +1,2 @@
+- pkg:maven/de.ingogriebsch.hateoas/spring-hateoas-siren@1.0.0-M1
+- pkg:maven/de.ingogriebsch.hateoas/spring-hateoas-siren@1.0.0-M1?classifier=sources

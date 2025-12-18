@@ -1,0 +1,2 @@
+- pkg:maven/eu.miltema/xmlutil@0.1.1
+- pkg:maven/eu.miltema/xmlutil@0.1.1?classifier=sources

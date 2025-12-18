@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-cbec-id-cli@1.1.0
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-cbec-id-cli@1.1.0?classifier=sources

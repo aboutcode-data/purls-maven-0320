@@ -10,3 +10,5 @@
 - pkg:maven/com.vaynberg.wicket.select25/wicket-select25-examples@1.4?type=war
 - pkg:maven/com.vaynberg.wicket.select25/wicket-select25-examples@1.5?classifier=sources
 - pkg:maven/com.vaynberg.wicket.select25/wicket-select25-examples@1.5?type=war
+- pkg:maven/com.vaynberg.wicket.select25/wicket-select25-examples@1.7?classifier=sources
+- pkg:maven/com.vaynberg.wicket.select25/wicket-select25-examples@1.7?type=war

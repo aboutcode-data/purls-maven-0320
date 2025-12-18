@@ -1,0 +1,7 @@
+- pkg:maven/org.kie.server/kie-server-integ-tests-task-assigning@7.38.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-task-assigning@7.39.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-task-assigning@7.40.0.20200703
+- pkg:maven/org.kie.server/kie-server-integ-tests-task-assigning@7.40.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-task-assigning@7.41.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-task-assigning@7.41.0.t20200723
+- pkg:maven/org.kie.server/kie-server-integ-tests-task-assigning@7.42.0.Final

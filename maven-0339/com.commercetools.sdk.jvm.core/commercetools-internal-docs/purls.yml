@@ -116,6 +116,8 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-docs@1.50.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-docs@1.51.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-docs@1.51.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-docs@1.52.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-docs@1.52.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-docs@1.6.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-docs@1.6.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-docs@1.7.0

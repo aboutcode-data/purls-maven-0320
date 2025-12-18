@@ -60,3 +60,5 @@
 - pkg:maven/com.heroku.api/heroku-http-finagle@0.40?classifier=sources
 - pkg:maven/com.heroku.api/heroku-http-finagle@0.43
 - pkg:maven/com.heroku.api/heroku-http-finagle@0.43?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.44
+- pkg:maven/com.heroku.api/heroku-http-finagle@0.44?classifier=sources

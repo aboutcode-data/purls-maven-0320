@@ -1,0 +1,2 @@
+- pkg:maven/com.rbkmoney/db-common-lib@0.0.3
+- pkg:maven/com.rbkmoney/db-common-lib@0.0.3?classifier=sources

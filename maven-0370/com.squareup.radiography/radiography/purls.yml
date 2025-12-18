@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.radiography/radiography@2.0.0-alpha.1?classifier=sources
+- pkg:maven/com.squareup.radiography/radiography@2.0.0-alpha.2?classifier=sources

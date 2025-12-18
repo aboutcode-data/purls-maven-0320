@@ -8,3 +8,5 @@
 - pkg:maven/org.locationtech.jts.io/jts-io-common@1.16.0?classifier=sources
 - pkg:maven/org.locationtech.jts.io/jts-io-common@1.16.1
 - pkg:maven/org.locationtech.jts.io/jts-io-common@1.16.1?classifier=sources
+- pkg:maven/org.locationtech.jts.io/jts-io-common@1.17.0
+- pkg:maven/org.locationtech.jts.io/jts-io-common@1.17.0?classifier=sources

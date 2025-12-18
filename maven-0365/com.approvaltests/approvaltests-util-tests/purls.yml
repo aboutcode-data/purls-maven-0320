@@ -1,0 +1,4 @@
+- pkg:maven/com.approvaltests/approvaltests-util-tests@7.0.0
+- pkg:maven/com.approvaltests/approvaltests-util-tests@8.0.0
+- pkg:maven/com.approvaltests/approvaltests-util-tests@9.0.0
+- pkg:maven/com.approvaltests/approvaltests-util-tests@9.1.0

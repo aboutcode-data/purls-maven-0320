@@ -38,3 +38,5 @@
 - pkg:maven/org.webjars.npm/material__auto-init@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__auto-init@6.0.0
 - pkg:maven/org.webjars.npm/material__auto-init@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__auto-init@7.0.0
+- pkg:maven/org.webjars.npm/material__auto-init@7.0.0?classifier=sources

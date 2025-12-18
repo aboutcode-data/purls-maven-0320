@@ -8,3 +8,7 @@
 - pkg:maven/com.winnerlook/voice-sdk@1.1.4?classifier=sources
 - pkg:maven/com.winnerlook/voice-sdk@1.1.6
 - pkg:maven/com.winnerlook/voice-sdk@1.1.6?classifier=sources
+- pkg:maven/com.winnerlook/voice-sdk@1.1.8
+- pkg:maven/com.winnerlook/voice-sdk@1.1.8?classifier=sources
+- pkg:maven/com.winnerlook/voice-sdk@1.1.8_prod
+- pkg:maven/com.winnerlook/voice-sdk@1.1.8_prod?classifier=sources

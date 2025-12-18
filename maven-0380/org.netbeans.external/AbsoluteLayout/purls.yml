@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE111
 - pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE112
 - pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE113
+- pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE120
+- pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE120-1
+- pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE120-u1
 - pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE90

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xucheng-330/fast-mysql-helper-lib@1.0-RELEASE
+- pkg:maven/com.github.xucheng-330/fast-mysql-helper-lib@1.0-RELEASE?classifier=sources

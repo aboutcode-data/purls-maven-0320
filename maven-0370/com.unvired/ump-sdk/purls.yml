@@ -27,3 +27,6 @@
 - pkg:maven/com.unvired/ump-sdk@5.3.34
 - pkg:maven/com.unvired/ump-sdk@5.3.67
 - pkg:maven/com.unvired/ump-sdk@5.3.68
+- pkg:maven/com.unvired/ump-sdk@5.4.1
+- pkg:maven/com.unvired/ump-sdk@5.4.2
+- pkg:maven/com.unvired/ump-sdk@5.4.3

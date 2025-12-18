@@ -1,3 +1,5 @@
 - pkg:maven/com.javiersc.resources/network-response-metadata@0.1.0?classifier=sources
 - pkg:maven/com.javiersc.resources/network-response-metadata@0.1.1?classifier=sources
 - pkg:maven/com.javiersc.resources/network-response-metadata@0.2.0?classifier=sources
+- pkg:maven/com.javiersc.resources/network-response-metadata@0.3.0?classifier=sources
+- pkg:maven/com.javiersc.resources/network-response-metadata@0.4.0?classifier=sources

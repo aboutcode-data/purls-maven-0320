@@ -1,3 +1,5 @@
+- pkg:maven/com.namsor/namsor-sdk2@2.0.10
+- pkg:maven/com.namsor/namsor-sdk2@2.0.10?classifier=sources
 - pkg:maven/com.namsor/namsor-sdk2@2.0.7
 - pkg:maven/com.namsor/namsor-sdk2@2.0.7?classifier=sources
 - pkg:maven/com.namsor/namsor-sdk2@2.0.8

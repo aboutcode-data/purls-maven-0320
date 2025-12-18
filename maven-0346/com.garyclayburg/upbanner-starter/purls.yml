@@ -1,2 +1,4 @@
 - pkg:maven/com.garyclayburg/upbanner-starter@2.0.13
 - pkg:maven/com.garyclayburg/upbanner-starter@2.0.13?classifier=sources
+- pkg:maven/com.garyclayburg/upbanner-starter@2.1.1
+- pkg:maven/com.garyclayburg/upbanner-starter@2.1.1?classifier=sources

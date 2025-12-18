@@ -1,0 +1,4 @@
+- pkg:maven/com.ttulka.spring.boot.configstore/configuration-properties-store-jdbc@1.0.0
+- pkg:maven/com.ttulka.spring.boot.configstore/configuration-properties-store-jdbc@1.0.0?classifier=sources
+- pkg:maven/com.ttulka.spring.boot.configstore/configuration-properties-store-jdbc@1.1.0
+- pkg:maven/com.ttulka.spring.boot.configstore/configuration-properties-store-jdbc@1.1.0?classifier=sources

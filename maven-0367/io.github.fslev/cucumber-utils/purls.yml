@@ -155,6 +155,10 @@
 - pkg:maven/io.github.fslev/cucumber-utils@5.36?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-utils@5.37
 - pkg:maven/io.github.fslev/cucumber-utils@5.37?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-utils@5.38
+- pkg:maven/io.github.fslev/cucumber-utils@5.38?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-utils@5.39
+- pkg:maven/io.github.fslev/cucumber-utils@5.39?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-utils@5.3?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-utils@5.4
 - pkg:maven/io.github.fslev/cucumber-utils@5.4?classifier=sources

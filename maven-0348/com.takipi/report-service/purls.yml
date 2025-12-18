@@ -1,0 +1,10 @@
+- pkg:maven/com.takipi/report-service@2.32.0
+- pkg:maven/com.takipi/report-service@2.32.0?classifier=sources
+- pkg:maven/com.takipi/report-service@2.33.0
+- pkg:maven/com.takipi/report-service@2.33.0?classifier=sources
+- pkg:maven/com.takipi/report-service@2.33.1
+- pkg:maven/com.takipi/report-service@2.33.1?classifier=sources
+- pkg:maven/com.takipi/report-service@2.34.0
+- pkg:maven/com.takipi/report-service@2.34.0?classifier=sources
+- pkg:maven/com.takipi/report-service@2.34.1
+- pkg:maven/com.takipi/report-service@2.34.1?classifier=sources

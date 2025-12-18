@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cds/cds-feature-identity@1.21.0
+- pkg:maven/com.sap.cds/cds-feature-identity@1.21.0?classifier=sources

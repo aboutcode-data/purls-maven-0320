@@ -1,3 +1,4 @@
 - pkg:maven/org.codefetti.proxy/proxy-handler@0.0.8?classifier=sources
 - pkg:maven/org.codefetti.proxy/proxy-handler@1.0.0?classifier=sources
 - pkg:maven/org.codefetti.proxy/proxy-handler@1.0.1?classifier=sources
+- pkg:maven/org.codefetti.proxy/proxy-handler@1.0.2?classifier=sources

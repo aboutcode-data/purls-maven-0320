@@ -1,0 +1,3 @@
+- pkg:maven/org.juhewu/juhewu-sms-yunpian-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/org.juhewu/juhewu-sms-yunpian-spring-boot-starter@1.0.1
+- pkg:maven/org.juhewu/juhewu-sms-yunpian-spring-boot-starter@1.0.1?classifier=sources

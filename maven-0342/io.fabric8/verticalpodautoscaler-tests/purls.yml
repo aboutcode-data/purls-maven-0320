@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8/verticalpodautoscaler-tests@5.10.0
+- pkg:maven/io.fabric8/verticalpodautoscaler-tests@5.10.1

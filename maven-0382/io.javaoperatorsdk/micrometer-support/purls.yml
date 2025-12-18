@@ -1,3 +1,7 @@
+- pkg:maven/io.javaoperatorsdk/micrometer-support@1.10.0
+- pkg:maven/io.javaoperatorsdk/micrometer-support@1.10.0?classifier=sources
+- pkg:maven/io.javaoperatorsdk/micrometer-support@1.10.1
+- pkg:maven/io.javaoperatorsdk/micrometer-support@1.10.1?classifier=sources
 - pkg:maven/io.javaoperatorsdk/micrometer-support@1.9.10
 - pkg:maven/io.javaoperatorsdk/micrometer-support@1.9.10?classifier=sources
 - pkg:maven/io.javaoperatorsdk/micrometer-support@1.9.11
@@ -6,3 +10,5 @@
 - pkg:maven/io.javaoperatorsdk/micrometer-support@1.9.8?classifier=sources
 - pkg:maven/io.javaoperatorsdk/micrometer-support@1.9.9
 - pkg:maven/io.javaoperatorsdk/micrometer-support@1.9.9?classifier=sources
+- pkg:maven/io.javaoperatorsdk/micrometer-support@2.0.0-M1
+- pkg:maven/io.javaoperatorsdk/micrometer-support@2.0.0-M1?classifier=sources

@@ -7,7 +7,12 @@
 - pkg:maven/net.n2oapp.framework/docusaurus@7.16.14
 - pkg:maven/net.n2oapp.framework/docusaurus@7.16.17
 - pkg:maven/net.n2oapp.framework/docusaurus@7.16.18
+- pkg:maven/net.n2oapp.framework/docusaurus@7.16.19
 - pkg:maven/net.n2oapp.framework/docusaurus@7.16.2
+- pkg:maven/net.n2oapp.framework/docusaurus@7.16.20
+- pkg:maven/net.n2oapp.framework/docusaurus@7.16.21
+- pkg:maven/net.n2oapp.framework/docusaurus@7.16.22
+- pkg:maven/net.n2oapp.framework/docusaurus@7.16.23
 - pkg:maven/net.n2oapp.framework/docusaurus@7.16.3
 - pkg:maven/net.n2oapp.framework/docusaurus@7.16.4
 - pkg:maven/net.n2oapp.framework/docusaurus@7.16.5
@@ -25,7 +30,10 @@
 - pkg:maven/net.n2oapp.framework/docusaurus@7.17.15
 - pkg:maven/net.n2oapp.framework/docusaurus@7.17.16
 - pkg:maven/net.n2oapp.framework/docusaurus@7.17.17
+- pkg:maven/net.n2oapp.framework/docusaurus@7.17.18
+- pkg:maven/net.n2oapp.framework/docusaurus@7.17.19
 - pkg:maven/net.n2oapp.framework/docusaurus@7.17.2
+- pkg:maven/net.n2oapp.framework/docusaurus@7.17.20
 - pkg:maven/net.n2oapp.framework/docusaurus@7.17.3
 - pkg:maven/net.n2oapp.framework/docusaurus@7.17.5
 - pkg:maven/net.n2oapp.framework/docusaurus@7.17.6
@@ -37,3 +45,7 @@
 - pkg:maven/net.n2oapp.framework/docusaurus@7.18.2
 - pkg:maven/net.n2oapp.framework/docusaurus@7.19.0
 - pkg:maven/net.n2oapp.framework/docusaurus@7.19.1
+- pkg:maven/net.n2oapp.framework/docusaurus@7.20.0
+- pkg:maven/net.n2oapp.framework/docusaurus@7.20.1
+- pkg:maven/net.n2oapp.framework/docusaurus@7.20.2
+- pkg:maven/net.n2oapp.framework/docusaurus@7.20.3

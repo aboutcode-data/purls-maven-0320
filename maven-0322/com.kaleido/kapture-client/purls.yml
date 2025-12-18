@@ -28,3 +28,5 @@
 - pkg:maven/com.kaleido/kapture-client@3.2.31?classifier=sources
 - pkg:maven/com.kaleido/kapture-client@3.2.32
 - pkg:maven/com.kaleido/kapture-client@3.2.32?classifier=sources
+- pkg:maven/com.kaleido/kapture-client@3.2.33
+- pkg:maven/com.kaleido/kapture-client@3.2.33?classifier=sources

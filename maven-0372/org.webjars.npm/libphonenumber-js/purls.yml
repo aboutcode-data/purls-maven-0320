@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.7.9?classifier=sources
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.9.18
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.9.18?classifier=sources
+- pkg:maven/org.webjars.npm/libphonenumber-js@1.9.43
+- pkg:maven/org.webjars.npm/libphonenumber-js@1.9.43?classifier=sources

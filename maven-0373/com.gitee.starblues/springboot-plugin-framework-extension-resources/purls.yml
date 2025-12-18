@@ -14,3 +14,4 @@
 - pkg:maven/com.gitee.starblues/springboot-plugin-framework-extension-resources@2.4.4-RELEASE
 - pkg:maven/com.gitee.starblues/springboot-plugin-framework-extension-resources@2.4.4-RELEASE?classifier=sources
 - pkg:maven/com.gitee.starblues/springboot-plugin-framework-extension-resources@2.4.5-RELEASE
+- pkg:maven/com.gitee.starblues/springboot-plugin-framework-extension-resources@2.4.5-RELEASE?classifier=sources

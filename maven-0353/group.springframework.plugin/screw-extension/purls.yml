@@ -1,0 +1,2 @@
+- pkg:maven/group.springframework.plugin/screw-extension@0.0.1
+- pkg:maven/group.springframework.plugin/screw-extension@0.0.1?classifier=sources

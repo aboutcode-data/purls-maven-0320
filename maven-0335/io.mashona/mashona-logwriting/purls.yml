@@ -4,3 +4,5 @@
 - pkg:maven/io.mashona/mashona-logwriting@1.0.0.Beta2
 - pkg:maven/io.mashona/mashona-logwriting@1.0.0.Beta2?classifier=sources
 - pkg:maven/io.mashona/mashona-logwriting@1.0.0?classifier=sources
+- pkg:maven/io.mashona/mashona-logwriting@1.1.0
+- pkg:maven/io.mashona/mashona-logwriting@1.1.0?classifier=sources

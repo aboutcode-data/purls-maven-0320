@@ -38,3 +38,6 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.3.1
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.4.0
 - pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.4.0-RC1
+- pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.5.0
+- pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.5.0-RC1
+- pkg:maven/com.powsybl/powsybl-cgmes-conformity@4.5.1

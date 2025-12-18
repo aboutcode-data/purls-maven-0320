@@ -8,3 +8,5 @@
 - pkg:maven/kr.dogfoot/hwplib@1.0.4
 - pkg:maven/kr.dogfoot/hwplib@1.0.4?classifier=sources
 - pkg:maven/kr.dogfoot/hwplib@1.0?classifier=sources
+- pkg:maven/kr.dogfoot/hwplib@1.1.0
+- pkg:maven/kr.dogfoot/hwplib@1.1.0?classifier=sources

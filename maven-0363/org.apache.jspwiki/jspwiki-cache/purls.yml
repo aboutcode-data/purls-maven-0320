@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jspwiki/jspwiki-cache@2.11.1
+- pkg:maven/org.apache.jspwiki/jspwiki-cache@2.11.1?classifier=sources

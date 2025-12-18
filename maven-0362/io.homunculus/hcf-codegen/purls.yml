@@ -1,1 +1,3 @@
 - pkg:maven/io.homunculus/hcf-codegen@0.0.104?classifier=sources
+- pkg:maven/io.homunculus/hcf-codegen@0.0.105?classifier=sources
+- pkg:maven/io.homunculus/hcf-codegen@0.0.106?classifier=sources

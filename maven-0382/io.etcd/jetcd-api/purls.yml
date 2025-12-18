@@ -1,0 +1,2 @@
+- pkg:maven/io.etcd/jetcd-api@0.6.0?classifier=sources
+- pkg:maven/io.etcd/jetcd-api@0.6.1?classifier=sources

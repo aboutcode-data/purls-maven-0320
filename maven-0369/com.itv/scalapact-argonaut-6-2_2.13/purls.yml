@@ -30,3 +30,5 @@
 - pkg:maven/com.itv/scalapact-argonaut-6-2_2.13@4.2.0?classifier=sources
 - pkg:maven/com.itv/scalapact-argonaut-6-2_2.13@4.3.0
 - pkg:maven/com.itv/scalapact-argonaut-6-2_2.13@4.3.0?classifier=sources
+- pkg:maven/com.itv/scalapact-argonaut-6-2_2.13@4.4.0
+- pkg:maven/com.itv/scalapact-argonaut-6-2_2.13@4.4.0?classifier=sources

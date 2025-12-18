@@ -7,4 +7,5 @@
 - pkg:maven/com.yoctopuce.android/YoctoLib@1.10.45344?classifier=sources
 - pkg:maven/com.yoctopuce.android/YoctoLib@1.10.45704?classifier=sources
 - pkg:maven/com.yoctopuce.android/YoctoLib@1.10.46606?classifier=sources
+- pkg:maven/com.yoctopuce.android/YoctoLib@1.10.47582?classifier=sources
 - pkg:maven/com.yoctopuce.android/YoctoLib@1.10.PATCH_WITH_BUILD?classifier=sources

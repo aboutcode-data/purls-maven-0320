@@ -18,3 +18,7 @@
 - pkg:maven/io.bitbucket.dsmoons/odk-test-framework@2.0.8?classifier=sources
 - pkg:maven/io.bitbucket.dsmoons/odk-test-framework@2.0.9
 - pkg:maven/io.bitbucket.dsmoons/odk-test-framework@2.0.9?classifier=sources
+- pkg:maven/io.bitbucket.dsmoons/odk-test-framework@2.1.0
+- pkg:maven/io.bitbucket.dsmoons/odk-test-framework@2.1.0?classifier=sources
+- pkg:maven/io.bitbucket.dsmoons/odk-test-framework@2.1.1
+- pkg:maven/io.bitbucket.dsmoons/odk-test-framework@2.1.1?classifier=sources

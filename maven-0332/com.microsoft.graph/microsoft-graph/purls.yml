@@ -45,3 +45,5 @@
 - pkg:maven/com.microsoft.graph/microsoft-graph@5.4.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph@5.5.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph@5.6.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph@5.7.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph@5.8.0?classifier=sources

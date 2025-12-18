@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.org.apache.httpcomponents/httpasyncclient@4.0.2.wso2v1
+- pkg:maven/org.wso2.orbit.org.apache.httpcomponents/httpasyncclient@4.1.3.wso2v1

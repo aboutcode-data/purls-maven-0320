@@ -1,0 +1,2 @@
+- pkg:maven/com.wgzhao.addax/hivereader@4.0.7
+- pkg:maven/com.wgzhao.addax/hivereader@4.0.7?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/com.safeboda/android-commons@0.0.19?classifier=sources
 - pkg:maven/com.safeboda/android-commons@0.1.0?classifier=sources
+- pkg:maven/com.safeboda/android-commons@0.1.1?classifier=sources

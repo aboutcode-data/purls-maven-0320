@@ -1,0 +1,2 @@
+- pkg:maven/com.datastax.astra/astra-spring-security@0.2.3
+- pkg:maven/com.datastax.astra/astra-spring-security@0.2.3?classifier=sources

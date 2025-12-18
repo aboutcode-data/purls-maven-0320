@@ -192,6 +192,8 @@
 - pkg:maven/com.github.xeroapi/xero-java@4.12.0?classifier=sources
 - pkg:maven/com.github.xeroapi/xero-java@4.13.0
 - pkg:maven/com.github.xeroapi/xero-java@4.13.0?classifier=sources
+- pkg:maven/com.github.xeroapi/xero-java@4.14.0
+- pkg:maven/com.github.xeroapi/xero-java@4.14.0?classifier=sources
 - pkg:maven/com.github.xeroapi/xero-java@4.2.0
 - pkg:maven/com.github.xeroapi/xero-java@4.2.0?classifier=sources
 - pkg:maven/com.github.xeroapi/xero-java@4.3.0

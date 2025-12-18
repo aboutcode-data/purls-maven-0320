@@ -1,2 +1,8 @@
 - pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.2.0
 - pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.2.0?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.2.3
+- pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.2.3?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.3.2
+- pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.3.2-macos
+- pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.3.2-macos?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-nearline-tablet@0.3.2?classifier=sources

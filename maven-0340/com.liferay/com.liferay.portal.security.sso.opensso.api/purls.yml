@@ -56,6 +56,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.20
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.21
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@1.2.3
@@ -316,3 +319,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@5.0.7
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@5.0.8
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.opensso.api@5.0.8?classifier=sources-commercial

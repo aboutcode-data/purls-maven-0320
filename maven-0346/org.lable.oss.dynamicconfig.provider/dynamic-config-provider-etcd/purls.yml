@@ -2,5 +2,7 @@
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@3.0-beta1?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@3.1
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@3.1?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.0
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.0-beta1
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.0-beta1?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.0?classifier=sources

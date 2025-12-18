@@ -1,0 +1,4 @@
+- pkg:maven/org.qbicc.rt/qbicc-rt-openjdk-build-tools-maven-plugin@11.alpha.0.1
+- pkg:maven/org.qbicc.rt/qbicc-rt-openjdk-build-tools-maven-plugin@11.alpha.0.1?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-openjdk-build-tools-maven-plugin@17.alpha.0.1
+- pkg:maven/org.qbicc.rt/qbicc-rt-openjdk-build-tools-maven-plugin@17.alpha.0.1?classifier=sources

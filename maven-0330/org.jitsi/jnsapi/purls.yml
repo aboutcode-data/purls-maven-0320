@@ -1,2 +1,6 @@
 - pkg:maven/org.jitsi/jnsapi@0.0.3-jitsi-smack4.2-3
 - pkg:maven/org.jitsi/jnsapi@0.0.3-jitsi-smack4.2-3?classifier=sources
+- pkg:maven/org.jitsi/jnsapi@0.0.3-jitsi-smack4.4-1
+- pkg:maven/org.jitsi/jnsapi@0.0.3-jitsi-smack4.4-1?classifier=sources
+- pkg:maven/org.jitsi/jnsapi@0.0.3-jitsi-smack4.4-2
+- pkg:maven/org.jitsi/jnsapi@0.0.3-jitsi-smack4.4-2?classifier=sources

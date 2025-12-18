@@ -5,6 +5,8 @@
 - pkg:maven/de.mediathekview/MLib@2.5.0
 - pkg:maven/de.mediathekview/MLib@2.5.0?classifier=sources
 - pkg:maven/de.mediathekview/MLib@3.0.1
+- pkg:maven/de.mediathekview/MLib@3.0.10
+- pkg:maven/de.mediathekview/MLib@3.0.10?classifier=sources
 - pkg:maven/de.mediathekview/MLib@3.0.1?classifier=sources
 - pkg:maven/de.mediathekview/MLib@3.0.2
 - pkg:maven/de.mediathekview/MLib@3.0.2?classifier=sources

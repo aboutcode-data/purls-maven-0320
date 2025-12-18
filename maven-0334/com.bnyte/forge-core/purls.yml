@@ -1,0 +1,16 @@
+- pkg:maven/com.bnyte/forge-core@1.0.1-BATA
+- pkg:maven/com.bnyte/forge-core@1.0.1-BATA?classifier=sources
+- pkg:maven/com.bnyte/forge-core@1.0.1-BETA
+- pkg:maven/com.bnyte/forge-core@1.0.1-BETA?classifier=sources
+- pkg:maven/com.bnyte/forge-core@1.0.2-BETA
+- pkg:maven/com.bnyte/forge-core@1.0.2-BETA?classifier=sources
+- pkg:maven/com.bnyte/forge-core@1.0.3-BETA
+- pkg:maven/com.bnyte/forge-core@1.0.3-BETA?classifier=sources
+- pkg:maven/com.bnyte/forge-core@1.0.4-BETA
+- pkg:maven/com.bnyte/forge-core@1.0.4-BETA?classifier=sources
+- pkg:maven/com.bnyte/forge-core@1.0.5-BETA
+- pkg:maven/com.bnyte/forge-core@1.0.5-BETA?classifier=sources
+- pkg:maven/com.bnyte/forge-core@1.0.6-BETA
+- pkg:maven/com.bnyte/forge-core@1.0.6-BETA?classifier=sources
+- pkg:maven/com.bnyte/forge-core@1.0.7-BETA
+- pkg:maven/com.bnyte/forge-core@1.0.7-BETA?classifier=sources

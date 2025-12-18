@@ -1,0 +1,2 @@
+- pkg:maven/group.rxcloud/capa-spi-aws@1.0.1.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws@1.0.1.RELEASE?classifier=sources

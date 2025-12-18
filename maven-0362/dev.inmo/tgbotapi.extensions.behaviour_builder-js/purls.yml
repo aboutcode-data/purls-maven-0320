@@ -23,3 +23,5 @@
 - pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-js@0.35.9?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-js@0.36.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-js@0.36.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-js@0.37.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-js@0.37.1?classifier=sources

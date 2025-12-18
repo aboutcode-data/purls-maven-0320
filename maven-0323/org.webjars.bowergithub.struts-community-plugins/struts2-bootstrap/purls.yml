@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.struts-community-plugins/struts2-bootstrap@4.0.0
+- pkg:maven/org.webjars.bowergithub.struts-community-plugins/struts2-bootstrap@4.0.0?classifier=sources

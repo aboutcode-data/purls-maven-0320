@@ -11,3 +11,5 @@
 - pkg:maven/com.1gravity/android-colorpicker@2.1.0?classifier=sources
 - pkg:maven/com.1gravity/android-colorpicker@2.1.0?type=aar
 - pkg:maven/com.1gravity/android-colorpicker@2.2.2?classifier=sources
+- pkg:maven/com.1gravity/android-colorpicker@2.2.3?classifier=sources
+- pkg:maven/com.1gravity/android-colorpicker@2.2.4?classifier=sources

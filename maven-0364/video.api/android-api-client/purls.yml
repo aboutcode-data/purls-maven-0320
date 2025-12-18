@@ -1,0 +1,2 @@
+- pkg:maven/video.api/android-api-client@0.0.1
+- pkg:maven/video.api/android-api-client@0.0.1?classifier=sources

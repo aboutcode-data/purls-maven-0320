@@ -1,0 +1,2 @@
+- pkg:maven/com.beatjs.android/react-native@0.64.2.0?classifier=sources
+- pkg:maven/com.beatjs.android/react-native@0.64.2.0?type=aar

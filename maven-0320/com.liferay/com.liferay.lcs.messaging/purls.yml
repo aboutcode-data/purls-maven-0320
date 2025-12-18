@@ -7,3 +7,6 @@
 - pkg:maven/com.liferay/com.liferay.lcs.messaging@12.1.15
 - pkg:maven/com.liferay/com.liferay.lcs.messaging@12.1.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.lcs.messaging@12.1.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.lcs.messaging@12.1.16
+- pkg:maven/com.liferay/com.liferay.lcs.messaging@12.1.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.lcs.messaging@12.1.16?classifier=sources-commercial

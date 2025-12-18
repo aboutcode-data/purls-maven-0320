@@ -1,2 +1,5 @@
 - pkg:maven/com.tazkiyatech/android-test-utils@0.0.8?classifier=sources
 - pkg:maven/com.tazkiyatech/android-test-utils@0.0.9?classifier=sources
+- pkg:maven/com.tazkiyatech/android-test-utils@1.0.0?classifier=sources
+- pkg:maven/com.tazkiyatech/android-test-utils@1.1.0?classifier=sources
+- pkg:maven/com.tazkiyatech/android-test-utils@1.2.0?classifier=sources

@@ -12,5 +12,9 @@
 - pkg:maven/com.xendit/xendit-java-lib@1.16.0?classifier=sources
 - pkg:maven/com.xendit/xendit-java-lib@1.17.0
 - pkg:maven/com.xendit/xendit-java-lib@1.17.0?classifier=sources
+- pkg:maven/com.xendit/xendit-java-lib@1.17.2
+- pkg:maven/com.xendit/xendit-java-lib@1.17.2?classifier=sources
+- pkg:maven/com.xendit/xendit-java-lib@1.18.0
+- pkg:maven/com.xendit/xendit-java-lib@1.18.0?classifier=sources
 - pkg:maven/com.xendit/xendit-java-lib@1.6.1
 - pkg:maven/com.xendit/xendit-java-lib@1.6.1?classifier=sources

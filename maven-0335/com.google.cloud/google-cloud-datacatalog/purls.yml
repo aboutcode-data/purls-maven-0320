@@ -132,3 +132,7 @@
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.5.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.5.9
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.5.9?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog@1.6.0
+- pkg:maven/com.google.cloud/google-cloud-datacatalog@1.6.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog@1.6.1
+- pkg:maven/com.google.cloud/google-cloud-datacatalog@1.6.1?classifier=sources

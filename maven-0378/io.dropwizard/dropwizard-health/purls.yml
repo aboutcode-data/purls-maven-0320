@@ -4,3 +4,5 @@
 - pkg:maven/io.dropwizard/dropwizard-health@2.1.0-beta.3?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-health@2.1.0-beta.4
 - pkg:maven/io.dropwizard/dropwizard-health@2.1.0-beta.4?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-health@2.1.0-beta.5
+- pkg:maven/io.dropwizard/dropwizard-health@2.1.0-beta.5?classifier=sources

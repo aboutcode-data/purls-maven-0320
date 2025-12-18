@@ -102,6 +102,10 @@
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.10.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.10.1
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.10.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-backward-codecs@8.11.0
+- pkg:maven/org.apache.lucene/lucene-backward-codecs@8.11.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-backward-codecs@8.11.1
+- pkg:maven/org.apache.lucene/lucene-backward-codecs@8.11.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.2.0
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.2.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.3.0
@@ -136,3 +140,5 @@
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.8.2?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.9.0
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@8.9.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-backward-codecs@9.0.0
+- pkg:maven/org.apache.lucene/lucene-backward-codecs@9.0.0?classifier=sources

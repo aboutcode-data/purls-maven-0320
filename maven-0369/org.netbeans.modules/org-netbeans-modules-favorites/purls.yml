@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE90?classifier=sources

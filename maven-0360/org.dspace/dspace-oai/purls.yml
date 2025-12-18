@@ -108,4 +108,6 @@
 - pkg:maven/org.dspace/dspace-oai@7.0-preview-1?type=war
 - pkg:maven/org.dspace/dspace-oai@7.0?classifier=sources
 - pkg:maven/org.dspace/dspace-oai@7.1
+- pkg:maven/org.dspace/dspace-oai@7.1.1
+- pkg:maven/org.dspace/dspace-oai@7.1.1?classifier=sources
 - pkg:maven/org.dspace/dspace-oai@7.1?classifier=sources

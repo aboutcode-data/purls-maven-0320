@@ -1,2 +1,4 @@
 - pkg:maven/com.dynamicpdf.api/dynamicpdf-api@0.9.0
 - pkg:maven/com.dynamicpdf.api/dynamicpdf-api@0.9.0?classifier=sources
+- pkg:maven/com.dynamicpdf.api/dynamicpdf-api@1.0.0
+- pkg:maven/com.dynamicpdf.api/dynamicpdf-api@1.0.0?classifier=sources

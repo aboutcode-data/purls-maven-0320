@@ -5,3 +5,4 @@
 - pkg:maven/org.bedework.bwxsl/bw-calendar-xsl@3.12.5?type=war
 - pkg:maven/org.bedework.bwxsl/bw-calendar-xsl@3.13.0?type=war
 - pkg:maven/org.bedework.bwxsl/bw-calendar-xsl@3.13.1?type=war
+- pkg:maven/org.bedework.bwxsl/bw-calendar-xsl@3.13.2?type=war

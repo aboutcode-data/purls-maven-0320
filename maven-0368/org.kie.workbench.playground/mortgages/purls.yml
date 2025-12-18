@@ -35,6 +35,11 @@
 - pkg:maven/org.kie.workbench.playground/mortgages@7.31.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgages@7.32.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgages@7.33.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/mortgages@7.34.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/mortgages@7.35.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/mortgages@7.36.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/mortgages@7.36.1.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/mortgages@7.37.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgages@7.4.1.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgages@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgages@7.6.0.Final?classifier=sources

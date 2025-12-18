@@ -152,7 +152,17 @@
 - pkg:maven/org.webjars.npm/typescript@3.7.0-dev.20190820?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@3.7.2
 - pkg:maven/org.webjars.npm/typescript@3.7.2?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.7.3
+- pkg:maven/org.webjars.npm/typescript@3.7.3?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@3.7.4
 - pkg:maven/org.webjars.npm/typescript@3.7.4?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@3.7.5
 - pkg:maven/org.webjars.npm/typescript@3.7.5?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.8.2
+- pkg:maven/org.webjars.npm/typescript@3.8.2?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.8.3
+- pkg:maven/org.webjars.npm/typescript@3.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.9.2
+- pkg:maven/org.webjars.npm/typescript@3.9.2?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@3.9.3
+- pkg:maven/org.webjars.npm/typescript@3.9.3?classifier=sources

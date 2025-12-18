@@ -26,3 +26,5 @@
 - pkg:maven/org.wso2.msf4j.perftest.echo/wso2msf4j-echo-message@2.6.4?classifier=sources
 - pkg:maven/org.wso2.msf4j.perftest.echo/wso2msf4j-echo-message@2.7.0
 - pkg:maven/org.wso2.msf4j.perftest.echo/wso2msf4j-echo-message@2.7.0?classifier=sources
+- pkg:maven/org.wso2.msf4j.perftest.echo/wso2msf4j-echo-message@2.7.7
+- pkg:maven/org.wso2.msf4j.perftest.echo/wso2msf4j-echo-message@2.7.7?classifier=sources

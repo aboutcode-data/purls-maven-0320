@@ -10,3 +10,9 @@
 - pkg:maven/org.springframework.data/spring-data-relational@1.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-relational@1.1.5.RELEASE
 - pkg:maven/org.springframework.data/spring-data-relational@1.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-relational@1.1.6.RELEASE
+- pkg:maven/org.springframework.data/spring-data-relational@1.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-relational@1.1.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-relational@1.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-relational@2.0.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-relational@2.0.0.RELEASE?classifier=sources

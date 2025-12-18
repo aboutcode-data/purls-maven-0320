@@ -24,3 +24,5 @@
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.34?classifier=sources
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.35
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.35?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.36
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-pubsub@0.36?classifier=sources

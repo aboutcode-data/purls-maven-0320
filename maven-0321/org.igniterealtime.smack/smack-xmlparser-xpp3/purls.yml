@@ -1,2 +1,3 @@
 - pkg:maven/org.igniterealtime.smack/smack-xmlparser-xpp3@4.4.0-alpha2
 - pkg:maven/org.igniterealtime.smack/smack-xmlparser-xpp3@4.4.0-alpha2?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-xmlparser-xpp3@4.4.0-alpha3?classifier=sources

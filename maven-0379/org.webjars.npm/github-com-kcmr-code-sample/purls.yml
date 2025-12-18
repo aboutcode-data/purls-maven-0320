@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-kcmr-code-sample@3.0.2
 - pkg:maven/org.webjars.npm/github-com-kcmr-code-sample@3.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-kcmr-code-sample@4.0.0-pre.0
+- pkg:maven/org.webjars.npm/github-com-kcmr-code-sample@4.0.0-pre.0?classifier=sources

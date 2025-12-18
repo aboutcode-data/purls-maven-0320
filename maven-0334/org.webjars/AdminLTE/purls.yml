@@ -9,3 +9,5 @@
 - pkg:maven/org.webjars/AdminLTE@2.4.2-1
 - pkg:maven/org.webjars/AdminLTE@2.4.3
 - pkg:maven/org.webjars/AdminLTE@3.0.0
+- pkg:maven/org.webjars/AdminLTE@3.0.2
+- pkg:maven/org.webjars/AdminLTE@3.0.4

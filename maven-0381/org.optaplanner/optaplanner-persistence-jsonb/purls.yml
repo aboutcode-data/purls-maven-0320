@@ -1,0 +1,10 @@
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.35.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.35.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.36.0.20200331
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.36.0.20200331?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.36.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.36.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.36.1.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.36.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.37.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jsonb@7.37.0.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frostyaxe/frosty-selenium-pagefactory@1.0beta
+- pkg:maven/com.github.frostyaxe/frosty-selenium-pagefactory@1.0beta?classifier=sources

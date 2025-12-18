@@ -26,3 +26,7 @@
 - pkg:maven/cz.smarteon/loxone-java@0.6.4?classifier=sources
 - pkg:maven/cz.smarteon/loxone-java@0.7.0
 - pkg:maven/cz.smarteon/loxone-java@0.7.0?classifier=sources
+- pkg:maven/cz.smarteon/loxone-java@0.8.0
+- pkg:maven/cz.smarteon/loxone-java@0.8.0?classifier=sources
+- pkg:maven/cz.smarteon/loxone-java@0.8.1
+- pkg:maven/cz.smarteon/loxone-java@0.8.1?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/net.lachlanmckee/gsonpath-compiler@3.7.2?classifier=sources
 - pkg:maven/net.lachlanmckee/gsonpath-compiler@3.8.0
 - pkg:maven/net.lachlanmckee/gsonpath-compiler@3.8.0?classifier=sources
+- pkg:maven/net.lachlanmckee/gsonpath-compiler@4.0.0
+- pkg:maven/net.lachlanmckee/gsonpath-compiler@4.0.0?classifier=sources

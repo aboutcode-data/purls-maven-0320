@@ -16,4 +16,6 @@
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin8@1.1.1?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin8@1.2.0-m01?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin8@1.2.0-m02?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin8@1.2.0-rc01?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin8@1.2.0-rc02?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin8@linkki-0.9.20190528?classifier=sources

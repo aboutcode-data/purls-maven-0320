@@ -26,3 +26,5 @@
 - pkg:maven/com.cognitect.aws/cognito-idp@773.2.579.0?classifier=sources
 - pkg:maven/com.cognitect.aws/cognito-idp@776.2.580.0
 - pkg:maven/com.cognitect.aws/cognito-idp@776.2.580.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cognito-idp@794.2.640.0
+- pkg:maven/com.cognitect.aws/cognito-idp@794.2.640.0?classifier=sources

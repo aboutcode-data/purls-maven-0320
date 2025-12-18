@@ -29,6 +29,8 @@
 - pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner@2.22?classifier=sources
 - pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner@2.23
 - pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner@2.23?classifier=sources
+- pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner@2.24
+- pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner@2.24?classifier=sources
 - pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner@2.2?classifier=sources
 - pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner@2.4
 - pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner@2.4?classifier=sources

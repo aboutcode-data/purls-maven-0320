@@ -1,0 +1,2 @@
+- pkg:maven/com.hannesdorfmann/adapterdelegates4-kotlin-dsl-viewbinding@4.3.0?classifier=sources
+- pkg:maven/com.hannesdorfmann/adapterdelegates4-kotlin-dsl-viewbinding@4.3.0?type=aar

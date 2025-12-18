@@ -42,3 +42,5 @@
 - pkg:maven/com.arakelian/docker-junit-rule@3.3.0?classifier=sources
 - pkg:maven/com.arakelian/docker-junit-rule@3.4.0
 - pkg:maven/com.arakelian/docker-junit-rule@3.4.0?classifier=sources
+- pkg:maven/com.arakelian/docker-junit-rule@3.5.0
+- pkg:maven/com.arakelian/docker-junit-rule@3.5.0?classifier=sources

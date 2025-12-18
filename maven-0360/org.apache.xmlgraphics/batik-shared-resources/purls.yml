@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.xmlgraphics/batik-shared-resources@1.13
+- pkg:maven/org.apache.xmlgraphics/batik-shared-resources@1.13?classifier=sources

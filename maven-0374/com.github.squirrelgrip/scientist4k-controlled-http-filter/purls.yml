@@ -1,0 +1,8 @@
+- pkg:maven/com.github.squirrelgrip/scientist4k-controlled-http-filter@0.7.7
+- pkg:maven/com.github.squirrelgrip/scientist4k-controlled-http-filter@0.7.7?classifier=sources
+- pkg:maven/com.github.squirrelgrip/scientist4k-controlled-http-filter@0.7.8
+- pkg:maven/com.github.squirrelgrip/scientist4k-controlled-http-filter@0.7.8?classifier=sources
+- pkg:maven/com.github.squirrelgrip/scientist4k-controlled-http-filter@0.8.0
+- pkg:maven/com.github.squirrelgrip/scientist4k-controlled-http-filter@0.8.0?classifier=sources
+- pkg:maven/com.github.squirrelgrip/scientist4k-controlled-http-filter@0.8.1
+- pkg:maven/com.github.squirrelgrip/scientist4k-controlled-http-filter@0.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sporniket.networking/sporniket-networking-http@20.05.00
+- pkg:maven/com.sporniket.networking/sporniket-networking-http@20.05.00?classifier=sources

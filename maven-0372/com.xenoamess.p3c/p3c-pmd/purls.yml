@@ -1,0 +1,14 @@
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.1.3x
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.1.3x?classifier=sources
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.1.4x
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.1.4x?classifier=sources
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.1x
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.1x?classifier=sources
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.2x
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.2x.1f
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.2x.1f?classifier=sources
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.2x?classifier=sources
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.3x
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.3x?classifier=sources
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.4x
+- pkg:maven/com.xenoamess.p3c/p3c-pmd@2.0.2.4x?classifier=sources

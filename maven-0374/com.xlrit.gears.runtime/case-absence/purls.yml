@@ -1,0 +1,2 @@
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.2?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/case-absence@0.2?type=war

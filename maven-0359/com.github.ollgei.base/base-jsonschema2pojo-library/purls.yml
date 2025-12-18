@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ollgei.base/base-jsonschema2pojo-library@1.0.0.RC1
+- pkg:maven/com.github.ollgei.base/base-jsonschema2pojo-library@1.0.0.RC1?classifier=sources

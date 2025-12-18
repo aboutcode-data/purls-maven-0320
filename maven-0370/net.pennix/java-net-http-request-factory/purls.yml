@@ -1,0 +1,2 @@
+- pkg:maven/net.pennix/java-net-http-request-factory@1.0.1
+- pkg:maven/net.pennix/java-net-http-request-factory@1.0.1?classifier=sources

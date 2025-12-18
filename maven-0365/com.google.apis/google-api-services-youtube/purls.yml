@@ -876,6 +876,16 @@
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200109-1.29.2?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200109-1.30.8
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200109-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200213-1.30.9
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200213-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200312-1.30.9
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200312-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200320-1.30.9
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200320-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200402-1.30.9
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200402-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200423-1.30.9
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20200423-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev204-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev204-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev204-1.21.0
@@ -944,6 +954,10 @@
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev221-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev221-1.25.0
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev221-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev222-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev222-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev222-1.25.0
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev222-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev40-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev40-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev40-1.14.1-beta

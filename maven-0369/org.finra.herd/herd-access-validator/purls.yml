@@ -28,3 +28,13 @@
 - pkg:maven/org.finra.herd/herd-access-validator@0.115.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-access-validator@0.116.0
 - pkg:maven/org.finra.herd/herd-access-validator@0.116.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-access-validator@0.117.0
+- pkg:maven/org.finra.herd/herd-access-validator@0.117.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-access-validator@0.118.0
+- pkg:maven/org.finra.herd/herd-access-validator@0.118.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-access-validator@0.119.0
+- pkg:maven/org.finra.herd/herd-access-validator@0.119.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-access-validator@0.120.0
+- pkg:maven/org.finra.herd/herd-access-validator@0.120.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-access-validator@0.122.0
+- pkg:maven/org.finra.herd/herd-access-validator@0.122.0?classifier=sources

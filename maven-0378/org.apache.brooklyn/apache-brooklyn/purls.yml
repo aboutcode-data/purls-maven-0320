@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.brooklyn/apache-brooklyn@0.12.0?classifier=sources
 - pkg:maven/org.apache.brooklyn/apache-brooklyn@0.9.0?classifier=sources
 - pkg:maven/org.apache.brooklyn/apache-brooklyn@1.0.0-M1?classifier=sources
+- pkg:maven/org.apache.brooklyn/apache-brooklyn@1.0.0?classifier=sources

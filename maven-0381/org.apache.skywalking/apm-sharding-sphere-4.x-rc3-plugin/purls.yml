@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-sharding-sphere-4.x-rc3-plugin@7.0.0
+- pkg:maven/org.apache.skywalking/apm-sharding-sphere-4.x-rc3-plugin@7.0.0?classifier=sources

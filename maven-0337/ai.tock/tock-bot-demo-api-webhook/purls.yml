@@ -4,3 +4,9 @@
 - pkg:maven/ai.tock/tock-bot-demo-api-webhook@19.9.2?classifier=sources
 - pkg:maven/ai.tock/tock-bot-demo-api-webhook@19.9.3
 - pkg:maven/ai.tock/tock-bot-demo-api-webhook@19.9.3?classifier=sources
+- pkg:maven/ai.tock/tock-bot-demo-api-webhook@19.9.4
+- pkg:maven/ai.tock/tock-bot-demo-api-webhook@19.9.4?classifier=sources
+- pkg:maven/ai.tock/tock-bot-demo-api-webhook@20.3.0
+- pkg:maven/ai.tock/tock-bot-demo-api-webhook@20.3.0?classifier=sources
+- pkg:maven/ai.tock/tock-bot-demo-api-webhook@20.3.1
+- pkg:maven/ai.tock/tock-bot-demo-api-webhook@20.3.1?classifier=sources

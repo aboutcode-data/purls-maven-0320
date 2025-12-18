@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE90?classifier=sources

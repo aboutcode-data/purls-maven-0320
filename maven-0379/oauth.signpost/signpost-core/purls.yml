@@ -8,3 +8,5 @@
 - pkg:maven/oauth.signpost/signpost-core@1.2.1.2?classifier=sources
 - pkg:maven/oauth.signpost/signpost-core@1.2.1?classifier=sources
 - pkg:maven/oauth.signpost/signpost-core@1.2?classifier=sources
+- pkg:maven/oauth.signpost/signpost-core@2.0.0
+- pkg:maven/oauth.signpost/signpost-core@2.0.0?classifier=sources

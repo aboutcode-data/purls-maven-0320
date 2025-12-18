@@ -1,0 +1,6 @@
+- pkg:maven/com.github.jferrater/opa-datafilter-jpa-spring-boot-starter@0.4.3
+- pkg:maven/com.github.jferrater/opa-datafilter-jpa-spring-boot-starter@0.4.3?classifier=sources
+- pkg:maven/com.github.jferrater/opa-datafilter-jpa-spring-boot-starter@0.4.4
+- pkg:maven/com.github.jferrater/opa-datafilter-jpa-spring-boot-starter@0.4.4?classifier=sources
+- pkg:maven/com.github.jferrater/opa-datafilter-jpa-spring-boot-starter@0.4.5
+- pkg:maven/com.github.jferrater/opa-datafilter-jpa-spring-boot-starter@0.4.5?classifier=sources

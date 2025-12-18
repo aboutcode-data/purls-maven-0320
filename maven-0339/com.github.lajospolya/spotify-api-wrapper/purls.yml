@@ -1,0 +1,8 @@
+- pkg:maven/com.github.lajospolya/spotify-api-wrapper@1.0.RELEASE
+- pkg:maven/com.github.lajospolya/spotify-api-wrapper@1.0.RELEASE?classifier=sources
+- pkg:maven/com.github.lajospolya/spotify-api-wrapper@2.0.RELEASE
+- pkg:maven/com.github.lajospolya/spotify-api-wrapper@2.0.RELEASE?classifier=sources
+- pkg:maven/com.github.lajospolya/spotify-api-wrapper@2.1.RELEASE
+- pkg:maven/com.github.lajospolya/spotify-api-wrapper@2.1.RELEASE?classifier=sources
+- pkg:maven/com.github.lajospolya/spotify-api-wrapper@3.0.RELEASE
+- pkg:maven/com.github.lajospolya/spotify-api-wrapper@3.0.RELEASE?classifier=sources

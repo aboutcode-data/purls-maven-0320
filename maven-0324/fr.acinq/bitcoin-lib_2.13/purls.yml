@@ -1,0 +1,2 @@
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.18
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.18?classifier=sources

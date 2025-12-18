@@ -1,0 +1,2 @@
+- pkg:maven/com.okta.shiro/okta-shiro-examples-jaxrs@0.1.0?classifier=sources
+- pkg:maven/com.okta.shiro/okta-shiro-examples-jaxrs@0.1.0?type=war

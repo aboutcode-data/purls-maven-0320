@@ -1,0 +1,8 @@
+- pkg:maven/com.github.JoaquinVte/custom-sockets@1.0-SANPSHOT
+- pkg:maven/com.github.JoaquinVte/custom-sockets@1.0-SANPSHOT?classifier=sources
+- pkg:maven/com.github.JoaquinVte/custom-sockets@1.1-SANPSHOT
+- pkg:maven/com.github.JoaquinVte/custom-sockets@1.1-SANPSHOT?classifier=sources
+- pkg:maven/com.github.JoaquinVte/custom-sockets@1.2-SANPSHOT
+- pkg:maven/com.github.JoaquinVte/custom-sockets@1.2-SANPSHOT?classifier=sources
+- pkg:maven/com.github.JoaquinVte/custom-sockets@1.3-SANPSHOT
+- pkg:maven/com.github.JoaquinVte/custom-sockets@1.3-SANPSHOT?classifier=sources

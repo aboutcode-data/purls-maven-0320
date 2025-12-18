@@ -1,0 +1,2 @@
+- pkg:maven/org.exist-db.thirdparty.javax.xml.xquery/xqjri@20080114-133351
+- pkg:maven/org.exist-db.thirdparty.javax.xml.xquery/xqjri@20080114-133351?classifier=sources

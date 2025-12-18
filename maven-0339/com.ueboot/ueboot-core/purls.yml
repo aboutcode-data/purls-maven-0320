@@ -8,3 +8,5 @@
 - pkg:maven/com.ueboot/ueboot-core@2.0.3?classifier=sources
 - pkg:maven/com.ueboot/ueboot-core@2.2.0
 - pkg:maven/com.ueboot/ueboot-core@2.2.0?classifier=sources
+- pkg:maven/com.ueboot/ueboot-core@3.0.0
+- pkg:maven/com.ueboot/ueboot-core@3.0.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/net.named-data/jndn-android-with-async-io@0.22?classifier=sources
 - pkg:maven/net.named-data/jndn-android-with-async-io@0.23
 - pkg:maven/net.named-data/jndn-android-with-async-io@0.23?classifier=sources
+- pkg:maven/net.named-data/jndn-android-with-async-io@0.24
+- pkg:maven/net.named-data/jndn-android-with-async-io@0.24?classifier=sources

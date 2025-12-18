@@ -32,3 +32,5 @@
 - pkg:maven/com.github.gantsign.maven.doxia/doxia-sink-api-ktx@0.7.9?classifier=sources
 - pkg:maven/com.github.gantsign.maven.doxia/doxia-sink-api-ktx@1.0.0
 - pkg:maven/com.github.gantsign.maven.doxia/doxia-sink-api-ktx@1.0.0?classifier=sources
+- pkg:maven/com.github.gantsign.maven.doxia/doxia-sink-api-ktx@1.1.0
+- pkg:maven/com.github.gantsign.maven.doxia/doxia-sink-api-ktx@1.1.0?classifier=sources

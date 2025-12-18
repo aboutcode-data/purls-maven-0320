@@ -10,3 +10,5 @@
 - pkg:maven/de.mhus.ports/ports-flummi@1.6.1?classifier=sources
 - pkg:maven/de.mhus.ports/ports-flummi@6.2.0
 - pkg:maven/de.mhus.ports/ports-flummi@6.2.0?classifier=sources
+- pkg:maven/de.mhus.ports/ports-flummi@7.0.0
+- pkg:maven/de.mhus.ports/ports-flummi@7.0.0?classifier=sources

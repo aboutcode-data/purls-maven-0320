@@ -126,6 +126,10 @@
 - pkg:maven/org.craftercms/crafter-social@3.1.5?type=war
 - pkg:maven/org.craftercms/crafter-social@3.1.5E?classifier=sources
 - pkg:maven/org.craftercms/crafter-social@3.1.5E?type=war
+- pkg:maven/org.craftercms/crafter-social@3.1.6?classifier=sources
+- pkg:maven/org.craftercms/crafter-social@3.1.6?type=war
+- pkg:maven/org.craftercms/crafter-social@3.1.6E?classifier=sources
+- pkg:maven/org.craftercms/crafter-social@3.1.6E?type=war
 - pkg:maven/org.craftercms/crafter-social@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-social@v2.5.0-Beta4?type=war
 - pkg:maven/org.craftercms/crafter-social@v2.5.0-Beta5?classifier=sources

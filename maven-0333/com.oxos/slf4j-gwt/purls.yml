@@ -1,0 +1,2 @@
+- pkg:maven/com.oxos/slf4j-gwt@1.7.30.1
+- pkg:maven/com.oxos/slf4j-gwt@1.7.30.1?classifier=sources

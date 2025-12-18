@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.brooklime/com.io7m.brooklime.documentation@0.0.1?classifier=sources
+- pkg:maven/com.io7m.brooklime/com.io7m.brooklime.documentation@0.0.2?classifier=sources

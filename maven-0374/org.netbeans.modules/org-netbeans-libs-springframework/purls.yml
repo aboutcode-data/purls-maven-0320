@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-springframework@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-springframework@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-springframework@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-springframework@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-springframework@RELEASE90?classifier=sources

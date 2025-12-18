@@ -115,6 +115,8 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@2.0.11?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@2.0.12
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@2.0.12?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@2.0.13
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@2.0.13?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@2.0.1?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@2.0.2
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@2.0.2?classifier=sources
@@ -134,3 +136,5 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@4.0.0-M3?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@4.0.0-M4
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@4.0.0-M4?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@4.0.0-M5
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-less@4.0.0-M5?classifier=sources

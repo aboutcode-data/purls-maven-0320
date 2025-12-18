@@ -1,0 +1,2 @@
+- pkg:maven/co.payload/payload-android@1.0?classifier=sources
+- pkg:maven/co.payload/payload-android@1.0?type=aar

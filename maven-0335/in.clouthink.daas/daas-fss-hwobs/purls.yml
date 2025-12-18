@@ -1,0 +1,2 @@
+- pkg:maven/in.clouthink.daas/daas-fss-hwobs@3.0.7
+- pkg:maven/in.clouthink.daas/daas-fss-hwobs@3.0.7?classifier=sources

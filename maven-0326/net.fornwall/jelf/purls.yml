@@ -4,3 +4,5 @@
 - pkg:maven/net.fornwall/jelf@0.4.3?classifier=sources
 - pkg:maven/net.fornwall/jelf@0.4.4
 - pkg:maven/net.fornwall/jelf@0.4.4?classifier=sources
+- pkg:maven/net.fornwall/jelf@0.4.5
+- pkg:maven/net.fornwall/jelf@0.4.5?classifier=sources

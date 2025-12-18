@@ -74,3 +74,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-site-plugin@3.8.2
 - pkg:maven/org.apache.maven.plugins/maven-site-plugin@3.8.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-site-plugin@3.8.2?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-site-plugin@3.9.0
+- pkg:maven/org.apache.maven.plugins/maven-site-plugin@3.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-site-plugin@3.9.0?classifier=sources

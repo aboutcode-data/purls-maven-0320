@@ -1,0 +1,2 @@
+- pkg:maven/com.weicoder.fork/fastjson-jdk11@1.2.66
+- pkg:maven/com.weicoder.fork/fastjson-jdk11@1.2.66?classifier=sources

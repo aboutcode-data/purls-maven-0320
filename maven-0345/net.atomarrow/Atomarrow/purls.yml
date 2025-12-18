@@ -1,0 +1,2 @@
+- pkg:maven/net.atomarrow/Atomarrow@1.0.2
+- pkg:maven/net.atomarrow/Atomarrow@1.0.2?classifier=sources

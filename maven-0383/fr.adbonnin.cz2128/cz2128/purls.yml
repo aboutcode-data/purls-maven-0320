@@ -1,0 +1,8 @@
+- pkg:maven/fr.adbonnin.cz2128/cz2128@-8bd569b
+- pkg:maven/fr.adbonnin.cz2128/cz2128@-8bd569b?classifier=sources
+- pkg:maven/fr.adbonnin.cz2128/cz2128@1.0.0
+- pkg:maven/fr.adbonnin.cz2128/cz2128@1.0.0?classifier=sources
+- pkg:maven/fr.adbonnin.cz2128/cz2128@1.1.0
+- pkg:maven/fr.adbonnin.cz2128/cz2128@1.1.0?classifier=sources
+- pkg:maven/fr.adbonnin.cz2128/cz2128@1.2.15
+- pkg:maven/fr.adbonnin.cz2128/cz2128@1.2.15?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.embeddedkafka/embedded-kafka-schema-registry-streams_2.13@5.5.0.1
+- pkg:maven/io.github.embeddedkafka/embedded-kafka-schema-registry-streams_2.13@5.5.0.1?classifier=sources

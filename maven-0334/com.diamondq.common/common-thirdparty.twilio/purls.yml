@@ -7,3 +7,5 @@
 - pkg:maven/com.diamondq.common/common-thirdparty.twilio@7.34.1_01?classifier=sources
 - pkg:maven/com.diamondq.common/common-thirdparty.twilio@7.42.0
 - pkg:maven/com.diamondq.common/common-thirdparty.twilio@7.42.0?classifier=sources
+- pkg:maven/com.diamondq.common/common-thirdparty.twilio@7.47.6
+- pkg:maven/com.diamondq.common/common-thirdparty.twilio@7.47.6?classifier=sources

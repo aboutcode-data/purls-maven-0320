@@ -2,3 +2,5 @@
 - pkg:maven/org.sevensource.magnolia/magnolia-module-simple-backup@1.0.0?classifier=sources
 - pkg:maven/org.sevensource.magnolia/magnolia-module-simple-backup@1.0.1
 - pkg:maven/org.sevensource.magnolia/magnolia-module-simple-backup@1.0.1?classifier=sources
+- pkg:maven/org.sevensource.magnolia/magnolia-module-simple-backup@1.1.1
+- pkg:maven/org.sevensource.magnolia/magnolia-module-simple-backup@1.1.1?classifier=sources

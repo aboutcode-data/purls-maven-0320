@@ -1,0 +1,4 @@
+- pkg:maven/org.morphir/morphir-workspace_2.13@0.0.9-3-db0cc6c
+- pkg:maven/org.morphir/morphir-workspace_2.13@0.0.9-3-db0cc6c?classifier=sources
+- pkg:maven/org.morphir/morphir-workspace_2.13@0.0.9-4-1479ea9
+- pkg:maven/org.morphir/morphir-workspace_2.13@0.0.9-4-1479ea9?classifier=sources

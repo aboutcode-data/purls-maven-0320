@@ -12,3 +12,7 @@
 - pkg:maven/io.allune/quickfixj-spring-boot-actuator@2.4.1?classifier=sources
 - pkg:maven/io.allune/quickfixj-spring-boot-actuator@2.5.0
 - pkg:maven/io.allune/quickfixj-spring-boot-actuator@2.5.0?classifier=sources
+- pkg:maven/io.allune/quickfixj-spring-boot-actuator@2.5.1
+- pkg:maven/io.allune/quickfixj-spring-boot-actuator@2.5.1?classifier=sources
+- pkg:maven/io.allune/quickfixj-spring-boot-actuator@2.5.2
+- pkg:maven/io.allune/quickfixj-spring-boot-actuator@2.5.2?classifier=sources

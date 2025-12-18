@@ -15,3 +15,5 @@
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.1.0.4743?classifier=sources
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.1.1.4762?classifier=sources
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.2.0.4868?classifier=sources
+- pkg:maven/org.sonarsource.php/sonar-php-plugin@3.3.0.5166?classifier=sources
+- pkg:maven/org.sonarsource.php/sonar-php-plugin@3.4.0.5461?classifier=sources

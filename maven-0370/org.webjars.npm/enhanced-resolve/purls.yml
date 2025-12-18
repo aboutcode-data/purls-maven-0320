@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/enhanced-resolve@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/enhanced-resolve@4.1.0
 - pkg:maven/org.webjars.npm/enhanced-resolve@4.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/enhanced-resolve@5.0.0-beta.4
+- pkg:maven/org.webjars.npm/enhanced-resolve@5.0.0-beta.4?classifier=sources

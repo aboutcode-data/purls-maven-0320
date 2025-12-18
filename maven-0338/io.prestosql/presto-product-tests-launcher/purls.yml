@@ -2,3 +2,9 @@
 - pkg:maven/io.prestosql/presto-product-tests-launcher@329?classifier=sources
 - pkg:maven/io.prestosql/presto-product-tests-launcher@330
 - pkg:maven/io.prestosql/presto-product-tests-launcher@330?classifier=sources
+- pkg:maven/io.prestosql/presto-product-tests-launcher@331
+- pkg:maven/io.prestosql/presto-product-tests-launcher@331?classifier=sources
+- pkg:maven/io.prestosql/presto-product-tests-launcher@332
+- pkg:maven/io.prestosql/presto-product-tests-launcher@332?classifier=sources
+- pkg:maven/io.prestosql/presto-product-tests-launcher@333
+- pkg:maven/io.prestosql/presto-product-tests-launcher@333?classifier=sources

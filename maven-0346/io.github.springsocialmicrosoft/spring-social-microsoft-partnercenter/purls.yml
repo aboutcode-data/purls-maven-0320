@@ -52,6 +52,10 @@
 - pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@10.2.0?classifier=sources
 - pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@10.3.0
 - pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@10.3.0?classifier=sources
+- pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@10.4.0
+- pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@10.4.0?classifier=sources
+- pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@10.5.0
+- pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@10.5.0?classifier=sources
 - pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@2.0.0
 - pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@2.0.0?classifier=sources
 - pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-partnercenter@2.0.1

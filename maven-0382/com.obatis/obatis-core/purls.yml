@@ -48,3 +48,13 @@
 - pkg:maven/com.obatis/obatis-core@1.1.8?classifier=sources
 - pkg:maven/com.obatis/obatis-core@1.1.9
 - pkg:maven/com.obatis/obatis-core@1.1.9?classifier=sources
+- pkg:maven/com.obatis/obatis-core@2.0.1-releases
+- pkg:maven/com.obatis/obatis-core@2.0.1-releases?classifier=sources
+- pkg:maven/com.obatis/obatis-core@2.0.1.1-releases
+- pkg:maven/com.obatis/obatis-core@2.0.1.1-releases?classifier=sources
+- pkg:maven/com.obatis/obatis-core@2.1.0-releases
+- pkg:maven/com.obatis/obatis-core@2.1.0-releases?classifier=sources
+- pkg:maven/com.obatis/obatis-core@2.1.1
+- pkg:maven/com.obatis/obatis-core@2.1.1?classifier=sources
+- pkg:maven/com.obatis/obatis-core@2.1.2-release
+- pkg:maven/com.obatis/obatis-core@2.1.2-release?classifier=sources

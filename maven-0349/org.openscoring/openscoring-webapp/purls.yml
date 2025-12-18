@@ -27,3 +27,4 @@
 - pkg:maven/org.openscoring/openscoring-webapp@1.4.6?type=war
 - pkg:maven/org.openscoring/openscoring-webapp@2.0.0?type=war
 - pkg:maven/org.openscoring/openscoring-webapp@2.0.1?type=war
+- pkg:maven/org.openscoring/openscoring-webapp@2.0.2?type=war

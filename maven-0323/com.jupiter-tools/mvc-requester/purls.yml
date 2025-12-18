@@ -1,2 +1,10 @@
 - pkg:maven/com.jupiter-tools/mvc-requester@0.1
 - pkg:maven/com.jupiter-tools/mvc-requester@0.1?classifier=sources
+- pkg:maven/com.jupiter-tools/mvc-requester@0.2
+- pkg:maven/com.jupiter-tools/mvc-requester@0.2-spring4
+- pkg:maven/com.jupiter-tools/mvc-requester@0.2-spring4?classifier=sources
+- pkg:maven/com.jupiter-tools/mvc-requester@0.2?classifier=sources
+- pkg:maven/com.jupiter-tools/mvc-requester@0.3
+- pkg:maven/com.jupiter-tools/mvc-requester@0.3-spring4
+- pkg:maven/com.jupiter-tools/mvc-requester@0.3-spring4?classifier=sources
+- pkg:maven/com.jupiter-tools/mvc-requester@0.3?classifier=sources

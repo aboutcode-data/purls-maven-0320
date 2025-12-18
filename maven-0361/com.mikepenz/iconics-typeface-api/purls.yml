@@ -1,0 +1,2 @@
+- pkg:maven/com.mikepenz/iconics-typeface-api@5.0.3?classifier=sources
+- pkg:maven/com.mikepenz/iconics-typeface-api@5.0.3?type=aar

@@ -91,6 +91,11 @@
 - pkg:maven/io.airlift/sample-server@0.190?classifier=sources
 - pkg:maven/io.airlift/sample-server@0.191?classifier=sources
 - pkg:maven/io.airlift/sample-server@0.192?classifier=sources
+- pkg:maven/io.airlift/sample-server@0.193?classifier=sources
+- pkg:maven/io.airlift/sample-server@0.194?classifier=sources
+- pkg:maven/io.airlift/sample-server@0.195?classifier=sources
+- pkg:maven/io.airlift/sample-server@0.196?classifier=sources
+- pkg:maven/io.airlift/sample-server@0.197?classifier=sources
 - pkg:maven/io.airlift/sample-server@0.65?classifier=sources
 - pkg:maven/io.airlift/sample-server@0.66?classifier=sources
 - pkg:maven/io.airlift/sample-server@0.67?classifier=sources

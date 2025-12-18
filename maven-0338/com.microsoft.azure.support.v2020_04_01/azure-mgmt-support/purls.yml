@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure.support.v2020_04_01/azure-mgmt-support@1.0.0
+- pkg:maven/com.microsoft.azure.support.v2020_04_01/azure-mgmt-support@1.0.0-beta
+- pkg:maven/com.microsoft.azure.support.v2020_04_01/azure-mgmt-support@1.0.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure.support.v2020_04_01/azure-mgmt-support@1.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.codelibs.fione/fione-serving@0.1.0
 - pkg:maven/org.codelibs.fione/fione-serving@0.1.0?classifier=sources
+- pkg:maven/org.codelibs.fione/fione-serving@3.30.0.0
+- pkg:maven/org.codelibs.fione/fione-serving@3.30.0.0?classifier=sources

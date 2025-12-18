@@ -102,3 +102,7 @@
 - pkg:maven/com.appdirect/service-integration-sdk@1.82?classifier=sources
 - pkg:maven/com.appdirect/service-integration-sdk@1.84
 - pkg:maven/com.appdirect/service-integration-sdk@1.84?classifier=sources
+- pkg:maven/com.appdirect/service-integration-sdk@1.86
+- pkg:maven/com.appdirect/service-integration-sdk@1.86?classifier=sources
+- pkg:maven/com.appdirect/service-integration-sdk@1.87
+- pkg:maven/com.appdirect/service-integration-sdk@1.87?classifier=sources

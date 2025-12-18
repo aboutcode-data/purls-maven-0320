@@ -4,3 +4,8 @@
 - pkg:maven/cn.featherfly.common/common-core@1.7.14?classifier=sources
 - pkg:maven/cn.featherfly.common/common-core@1.7.15
 - pkg:maven/cn.featherfly.common/common-core@1.7.15?classifier=sources
+- pkg:maven/cn.featherfly.common/common-core@1.7.16?classifier=sources
+- pkg:maven/cn.featherfly.common/common-core@1.8.0?classifier=sources
+- pkg:maven/cn.featherfly.common/common-core@1.8.1?classifier=sources
+- pkg:maven/cn.featherfly.common/common-core@1.8.2?classifier=sources
+- pkg:maven/cn.featherfly.common/common-core@1.8.3?classifier=sources

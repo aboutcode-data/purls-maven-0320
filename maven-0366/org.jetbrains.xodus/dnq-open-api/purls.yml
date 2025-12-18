@@ -34,3 +34,5 @@
 - pkg:maven/org.jetbrains.xodus/dnq-open-api@1.3.440?classifier=sources
 - pkg:maven/org.jetbrains.xodus/dnq-open-api@1.4.446
 - pkg:maven/org.jetbrains.xodus/dnq-open-api@1.4.446?classifier=sources
+- pkg:maven/org.jetbrains.xodus/dnq-open-api@1.4.480
+- pkg:maven/org.jetbrains.xodus/dnq-open-api@1.4.480?classifier=sources

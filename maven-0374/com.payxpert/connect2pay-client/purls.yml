@@ -4,3 +4,5 @@
 - pkg:maven/com.payxpert/connect2pay-client@1.0.14?classifier=sources
 - pkg:maven/com.payxpert/connect2pay-client@1.0.19
 - pkg:maven/com.payxpert/connect2pay-client@1.0.19?classifier=sources
+- pkg:maven/com.payxpert/connect2pay-client@1.0.20
+- pkg:maven/com.payxpert/connect2pay-client@1.0.20?classifier=sources

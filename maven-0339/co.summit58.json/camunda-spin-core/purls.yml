@@ -1,0 +1,4 @@
+- pkg:maven/co.summit58.json/camunda-spin-core@1.7.4
+- pkg:maven/co.summit58.json/camunda-spin-core@1.7.4.1
+- pkg:maven/co.summit58.json/camunda-spin-core@1.7.4.1?classifier=sources
+- pkg:maven/co.summit58.json/camunda-spin-core@1.7.4?classifier=sources

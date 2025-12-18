@@ -28,4 +28,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.35
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.36
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.37
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.38
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.39
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.40
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.9

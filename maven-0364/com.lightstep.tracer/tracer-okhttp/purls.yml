@@ -50,3 +50,9 @@
 - pkg:maven/com.lightstep.tracer/tracer-okhttp@0.19.2?classifier=sources
 - pkg:maven/com.lightstep.tracer/tracer-okhttp@0.19.3
 - pkg:maven/com.lightstep.tracer/tracer-okhttp@0.19.3?classifier=sources
+- pkg:maven/com.lightstep.tracer/tracer-okhttp@0.20.0
+- pkg:maven/com.lightstep.tracer/tracer-okhttp@0.20.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/tracer-okhttp@0.21.0
+- pkg:maven/com.lightstep.tracer/tracer-okhttp@0.21.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/tracer-okhttp@0.21.1
+- pkg:maven/com.lightstep.tracer/tracer-okhttp@0.21.1?classifier=sources

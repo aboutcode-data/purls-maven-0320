@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/firehose@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/firehose@773.2.576.0
 - pkg:maven/com.cognitect.aws/firehose@773.2.576.0?classifier=sources
+- pkg:maven/com.cognitect.aws/firehose@796.2.662.0
+- pkg:maven/com.cognitect.aws/firehose@796.2.662.0?classifier=sources

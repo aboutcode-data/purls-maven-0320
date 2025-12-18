@@ -17,3 +17,8 @@
 - pkg:maven/com.atomgraph/linkeddatahub@2.0.61?classifier=sources
 - pkg:maven/com.atomgraph/linkeddatahub@2.0.65?classifier=sources
 - pkg:maven/com.atomgraph/linkeddatahub@2.0.67?classifier=sources
+- pkg:maven/com.atomgraph/linkeddatahub@2.1.19?classifier=sources
+- pkg:maven/com.atomgraph/linkeddatahub@2.1.28?classifier=sources
+- pkg:maven/com.atomgraph/linkeddatahub@2.1.39?classifier=sources
+- pkg:maven/com.atomgraph/linkeddatahub@2.1.49?classifier=sources
+- pkg:maven/com.atomgraph/linkeddatahub@2.1.54?classifier=sources

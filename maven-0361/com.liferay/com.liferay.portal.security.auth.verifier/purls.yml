@@ -84,6 +84,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.24
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.25
+- pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@2.2.3
@@ -287,3 +290,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@5.0.9
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@5.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@6.0.0
+- pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.auth.verifier@6.0.0?classifier=sources-commercial

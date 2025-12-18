@@ -1,0 +1,4 @@
+- pkg:maven/com.javaoffers/mh-base-dao@1.0.1
+- pkg:maven/com.javaoffers/mh-base-dao@1.0.1.2
+- pkg:maven/com.javaoffers/mh-base-dao@1.0.1.2?classifier=sources
+- pkg:maven/com.javaoffers/mh-base-dao@1.0.1?classifier=sources

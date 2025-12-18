@@ -34,3 +34,5 @@
 - pkg:maven/org.dhatim/dropwizard-sftp@2.0.12-2?classifier=sources
 - pkg:maven/org.dhatim/dropwizard-sftp@2.0.13-2
 - pkg:maven/org.dhatim/dropwizard-sftp@2.0.13-2?classifier=sources
+- pkg:maven/org.dhatim/dropwizard-sftp@2.0.20
+- pkg:maven/org.dhatim/dropwizard-sftp@2.0.20?classifier=sources

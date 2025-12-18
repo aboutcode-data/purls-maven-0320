@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/hyprmx-adapter@5.1.2.4?classifier=sources
+- pkg:maven/com.applovin.mediation/hyprmx-adapter@5.1.2.4?type=aar

@@ -22,3 +22,7 @@
 - pkg:maven/com.github.francis-pang/expense-tally-expense-manager@69?classifier=sources
 - pkg:maven/com.github.francis-pang/expense-tally-expense-manager@70
 - pkg:maven/com.github.francis-pang/expense-tally-expense-manager@70?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-expense-manager@71
+- pkg:maven/com.github.francis-pang/expense-tally-expense-manager@71?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-expense-manager@72
+- pkg:maven/com.github.francis-pang/expense-tally-expense-manager@72?classifier=sources

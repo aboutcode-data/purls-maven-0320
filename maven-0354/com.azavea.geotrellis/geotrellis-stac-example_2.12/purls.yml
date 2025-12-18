@@ -1,0 +1,2 @@
+- pkg:maven/com.azavea.geotrellis/geotrellis-stac-example_2.12@4.3.0
+- pkg:maven/com.azavea.geotrellis/geotrellis-stac-example_2.12@4.3.0?classifier=sources

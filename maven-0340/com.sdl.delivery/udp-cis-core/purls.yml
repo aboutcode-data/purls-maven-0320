@@ -24,5 +24,7 @@
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1055?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1104
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1104?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1115
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1115?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.5.0-1087
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.5.0-1087?classifier=sources

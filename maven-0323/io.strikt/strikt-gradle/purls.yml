@@ -1,1 +1,3 @@
+- pkg:maven/io.strikt/strikt-gradle@0.28.2?classifier=sources
 - pkg:maven/io.strikt/strikt-gradle@0.29.0?classifier=sources
+- pkg:maven/io.strikt/strikt-gradle@0.30.0?classifier=sources

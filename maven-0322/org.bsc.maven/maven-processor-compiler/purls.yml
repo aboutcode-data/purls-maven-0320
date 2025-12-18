@@ -1,0 +1,4 @@
+- pkg:maven/org.bsc.maven/maven-processor-compiler@5.0-jdk8-rc1
+- pkg:maven/org.bsc.maven/maven-processor-compiler@5.0-jdk8-rc1?classifier=sources
+- pkg:maven/org.bsc.maven/maven-processor-compiler@5.0-rc1
+- pkg:maven/org.bsc.maven/maven-processor-compiler@5.0-rc1?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/org.webjars.npm/octokit__request@5.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/octokit__request@5.3.1
 - pkg:maven/org.webjars.npm/octokit__request@5.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/octokit__request@5.4.14
+- pkg:maven/org.webjars.npm/octokit__request@5.4.14?classifier=sources
 - pkg:maven/org.webjars.npm/octokit__request@5.4.9
 - pkg:maven/org.webjars.npm/octokit__request@5.4.9?classifier=sources

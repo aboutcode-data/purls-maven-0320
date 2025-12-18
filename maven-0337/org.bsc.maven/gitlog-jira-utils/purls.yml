@@ -2,3 +2,9 @@
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@6.20?classifier=sources
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-beta1
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-beta1?classifier=sources
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-beta2
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-beta2?classifier=sources
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-rc1
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-rc1?classifier=sources
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-rc2
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-rc2?classifier=sources

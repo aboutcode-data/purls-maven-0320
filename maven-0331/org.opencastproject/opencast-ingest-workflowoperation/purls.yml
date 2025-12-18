@@ -14,3 +14,5 @@
 - pkg:maven/org.opencastproject/opencast-ingest-workflowoperation@7.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-ingest-workflowoperation@7.8
 - pkg:maven/org.opencastproject/opencast-ingest-workflowoperation@7.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-ingest-workflowoperation@7.9
+- pkg:maven/org.opencastproject/opencast-ingest-workflowoperation@7.9?classifier=sources

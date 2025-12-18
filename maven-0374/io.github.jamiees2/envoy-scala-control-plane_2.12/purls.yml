@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jamiees2/envoy-scala-control-plane_2.12@1.15.0
+- pkg:maven/io.github.jamiees2/envoy-scala-control-plane_2.12@1.15.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.up1234567/unistar-springcloud@1.0.RC
+- pkg:maven/com.up1234567/unistar-springcloud@1.0.RC?classifier=sources
+- pkg:maven/com.up1234567/unistar-springcloud@1.1.RC
+- pkg:maven/com.up1234567/unistar-springcloud@1.1.RC?classifier=sources

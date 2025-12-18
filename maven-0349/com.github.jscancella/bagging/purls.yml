@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jscancella/bagging@4.3.1
+- pkg:maven/com.github.jscancella/bagging@4.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.parquet/parquet-scrooge-deprecated_2.12@1.12.0
+- pkg:maven/org.apache.parquet/parquet-scrooge-deprecated_2.12@1.12.0?classifier=sources

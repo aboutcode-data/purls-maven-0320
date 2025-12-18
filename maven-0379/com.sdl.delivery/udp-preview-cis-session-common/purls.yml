@@ -24,5 +24,7 @@
 - pkg:maven/com.sdl.delivery/udp-preview-cis-session-common@11.1.0-1058?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-preview-cis-session-common@11.1.0-1104
 - pkg:maven/com.sdl.delivery/udp-preview-cis-session-common@11.1.0-1104?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-preview-cis-session-common@11.1.0-1120
+- pkg:maven/com.sdl.delivery/udp-preview-cis-session-common@11.1.0-1120?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-preview-cis-session-common@11.5.0-1065
 - pkg:maven/com.sdl.delivery/udp-preview-cis-session-common@11.5.0-1065?classifier=sources

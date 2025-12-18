@@ -90,6 +90,8 @@
 - pkg:maven/org.webjars.npm/material__drawer@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__drawer@1.1.1
 - pkg:maven/org.webjars.npm/material__drawer@1.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/material__drawer@10.0.0
+- pkg:maven/org.webjars.npm/material__drawer@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__drawer@2.0.0
 - pkg:maven/org.webjars.npm/material__drawer@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__drawer@4.0.0
@@ -102,3 +104,5 @@
 - pkg:maven/org.webjars.npm/material__drawer@7.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__drawer@8.0.0
 - pkg:maven/org.webjars.npm/material__drawer@8.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__drawer@9.0.0
+- pkg:maven/org.webjars.npm/material__drawer@9.0.0?classifier=sources

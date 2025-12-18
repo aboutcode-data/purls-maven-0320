@@ -1,2 +1,4 @@
 - pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.0.0
 - pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.0.0?classifier=sources
+- pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.1.0
+- pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.1.0?classifier=sources

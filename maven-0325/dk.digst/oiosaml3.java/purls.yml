@@ -1,1 +1,2 @@
 - pkg:maven/dk.digst/oiosaml3.java@3.0.0?classifier=sources
+- pkg:maven/dk.digst/oiosaml3.java@3.0.1?classifier=sources

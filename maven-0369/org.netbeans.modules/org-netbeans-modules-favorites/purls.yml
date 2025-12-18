@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE90?classifier=sources

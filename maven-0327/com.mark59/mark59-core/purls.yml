@@ -18,3 +18,5 @@
 - pkg:maven/com.mark59/mark59-core@2.3?classifier=sources
 - pkg:maven/com.mark59/mark59-core@3.0
 - pkg:maven/com.mark59/mark59-core@3.0?classifier=sources
+- pkg:maven/com.mark59/mark59-core@3.1
+- pkg:maven/com.mark59/mark59-core@3.1?classifier=sources

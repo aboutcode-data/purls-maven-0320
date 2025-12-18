@@ -24,3 +24,5 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-directions-refresh-models@5.8.0-beta.4
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-directions-refresh-models@5.8.0-beta.4?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-directions-refresh-models@5.8.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-directions-refresh-models@5.9.0-alpha.1
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-directions-refresh-models@5.9.0-alpha.1?classifier=sources

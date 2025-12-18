@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE90?classifier=sources

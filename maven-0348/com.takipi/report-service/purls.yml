@@ -8,3 +8,5 @@
 - pkg:maven/com.takipi/report-service@2.34.0?classifier=sources
 - pkg:maven/com.takipi/report-service@2.34.1
 - pkg:maven/com.takipi/report-service@2.34.1?classifier=sources
+- pkg:maven/com.takipi/report-service@2.34.2
+- pkg:maven/com.takipi/report-service@2.34.2?classifier=sources

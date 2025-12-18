@@ -1,0 +1,2 @@
+- pkg:maven/moe.pine/heroku-addons@0.3.2?classifier=sources
+- pkg:maven/moe.pine/heroku-addons@0.3.3?classifier=sources

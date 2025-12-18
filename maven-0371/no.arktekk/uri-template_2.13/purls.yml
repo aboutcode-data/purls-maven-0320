@@ -1,0 +1,2 @@
+- pkg:maven/no.arktekk/uri-template_2.13@1.1.0
+- pkg:maven/no.arktekk/uri-template_2.13@1.1.0?classifier=sources

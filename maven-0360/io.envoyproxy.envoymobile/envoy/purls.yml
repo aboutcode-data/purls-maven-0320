@@ -27,6 +27,11 @@
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.0.07062020?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.0.07152020?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.0?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.1.02092021?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.1.03018021?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.1.03019021?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.1.03172021?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.1.03302021?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.1.07312020?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.1.08052020?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.3.1.08112020?classifier=sources

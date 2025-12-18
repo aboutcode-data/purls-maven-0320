@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.forks/org.everit.forks.com.machinepublishers@1.1.1-jdk11.1
+- pkg:maven/org.everit.forks/org.everit.forks.com.machinepublishers@1.1.1-jdk11.1?classifier=sources

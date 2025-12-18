@@ -42,3 +42,5 @@
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-util-java8supplement@3.1-ALPHA-5?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-util-java8supplement@3.1-ALPHA-6
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-util-java8supplement@3.1-ALPHA-6?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-util-java8supplement@3.1-ALPHA-7
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-util-java8supplement@3.1-ALPHA-7?classifier=sources

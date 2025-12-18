@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/knockout.validation@2.0.4
+- pkg:maven/org.webjars.npm/knockout.validation@2.0.4?classifier=sources

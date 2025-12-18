@@ -1,0 +1,2 @@
+- pkg:maven/io.ceratech/fcm-scala_2.13@1.8
+- pkg:maven/io.ceratech/fcm-scala_2.13@1.8?classifier=sources

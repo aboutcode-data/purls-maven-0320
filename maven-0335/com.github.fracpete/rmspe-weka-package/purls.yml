@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fracpete/rmspe-weka-package@2021.3.12
+- pkg:maven/com.github.fracpete/rmspe-weka-package@2021.3.12?classifier=sources

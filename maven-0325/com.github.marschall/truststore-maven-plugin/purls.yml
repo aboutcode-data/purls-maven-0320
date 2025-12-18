@@ -8,3 +8,7 @@
 - pkg:maven/com.github.marschall/truststore-maven-plugin@0.1.4?classifier=sources
 - pkg:maven/com.github.marschall/truststore-maven-plugin@0.2.0
 - pkg:maven/com.github.marschall/truststore-maven-plugin@0.2.0?classifier=sources
+- pkg:maven/com.github.marschall/truststore-maven-plugin@0.3.0
+- pkg:maven/com.github.marschall/truststore-maven-plugin@0.3.0?classifier=sources
+- pkg:maven/com.github.marschall/truststore-maven-plugin@0.3.1
+- pkg:maven/com.github.marschall/truststore-maven-plugin@0.3.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/coop_3.0.0-RC1@1.0.0
+- pkg:maven/org.typelevel/coop_3.0.0-RC1@1.0.0-M4
+- pkg:maven/org.typelevel/coop_3.0.0-RC1@1.0.0-M4?classifier=sources
+- pkg:maven/org.typelevel/coop_3.0.0-RC1@1.0.0?classifier=sources

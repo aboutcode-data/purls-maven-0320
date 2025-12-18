@@ -1,5 +1,7 @@
 - pkg:maven/eu.plumbr/agent-api@1.0
 - pkg:maven/eu.plumbr/agent-api@1.0?classifier=sources
+- pkg:maven/eu.plumbr/agent-api@19.12.18
+- pkg:maven/eu.plumbr/agent-api@19.12.18?classifier=sources
 - pkg:maven/eu.plumbr/agent-api@2.0
 - pkg:maven/eu.plumbr/agent-api@2.0?classifier=sources
 - pkg:maven/eu.plumbr/agent-api@2.1

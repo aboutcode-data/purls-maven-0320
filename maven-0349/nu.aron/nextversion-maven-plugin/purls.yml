@@ -1,0 +1,2 @@
+- pkg:maven/nu.aron/nextversion-maven-plugin@26
+- pkg:maven/nu.aron/nextversion-maven-plugin@26?classifier=sources

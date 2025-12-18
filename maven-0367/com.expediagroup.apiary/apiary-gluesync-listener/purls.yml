@@ -22,3 +22,7 @@
 - pkg:maven/com.expediagroup.apiary/apiary-gluesync-listener@6.0.2?classifier=sources
 - pkg:maven/com.expediagroup.apiary/apiary-gluesync-listener@7.0.0
 - pkg:maven/com.expediagroup.apiary/apiary-gluesync-listener@7.0.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-gluesync-listener@7.1.0
+- pkg:maven/com.expediagroup.apiary/apiary-gluesync-listener@7.1.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-gluesync-listener@7.2.0
+- pkg:maven/com.expediagroup.apiary/apiary-gluesync-listener@7.2.0?classifier=sources

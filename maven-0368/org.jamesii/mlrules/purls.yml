@@ -6,6 +6,8 @@
 - pkg:maven/org.jamesii/mlrules@2.2.12
 - pkg:maven/org.jamesii/mlrules@2.2.12?classifier=sources
 - pkg:maven/org.jamesii/mlrules@2.2.13
+- pkg:maven/org.jamesii/mlrules@2.2.13-headless
+- pkg:maven/org.jamesii/mlrules@2.2.13-headless?classifier=sources
 - pkg:maven/org.jamesii/mlrules@2.2.13?classifier=sources
 - pkg:maven/org.jamesii/mlrules@2.2.1?classifier=sources
 - pkg:maven/org.jamesii/mlrules@2.2.2

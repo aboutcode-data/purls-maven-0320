@@ -1,0 +1,2 @@
+- pkg:maven/com.github.crawler-commons/urlfrontier-API@0.1
+- pkg:maven/com.github.crawler-commons/urlfrontier-API@0.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.0.0%2B1.14.4
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.0.0%2B1.14.4?classifier=sources
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.0.0%2B1.15.2
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.0.0%2B1.15.2?classifier=sources
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.0.0%2B1.16.5
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.0.0%2B1.16.5?classifier=sources
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.1.0%2B1.14.4
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.1.0%2B1.14.4?classifier=sources
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.1.0%2B1.15.2
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.1.0%2B1.15.2?classifier=sources
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.1.0%2B1.16.5
+- pkg:maven/dev.the-fireplace/GrandEconomy@4.1.0%2B1.16.5?classifier=sources

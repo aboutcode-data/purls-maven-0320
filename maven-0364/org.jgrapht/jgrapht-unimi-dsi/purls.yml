@@ -1,0 +1,2 @@
+- pkg:maven/org.jgrapht/jgrapht-unimi-dsi@1.5.1
+- pkg:maven/org.jgrapht/jgrapht-unimi-dsi@1.5.1?classifier=sources

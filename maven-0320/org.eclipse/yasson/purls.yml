@@ -19,6 +19,8 @@
 - pkg:maven/org.eclipse/yasson@1.0.7?classifier=sources
 - pkg:maven/org.eclipse/yasson@1.0.8
 - pkg:maven/org.eclipse/yasson@1.0.8?classifier=sources
+- pkg:maven/org.eclipse/yasson@1.0.9
+- pkg:maven/org.eclipse/yasson@1.0.9?classifier=sources
 - pkg:maven/org.eclipse/yasson@1.0?classifier=sources
 - pkg:maven/org.eclipse/yasson@2.0.0-M1
 - pkg:maven/org.eclipse/yasson@2.0.0-M1?classifier=sources
@@ -26,3 +28,5 @@
 - pkg:maven/org.eclipse/yasson@2.0.0-M2?classifier=sources
 - pkg:maven/org.eclipse/yasson@2.0.1
 - pkg:maven/org.eclipse/yasson@2.0.1?classifier=sources
+- pkg:maven/org.eclipse/yasson@2.0.2
+- pkg:maven/org.eclipse/yasson@2.0.2?classifier=sources

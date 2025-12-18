@@ -8,3 +8,5 @@
 - pkg:maven/net.openhft/jlbh@1.19.41?classifier=sources
 - pkg:maven/net.openhft/jlbh@1.21ea0
 - pkg:maven/net.openhft/jlbh@1.21ea0?classifier=sources
+- pkg:maven/net.openhft/jlbh@1.21ea1
+- pkg:maven/net.openhft/jlbh@1.21ea1?classifier=sources

@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE90?classifier=sources

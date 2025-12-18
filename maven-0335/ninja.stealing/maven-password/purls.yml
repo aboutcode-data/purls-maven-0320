@@ -1,0 +1,2 @@
+- pkg:maven/ninja.stealing/maven-password@0.0.2
+- pkg:maven/ninja.stealing/maven-password@0.0.2?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/org.webjars.npm/material__tab-indicator@1.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab-indicator@1.1.0
 - pkg:maven/org.webjars.npm/material__tab-indicator@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__tab-indicator@10.0.0
+- pkg:maven/org.webjars.npm/material__tab-indicator@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab-indicator@2.1.0
 - pkg:maven/org.webjars.npm/material__tab-indicator@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab-indicator@4.0.0
@@ -32,3 +34,5 @@
 - pkg:maven/org.webjars.npm/material__tab-indicator@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab-indicator@7.0.0
 - pkg:maven/org.webjars.npm/material__tab-indicator@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__tab-indicator@9.0.0
+- pkg:maven/org.webjars.npm/material__tab-indicator@9.0.0?classifier=sources

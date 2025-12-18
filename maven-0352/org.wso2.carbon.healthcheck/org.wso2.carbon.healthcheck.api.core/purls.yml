@@ -14,3 +14,7 @@
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.2.4?classifier=sources
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.2.5
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.2.5?classifier=sources
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.2.6
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.2.6?classifier=sources
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.2.7
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.core@1.2.7?classifier=sources

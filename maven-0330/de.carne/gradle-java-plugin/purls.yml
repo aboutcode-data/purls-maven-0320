@@ -1,0 +1,2 @@
+- pkg:maven/de.carne/gradle-java-plugin@1.0.0?classifier=sources
+- pkg:maven/de.carne/gradle-java-plugin@1.1.0?classifier=sources

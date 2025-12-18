@@ -1,0 +1,1 @@
+- pkg:maven/io.kotest/kotest-extensions-embedded-kafka@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.stylefeng.roses/monitor-sdk-prometheus@7.0.1
+- pkg:maven/cn.stylefeng.roses/monitor-sdk-prometheus@7.0.1?classifier=sources

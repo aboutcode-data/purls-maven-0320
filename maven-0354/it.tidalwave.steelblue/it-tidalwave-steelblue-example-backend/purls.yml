@@ -4,3 +4,15 @@
 - pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-14?classifier=sources
 - pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-15
 - pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-15?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-16
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-16?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-17
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-17?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-18
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-18?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-19
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.0-ALPHA-19?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-1
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-1?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-2
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-2?classifier=sources

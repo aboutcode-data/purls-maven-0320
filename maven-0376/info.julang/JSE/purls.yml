@@ -1,0 +1,2 @@
+- pkg:maven/info.julang/JSE@0.1.33
+- pkg:maven/info.julang/JSE@0.1.33?classifier=sources

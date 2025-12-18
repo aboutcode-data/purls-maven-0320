@@ -1,0 +1,2 @@
+- pkg:maven/org.aktin/broker-client-auth-keycloak@1.2
+- pkg:maven/org.aktin/broker-client-auth-keycloak@1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.iot.thirdparty.android/xp2p-sdk@1.0.0?classifier=sources
+- pkg:maven/com.tencent.iot.thirdparty.android/xp2p-sdk@1.0.0?type=aar

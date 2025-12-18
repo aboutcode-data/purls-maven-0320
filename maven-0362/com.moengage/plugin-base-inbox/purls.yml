@@ -1,0 +1,2 @@
+- pkg:maven/com.moengage/plugin-base-inbox@1.0.01?classifier=sources
+- pkg:maven/com.moengage/plugin-base-inbox@2.0.00?classifier=sources

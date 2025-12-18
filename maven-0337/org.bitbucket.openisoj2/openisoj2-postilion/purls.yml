@@ -1,2 +1,4 @@
 - pkg:maven/org.bitbucket.openisoj2/openisoj2-postilion@2.0.1-RELEASE
 - pkg:maven/org.bitbucket.openisoj2/openisoj2-postilion@2.0.1-RELEASE?classifier=sources
+- pkg:maven/org.bitbucket.openisoj2/openisoj2-postilion@2.0.2-RELEASE
+- pkg:maven/org.bitbucket.openisoj2/openisoj2-postilion@2.0.2-RELEASE?classifier=sources

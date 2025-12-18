@@ -10,3 +10,5 @@
 - pkg:maven/com.timeular.nytta.email/core@3.0.0?classifier=sources
 - pkg:maven/com.timeular.nytta.email/core@3.1.0
 - pkg:maven/com.timeular.nytta.email/core@3.1.0?classifier=sources
+- pkg:maven/com.timeular.nytta.email/core@4.0.0
+- pkg:maven/com.timeular.nytta.email/core@4.0.0?classifier=sources

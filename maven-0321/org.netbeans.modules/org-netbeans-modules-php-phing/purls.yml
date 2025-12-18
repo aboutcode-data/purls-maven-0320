@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phing@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phing@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phing@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phing@RELEASE123?classifier=sources

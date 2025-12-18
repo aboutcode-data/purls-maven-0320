@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-ui@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-ui@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-ui@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-ui@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-ui@RELEASE90?classifier=sources

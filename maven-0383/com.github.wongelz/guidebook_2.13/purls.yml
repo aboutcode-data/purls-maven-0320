@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wongelz/guidebook_2.13@0.4.5
+- pkg:maven/com.github.wongelz/guidebook_2.13@0.4.5?classifier=sources

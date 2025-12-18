@@ -2,3 +2,5 @@
 - pkg:maven/com.maple86/jspon@1.0.0?classifier=sources
 - pkg:maven/com.maple86/jspon@1.1.0
 - pkg:maven/com.maple86/jspon@1.1.0?classifier=sources
+- pkg:maven/com.maple86/jspon@1.2.0
+- pkg:maven/com.maple86/jspon@1.2.0?classifier=sources

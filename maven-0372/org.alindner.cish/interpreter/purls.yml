@@ -22,3 +22,5 @@
 - pkg:maven/org.alindner.cish/interpreter@f553d38?classifier=sources
 - pkg:maven/org.alindner.cish/interpreter@v0.3.4-13
 - pkg:maven/org.alindner.cish/interpreter@v0.3.4-13?classifier=sources
+- pkg:maven/org.alindner.cish/interpreter@v0.3.6
+- pkg:maven/org.alindner.cish/interpreter@v0.3.6?classifier=sources

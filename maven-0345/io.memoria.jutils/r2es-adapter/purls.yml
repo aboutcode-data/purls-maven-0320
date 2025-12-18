@@ -1,0 +1,2 @@
+- pkg:maven/io.memoria.jutils/r2es-adapter@0.227.0
+- pkg:maven/io.memoria.jutils/r2es-adapter@0.227.0?classifier=sources

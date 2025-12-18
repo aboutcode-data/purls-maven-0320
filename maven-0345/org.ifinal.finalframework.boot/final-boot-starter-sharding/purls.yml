@@ -1,0 +1,2 @@
+- pkg:maven/org.ifinal.finalframework.boot/final-boot-starter-sharding@1.0.2
+- pkg:maven/org.ifinal.finalframework.boot/final-boot-starter-sharding@1.0.2?classifier=sources

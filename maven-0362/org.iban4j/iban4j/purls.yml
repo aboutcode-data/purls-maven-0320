@@ -30,3 +30,5 @@
 - pkg:maven/org.iban4j/iban4j@3.2.0?classifier=sources
 - pkg:maven/org.iban4j/iban4j@3.2.1
 - pkg:maven/org.iban4j/iban4j@3.2.1?classifier=sources
+- pkg:maven/org.iban4j/iban4j@3.2.2-RELEASE
+- pkg:maven/org.iban4j/iban4j@3.2.2-RELEASE?classifier=sources

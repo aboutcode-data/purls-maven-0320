@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.arthur.knights/winegrower-knight@1.0.1
+- pkg:maven/org.apache.geronimo.arthur.knights/winegrower-knight@1.0.1?classifier=sources

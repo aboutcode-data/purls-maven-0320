@@ -16,3 +16,5 @@
 - pkg:maven/io.circe/circe-derivation_2.13@0.13.0-M3?classifier=sources
 - pkg:maven/io.circe/circe-derivation_2.13@0.13.0-M4
 - pkg:maven/io.circe/circe-derivation_2.13@0.13.0-M4?classifier=sources
+- pkg:maven/io.circe/circe-derivation_2.13@0.13.0-M5
+- pkg:maven/io.circe/circe-derivation_2.13@0.13.0-M5?classifier=sources

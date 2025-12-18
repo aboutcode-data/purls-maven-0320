@@ -1,0 +1,2 @@
+- pkg:maven/com.daml/daml-lf-1.12-archive-proto@1.10.0-snapshot.20210201.6207.0.7cf1914d
+- pkg:maven/com.daml/daml-lf-1.12-archive-proto@1.10.0-snapshot.20210201.6207.0.7cf1914d?classifier=sources

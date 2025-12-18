@@ -40,3 +40,9 @@
 - pkg:maven/com.github.fslev/json-compare@2.15?classifier=sources
 - pkg:maven/com.github.fslev/json-compare@2.16
 - pkg:maven/com.github.fslev/json-compare@2.16?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@2.17
+- pkg:maven/com.github.fslev/json-compare@2.17?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@2.18
+- pkg:maven/com.github.fslev/json-compare@2.18?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@2.19
+- pkg:maven/com.github.fslev/json-compare@2.19?classifier=sources

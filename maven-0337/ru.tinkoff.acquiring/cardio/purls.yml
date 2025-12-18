@@ -12,3 +12,11 @@
 - pkg:maven/ru.tinkoff.acquiring/cardio@2.1.0?type=aar
 - pkg:maven/ru.tinkoff.acquiring/cardio@2.1.1?classifier=sources
 - pkg:maven/ru.tinkoff.acquiring/cardio@2.1.1?type=aar
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.2.0?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.2.0?type=aar
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.2.1?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.2.1?type=aar
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.2.2?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.2.2?type=aar
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.3.0?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/cardio@2.3.0?type=aar

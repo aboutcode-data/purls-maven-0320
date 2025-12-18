@@ -4,3 +4,5 @@
 - pkg:maven/ru.ilb.jsonschema/jsonschema@1.1?classifier=sources
 - pkg:maven/ru.ilb.jsonschema/jsonschema@1.4
 - pkg:maven/ru.ilb.jsonschema/jsonschema@1.4?classifier=sources
+- pkg:maven/ru.ilb.jsonschema/jsonschema@1.5
+- pkg:maven/ru.ilb.jsonschema/jsonschema@1.5?classifier=sources

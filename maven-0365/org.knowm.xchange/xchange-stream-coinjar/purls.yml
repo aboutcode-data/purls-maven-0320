@@ -1,0 +1,2 @@
+- pkg:maven/org.knowm.xchange/xchange-stream-coinjar@5.0.4
+- pkg:maven/org.knowm.xchange/xchange-stream-coinjar@5.0.4?classifier=sources

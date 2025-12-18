@@ -28,3 +28,7 @@
 - pkg:maven/io.pivotal.cfenv/java-cfenv-test-support@2.2.2.RELEASE?classifier=sources
 - pkg:maven/io.pivotal.cfenv/java-cfenv-test-support@2.2.3.RELEASE
 - pkg:maven/io.pivotal.cfenv/java-cfenv-test-support@2.2.3.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.cfenv/java-cfenv-test-support@2.2.4.RELEASE
+- pkg:maven/io.pivotal.cfenv/java-cfenv-test-support@2.2.4.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.cfenv/java-cfenv-test-support@2.2.5.RELEASE
+- pkg:maven/io.pivotal.cfenv/java-cfenv-test-support@2.2.5.RELEASE?classifier=sources

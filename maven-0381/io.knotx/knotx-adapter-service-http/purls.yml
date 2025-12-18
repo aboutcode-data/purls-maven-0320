@@ -20,3 +20,5 @@
 - pkg:maven/io.knotx/knotx-adapter-service-http@1.4.0?classifier=sources
 - pkg:maven/io.knotx/knotx-adapter-service-http@1.5.0
 - pkg:maven/io.knotx/knotx-adapter-service-http@1.5.0?classifier=sources
+- pkg:maven/io.knotx/knotx-adapter-service-http@1.6.0
+- pkg:maven/io.knotx/knotx-adapter-service-http@1.6.0?classifier=sources

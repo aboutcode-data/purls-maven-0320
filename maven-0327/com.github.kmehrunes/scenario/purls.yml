@@ -1,1 +1,2 @@
 - pkg:maven/com.github.kmehrunes/scenario@0.0.2?classifier=sources
+- pkg:maven/com.github.kmehrunes/scenario@0.1.0?classifier=sources

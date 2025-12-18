@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/implicitbox_3.0.0-M1@0.3.0
+- pkg:maven/io.monix/implicitbox_3.0.0-M1@0.3.0?classifier=sources

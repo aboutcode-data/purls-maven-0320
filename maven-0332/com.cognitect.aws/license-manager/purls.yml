@@ -10,3 +10,7 @@
 - pkg:maven/com.cognitect.aws/license-manager@776.2.581.0?classifier=sources
 - pkg:maven/com.cognitect.aws/license-manager@809.2.734.0
 - pkg:maven/com.cognitect.aws/license-manager@809.2.734.0?classifier=sources
+- pkg:maven/com.cognitect.aws/license-manager@810.2.801.0
+- pkg:maven/com.cognitect.aws/license-manager@810.2.801.0?classifier=sources
+- pkg:maven/com.cognitect.aws/license-manager@810.2.805.0
+- pkg:maven/com.cognitect.aws/license-manager@810.2.805.0?classifier=sources

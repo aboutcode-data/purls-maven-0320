@@ -2,3 +2,11 @@
 - pkg:maven/com.rbkmoney/wb-list-proto@1.32-70b8f80?classifier=sources
 - pkg:maven/com.rbkmoney/wb-list-proto@1.33-554d59c
 - pkg:maven/com.rbkmoney/wb-list-proto@1.33-554d59c?classifier=sources
+- pkg:maven/com.rbkmoney/wb-list-proto@1.34-4553302
+- pkg:maven/com.rbkmoney/wb-list-proto@1.34-4553302?classifier=sources
+- pkg:maven/com.rbkmoney/wb-list-proto@1.35-ddacb05
+- pkg:maven/com.rbkmoney/wb-list-proto@1.35-ddacb05?classifier=sources
+- pkg:maven/com.rbkmoney/wb-list-proto@1.36-feec206
+- pkg:maven/com.rbkmoney/wb-list-proto@1.36-feec206?classifier=sources
+- pkg:maven/com.rbkmoney/wb-list-proto@1.37-8cd59c1
+- pkg:maven/com.rbkmoney/wb-list-proto@1.37-8cd59c1?classifier=sources

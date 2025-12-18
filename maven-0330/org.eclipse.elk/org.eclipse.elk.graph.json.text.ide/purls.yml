@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.elk/org.eclipse.elk.graph.json.text.ide@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.elk/org.eclipse.elk.graph.json.text.ide@0.7.1?classifier=sources

@@ -18,3 +18,13 @@
 - pkg:maven/de.ixilon/openstreetcraft-api@0.5.0?classifier=sources
 - pkg:maven/de.ixilon/openstreetcraft-api@0.5.1
 - pkg:maven/de.ixilon/openstreetcraft-api@0.5.1?classifier=sources
+- pkg:maven/de.ixilon/openstreetcraft-api@0.6.0
+- pkg:maven/de.ixilon/openstreetcraft-api@0.6.0?classifier=sources
+- pkg:maven/de.ixilon/openstreetcraft-api@0.7.0
+- pkg:maven/de.ixilon/openstreetcraft-api@0.7.0?classifier=sources
+- pkg:maven/de.ixilon/openstreetcraft-api@1.0.0
+- pkg:maven/de.ixilon/openstreetcraft-api@1.0.0?classifier=sources
+- pkg:maven/de.ixilon/openstreetcraft-api@1.1.0
+- pkg:maven/de.ixilon/openstreetcraft-api@1.1.0?classifier=sources
+- pkg:maven/de.ixilon/openstreetcraft-api@1.2.0
+- pkg:maven/de.ixilon/openstreetcraft-api@1.2.0?classifier=sources

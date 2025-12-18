@@ -2,3 +2,5 @@
 - pkg:maven/com.github.yuyenews/mars-starter-tomcat@3.0.37?classifier=sources
 - pkg:maven/com.github.yuyenews/mars-starter-tomcat@3.0.38
 - pkg:maven/com.github.yuyenews/mars-starter-tomcat@3.0.38?classifier=sources
+- pkg:maven/com.github.yuyenews/mars-starter-tomcat@3.0.39
+- pkg:maven/com.github.yuyenews/mars-starter-tomcat@3.0.39?classifier=sources

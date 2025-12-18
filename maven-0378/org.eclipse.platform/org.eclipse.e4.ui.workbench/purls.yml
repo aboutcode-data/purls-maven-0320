@@ -10,6 +10,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench@1.11.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench@1.11.400
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench@1.11.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench@1.12.0
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench@1.12.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench@1.4.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench@1.4.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench@1.5.0

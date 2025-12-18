@@ -1,0 +1,2 @@
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0-dev1
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.13@3.0.0-dev1?classifier=sources

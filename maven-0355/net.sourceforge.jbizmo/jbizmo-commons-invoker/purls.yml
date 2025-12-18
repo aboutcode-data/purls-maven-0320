@@ -24,3 +24,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-invoker@3.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-invoker@4.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-invoker@4.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-invoker@5.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-invoker@5.0.0?classifier=sources

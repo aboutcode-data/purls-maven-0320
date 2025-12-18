@@ -1,0 +1,4 @@
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@6.20
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@6.20?classifier=sources
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-beta1
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.0-beta1?classifier=sources

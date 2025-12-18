@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-declarative@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-declarative@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-declarative@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-declarative@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-declarative@RELEASE90?classifier=sources

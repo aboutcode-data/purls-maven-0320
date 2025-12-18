@@ -35,3 +35,7 @@
 - pkg:maven/com.urbanairship.android/urbanairship-preference@13.3.5?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-preference@14.0.2?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-preference@14.0.2?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-preference@14.0.3?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-preference@14.0.3?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-preference@14.1.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-preference@14.1.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/se.litsec.opensaml.sweid/swedish-eid-opensaml4@2.0.0
+- pkg:maven/se.litsec.opensaml.sweid/swedish-eid-opensaml4@2.0.0?classifier=sources

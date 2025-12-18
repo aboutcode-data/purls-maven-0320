@@ -1,0 +1,2 @@
+- pkg:maven/science.aist.gtf/transformation@1.0.0
+- pkg:maven/science.aist.gtf/transformation@1.0.0?classifier=sources

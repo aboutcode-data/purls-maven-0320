@@ -7,3 +7,12 @@
 - pkg:maven/org.openforis.collect/collect-client@3.26.25?classifier=sources
 - pkg:maven/org.openforis.collect/collect-client@3.26.26?classifier=sources
 - pkg:maven/org.openforis.collect/collect-client@3.26.27?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.28?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.29?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.30?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.31?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.32?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.33?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.34?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.35?classifier=sources
+- pkg:maven/org.openforis.collect/collect-client@3.26.36?classifier=sources

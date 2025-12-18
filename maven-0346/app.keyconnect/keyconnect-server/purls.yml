@@ -1,0 +1,2 @@
+- pkg:maven/app.keyconnect/keyconnect-server@1.0.0
+- pkg:maven/app.keyconnect/keyconnect-server@1.0.0?classifier=sources

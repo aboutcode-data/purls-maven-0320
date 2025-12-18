@@ -42,3 +42,5 @@
 - pkg:maven/io.apigee.build-tools.enterprise4g/apigee-edge-maven-plugin@2.0.3?classifier=sources
 - pkg:maven/io.apigee.build-tools.enterprise4g/apigee-edge-maven-plugin@2.0.4
 - pkg:maven/io.apigee.build-tools.enterprise4g/apigee-edge-maven-plugin@2.0.4?classifier=sources
+- pkg:maven/io.apigee.build-tools.enterprise4g/apigee-edge-maven-plugin@2.1.0
+- pkg:maven/io.apigee.build-tools.enterprise4g/apigee-edge-maven-plugin@2.1.0?classifier=sources

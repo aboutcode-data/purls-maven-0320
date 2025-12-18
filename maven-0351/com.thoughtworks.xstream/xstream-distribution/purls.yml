@@ -8,6 +8,7 @@
 - pkg:maven/com.thoughtworks.xstream/xstream-distribution@1.4.12?classifier=src&type=zip
 - pkg:maven/com.thoughtworks.xstream/xstream-distribution@1.4.13?classifier=src&type=zip
 - pkg:maven/com.thoughtworks.xstream/xstream-distribution@1.4.14?classifier=src&type=zip
+- pkg:maven/com.thoughtworks.xstream/xstream-distribution@1.4.15?classifier=src&type=zip
 - pkg:maven/com.thoughtworks.xstream/xstream-distribution@1.4.1?classifier=src&type=zip
 - pkg:maven/com.thoughtworks.xstream/xstream-distribution@1.4.2?classifier=src&type=zip
 - pkg:maven/com.thoughtworks.xstream/xstream-distribution@1.4.3?classifier=src&type=zip

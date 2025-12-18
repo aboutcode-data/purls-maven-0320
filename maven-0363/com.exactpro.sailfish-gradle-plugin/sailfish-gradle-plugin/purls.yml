@@ -21,4 +21,6 @@
 - pkg:maven/com.exactpro.sailfish-gradle-plugin/sailfish-gradle-plugin@3.2.20?classifier=sources
 - pkg:maven/com.exactpro.sailfish-gradle-plugin/sailfish-gradle-plugin@3.2.21
 - pkg:maven/com.exactpro.sailfish-gradle-plugin/sailfish-gradle-plugin@3.2.21?classifier=sources
+- pkg:maven/com.exactpro.sailfish-gradle-plugin/sailfish-gradle-plugin@3.2.22
+- pkg:maven/com.exactpro.sailfish-gradle-plugin/sailfish-gradle-plugin@3.2.22?classifier=sources
 - pkg:maven/com.exactpro.sailfish-gradle-plugin/sailfish-gradle-plugin@3.2?classifier=sources

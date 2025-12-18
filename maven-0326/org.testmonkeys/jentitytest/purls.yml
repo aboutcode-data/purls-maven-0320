@@ -6,3 +6,5 @@
 - pkg:maven/org.testmonkeys/jentitytest@0.2.0?classifier=sources
 - pkg:maven/org.testmonkeys/jentitytest@0.3.3
 - pkg:maven/org.testmonkeys/jentitytest@0.3.3?classifier=sources
+- pkg:maven/org.testmonkeys/jentitytest@0.3.4
+- pkg:maven/org.testmonkeys/jentitytest@0.3.4?classifier=sources

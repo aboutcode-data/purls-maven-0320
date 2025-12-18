@@ -455,6 +455,8 @@
 - pkg:maven/com.genesys/authentication@9.0.6
 - pkg:maven/com.genesys/authentication@9.0.61
 - pkg:maven/com.genesys/authentication@9.0.61?classifier=sources
+- pkg:maven/com.genesys/authentication@9.0.62
+- pkg:maven/com.genesys/authentication@9.0.62?classifier=sources
 - pkg:maven/com.genesys/authentication@9.0.6?classifier=sources
 - pkg:maven/com.genesys/authentication@9.0.7
 - pkg:maven/com.genesys/authentication@9.0.7?classifier=sources

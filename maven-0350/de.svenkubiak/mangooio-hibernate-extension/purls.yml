@@ -50,3 +50,5 @@
 - pkg:maven/de.svenkubiak/mangooio-hibernate-extension@4.0.8?classifier=sources
 - pkg:maven/de.svenkubiak/mangooio-hibernate-extension@5.0.0
 - pkg:maven/de.svenkubiak/mangooio-hibernate-extension@5.0.0?classifier=sources
+- pkg:maven/de.svenkubiak/mangooio-hibernate-extension@5.0.1
+- pkg:maven/de.svenkubiak/mangooio-hibernate-extension@5.0.1?classifier=sources

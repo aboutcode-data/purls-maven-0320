@@ -2,3 +2,5 @@
 - pkg:maven/com.instaclustr/cassandra-driver-kerberos@1.0.0?classifier=sources
 - pkg:maven/com.instaclustr/cassandra-driver-kerberos@2.0.0
 - pkg:maven/com.instaclustr/cassandra-driver-kerberos@2.0.0?classifier=sources
+- pkg:maven/com.instaclustr/cassandra-driver-kerberos@3.0.0
+- pkg:maven/com.instaclustr/cassandra-driver-kerberos@3.0.0?classifier=sources

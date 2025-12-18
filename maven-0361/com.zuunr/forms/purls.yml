@@ -49,6 +49,12 @@
 - pkg:maven/com.zuunr/forms@0.1.0.M31-f852f22?classifier=sources
 - pkg:maven/com.zuunr/forms@0.1.0.M32-37538b4
 - pkg:maven/com.zuunr/forms@0.1.0.M32-37538b4?classifier=sources
+- pkg:maven/com.zuunr/forms@0.1.0.M33-8fb6158
+- pkg:maven/com.zuunr/forms@0.1.0.M33-8fb6158?classifier=sources
+- pkg:maven/com.zuunr/forms@0.1.0.M34-2a3a44a
+- pkg:maven/com.zuunr/forms@0.1.0.M34-2a3a44a?classifier=sources
+- pkg:maven/com.zuunr/forms@0.1.0.M35-8adab42
+- pkg:maven/com.zuunr/forms@0.1.0.M35-8adab42?classifier=sources
 - pkg:maven/com.zuunr/forms@0.1.0.M3?classifier=sources
 - pkg:maven/com.zuunr/forms@0.1.0.M4
 - pkg:maven/com.zuunr/forms@0.1.0.M4?classifier=sources

@@ -162,3 +162,11 @@
 - pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.0-rc.3-linux-x86-64?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.0-rc.3-osx-x86-64
 - pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.0-rc.3-osx-x86-64?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.1-linux-x86-64
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.1-linux-x86-64?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.1-osx-x86-64
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.1-osx-x86-64?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.2-linux-x86-64
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.2-linux-x86-64?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.2-osx-x86-64
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native@1.0.2-osx-x86-64?classifier=sources

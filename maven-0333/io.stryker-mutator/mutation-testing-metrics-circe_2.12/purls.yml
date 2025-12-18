@@ -12,3 +12,5 @@
 - pkg:maven/io.stryker-mutator/mutation-testing-metrics-circe_2.12@1.4.2?classifier=sources
 - pkg:maven/io.stryker-mutator/mutation-testing-metrics-circe_2.12@1.4.4
 - pkg:maven/io.stryker-mutator/mutation-testing-metrics-circe_2.12@1.4.4?classifier=sources
+- pkg:maven/io.stryker-mutator/mutation-testing-metrics-circe_2.12@1.5.1
+- pkg:maven/io.stryker-mutator/mutation-testing-metrics-circe_2.12@1.5.1?classifier=sources

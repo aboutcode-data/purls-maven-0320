@@ -1,0 +1,3 @@
+- pkg:maven/org.danilopianini/OrchidForScience@0.1.0-archeo%2Ba0cf834?classifier=sources
+- pkg:maven/org.danilopianini/OrchidForScience@0.1.0-archeo%2Bbdb4c8b?classifier=sources
+- pkg:maven/org.danilopianini/OrchidForScience@0.1.0?classifier=sources

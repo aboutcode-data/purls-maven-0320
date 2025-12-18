@@ -1,0 +1,2 @@
+- pkg:maven/com.kasisoft/com.kasisoft.libs.plex@0.2
+- pkg:maven/com.kasisoft/com.kasisoft.libs.plex@0.2?classifier=sources

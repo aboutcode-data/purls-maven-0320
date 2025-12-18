@@ -14,6 +14,8 @@
 - pkg:maven/io.airlift/aircompressor@0.16?classifier=sources
 - pkg:maven/io.airlift/aircompressor@0.17
 - pkg:maven/io.airlift/aircompressor@0.17?classifier=sources
+- pkg:maven/io.airlift/aircompressor@0.18
+- pkg:maven/io.airlift/aircompressor@0.18?classifier=sources
 - pkg:maven/io.airlift/aircompressor@0.3
 - pkg:maven/io.airlift/aircompressor@0.3?classifier=sources
 - pkg:maven/io.airlift/aircompressor@0.4

@@ -70,3 +70,5 @@
 - pkg:maven/com.intuit.quickbooks-online/oauth2-platform-api@6.0.9?classifier=sources
 - pkg:maven/com.intuit.quickbooks-online/oauth2-platform-api@6.1.0
 - pkg:maven/com.intuit.quickbooks-online/oauth2-platform-api@6.1.0?classifier=sources
+- pkg:maven/com.intuit.quickbooks-online/oauth2-platform-api@6.1.1
+- pkg:maven/com.intuit.quickbooks-online/oauth2-platform-api@6.1.1?classifier=sources

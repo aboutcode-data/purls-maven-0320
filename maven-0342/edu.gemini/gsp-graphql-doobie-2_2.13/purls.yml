@@ -1,0 +1,2 @@
+- pkg:maven/edu.gemini/gsp-graphql-doobie-2_2.13@0.0.26
+- pkg:maven/edu.gemini/gsp-graphql-doobie-2_2.13@0.0.26?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bug-cloud/bugcloud-junit-core@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.bug-cloud/bugcloud-junit-core@0.0.2?classifier=sources

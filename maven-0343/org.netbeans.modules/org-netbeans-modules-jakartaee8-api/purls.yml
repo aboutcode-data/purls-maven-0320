@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee8-api@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee8-api@RELEASE122?classifier=sources

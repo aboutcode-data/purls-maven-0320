@@ -1,0 +1,2 @@
+- pkg:maven/io.mashona/mashona-logwriting@1.0.0.Beta1
+- pkg:maven/io.mashona/mashona-logwriting@1.0.0.Beta1?classifier=sources

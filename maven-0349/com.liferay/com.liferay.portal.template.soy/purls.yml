@@ -142,6 +142,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.45
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.46
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.48
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.48?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.48?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.soy@2.4.5

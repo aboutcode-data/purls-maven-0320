@@ -1,0 +1,6 @@
+- pkg:maven/com.github.fmjsjx/libcommon-aliyunons@1.0.0.Final?classifier=sources
+- pkg:maven/com.github.fmjsjx/libcommon-aliyunons@1.0.0.M6?classifier=sources
+- pkg:maven/com.github.fmjsjx/libcommon-aliyunons@1.0.0.M7?classifier=sources
+- pkg:maven/com.github.fmjsjx/libcommon-aliyunons@1.0.0.M8?classifier=sources
+- pkg:maven/com.github.fmjsjx/libcommon-aliyunons@1.0.0.M9?classifier=sources
+- pkg:maven/com.github.fmjsjx/libcommon-aliyunons@1.0.1.Final?classifier=sources

@@ -43,6 +43,9 @@
 - pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.0.1.20589
 - pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.0.2.20657
 - pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.1.0.20866
+- pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.10.0.24201
+- pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.11.0.24617
+- pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.12.0.24852
 - pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.2.0.21135
 - pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.3.0.21585
 - pkg:maven/org.sonarsource.java/it-java-plugin-tests@6.3.2.22818

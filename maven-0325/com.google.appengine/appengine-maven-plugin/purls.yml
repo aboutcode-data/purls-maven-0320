@@ -201,6 +201,10 @@
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.81?classifier=sources
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.82
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.82?classifier=sources
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.83
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.83?classifier=sources
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.84
+- pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.84?classifier=sources
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.8?classifier=sources
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.9
 - pkg:maven/com.google.appengine/appengine-maven-plugin@1.9.9?classifier=sources

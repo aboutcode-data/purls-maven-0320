@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types-integration-test-postgresql@0.1.0
+- pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types-integration-test-postgresql@0.1.0?classifier=sources

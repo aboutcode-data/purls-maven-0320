@@ -14,3 +14,5 @@
 - pkg:maven/com.github.kshashov/spring-boot-starter-telegram@0.21?classifier=sources
 - pkg:maven/com.github.kshashov/spring-boot-starter-telegram@0.22
 - pkg:maven/com.github.kshashov/spring-boot-starter-telegram@0.22?classifier=sources
+- pkg:maven/com.github.kshashov/spring-boot-starter-telegram@0.23
+- pkg:maven/com.github.kshashov/spring-boot-starter-telegram@0.23?classifier=sources

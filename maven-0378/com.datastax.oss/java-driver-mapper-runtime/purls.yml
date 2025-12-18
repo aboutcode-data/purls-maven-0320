@@ -1,5 +1,7 @@
 - pkg:maven/com.datastax.oss/java-driver-mapper-runtime@4.1.0
 - pkg:maven/com.datastax.oss/java-driver-mapper-runtime@4.1.0?classifier=sources
+- pkg:maven/com.datastax.oss/java-driver-mapper-runtime@4.10.0
+- pkg:maven/com.datastax.oss/java-driver-mapper-runtime@4.10.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-mapper-runtime@4.2.0
 - pkg:maven/com.datastax.oss/java-driver-mapper-runtime@4.2.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-mapper-runtime@4.2.1

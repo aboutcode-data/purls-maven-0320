@@ -1,0 +1,2 @@
+- pkg:maven/net.datenstrudel/kotlin-fixture-magic@0.1.2
+- pkg:maven/net.datenstrudel/kotlin-fixture-magic@0.1.2?classifier=sources

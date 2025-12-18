@@ -96,3 +96,5 @@
 - pkg:maven/org.webjars.npm/types__react@16.9.48?classifier=sources
 - pkg:maven/org.webjars.npm/types__react@16.9.55
 - pkg:maven/org.webjars.npm/types__react@16.9.55?classifier=sources
+- pkg:maven/org.webjars.npm/types__react@17.0.0
+- pkg:maven/org.webjars.npm/types__react@17.0.0?classifier=sources

@@ -12,6 +12,12 @@
 - pkg:maven/org.querqy/querqy-lucene@4.10.lucene810.1?classifier=sources
 - pkg:maven/org.querqy/querqy-lucene@4.10.lucene810.2
 - pkg:maven/org.querqy/querqy-lucene@4.10.lucene810.2?classifier=sources
+- pkg:maven/org.querqy/querqy-lucene@4.11.lucene720.0
+- pkg:maven/org.querqy/querqy-lucene@4.11.lucene720.0?classifier=sources
+- pkg:maven/org.querqy/querqy-lucene@4.11.lucene800.0
+- pkg:maven/org.querqy/querqy-lucene@4.11.lucene800.0?classifier=sources
+- pkg:maven/org.querqy/querqy-lucene@4.11.lucene810.0
+- pkg:maven/org.querqy/querqy-lucene@4.11.lucene810.0?classifier=sources
 - pkg:maven/org.querqy/querqy-lucene@4.7.lucene720.0
 - pkg:maven/org.querqy/querqy-lucene@4.7.lucene720.0?classifier=sources
 - pkg:maven/org.querqy/querqy-lucene@4.7.lucene800.0

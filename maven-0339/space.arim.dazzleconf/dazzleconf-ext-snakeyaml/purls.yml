@@ -1,0 +1,4 @@
+- pkg:maven/space.arim.dazzleconf/dazzleconf-ext-snakeyaml@1.1.0
+- pkg:maven/space.arim.dazzleconf/dazzleconf-ext-snakeyaml@1.1.0?classifier=sources
+- pkg:maven/space.arim.dazzleconf/dazzleconf-ext-snakeyaml@1.1.1
+- pkg:maven/space.arim.dazzleconf/dazzleconf-ext-snakeyaml@1.1.1?classifier=sources

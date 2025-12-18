@@ -1,2 +1,6 @@
+- pkg:maven/io.toolisticon.cute/integration-test-java9-unnamedAutomaticModule@0.10.0
+- pkg:maven/io.toolisticon.cute/integration-test-java9-unnamedAutomaticModule@0.10.0?classifier=sources
+- pkg:maven/io.toolisticon.cute/integration-test-java9-unnamedAutomaticModule@0.11.0
+- pkg:maven/io.toolisticon.cute/integration-test-java9-unnamedAutomaticModule@0.11.0?classifier=sources
 - pkg:maven/io.toolisticon.cute/integration-test-java9-unnamedAutomaticModule@0.9.0
 - pkg:maven/io.toolisticon.cute/integration-test-java9-unnamedAutomaticModule@0.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.coherence.ce/coherence-helidon-client@20.12
+- pkg:maven/com.oracle.coherence.ce/coherence-helidon-client@20.12?classifier=sources

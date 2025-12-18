@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zmzhou-star/server-info@1.0
+- pkg:maven/com.github.zmzhou-star/server-info@1.0?classifier=sources

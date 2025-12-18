@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wanggit/antrpc-commons@3.0.0.RELEASE
+- pkg:maven/io.github.wanggit/antrpc-commons@3.0.0.RELEASE?classifier=sources

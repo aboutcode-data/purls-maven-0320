@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.pyqone/autest@2.0.0-RELEASE
+- pkg:maven/com.gitee.pyqone/autest@2.0.0-RELEASE?classifier=sources

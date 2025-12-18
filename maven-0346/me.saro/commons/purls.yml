@@ -54,3 +54,5 @@
 - pkg:maven/me.saro/commons@4.0.2?classifier=sources
 - pkg:maven/me.saro/commons@4.0.3
 - pkg:maven/me.saro/commons@4.0.3?classifier=sources
+- pkg:maven/me.saro/commons@4.0.4
+- pkg:maven/me.saro/commons@4.0.4?classifier=sources

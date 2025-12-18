@@ -11,3 +11,5 @@
 - pkg:maven/org.apache.skywalking/cluster-consul-plugin@8.0.1
 - pkg:maven/org.apache.skywalking/cluster-consul-plugin@8.1.0
 - pkg:maven/org.apache.skywalking/cluster-consul-plugin@8.2.0
+- pkg:maven/org.apache.skywalking/cluster-consul-plugin@8.3.0
+- pkg:maven/org.apache.skywalking/cluster-consul-plugin@8.4.0

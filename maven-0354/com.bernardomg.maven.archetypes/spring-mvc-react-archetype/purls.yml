@@ -5,3 +5,4 @@
 - pkg:maven/com.bernardomg.maven.archetypes/spring-mvc-react-archetype@1.2.2?classifier=sources
 - pkg:maven/com.bernardomg.maven.archetypes/spring-mvc-react-archetype@1.2.3?classifier=sources
 - pkg:maven/com.bernardomg.maven.archetypes/spring-mvc-react-archetype@1.2.4?classifier=sources
+- pkg:maven/com.bernardomg.maven.archetypes/spring-mvc-react-archetype@1.2.5?classifier=sources

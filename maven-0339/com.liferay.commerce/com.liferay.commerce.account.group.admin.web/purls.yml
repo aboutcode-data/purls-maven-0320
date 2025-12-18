@@ -44,6 +44,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.22
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.22?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.23
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.23?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@1.0.3
@@ -91,3 +94,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.6
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.6?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.7
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.7?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.8?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.group.admin.web@3.0.8?classifier=sources-commercial

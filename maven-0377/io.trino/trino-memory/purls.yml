@@ -1,0 +1,1 @@
+- pkg:maven/io.trino/trino-memory@351?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.lorislab.quarkus/log-vertx-web@0.4.0
+- pkg:maven/org.lorislab.quarkus/log-vertx-web@0.4.0?classifier=sources

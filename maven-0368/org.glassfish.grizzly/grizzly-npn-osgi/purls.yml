@@ -10,3 +10,4 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.8.1
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1.9
 - pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@1_4
+- pkg:maven/org.glassfish.grizzly/grizzly-npn-osgi@2.0.0

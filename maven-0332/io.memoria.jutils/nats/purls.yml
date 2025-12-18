@@ -116,6 +116,16 @@
 - pkg:maven/io.memoria.jutils/nats@0.167.0?classifier=sources
 - pkg:maven/io.memoria.jutils/nats@0.168.0
 - pkg:maven/io.memoria.jutils/nats@0.168.0?classifier=sources
+- pkg:maven/io.memoria.jutils/nats@0.172.0
+- pkg:maven/io.memoria.jutils/nats@0.172.0?classifier=sources
+- pkg:maven/io.memoria.jutils/nats@0.173.0
+- pkg:maven/io.memoria.jutils/nats@0.173.0?classifier=sources
+- pkg:maven/io.memoria.jutils/nats@0.174.0
+- pkg:maven/io.memoria.jutils/nats@0.174.0?classifier=sources
+- pkg:maven/io.memoria.jutils/nats@0.175.0
+- pkg:maven/io.memoria.jutils/nats@0.175.0?classifier=sources
+- pkg:maven/io.memoria.jutils/nats@0.177.0
+- pkg:maven/io.memoria.jutils/nats@0.177.0?classifier=sources
 - pkg:maven/io.memoria.jutils/nats@0.7.1
 - pkg:maven/io.memoria.jutils/nats@0.7.1?classifier=sources
 - pkg:maven/io.memoria.jutils/nats@0.7.2

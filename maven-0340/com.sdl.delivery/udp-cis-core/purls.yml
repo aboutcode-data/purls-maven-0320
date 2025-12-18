@@ -12,7 +12,17 @@
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1071?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1072
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1072?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1075
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1075?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1100
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1100?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1114
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.0.0-1114?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.0.1-1020
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.0.1-1020?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1055
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1055?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1104
+- pkg:maven/com.sdl.delivery/udp-cis-core@11.1.0-1104?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.5.0-1087
 - pkg:maven/com.sdl.delivery/udp-cis-core@11.5.0-1087?classifier=sources

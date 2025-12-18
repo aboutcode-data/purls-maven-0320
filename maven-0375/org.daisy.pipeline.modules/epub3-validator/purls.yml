@@ -16,3 +16,5 @@
 - pkg:maven/org.daisy.pipeline.modules/epub3-validator@1.1.6?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/epub3-validator@2.0.0
 - pkg:maven/org.daisy.pipeline.modules/epub3-validator@2.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/epub3-validator@2.0.1
+- pkg:maven/org.daisy.pipeline.modules/epub3-validator@2.0.1?classifier=sources

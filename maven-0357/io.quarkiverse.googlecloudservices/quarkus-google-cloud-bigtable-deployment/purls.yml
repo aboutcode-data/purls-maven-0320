@@ -1,2 +1,6 @@
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-bigtable-deployment@0.2.0
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-bigtable-deployment@0.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-bigtable-deployment@0.3.0
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-bigtable-deployment@0.3.0?classifier=sources
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-bigtable-deployment@0.4.0
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-bigtable-deployment@0.4.0?classifier=sources

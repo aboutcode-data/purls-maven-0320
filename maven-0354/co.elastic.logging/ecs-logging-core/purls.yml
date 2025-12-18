@@ -18,3 +18,5 @@
 - pkg:maven/co.elastic.logging/ecs-logging-core@0.5.1?classifier=sources
 - pkg:maven/co.elastic.logging/ecs-logging-core@0.5.2
 - pkg:maven/co.elastic.logging/ecs-logging-core@0.5.2?classifier=sources
+- pkg:maven/co.elastic.logging/ecs-logging-core@1.0.0.RC1
+- pkg:maven/co.elastic.logging/ecs-logging-core@1.0.0.RC1?classifier=sources

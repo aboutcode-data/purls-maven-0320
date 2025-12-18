@@ -41,3 +41,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-kafka@2.2.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-kafka@2.2.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-kafka@2.2.3.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-kafka@3.0.0
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-kafka@3.0.1

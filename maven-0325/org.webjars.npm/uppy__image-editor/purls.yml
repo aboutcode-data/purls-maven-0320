@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/uppy__image-editor@0.2.1
+- pkg:maven/org.webjars.npm/uppy__image-editor@0.2.1?classifier=sources

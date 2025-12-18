@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/managedblockchain@795.2.646.0?classifier=sources
 - pkg:maven/com.cognitect.aws/managedblockchain@809.2.784.0
 - pkg:maven/com.cognitect.aws/managedblockchain@809.2.784.0?classifier=sources
+- pkg:maven/com.cognitect.aws/managedblockchain@810.2.817.0
+- pkg:maven/com.cognitect.aws/managedblockchain@810.2.817.0?classifier=sources

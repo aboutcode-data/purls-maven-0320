@@ -12,6 +12,10 @@
 - pkg:maven/org.apereo.inspektr/inspektr-error@1.8.1.GA?classifier=sources
 - pkg:maven/org.apereo.inspektr/inspektr-error@1.8.10.GA
 - pkg:maven/org.apereo.inspektr/inspektr-error@1.8.10.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-error@1.8.11.GA
+- pkg:maven/org.apereo.inspektr/inspektr-error@1.8.11.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-error@1.8.12.GA
+- pkg:maven/org.apereo.inspektr/inspektr-error@1.8.12.GA?classifier=sources
 - pkg:maven/org.apereo.inspektr/inspektr-error@1.8.2.GA
 - pkg:maven/org.apereo.inspektr/inspektr-error@1.8.2.GA?classifier=sources
 - pkg:maven/org.apereo.inspektr/inspektr-error@1.8.3.GA

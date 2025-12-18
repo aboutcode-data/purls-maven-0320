@@ -1,2 +1,4 @@
 - pkg:maven/me.aflak.libraries/arduino@1.0?classifier=sources
 - pkg:maven/me.aflak.libraries/arduino@1.0?type=aar
+- pkg:maven/me.aflak.libraries/arduino@1.4.4?classifier=sources
+- pkg:maven/me.aflak.libraries/arduino@1.4.4?type=aar

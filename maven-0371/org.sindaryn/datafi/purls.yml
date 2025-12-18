@@ -1,0 +1,6 @@
+- pkg:maven/org.sindaryn/datafi@0.0.1
+- pkg:maven/org.sindaryn/datafi@0.0.1-ALPHA
+- pkg:maven/org.sindaryn/datafi@0.0.1-ALPHA?classifier=sources
+- pkg:maven/org.sindaryn/datafi@0.0.1-RELEASE
+- pkg:maven/org.sindaryn/datafi@0.0.1-RELEASE?classifier=sources
+- pkg:maven/org.sindaryn/datafi@0.0.1?classifier=sources

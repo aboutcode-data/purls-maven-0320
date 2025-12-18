@@ -1,0 +1,2 @@
+- pkg:maven/io.burt/jmespath-jakarta-jsonp@0.5.0
+- pkg:maven/io.burt/jmespath-jakarta-jsonp@0.5.0?classifier=sources

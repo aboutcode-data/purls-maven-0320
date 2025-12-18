@@ -1,4 +1,6 @@
 - pkg:maven/com.linagora/metrics-elasticsearch-reporter@6.0.0-RC
 - pkg:maven/com.linagora/metrics-elasticsearch-reporter@6.0.0-RC2
 - pkg:maven/com.linagora/metrics-elasticsearch-reporter@6.0.0-RC2?classifier=sources
+- pkg:maven/com.linagora/metrics-elasticsearch-reporter@6.0.0-RC3
+- pkg:maven/com.linagora/metrics-elasticsearch-reporter@6.0.0-RC3?classifier=sources
 - pkg:maven/com.linagora/metrics-elasticsearch-reporter@6.0.0-RC?classifier=sources

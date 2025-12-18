@@ -1,0 +1,2 @@
+- pkg:maven/com.github.almasb/fxgl-scene@11.5
+- pkg:maven/com.github.almasb/fxgl-scene@11.5?classifier=sources

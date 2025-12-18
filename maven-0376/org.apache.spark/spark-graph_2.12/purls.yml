@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.spark/spark-graph_2.12@3.0.0-preview
+- pkg:maven/org.apache.spark/spark-graph_2.12@3.0.0-preview?classifier=sources

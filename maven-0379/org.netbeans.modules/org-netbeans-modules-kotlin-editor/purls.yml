@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE112?classifier=sources

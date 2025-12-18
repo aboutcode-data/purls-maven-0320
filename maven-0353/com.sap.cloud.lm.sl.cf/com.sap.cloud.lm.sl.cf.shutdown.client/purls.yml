@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.shutdown.client@1.91.0
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.shutdown.client@1.91.0?classifier=sources

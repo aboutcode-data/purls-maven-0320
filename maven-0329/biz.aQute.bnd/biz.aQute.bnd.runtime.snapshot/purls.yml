@@ -1,0 +1,2 @@
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.runtime.snapshot@4.3.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.runtime.snapshot@4.3.0?classifier=sources

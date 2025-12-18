@@ -154,3 +154,4 @@
 - pkg:maven/org.jbehave/jbehave-distribution@4.4?classifier=src&type=zip
 - pkg:maven/org.jbehave/jbehave-distribution@4.5.1?classifier=src&type=zip
 - pkg:maven/org.jbehave/jbehave-distribution@4.5?classifier=src&type=zip
+- pkg:maven/org.jbehave/jbehave-distribution@4.6?classifier=src&type=zip

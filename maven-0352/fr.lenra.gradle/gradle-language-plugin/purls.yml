@@ -1,0 +1,2 @@
+- pkg:maven/fr.lenra.gradle/gradle-language-plugin@1.0.1
+- pkg:maven/fr.lenra.gradle/gradle-language-plugin@1.0.1?classifier=sources

@@ -122,3 +122,7 @@
 - pkg:maven/org.lastaflute/lasta-di@0.8.0-RC2
 - pkg:maven/org.lastaflute/lasta-di@0.8.0-RC2?classifier=sources
 - pkg:maven/org.lastaflute/lasta-di@0.8.0?classifier=sources
+- pkg:maven/org.lastaflute/lasta-di@0.8.1
+- pkg:maven/org.lastaflute/lasta-di@0.8.1-RC1
+- pkg:maven/org.lastaflute/lasta-di@0.8.1-RC1?classifier=sources
+- pkg:maven/org.lastaflute/lasta-di@0.8.1?classifier=sources

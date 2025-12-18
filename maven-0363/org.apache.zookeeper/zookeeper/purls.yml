@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.zookeeper/zookeeper@3.5.4-beta?classifier=sources
 - pkg:maven/org.apache.zookeeper/zookeeper@3.5.5
 - pkg:maven/org.apache.zookeeper/zookeeper@3.5.5?classifier=sources
+- pkg:maven/org.apache.zookeeper/zookeeper@3.5.6
+- pkg:maven/org.apache.zookeeper/zookeeper@3.5.6?classifier=sources

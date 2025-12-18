@@ -8,3 +8,11 @@
 - pkg:maven/com.cognitect.aws/transfer@714.2.430.0?classifier=sources
 - pkg:maven/com.cognitect.aws/transfer@718.2.445.0
 - pkg:maven/com.cognitect.aws/transfer@718.2.445.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transfer@742.2.514.0
+- pkg:maven/com.cognitect.aws/transfer@742.2.514.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transfer@746.2.533.0
+- pkg:maven/com.cognitect.aws/transfer@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transfer@762.2.557.0
+- pkg:maven/com.cognitect.aws/transfer@762.2.557.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transfer@770.2.568.0
+- pkg:maven/com.cognitect.aws/transfer@770.2.568.0?classifier=sources

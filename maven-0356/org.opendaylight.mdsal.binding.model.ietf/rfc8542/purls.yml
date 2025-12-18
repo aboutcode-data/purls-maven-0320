@@ -1,0 +1,5 @@
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542@1.0.0
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542@1.0.1
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542@1.0.2
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542@1.0.3
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542@1.0.4

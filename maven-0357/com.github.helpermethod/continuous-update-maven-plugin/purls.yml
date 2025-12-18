@@ -1,0 +1,2 @@
+- pkg:maven/com.github.helpermethod/continuous-update-maven-plugin@0.1.0
+- pkg:maven/com.github.helpermethod/continuous-update-maven-plugin@0.1.0?classifier=sources

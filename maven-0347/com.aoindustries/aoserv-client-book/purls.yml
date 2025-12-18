@@ -4,3 +4,5 @@
 - pkg:maven/com.aoindustries/aoserv-client-book@1.81.22?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-client-book@1.82.1
 - pkg:maven/com.aoindustries/aoserv-client-book@1.82.1?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client-book@1.83.1
+- pkg:maven/com.aoindustries/aoserv-client-book@1.83.1?classifier=sources

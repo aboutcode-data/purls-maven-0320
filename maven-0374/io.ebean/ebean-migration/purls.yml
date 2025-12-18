@@ -32,6 +32,12 @@
 - pkg:maven/io.ebean/ebean-migration@11.19.1?classifier=sources
 - pkg:maven/io.ebean/ebean-migration@11.2.1
 - pkg:maven/io.ebean/ebean-migration@11.2.1?classifier=sources
+- pkg:maven/io.ebean/ebean-migration@11.20.1
+- pkg:maven/io.ebean/ebean-migration@11.20.1?classifier=sources
+- pkg:maven/io.ebean/ebean-migration@11.21.1
+- pkg:maven/io.ebean/ebean-migration@11.21.1?classifier=sources
+- pkg:maven/io.ebean/ebean-migration@11.22.1
+- pkg:maven/io.ebean/ebean-migration@11.22.1?classifier=sources
 - pkg:maven/io.ebean/ebean-migration@11.3.1
 - pkg:maven/io.ebean/ebean-migration@11.3.1?classifier=sources
 - pkg:maven/io.ebean/ebean-migration@11.4.1
@@ -54,3 +60,5 @@
 - pkg:maven/io.ebean/ebean-migration@11.8.2?classifier=sources
 - pkg:maven/io.ebean/ebean-migration@11.9.1
 - pkg:maven/io.ebean/ebean-migration@11.9.1?classifier=sources
+- pkg:maven/io.ebean/ebean-migration@12.1.1
+- pkg:maven/io.ebean/ebean-migration@12.1.1?classifier=sources

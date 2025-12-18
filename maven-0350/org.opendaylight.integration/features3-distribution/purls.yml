@@ -1,0 +1,5 @@
+- pkg:maven/org.opendaylight.integration/features3-distribution@0.6.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.integration/features3-distribution@0.6.1-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.integration/features3-distribution@0.6.2-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.integration/features3-distribution@0.6.3-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.integration/features3-distribution@0.6.4-Carbon?classifier=sources

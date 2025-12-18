@@ -1,0 +1,4 @@
+- pkg:maven/com.github.springcloud/moss-client-1.x@1.0.0.RELEASE
+- pkg:maven/com.github.springcloud/moss-client-1.x@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.github.springcloud/moss-client-1.x@1.0.1.RELEASE
+- pkg:maven/com.github.springcloud/moss-client-1.x@1.0.1.RELEASE?classifier=sources

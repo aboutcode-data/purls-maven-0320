@@ -139,6 +139,14 @@
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.26?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.2?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.3
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.33
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.33?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.34
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.34?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.35
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.35?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.36
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.36?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.3?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.4
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common-osgi-tests@6.1.4?classifier=sources

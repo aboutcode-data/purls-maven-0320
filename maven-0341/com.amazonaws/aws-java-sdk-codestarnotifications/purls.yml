@@ -1,0 +1,12 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.667
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.667?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.668
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.668?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.669
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.669?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.670
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.670?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.671
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.671?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.672
+- pkg:maven/com.amazonaws/aws-java-sdk-codestarnotifications@1.11.672?classifier=sources

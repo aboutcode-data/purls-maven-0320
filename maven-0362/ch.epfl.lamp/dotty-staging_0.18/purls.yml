@@ -1,0 +1,4 @@
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.18@0.18.1
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.18@0.18.1-RC1
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.18@0.18.1-RC1?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.18@0.18.1?classifier=sources

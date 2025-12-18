@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/postman-request@2.81.1-postman.3
 - pkg:maven/org.webjars.npm/postman-request@2.81.1-postman.3?classifier=sources
+- pkg:maven/org.webjars.npm/postman-request@2.88.1-postman.13
+- pkg:maven/org.webjars.npm/postman-request@2.88.1-postman.13?classifier=sources

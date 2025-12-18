@@ -1,0 +1,4 @@
+- pkg:maven/io.i-t/supplies@1.1.8
+- pkg:maven/io.i-t/supplies@1.1.8?classifier=sources
+- pkg:maven/io.i-t/supplies@1.1.9
+- pkg:maven/io.i-t/supplies@1.1.9?classifier=sources

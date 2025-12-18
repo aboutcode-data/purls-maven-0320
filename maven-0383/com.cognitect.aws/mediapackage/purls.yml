@@ -10,3 +10,9 @@
 - pkg:maven/com.cognitect.aws/mediapackage@718.2.456.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mediapackage@726.2.480.0
 - pkg:maven/com.cognitect.aws/mediapackage@726.2.480.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediapackage@747.2.533.0
+- pkg:maven/com.cognitect.aws/mediapackage@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediapackage@757.2.543.0
+- pkg:maven/com.cognitect.aws/mediapackage@757.2.543.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediapackage@770.2.568.0
+- pkg:maven/com.cognitect.aws/mediapackage@770.2.568.0?classifier=sources

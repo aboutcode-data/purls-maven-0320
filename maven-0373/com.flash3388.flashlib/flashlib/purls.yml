@@ -4,3 +4,7 @@
 - pkg:maven/com.flash3388.flashlib/flashlib@2.0.0-alpha.3?classifier=sources
 - pkg:maven/com.flash3388.flashlib/flashlib@2.0.0-alpha.4
 - pkg:maven/com.flash3388.flashlib/flashlib@2.0.0-alpha.4?classifier=sources
+- pkg:maven/com.flash3388.flashlib/flashlib@2.0.0-beta.1
+- pkg:maven/com.flash3388.flashlib/flashlib@2.0.0-beta.1?classifier=sources
+- pkg:maven/com.flash3388.flashlib/flashlib@2.0.0-beta.6
+- pkg:maven/com.flash3388.flashlib/flashlib@2.0.0-beta.6?classifier=sources

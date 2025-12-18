@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.registry.extensions.resources@4.8.10
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.registry.extensions.resources@4.8.10?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.registry.extensions.resources@4.8.9
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.registry.extensions.resources@4.8.9?classifier=sources

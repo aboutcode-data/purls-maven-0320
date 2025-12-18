@@ -1,0 +1,2 @@
+- pkg:maven/io.github.captain-p-goldfish/scim-common@1.0.0
+- pkg:maven/io.github.captain-p-goldfish/scim-common@1.0.0?classifier=sources

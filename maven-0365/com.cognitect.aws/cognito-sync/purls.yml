@@ -2,3 +2,7 @@
 - pkg:maven/com.cognitect.aws/cognito-sync@668.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/cognito-sync@697.2.391.0
 - pkg:maven/com.cognitect.aws/cognito-sync@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cognito-sync@746.2.533.0
+- pkg:maven/com.cognitect.aws/cognito-sync@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cognito-sync@770.2.568.0
+- pkg:maven/com.cognitect.aws/cognito-sync@770.2.568.0?classifier=sources

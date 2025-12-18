@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/asset-lineage-spring@1.1
+- pkg:maven/org.odpi.egeria/asset-lineage-spring@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.asuslennikov/mvvm-domain@0.8.20
+- pkg:maven/com.github.asuslennikov/mvvm-domain@0.8.20?classifier=sources

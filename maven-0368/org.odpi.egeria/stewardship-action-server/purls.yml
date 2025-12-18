@@ -1,3 +1,5 @@
 - pkg:maven/org.odpi.egeria/stewardship-action-server@0.1
 - pkg:maven/org.odpi.egeria/stewardship-action-server@0.2
 - pkg:maven/org.odpi.egeria/stewardship-action-server@1.0
+- pkg:maven/org.odpi.egeria/stewardship-action-server@1.1
+- pkg:maven/org.odpi.egeria/stewardship-action-server@1.1?classifier=sources

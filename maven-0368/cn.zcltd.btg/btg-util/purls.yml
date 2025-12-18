@@ -11,6 +11,8 @@
 - pkg:maven/cn.zcltd.btg/btg-util@4.0.13?classifier=sources
 - pkg:maven/cn.zcltd.btg/btg-util@4.0.14
 - pkg:maven/cn.zcltd.btg/btg-util@4.0.14?classifier=sources
+- pkg:maven/cn.zcltd.btg/btg-util@4.0.15
+- pkg:maven/cn.zcltd.btg/btg-util@4.0.15?classifier=sources
 - pkg:maven/cn.zcltd.btg/btg-util@4.0.1?classifier=sources
 - pkg:maven/cn.zcltd.btg/btg-util@4.0.2
 - pkg:maven/cn.zcltd.btg/btg-util@4.0.2?classifier=sources

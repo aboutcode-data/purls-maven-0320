@@ -1,0 +1,2 @@
+- pkg:maven/org.dkpro.core/dkpro-core-io-perseus-asl@2.0.0
+- pkg:maven/org.dkpro.core/dkpro-core-io-perseus-asl@2.0.0?classifier=sources

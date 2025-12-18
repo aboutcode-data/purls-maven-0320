@@ -20,6 +20,12 @@
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.14.1?classifier=sources
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.15.0
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.15.0?classifier=sources
+- pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.15.1
+- pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.15.1?classifier=sources
+- pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.15.2
+- pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.15.2?classifier=sources
+- pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.16.0
+- pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.16.0?classifier=sources
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.2.0
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.2.0?classifier=sources
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-client@0.3.0

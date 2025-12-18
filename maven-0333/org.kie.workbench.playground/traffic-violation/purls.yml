@@ -1,2 +1,7 @@
 - pkg:maven/org.kie.workbench.playground/traffic-violation@7.23.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/traffic-violation@7.24.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/traffic-violation@7.25.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/traffic-violation@7.26.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/traffic-violation@7.27.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/traffic-violation@7.28.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/traffic-violation@7.29.0.Final?classifier=sources

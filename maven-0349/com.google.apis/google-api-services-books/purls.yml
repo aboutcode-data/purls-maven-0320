@@ -44,6 +44,10 @@
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev106-1.24.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev106-1.25.0
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev106-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-books@v1-rev110-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-books@v1-rev110-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-books@v1-rev110-1.25.0
+- pkg:maven/com.google.apis/google-api-services-books@v1-rev110-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev20180824-1.26.0
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev20180824-1.26.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev20180824-1.27.0

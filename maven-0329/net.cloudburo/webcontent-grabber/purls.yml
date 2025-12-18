@@ -1,0 +1,4 @@
+- pkg:maven/net.cloudburo/webcontent-grabber@0.0.3
+- pkg:maven/net.cloudburo/webcontent-grabber@0.0.3?classifier=sources
+- pkg:maven/net.cloudburo/webcontent-grabber@1.0.0
+- pkg:maven/net.cloudburo/webcontent-grabber@1.0.0?classifier=sources

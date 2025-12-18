@@ -18,3 +18,9 @@
 - pkg:maven/com.cognitect.aws/alexaforbusiness@719.2.460.0?classifier=sources
 - pkg:maven/com.cognitect.aws/alexaforbusiness@726.2.485.0
 - pkg:maven/com.cognitect.aws/alexaforbusiness@726.2.485.0?classifier=sources
+- pkg:maven/com.cognitect.aws/alexaforbusiness@742.2.514.0
+- pkg:maven/com.cognitect.aws/alexaforbusiness@742.2.514.0?classifier=sources
+- pkg:maven/com.cognitect.aws/alexaforbusiness@746.2.533.0
+- pkg:maven/com.cognitect.aws/alexaforbusiness@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/alexaforbusiness@770.2.568.0
+- pkg:maven/com.cognitect.aws/alexaforbusiness@770.2.568.0?classifier=sources

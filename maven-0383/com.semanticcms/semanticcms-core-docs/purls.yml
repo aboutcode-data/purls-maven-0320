@@ -6,3 +6,4 @@
 - pkg:maven/com.semanticcms/semanticcms-core-docs@1.4.1?type=war
 - pkg:maven/com.semanticcms/semanticcms-core-docs@1.4.2?type=war
 - pkg:maven/com.semanticcms/semanticcms-core-docs@1.4.3?type=war
+- pkg:maven/com.semanticcms/semanticcms-core-docs@1.5.0?type=war

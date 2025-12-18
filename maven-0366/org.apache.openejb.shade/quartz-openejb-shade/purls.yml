@@ -1,3 +1,6 @@
 - pkg:maven/org.apache.openejb.shade/quartz-openejb-shade@2.2.1
 - pkg:maven/org.apache.openejb.shade/quartz-openejb-shade@2.2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.openejb.shade/quartz-openejb-shade@2.2.1?classifier=sources
+- pkg:maven/org.apache.openejb.shade/quartz-openejb-shade@2.2.4
+- pkg:maven/org.apache.openejb.shade/quartz-openejb-shade@2.2.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.openejb.shade/quartz-openejb-shade@2.2.4?classifier=sources

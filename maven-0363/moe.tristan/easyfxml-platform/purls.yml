@@ -1,2 +1,4 @@
 - pkg:maven/moe.tristan/easyfxml-platform@3.2.0
 - pkg:maven/moe.tristan/easyfxml-platform@3.2.0?classifier=sources
+- pkg:maven/moe.tristan/easyfxml-platform@3.3.0
+- pkg:maven/moe.tristan/easyfxml-platform@3.3.0?classifier=sources

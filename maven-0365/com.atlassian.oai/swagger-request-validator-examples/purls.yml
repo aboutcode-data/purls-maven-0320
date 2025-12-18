@@ -60,3 +60,10 @@
 - pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.4.4
 - pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.4.5
 - pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.4.6
+- pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.4.7
+- pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.5.0
+- pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.6.0
+- pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.7.0
+- pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.7.1
+- pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.7.2
+- pkg:maven/com.atlassian.oai/swagger-request-validator-examples@2.8.0

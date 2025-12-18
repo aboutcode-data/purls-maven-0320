@@ -1,0 +1,2 @@
+- pkg:maven/io.bitexpress.openapi/be-openapi@0.4
+- pkg:maven/io.bitexpress.openapi/be-openapi@0.4?classifier=sources

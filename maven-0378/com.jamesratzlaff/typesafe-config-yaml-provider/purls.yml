@@ -1,0 +1,2 @@
+- pkg:maven/com.jamesratzlaff/typesafe-config-yaml-provider@2019.09.16
+- pkg:maven/com.jamesratzlaff/typesafe-config-yaml-provider@2019.09.16?classifier=sources

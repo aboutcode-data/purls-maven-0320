@@ -8,3 +8,5 @@
 - pkg:maven/fun.mike/record@0.1.3?classifier=sources
 - pkg:maven/fun.mike/record@0.1.4
 - pkg:maven/fun.mike/record@0.1.4?classifier=sources
+- pkg:maven/fun.mike/record@0.1.5
+- pkg:maven/fun.mike/record@0.1.5?classifier=sources

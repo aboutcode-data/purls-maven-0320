@@ -1,3 +1,4 @@
+- pkg:maven/com.microsoft.azure.kusto/kusto-data@1.0.0
 - pkg:maven/com.microsoft.azure.kusto/kusto-data@1.0.0-BETA-02
 - pkg:maven/com.microsoft.azure.kusto/kusto-data@1.0.0-BETA-02?classifier=sources
 - pkg:maven/com.microsoft.azure.kusto/kusto-data@1.0.0-BETA-03
@@ -8,3 +9,8 @@
 - pkg:maven/com.microsoft.azure.kusto/kusto-data@1.0.0-BETA-05?classifier=sources
 - pkg:maven/com.microsoft.azure.kusto/kusto-data@1.0.0-BETA-06
 - pkg:maven/com.microsoft.azure.kusto/kusto-data@1.0.0-BETA-06?classifier=sources
+- pkg:maven/com.microsoft.azure.kusto/kusto-data@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure.kusto/kusto-data@1.1.0
+- pkg:maven/com.microsoft.azure.kusto/kusto-data@1.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure.kusto/kusto-data@1.2.0
+- pkg:maven/com.microsoft.azure.kusto/kusto-data@1.2.0?classifier=sources

@@ -10,3 +10,11 @@
 - pkg:maven/com.cognitect.aws/codepipeline@717.2.450.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codepipeline@718.2.456.0
 - pkg:maven/com.cognitect.aws/codepipeline@718.2.456.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codepipeline@742.2.520.0
+- pkg:maven/com.cognitect.aws/codepipeline@742.2.520.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codepipeline@746.2.533.0
+- pkg:maven/com.cognitect.aws/codepipeline@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codepipeline@757.2.537.0
+- pkg:maven/com.cognitect.aws/codepipeline@757.2.537.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codepipeline@770.2.568.0
+- pkg:maven/com.cognitect.aws/codepipeline@770.2.568.0?classifier=sources

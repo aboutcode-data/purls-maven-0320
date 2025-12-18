@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cabal-it@0.0.2
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cabal-it@0.0.2?classifier=sources

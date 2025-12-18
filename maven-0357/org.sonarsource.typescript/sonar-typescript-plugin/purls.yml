@@ -9,3 +9,4 @@
 - pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.7.0.2893?classifier=sources
 - pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.8.0.3332?classifier=sources
 - pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@1.9.0.3766?classifier=sources
+- pkg:maven/org.sonarsource.typescript/sonar-typescript-plugin@2.0.0.4283?classifier=sources

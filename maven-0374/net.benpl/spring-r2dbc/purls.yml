@@ -1,0 +1,2 @@
+- pkg:maven/net.benpl/spring-r2dbc@1.0
+- pkg:maven/net.benpl/spring-r2dbc@1.0?classifier=sources

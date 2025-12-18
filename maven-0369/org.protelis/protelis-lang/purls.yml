@@ -56,3 +56,7 @@
 - pkg:maven/org.protelis/protelis-lang@13.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis-lang@13.0.2
 - pkg:maven/org.protelis/protelis-lang@13.0.2?classifier=sources
+- pkg:maven/org.protelis/protelis-lang@13.0.3
+- pkg:maven/org.protelis/protelis-lang@13.0.3?classifier=sources
+- pkg:maven/org.protelis/protelis-lang@13.1.0
+- pkg:maven/org.protelis/protelis-lang@13.1.0?classifier=sources

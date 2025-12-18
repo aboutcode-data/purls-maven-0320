@@ -21,5 +21,7 @@
 - pkg:maven/com.caucho/hessian@4.0.61?classifier=sources
 - pkg:maven/com.caucho/hessian@4.0.62
 - pkg:maven/com.caucho/hessian@4.0.62?classifier=sources
+- pkg:maven/com.caucho/hessian@4.0.63
+- pkg:maven/com.caucho/hessian@4.0.63?classifier=sources
 - pkg:maven/com.caucho/hessian@4.0.7
 - pkg:maven/com.caucho/hessian@4.0.7?classifier=src

@@ -2,3 +2,7 @@
 - pkg:maven/nl.f00f/auta-srf@1.0.0?classifier=sources
 - pkg:maven/nl.f00f/auta-srf@2.0.0
 - pkg:maven/nl.f00f/auta-srf@2.0.0?classifier=sources
+- pkg:maven/nl.f00f/auta-srf@2.1.0
+- pkg:maven/nl.f00f/auta-srf@2.1.0?classifier=sources
+- pkg:maven/nl.f00f/auta-srf@2.2.0
+- pkg:maven/nl.f00f/auta-srf@2.2.0?classifier=sources

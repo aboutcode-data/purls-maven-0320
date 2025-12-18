@@ -16,3 +16,5 @@
 - pkg:maven/org.eurekaclinical/scribe-up-ext@2.0-Beta-2
 - pkg:maven/org.eurekaclinical/scribe-up-ext@2.0-Beta-2?classifier=sources
 - pkg:maven/org.eurekaclinical/scribe-up-ext@2.0?classifier=sources
+- pkg:maven/org.eurekaclinical/scribe-up-ext@2.2
+- pkg:maven/org.eurekaclinical/scribe-up-ext@2.2?classifier=sources

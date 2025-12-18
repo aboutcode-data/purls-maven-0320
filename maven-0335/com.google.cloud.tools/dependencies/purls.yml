@@ -12,3 +12,9 @@
 - pkg:maven/com.google.cloud.tools/dependencies@0.2.3?classifier=sources
 - pkg:maven/com.google.cloud.tools/dependencies@0.2.4
 - pkg:maven/com.google.cloud.tools/dependencies@0.2.4?classifier=sources
+- pkg:maven/com.google.cloud.tools/dependencies@0.3.0
+- pkg:maven/com.google.cloud.tools/dependencies@0.3.0?classifier=sources
+- pkg:maven/com.google.cloud.tools/dependencies@1.0.0
+- pkg:maven/com.google.cloud.tools/dependencies@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud.tools/dependencies@1.0.1
+- pkg:maven/com.google.cloud.tools/dependencies@1.0.1?classifier=sources

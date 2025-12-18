@@ -10,3 +10,5 @@
 - pkg:maven/com.guardtime/ksi-service-ha@4.13.187?classifier=sources
 - pkg:maven/com.guardtime/ksi-service-ha@4.14.193
 - pkg:maven/com.guardtime/ksi-service-ha@4.14.193?classifier=sources
+- pkg:maven/com.guardtime/ksi-service-ha@4.15.198
+- pkg:maven/com.guardtime/ksi-service-ha@4.15.198?classifier=sources

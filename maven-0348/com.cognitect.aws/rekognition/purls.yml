@@ -8,3 +8,11 @@
 - pkg:maven/com.cognitect.aws/rekognition@705.2.402.0?classifier=sources
 - pkg:maven/com.cognitect.aws/rekognition@712.2.419.0
 - pkg:maven/com.cognitect.aws/rekognition@712.2.419.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rekognition@742.2.508.0
+- pkg:maven/com.cognitect.aws/rekognition@742.2.508.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rekognition@742.2.515.0
+- pkg:maven/com.cognitect.aws/rekognition@742.2.515.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rekognition@747.2.533.0
+- pkg:maven/com.cognitect.aws/rekognition@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rekognition@770.2.568.0
+- pkg:maven/com.cognitect.aws/rekognition@770.2.568.0?classifier=sources

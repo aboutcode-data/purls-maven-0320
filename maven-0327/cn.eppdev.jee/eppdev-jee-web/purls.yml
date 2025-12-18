@@ -9,4 +9,6 @@
 - pkg:maven/cn.eppdev.jee/eppdev-jee-web@0.1.4.1
 - pkg:maven/cn.eppdev.jee/eppdev-jee-web@0.1.4.1?classifier=sources
 - pkg:maven/cn.eppdev.jee/eppdev-jee-web@0.1.4?classifier=sources
+- pkg:maven/cn.eppdev.jee/eppdev-jee-web@0.1.5
+- pkg:maven/cn.eppdev.jee/eppdev-jee-web@0.1.5?classifier=sources
 - pkg:maven/cn.eppdev.jee/eppdev-jee-web@0.1?classifier=sources

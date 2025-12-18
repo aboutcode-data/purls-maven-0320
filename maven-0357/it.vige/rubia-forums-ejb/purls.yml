@@ -13,3 +13,6 @@
 - pkg:maven/it.vige/rubia-forums-ejb@2.4.0?classifier=sources
 - pkg:maven/it.vige/rubia-forums-ejb@2.4.1?classifier=sources
 - pkg:maven/it.vige/rubia-forums-ejb@2.5.0?classifier=sources
+- pkg:maven/it.vige/rubia-forums-ejb@2.6.0?classifier=sources
+- pkg:maven/it.vige/rubia-forums-ejb@3.0.0?classifier=sources
+- pkg:maven/it.vige/rubia-forums-ejb@3.1.0?classifier=sources

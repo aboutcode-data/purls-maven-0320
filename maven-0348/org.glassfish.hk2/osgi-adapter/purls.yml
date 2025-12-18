@@ -504,3 +504,5 @@
 - pkg:maven/org.glassfish.hk2/osgi-adapter@2.5.0?classifier=sources
 - pkg:maven/org.glassfish.hk2/osgi-adapter@2.6.0
 - pkg:maven/org.glassfish.hk2/osgi-adapter@2.6.0?classifier=sources
+- pkg:maven/org.glassfish.hk2/osgi-adapter@2.6.1
+- pkg:maven/org.glassfish.hk2/osgi-adapter@2.6.1?classifier=sources

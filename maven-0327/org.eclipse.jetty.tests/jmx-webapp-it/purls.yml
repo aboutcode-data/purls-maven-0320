@@ -40,6 +40,8 @@
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.27.v20190403?classifier=sources
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.28.v20190418
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.28.v20190418?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.29.v20191105
+- pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.29.v20191105?classifier=sources
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.8.v20150217
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.8.v20150217?classifier=sources
 - pkg:maven/org.eclipse.jetty.tests/jmx-webapp-it@9.2.9.v20150224

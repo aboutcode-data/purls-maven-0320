@@ -14,3 +14,17 @@
 - pkg:maven/com.genesys/engagement-java@9.0.26?classifier=sources
 - pkg:maven/com.genesys/engagement-java@9.0.27
 - pkg:maven/com.genesys/engagement-java@9.0.27?classifier=sources
+- pkg:maven/com.genesys/engagement-java@9.0.28
+- pkg:maven/com.genesys/engagement-java@9.0.28?classifier=sources
+- pkg:maven/com.genesys/engagement-java@9.0.29
+- pkg:maven/com.genesys/engagement-java@9.0.29?classifier=sources
+- pkg:maven/com.genesys/engagement-java@9.0.30
+- pkg:maven/com.genesys/engagement-java@9.0.30?classifier=sources
+- pkg:maven/com.genesys/engagement-java@9.0.31
+- pkg:maven/com.genesys/engagement-java@9.0.31?classifier=sources
+- pkg:maven/com.genesys/engagement-java@9.0.32
+- pkg:maven/com.genesys/engagement-java@9.0.32?classifier=sources
+- pkg:maven/com.genesys/engagement-java@9.0.33
+- pkg:maven/com.genesys/engagement-java@9.0.33?classifier=sources
+- pkg:maven/com.genesys/engagement-java@9.0.34
+- pkg:maven/com.genesys/engagement-java@9.0.34?classifier=sources

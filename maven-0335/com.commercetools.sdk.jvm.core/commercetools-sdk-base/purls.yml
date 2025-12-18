@@ -104,6 +104,10 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.44.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.45.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.45.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.46.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.46.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.47.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.47.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.5.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.5.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-sdk-base@1.6.0

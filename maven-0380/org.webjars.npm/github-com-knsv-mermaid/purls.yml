@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-knsv-mermaid@8.2.3
+- pkg:maven/org.webjars.npm/github-com-knsv-mermaid@8.2.3?classifier=sources

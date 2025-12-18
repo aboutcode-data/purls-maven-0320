@@ -34,3 +34,4 @@
 - pkg:maven/org.biojava/biojava-integrationtest@5.1.1
 - pkg:maven/org.biojava/biojava-integrationtest@5.2.0
 - pkg:maven/org.biojava/biojava-integrationtest@5.2.1
+- pkg:maven/org.biojava/biojava-integrationtest@5.3.0

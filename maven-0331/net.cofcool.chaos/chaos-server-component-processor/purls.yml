@@ -4,3 +4,7 @@
 - pkg:maven/net.cofcool.chaos/chaos-server-component-processor@0.3.1?classifier=sources
 - pkg:maven/net.cofcool.chaos/chaos-server-component-processor@0.3.2
 - pkg:maven/net.cofcool.chaos/chaos-server-component-processor@0.3.2?classifier=sources
+- pkg:maven/net.cofcool.chaos/chaos-server-component-processor@0.4.0
+- pkg:maven/net.cofcool.chaos/chaos-server-component-processor@0.4.0?classifier=sources
+- pkg:maven/net.cofcool.chaos/chaos-server-component-processor@0.4.1
+- pkg:maven/net.cofcool.chaos/chaos-server-component-processor@0.4.1?classifier=sources

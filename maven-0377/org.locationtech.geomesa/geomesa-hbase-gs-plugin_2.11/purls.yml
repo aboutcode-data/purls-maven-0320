@@ -16,3 +16,4 @@
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-gs-plugin_2.11@2.2.3
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-gs-plugin_2.11@2.3.0
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-gs-plugin_2.11@2.3.1
+- pkg:maven/org.locationtech.geomesa/geomesa-hbase-gs-plugin_2.11@2.3.2

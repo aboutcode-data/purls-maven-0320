@@ -2,3 +2,7 @@
 - pkg:maven/hu.autsoft/krate-gson@0.1.1?type=aar
 - pkg:maven/hu.autsoft/krate-gson@0.1.2?classifier=sources
 - pkg:maven/hu.autsoft/krate-gson@0.1.2?type=aar
+- pkg:maven/hu.autsoft/krate-gson@0.2.0?classifier=sources
+- pkg:maven/hu.autsoft/krate-gson@0.2.0?type=aar
+- pkg:maven/hu.autsoft/krate-gson@0.3.0?classifier=sources
+- pkg:maven/hu.autsoft/krate-gson@0.3.0?type=aar

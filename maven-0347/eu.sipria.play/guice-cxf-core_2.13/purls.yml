@@ -1,0 +1,2 @@
+- pkg:maven/eu.sipria.play/guice-cxf-core_2.13@1.7.0-RC1
+- pkg:maven/eu.sipria.play/guice-cxf-core_2.13@1.7.0-RC1?classifier=sources

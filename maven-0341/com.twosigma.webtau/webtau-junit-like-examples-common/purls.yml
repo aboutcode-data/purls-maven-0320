@@ -1,0 +1,6 @@
+- pkg:maven/com.twosigma.webtau/webtau-junit-like-examples-common@1.11
+- pkg:maven/com.twosigma.webtau/webtau-junit-like-examples-common@1.11?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-junit-like-examples-common@1.12
+- pkg:maven/com.twosigma.webtau/webtau-junit-like-examples-common@1.12?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-junit-like-examples-common@1.13
+- pkg:maven/com.twosigma.webtau/webtau-junit-like-examples-common@1.13?classifier=sources

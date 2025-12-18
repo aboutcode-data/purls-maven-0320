@@ -1,0 +1,7 @@
+- pkg:maven/org.opendaylight.ovsdb/ovssfc@0.0.1-Helium
+- pkg:maven/org.opendaylight.ovsdb/ovssfc@0.0.2-Helium-SR1
+- pkg:maven/org.opendaylight.ovsdb/ovssfc@0.0.2-Helium-SR1.1
+- pkg:maven/org.opendaylight.ovsdb/ovssfc@0.0.3-Helium-SR2
+- pkg:maven/org.opendaylight.ovsdb/ovssfc@0.0.4-Helium-SR3
+- pkg:maven/org.opendaylight.ovsdb/ovssfc@0.0.5-Helium-SR4
+- pkg:maven/org.opendaylight.ovsdb/ovssfc@0.0.5-Helium-SR4?classifier=sources

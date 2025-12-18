@@ -16,3 +16,13 @@
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.20.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.21.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.21.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.22.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.22.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.23.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.23.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.24.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@2.24.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@7.28.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@7.28.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@7.29.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-c3@7.29.0.Final?classifier=sources

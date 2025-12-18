@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.zifnab/zifnab-core@0.05
+- pkg:maven/org.realityforge.zifnab/zifnab-core@0.05?classifier=sources

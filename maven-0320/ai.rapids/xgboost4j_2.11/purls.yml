@@ -1,0 +1,4 @@
+- pkg:maven/ai.rapids/xgboost4j_2.11@1.0.0-Beta
+- pkg:maven/ai.rapids/xgboost4j_2.11@1.0.0-Beta2
+- pkg:maven/ai.rapids/xgboost4j_2.11@1.0.0-Beta2?classifier=sources
+- pkg:maven/ai.rapids/xgboost4j_2.11@1.0.0-Beta?classifier=sources

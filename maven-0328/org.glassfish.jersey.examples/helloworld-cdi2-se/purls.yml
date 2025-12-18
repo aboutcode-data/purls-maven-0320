@@ -24,4 +24,6 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-cdi2-se@2.28-RC4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-cdi2-se@2.28?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-cdi2-se@2.29
+- pkg:maven/org.glassfish.jersey.examples/helloworld-cdi2-se@2.29.1
+- pkg:maven/org.glassfish.jersey.examples/helloworld-cdi2-se@2.29.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-cdi2-se@2.29?classifier=sources

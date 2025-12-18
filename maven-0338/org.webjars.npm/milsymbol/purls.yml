@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/milsymbol@1.3.3
 - pkg:maven/org.webjars.npm/milsymbol@1.3.3?classifier=sources
+- pkg:maven/org.webjars.npm/milsymbol@2.0.0
 - pkg:maven/org.webjars.npm/milsymbol@2.0.0-rc4
 - pkg:maven/org.webjars.npm/milsymbol@2.0.0-rc4?classifier=sources
+- pkg:maven/org.webjars.npm/milsymbol@2.0.0?classifier=sources

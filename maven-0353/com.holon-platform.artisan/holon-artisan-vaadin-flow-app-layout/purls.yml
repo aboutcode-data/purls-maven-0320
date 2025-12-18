@@ -32,3 +32,5 @@
 - pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@1.1.4?classifier=sources
 - pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@1.1.5
 - pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@1.1.5?classifier=sources
+- pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@2.0.1
+- pkg:maven/com.holon-platform.artisan/holon-artisan-vaadin-flow-app-layout@2.0.1?classifier=sources

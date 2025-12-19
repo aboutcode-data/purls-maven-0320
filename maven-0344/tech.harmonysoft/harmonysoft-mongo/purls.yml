@@ -19,3 +19,9 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.47.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.49.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.50.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.51.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.52.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.53.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.54.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.56.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.57.0?classifier=sources

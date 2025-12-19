@@ -46,9 +46,13 @@
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@10.1.5?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@10.1.6?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@10.1.7?classifier=sources
+- pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@10.1.8?classifier=sources
+- pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@10.1.9?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@11.0.0-M1?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@11.0.0-M3?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@11.0.0-M4?classifier=sources
+- pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@11.0.0-M5?classifier=sources
+- pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@11.0.0-M6?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@9.0.38
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@9.0.38?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@9.0.39
@@ -81,3 +85,5 @@
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@9.0.71?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@9.0.72?classifier=sources
 - pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@9.0.73?classifier=sources
+- pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@9.0.74?classifier=sources
+- pkg:maven/org.apache.tomcat.experimental/tomcat-embed-programmatic@9.0.75?classifier=sources

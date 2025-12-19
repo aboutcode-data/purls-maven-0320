@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/image-thumbnail@1.0.15
+- pkg:maven/org.webjars.npm/image-thumbnail@1.0.15?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/ch.confinale/addressr@1.0?classifier=sources
 - pkg:maven/ch.confinale/addressr@1.1.0
 - pkg:maven/ch.confinale/addressr@1.1.0?classifier=sources
+- pkg:maven/ch.confinale/addressr@1.2.0?classifier=sources

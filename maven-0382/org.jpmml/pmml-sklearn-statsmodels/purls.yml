@@ -14,3 +14,5 @@
 - pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.26?classifier=sources
 - pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.27
 - pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.27?classifier=sources
+- pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.28
+- pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.28?classifier=sources

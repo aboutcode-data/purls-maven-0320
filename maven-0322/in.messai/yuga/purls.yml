@@ -72,3 +72,9 @@
 - pkg:maven/in.messai/yuga@1.0.50?classifier=sources
 - pkg:maven/in.messai/yuga@1.0.51
 - pkg:maven/in.messai/yuga@1.0.51?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.52
+- pkg:maven/in.messai/yuga@1.0.52?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.53
+- pkg:maven/in.messai/yuga@1.0.53?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.54
+- pkg:maven/in.messai/yuga@1.0.54?classifier=sources

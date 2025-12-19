@@ -1,0 +1,1 @@
+- pkg:maven/fi.linuxbox.gradle/gradle-awssdk@0.3.0?classifier=sources

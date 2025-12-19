@@ -2,3 +2,11 @@
 - pkg:maven/com.piiano.vault/hibernate-encryption@0.9.1?classifier=sources
 - pkg:maven/com.piiano.vault/hibernate-encryption@0.9.2
 - pkg:maven/com.piiano.vault/hibernate-encryption@0.9.2?classifier=sources
+- pkg:maven/com.piiano.vault/hibernate-encryption@1.0.13
+- pkg:maven/com.piiano.vault/hibernate-encryption@1.0.13?classifier=sources
+- pkg:maven/com.piiano.vault/hibernate-encryption@1.0.15
+- pkg:maven/com.piiano.vault/hibernate-encryption@1.0.15?classifier=sources
+- pkg:maven/com.piiano.vault/hibernate-encryption@1.1.0
+- pkg:maven/com.piiano.vault/hibernate-encryption@1.1.0?classifier=sources
+- pkg:maven/com.piiano.vault/hibernate-encryption@1.1.1
+- pkg:maven/com.piiano.vault/hibernate-encryption@1.1.1?classifier=sources

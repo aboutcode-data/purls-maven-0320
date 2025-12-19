@@ -12,3 +12,5 @@
 - pkg:maven/net.wicp.tams/common-os@3.6.16?classifier=sources
 - pkg:maven/net.wicp.tams/common-os@3.6.18
 - pkg:maven/net.wicp.tams/common-os@3.6.18?classifier=sources
+- pkg:maven/net.wicp.tams/common-os@6.0.0
+- pkg:maven/net.wicp.tams/common-os@6.0.0?classifier=sources

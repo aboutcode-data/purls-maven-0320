@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.exlp/exlp-client@0.1.14
 - pkg:maven/net.sf.exlp/exlp-client@0.1.14?classifier=sources
+- pkg:maven/net.sf.exlp/exlp-client@0.1.17
+- pkg:maven/net.sf.exlp/exlp-client@0.1.17?classifier=sources

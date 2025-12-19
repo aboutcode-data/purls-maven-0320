@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-richfaces@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-richfaces@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-richfaces@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-richfaces@RELEASE180?classifier=sources

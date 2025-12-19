@@ -216,6 +216,10 @@
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.79?type=war
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.7?classifier=sources
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.7?type=war
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.9.80?classifier=sources
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.9.80?type=war
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.9.81?classifier=sources
+- pkg:maven/com.indeed/proctor-pipet-deploy@1.9.81?type=war
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.8?classifier=sources
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.8?type=war
 - pkg:maven/com.indeed/proctor-pipet-deploy@1.9.9?classifier=sources

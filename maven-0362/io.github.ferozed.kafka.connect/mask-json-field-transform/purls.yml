@@ -1,1 +1,2 @@
 - pkg:maven/io.github.ferozed.kafka.connect/mask-json-field-transform@0.2?classifier=sources
+- pkg:maven/io.github.ferozed.kafka.connect/mask-json-field-transform@0.3?classifier=sources

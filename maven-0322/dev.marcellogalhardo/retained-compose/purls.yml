@@ -1,3 +1,4 @@
 - pkg:maven/dev.marcellogalhardo/retained-compose@0.16.0?classifier=sources
 - pkg:maven/dev.marcellogalhardo/retained-compose@0.17.0?classifier=sources
 - pkg:maven/dev.marcellogalhardo/retained-compose@1.0.0?classifier=sources
+- pkg:maven/dev.marcellogalhardo/retained-compose@1.0.1?classifier=sources

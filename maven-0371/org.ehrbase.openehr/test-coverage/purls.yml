@@ -10,3 +10,4 @@
 - pkg:maven/org.ehrbase.openehr/test-coverage@0.24.0
 - pkg:maven/org.ehrbase.openehr/test-coverage@0.25.0
 - pkg:maven/org.ehrbase.openehr/test-coverage@0.26.0
+- pkg:maven/org.ehrbase.openehr/test-coverage@0.27.0

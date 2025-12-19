@@ -9,3 +9,8 @@
 - pkg:maven/com.pulumi/venafi@1.6.0-alpha.1679337858%2B2af0a27b?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.6.0-alpha.1679420095%2Ba2d5dc17?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.6.0-alpha.1680912579%2B5cadca93?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.6.0-alpha.1681939323%2B71663102?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.6.0-alpha.1682380572%2Bd9ad7543?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.6.0-alpha.1683269248%2B78561332?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.6.0-alpha.1683354369%2B2665efbf?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.6.0-alpha.1683614082%2Bafb99494?classifier=sources

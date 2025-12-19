@@ -1,3 +1,8 @@
+- pkg:maven/tech.amwal.justpassme/justpassme@0.1.0-beta01?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@0.1.0-beta02?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@0.1.0-beta03?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@0.1.0-beta04?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@0.1.0-beta05?classifier=sources
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha03?classifier=sources
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha04?classifier=sources
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha05?classifier=sources
@@ -6,3 +11,13 @@
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha08?classifier=sources
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha09?classifier=sources
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha10?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha11?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha12?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha13?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha14?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha15?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-alpha16?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-beta01?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-beta02?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-beta04?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-beta05?classifier=sources

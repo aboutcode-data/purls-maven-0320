@@ -1,0 +1,6 @@
+- pkg:maven/com.github.skarpushin/summerb-easycrud_swagger2@6.0.0
+- pkg:maven/com.github.skarpushin/summerb-easycrud_swagger2@6.0.0?classifier=sources
+- pkg:maven/com.github.skarpushin/summerb-easycrud_swagger2@6.1.0
+- pkg:maven/com.github.skarpushin/summerb-easycrud_swagger2@6.1.0?classifier=sources
+- pkg:maven/com.github.skarpushin/summerb-easycrud_swagger2@6.1.1
+- pkg:maven/com.github.skarpushin/summerb-easycrud_swagger2@6.1.1?classifier=sources

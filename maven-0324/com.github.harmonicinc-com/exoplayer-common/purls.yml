@@ -1,2 +1,4 @@
+- pkg:maven/com.github.harmonicinc-com/exoplayer-common@2.13.12?classifier=sources
+- pkg:maven/com.github.harmonicinc-com/exoplayer-common@2.13.13?classifier=sources
 - pkg:maven/com.github.harmonicinc-com/exoplayer-common@2.13.8?classifier=sources
 - pkg:maven/com.github.harmonicinc-com/exoplayer-common@2.13.9?classifier=sources

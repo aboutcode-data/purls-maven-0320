@@ -36,3 +36,5 @@
 - pkg:maven/com.gitee.pyqone/autest@3.7.0?classifier=sources
 - pkg:maven/com.gitee.pyqone/autest@4.0.0
 - pkg:maven/com.gitee.pyqone/autest@4.0.0?classifier=sources
+- pkg:maven/com.gitee.pyqone/autest@4.1.0
+- pkg:maven/com.gitee.pyqone/autest@4.1.0?classifier=sources

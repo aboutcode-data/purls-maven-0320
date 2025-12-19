@@ -4,3 +4,7 @@
 - pkg:maven/io.quarkiverse.quarkus-zookeeper/quarkus-zookeeper-deployment@1.0.2?classifier=sources
 - pkg:maven/io.quarkiverse.quarkus-zookeeper/quarkus-zookeeper-deployment@1.0.3
 - pkg:maven/io.quarkiverse.quarkus-zookeeper/quarkus-zookeeper-deployment@1.0.3?classifier=sources
+- pkg:maven/io.quarkiverse.quarkus-zookeeper/quarkus-zookeeper-deployment@1.0.4
+- pkg:maven/io.quarkiverse.quarkus-zookeeper/quarkus-zookeeper-deployment@1.0.4?classifier=sources
+- pkg:maven/io.quarkiverse.quarkus-zookeeper/quarkus-zookeeper-deployment@1.1.0
+- pkg:maven/io.quarkiverse.quarkus-zookeeper/quarkus-zookeeper-deployment@1.1.0?classifier=sources

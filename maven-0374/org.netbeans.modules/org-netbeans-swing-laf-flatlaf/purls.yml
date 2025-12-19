@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE180?classifier=sources

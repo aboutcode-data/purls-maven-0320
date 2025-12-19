@@ -14,3 +14,5 @@
 - pkg:maven/ch.epfl.scala/tasty-mima_3@0.2.1?classifier=sources
 - pkg:maven/ch.epfl.scala/tasty-mima_3@0.2.2
 - pkg:maven/ch.epfl.scala/tasty-mima_3@0.2.2?classifier=sources
+- pkg:maven/ch.epfl.scala/tasty-mima_3@0.2.3
+- pkg:maven/ch.epfl.scala/tasty-mima_3@0.2.3?classifier=sources

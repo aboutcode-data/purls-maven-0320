@@ -124,3 +124,13 @@
 - pkg:maven/io.cronapp/camunda-webapp@2.9.3?type=war
 - pkg:maven/io.cronapp/camunda-webapp@2.9.4-RC.3?classifier=sources
 - pkg:maven/io.cronapp/camunda-webapp@2.9.4-RC.3?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4-SP.1?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4-SP.1?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4-SP.2?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4-SP.2?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4-SP.3?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4-SP.3?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4-SP.4?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4-SP.4?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.4?type=war

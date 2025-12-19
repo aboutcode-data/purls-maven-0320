@@ -8,3 +8,13 @@
 - pkg:maven/io.github.chikyukido/NyaApplet@0.15?classifier=sources
 - pkg:maven/io.github.chikyukido/NyaApplet@0.16
 - pkg:maven/io.github.chikyukido/NyaApplet@0.16?classifier=sources
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17.1
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17.1?classifier=sources
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17.2
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17.2?classifier=sources
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17.3
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17.31
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17.31?classifier=sources
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17.3?classifier=sources
+- pkg:maven/io.github.chikyukido/NyaApplet@0.17?classifier=sources

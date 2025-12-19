@@ -25,3 +25,4 @@
 - pkg:maven/com.burhanrashid52/photoeditor@2.0.0-beta?classifier=sources
 - pkg:maven/com.burhanrashid52/photoeditor@2.0.0?classifier=sources
 - pkg:maven/com.burhanrashid52/photoeditor@3.0.0?classifier=sources
+- pkg:maven/com.burhanrashid52/photoeditor@3.0.1?classifier=sources

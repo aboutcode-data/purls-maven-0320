@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yexf66/ytool@1.0.1-RELEASE
+- pkg:maven/io.github.yexf66/ytool@1.0.1-RELEASE?classifier=sources

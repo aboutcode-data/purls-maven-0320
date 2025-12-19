@@ -152,3 +152,7 @@
 - pkg:maven/org.gosu-lang.gosu/gosu-lab@1.15.7?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-lab@1.15.8
 - pkg:maven/org.gosu-lang.gosu/gosu-lab@1.15.8?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-lab@1.17.0
+- pkg:maven/org.gosu-lang.gosu/gosu-lab@1.17.0?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-lab@1.17.1
+- pkg:maven/org.gosu-lang.gosu/gosu-lab@1.17.1?classifier=sources

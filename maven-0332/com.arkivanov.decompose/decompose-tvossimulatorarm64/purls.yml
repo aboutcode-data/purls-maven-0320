@@ -34,4 +34,6 @@
 - pkg:maven/com.arkivanov.decompose/decompose-tvossimulatorarm64@1.0.0-compose-experimental?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-tvossimulatorarm64@1.0.0?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-tvossimulatorarm64@2.0.0-alpha-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/decompose-tvossimulatorarm64@2.0.0-alpha-02?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-tvossimulatorarm64@2.0.0-compose-experimental-alpha-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/decompose-tvossimulatorarm64@2.0.0-compose-experimental-alpha-02?classifier=sources

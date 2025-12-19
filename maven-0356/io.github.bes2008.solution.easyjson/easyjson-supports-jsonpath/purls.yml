@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bes2008.solution.easyjson/easyjson-supports-jsonpath@4.1.2
+- pkg:maven/io.github.bes2008.solution.easyjson/easyjson-supports-jsonpath@4.1.2?classifier=sources

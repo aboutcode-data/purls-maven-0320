@@ -4,6 +4,7 @@
 - pkg:maven/com.ritense.valtimo/objecten-api-authentication@10.3.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objecten-api-authentication@10.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objecten-api-authentication@10.4.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/objecten-api-authentication@10.5.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objecten-api-authentication@9.19.0?classifier=sources
 - pkg:maven/com.ritense.valtimo/objecten-api-authentication@9.20.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objecten-api-authentication@9.21.0.RELEASE?classifier=sources

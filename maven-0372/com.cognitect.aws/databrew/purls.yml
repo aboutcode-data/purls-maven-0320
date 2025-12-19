@@ -20,3 +20,5 @@
 - pkg:maven/com.cognitect.aws/databrew@820.2.1083.0?classifier=sources
 - pkg:maven/com.cognitect.aws/databrew@821.2.1107.0
 - pkg:maven/com.cognitect.aws/databrew@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/databrew@847.2.1365.0
+- pkg:maven/com.cognitect.aws/databrew@847.2.1365.0?classifier=sources

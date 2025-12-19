@@ -2,3 +2,9 @@
 - pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@4.9.9?classifier=sources
 - pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@5.0.0
 - pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@5.0.0?classifier=sources
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.2
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.2?classifier=sources
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.3
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.3?classifier=sources
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.4
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.4?classifier=sources

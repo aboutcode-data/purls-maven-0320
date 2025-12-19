@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.8.0?classifier=sources
 - pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@1.0.0
 - pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@2.0.0
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@2.0.0?classifier=sources

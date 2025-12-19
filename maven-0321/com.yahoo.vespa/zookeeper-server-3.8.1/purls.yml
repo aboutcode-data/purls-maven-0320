@@ -23,3 +23,13 @@
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.146.12?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.147.1?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.148.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.149.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.151.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.153.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.154.35?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.155.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.156.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.157.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.158.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.159.53?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.8.1@8.161.74?classifier=sources

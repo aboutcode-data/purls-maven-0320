@@ -1,2 +1,4 @@
 - pkg:maven/cn.codegg/tekton-client@0.40.0
 - pkg:maven/cn.codegg/tekton-client@0.40.0?classifier=sources
+- pkg:maven/cn.codegg/tekton-client@v0.47.x-LTS
+- pkg:maven/cn.codegg/tekton-client@v0.47.x-LTS?classifier=sources

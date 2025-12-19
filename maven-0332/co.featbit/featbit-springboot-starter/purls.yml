@@ -8,3 +8,7 @@
 - pkg:maven/co.featbit/featbit-springboot-starter@1.0.5
 - pkg:maven/co.featbit/featbit-springboot-starter@1.0.5?classifier=sources
 - pkg:maven/co.featbit/featbit-springboot-starter@1.0?classifier=sources
+- pkg:maven/co.featbit/featbit-springboot-starter@1.1.0
+- pkg:maven/co.featbit/featbit-springboot-starter@1.1.0?classifier=sources
+- pkg:maven/co.featbit/featbit-springboot-starter@1.1.1
+- pkg:maven/co.featbit/featbit-springboot-starter@1.1.1?classifier=sources

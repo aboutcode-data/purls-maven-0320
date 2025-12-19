@@ -30,3 +30,14 @@
 - pkg:maven/com.pulumi/artifactory@3.2.1?classifier=sources
 - pkg:maven/com.pulumi/artifactory@3.3.0-alpha.1680558746%2B5b560c0a?classifier=sources
 - pkg:maven/com.pulumi/artifactory@3.3.0-alpha.1680907946%2B8a351596?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.3.0-alpha.1681508153%2B526b28ac?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.3.0-alpha.1681926803%2B91dd299f?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.3.0-alpha.1682021018%2Be605c109?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.3.0?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.4.0-alpha.1682378112%2Bb647ac80?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.4.0-alpha.1682710099%2B7c304c82?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.4.0?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.5.0-alpha.1683158775%2B7cef5f5d?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.5.0-alpha.1683263954%2B4295da71?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.5.0-alpha.1683350254%2Bf653ef57?classifier=sources
+- pkg:maven/com.pulumi/artifactory@3.5.0-alpha.1683609429%2Bfd711bd7?classifier=sources

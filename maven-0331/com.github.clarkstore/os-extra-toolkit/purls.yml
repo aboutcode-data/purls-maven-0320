@@ -8,6 +8,8 @@
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.17.6?classifier=sources
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.17.7
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.17.7?classifier=sources
+- pkg:maven/com.github.clarkstore/os-extra-toolkit@0.17.8
+- pkg:maven/com.github.clarkstore/os-extra-toolkit@0.17.8?classifier=sources
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.8.3
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.8.3?classifier=sources
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.8.4
@@ -18,3 +20,5 @@
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.8.6?classifier=sources
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.8.7
 - pkg:maven/com.github.clarkstore/os-extra-toolkit@0.8.7?classifier=sources
+- pkg:maven/com.github.clarkstore/os-extra-toolkit@0.8.8
+- pkg:maven/com.github.clarkstore/os-extra-toolkit@0.8.8?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.ontimize.boot/ontimize-boot-starter-report@3.10.0
+- pkg:maven/com.ontimize.boot/ontimize-boot-starter-report@3.10.1
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-report@3.2.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-report@3.3.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-report@3.4.0

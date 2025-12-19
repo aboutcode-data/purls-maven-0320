@@ -24,3 +24,7 @@
 - pkg:maven/org.alliancegenome/agr_mati@v0.7.0-rc2?classifier=sources
 - pkg:maven/org.alliancegenome/agr_mati@v0.7.1
 - pkg:maven/org.alliancegenome/agr_mati@v0.7.1?classifier=sources
+- pkg:maven/org.alliancegenome/agr_mati@v0.8.0
+- pkg:maven/org.alliancegenome/agr_mati@v0.8.0-rc1
+- pkg:maven/org.alliancegenome/agr_mati@v0.8.0-rc1?classifier=sources
+- pkg:maven/org.alliancegenome/agr_mati@v0.8.0?classifier=sources

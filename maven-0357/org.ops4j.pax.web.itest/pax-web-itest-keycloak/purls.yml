@@ -1,6 +1,8 @@
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak@8.0.17
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak@8.0.18
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak@8.0.19
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak@8.0.20
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak@9.0.6
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak@9.0.7
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak@9.0.8
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak@9.0.9

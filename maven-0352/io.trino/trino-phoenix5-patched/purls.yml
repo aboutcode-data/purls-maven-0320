@@ -44,3 +44,11 @@
 - pkg:maven/io.trino/trino-phoenix5-patched@411?classifier=sources
 - pkg:maven/io.trino/trino-phoenix5-patched@412
 - pkg:maven/io.trino/trino-phoenix5-patched@412?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@413
+- pkg:maven/io.trino/trino-phoenix5-patched@413?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@414
+- pkg:maven/io.trino/trino-phoenix5-patched@414?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@415
+- pkg:maven/io.trino/trino-phoenix5-patched@415?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@416
+- pkg:maven/io.trino/trino-phoenix5-patched@416?classifier=sources

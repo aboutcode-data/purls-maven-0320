@@ -52,3 +52,7 @@
 - pkg:maven/com.cognitect.aws/rekognition@825.2.1262.0?classifier=sources
 - pkg:maven/com.cognitect.aws/rekognition@825.2.1283.0
 - pkg:maven/com.cognitect.aws/rekognition@825.2.1283.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rekognition@845.2.1359.0
+- pkg:maven/com.cognitect.aws/rekognition@845.2.1359.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rekognition@847.2.1365.0
+- pkg:maven/com.cognitect.aws/rekognition@847.2.1365.0?classifier=sources

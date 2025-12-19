@@ -8,3 +8,7 @@
 - pkg:maven/br.com.senior/senior-erpx-plugg-to-integration@0.0.4-alpha?classifier=sources
 - pkg:maven/br.com.senior/senior-erpx-plugg-to-integration@0.0.5-alpha
 - pkg:maven/br.com.senior/senior-erpx-plugg-to-integration@0.0.5-alpha?classifier=sources
+- pkg:maven/br.com.senior/senior-erpx-plugg-to-integration@0.0.6-alpha
+- pkg:maven/br.com.senior/senior-erpx-plugg-to-integration@0.0.6-alpha?classifier=sources
+- pkg:maven/br.com.senior/senior-erpx-plugg-to-integration@0.0.7-alpha
+- pkg:maven/br.com.senior/senior-erpx-plugg-to-integration@0.0.7-alpha?classifier=sources

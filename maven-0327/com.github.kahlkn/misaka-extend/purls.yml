@@ -8,3 +8,5 @@
 - pkg:maven/com.github.kahlkn/misaka-extend@1.0.0.20210823.beta?classifier=sources
 - pkg:maven/com.github.kahlkn/misaka-extend@1.0.0.20210901f.beta
 - pkg:maven/com.github.kahlkn/misaka-extend@1.0.0.20210901f.beta?classifier=sources
+- pkg:maven/com.github.kahlkn/misaka-extend@1.0.0.20210917f.beta
+- pkg:maven/com.github.kahlkn/misaka-extend@1.0.0.20210917f.beta?classifier=sources

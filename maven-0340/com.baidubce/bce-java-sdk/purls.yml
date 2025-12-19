@@ -146,7 +146,17 @@
 - pkg:maven/com.baidubce/bce-java-sdk@0.10.184?classifier=sources
 - pkg:maven/com.baidubce/bce-java-sdk@0.10.185
 - pkg:maven/com.baidubce/bce-java-sdk@0.10.185?classifier=sources
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.186
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.186?classifier=sources
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.187
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.187?classifier=sources
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.188
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.188?classifier=sources
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.189
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.189?classifier=sources
 - pkg:maven/com.baidubce/bce-java-sdk@0.10.19
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.190
+- pkg:maven/com.baidubce/bce-java-sdk@0.10.190?classifier=sources
 - pkg:maven/com.baidubce/bce-java-sdk@0.10.19?classifier=sources
 - pkg:maven/com.baidubce/bce-java-sdk@0.10.20
 - pkg:maven/com.baidubce/bce-java-sdk@0.10.20?classifier=sources

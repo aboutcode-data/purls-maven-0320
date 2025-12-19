@@ -24,3 +24,5 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.facebook/org.wso2.carbon.identity.application.authenticator.facebook@5.1.22?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.facebook/org.wso2.carbon.identity.application.authenticator.facebook@5.1.23
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.facebook/org.wso2.carbon.identity.application.authenticator.facebook@5.1.23?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.facebook/org.wso2.carbon.identity.application.authenticator.facebook@5.2.0
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.facebook/org.wso2.carbon.identity.application.authenticator.facebook@5.2.0?classifier=sources

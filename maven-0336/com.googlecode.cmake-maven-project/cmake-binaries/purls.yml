@@ -8,6 +8,7 @@
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-binaries@3.17.3-b1
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-binaries@3.18.4-b1
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-binaries@3.19.2-b1
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-binaries@3.22.1-b1
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-binaries@3.4.1-b1
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-binaries@3.4.1-b2
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-binaries@3.7.0-b1

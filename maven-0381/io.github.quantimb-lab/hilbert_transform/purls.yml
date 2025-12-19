@@ -1,0 +1,2 @@
+- pkg:maven/io.github.quantimb-lab/hilbert_transform@1.0
+- pkg:maven/io.github.quantimb-lab/hilbert_transform@1.0?classifier=sources

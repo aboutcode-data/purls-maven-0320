@@ -10,5 +10,7 @@
 - pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.15?classifier=sources
 - pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.16
 - pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@0.16?classifier=sources
+- pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@2.10.0
+- pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@2.10.0?classifier=sources
 - pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@2.9.2
 - pkg:maven/org.jfrog.artifactory.client/artifactory-java-client-services@2.9.2?classifier=sources

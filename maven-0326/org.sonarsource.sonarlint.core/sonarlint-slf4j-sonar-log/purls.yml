@@ -63,3 +63,7 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-slf4j-sonar-log@6.4.0.36592?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-slf4j-sonar-log@6.5.0.37122?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-slf4j-sonar-log@7.0.0.37656?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-slf4j-sonar-log@7.1.0.41944?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-slf4j-sonar-log@8.0.0.41925?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-slf4j-sonar-log@8.0.1.42120?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-slf4j-sonar-log@8.0.2.42487?classifier=sources

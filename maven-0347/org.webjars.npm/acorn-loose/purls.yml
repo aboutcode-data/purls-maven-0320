@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/acorn-loose@6.1.0
+- pkg:maven/org.webjars.npm/acorn-loose@6.1.0?classifier=sources

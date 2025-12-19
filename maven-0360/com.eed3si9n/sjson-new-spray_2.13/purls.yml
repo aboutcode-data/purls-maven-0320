@@ -1,3 +1,5 @@
+- pkg:maven/com.eed3si9n/sjson-new-spray_2.13@0.10.0
+- pkg:maven/com.eed3si9n/sjson-new-spray_2.13@0.10.0?classifier=sources
 - pkg:maven/com.eed3si9n/sjson-new-spray_2.13@0.8.3
 - pkg:maven/com.eed3si9n/sjson-new-spray_2.13@0.8.3?classifier=sources
 - pkg:maven/com.eed3si9n/sjson-new-spray_2.13@0.9.0

@@ -145,6 +145,10 @@
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.16.22?classifier=sources
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.16.23
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.16.23?classifier=sources
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.16.26
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.16.26?classifier=sources
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.16.27
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.16.27?classifier=sources
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.16.2?classifier=sources
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.16.3
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.16.3?classifier=sources
@@ -187,6 +191,12 @@
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.17.2
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.17.20
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.17.20?classifier=sources
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.17.21
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.17.21?classifier=sources
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.17.22
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.17.22?classifier=sources
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.17.23
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.17.23?classifier=sources
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.17.2?classifier=sources
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.17.3
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.17.3?classifier=sources
@@ -218,6 +228,12 @@
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.20.2?classifier=sources
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.20.3
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.20.3?classifier=sources
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.20.4
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.20.4?classifier=sources
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.20.5
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.20.5?classifier=sources
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.20.6
+- pkg:maven/net.n2oapp.watchdir/watchdir@7.20.6?classifier=sources
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.3.1
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.3.10
 - pkg:maven/net.n2oapp.watchdir/watchdir@7.3.10?classifier=sources

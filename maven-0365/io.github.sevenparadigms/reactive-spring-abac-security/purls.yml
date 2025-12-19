@@ -1,0 +1,4 @@
+- pkg:maven/io.github.sevenparadigms/reactive-spring-abac-security@1.0.0
+- pkg:maven/io.github.sevenparadigms/reactive-spring-abac-security@1.0.0?classifier=sources
+- pkg:maven/io.github.sevenparadigms/reactive-spring-abac-security@1.0.2
+- pkg:maven/io.github.sevenparadigms/reactive-spring-abac-security@1.0.2?classifier=sources

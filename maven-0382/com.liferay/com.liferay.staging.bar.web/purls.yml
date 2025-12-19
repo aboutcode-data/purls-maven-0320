@@ -265,6 +265,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.42
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.43
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.43?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@2.0.5
@@ -394,6 +397,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.42
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.43
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.43?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@3.0.5
@@ -493,6 +499,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.34
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.35
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@4.0.4
@@ -532,6 +541,15 @@
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.14
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.15
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.16
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.17
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.bar.web@5.0.2

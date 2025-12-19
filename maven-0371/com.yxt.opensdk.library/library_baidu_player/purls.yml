@@ -1,4 +1,11 @@
 - pkg:maven/com.yxt.opensdk.library/library_baidu_player@1.2?type=aar
+- pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.2.2?type=aar
 - pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.2?type=aar
 - pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.3?type=aar
 - pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.4?type=aar
+- pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.6.5?type=aar
+- pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.6.6?type=aar
+- pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.6.7?type=aar
+- pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.6.8?type=aar
+- pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.6.9?type=aar
+- pkg:maven/com.yxt.opensdk.library/library_baidu_player@2.3.6?type=aar

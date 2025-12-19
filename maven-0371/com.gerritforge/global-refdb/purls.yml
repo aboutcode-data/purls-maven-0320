@@ -30,3 +30,5 @@
 - pkg:maven/com.gerritforge/global-refdb@3.4.0?classifier=sources
 - pkg:maven/com.gerritforge/global-refdb@3.5.0-alpha-202104150207
 - pkg:maven/com.gerritforge/global-refdb@3.5.0-alpha-202104150207?classifier=sources
+- pkg:maven/com.gerritforge/global-refdb@3.5.0.1
+- pkg:maven/com.gerritforge/global-refdb@3.5.0.1?classifier=sources

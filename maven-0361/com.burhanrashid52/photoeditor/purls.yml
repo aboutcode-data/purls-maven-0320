@@ -22,3 +22,5 @@
 - pkg:maven/com.burhanrashid52/photoeditor@1.1.4?classifier=sources
 - pkg:maven/com.burhanrashid52/photoeditor@1.5.0?classifier=sources
 - pkg:maven/com.burhanrashid52/photoeditor@1.5.1?classifier=sources
+- pkg:maven/com.burhanrashid52/photoeditor@2.0.0-beta?classifier=sources
+- pkg:maven/com.burhanrashid52/photoeditor@2.0.0?classifier=sources

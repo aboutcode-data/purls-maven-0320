@@ -38,3 +38,4 @@
 - pkg:maven/com.google.android.apps.muzei/muzei-api@3.4.0-beta01?type=aar
 - pkg:maven/com.google.android.apps.muzei/muzei-api@3.4.0?classifier=sources
 - pkg:maven/com.google.android.apps.muzei/muzei-api@3.4.0?type=aar
+- pkg:maven/com.google.android.apps.muzei/muzei-api@3.4.1?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/supermap__iclient-common@10.2.0
+- pkg:maven/org.webjars.npm/supermap__iclient-common@10.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/supermap__iclient-common@9.0.1
 - pkg:maven/org.webjars.npm/supermap__iclient-common@9.0.1?classifier=sources

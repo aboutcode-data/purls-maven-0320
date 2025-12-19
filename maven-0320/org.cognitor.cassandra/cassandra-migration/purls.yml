@@ -28,3 +28,5 @@
 - pkg:maven/org.cognitor.cassandra/cassandra-migration@2.4.0?classifier=sources
 - pkg:maven/org.cognitor.cassandra/cassandra-migration@2.4.0_v4
 - pkg:maven/org.cognitor.cassandra/cassandra-migration@2.4.0_v4?classifier=sources
+- pkg:maven/org.cognitor.cassandra/cassandra-migration@2.5.0_v4
+- pkg:maven/org.cognitor.cassandra/cassandra-migration@2.5.0_v4?classifier=sources

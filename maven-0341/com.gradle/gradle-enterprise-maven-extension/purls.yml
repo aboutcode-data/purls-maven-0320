@@ -33,6 +33,9 @@
 - pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.10?classifier=sources
 - pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.11.1?classifier=sources
 - pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.11?classifier=sources
+- pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.12.1?classifier=sources
+- pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.12.2?classifier=sources
+- pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.12?classifier=sources
 - pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.1?classifier=sources
 - pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.2
 - pkg:maven/com.gradle/gradle-enterprise-maven-extension@1.2.1

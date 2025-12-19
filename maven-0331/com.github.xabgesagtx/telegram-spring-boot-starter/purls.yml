@@ -16,3 +16,7 @@
 - pkg:maven/com.github.xabgesagtx/telegram-spring-boot-starter@0.23?classifier=sources
 - pkg:maven/com.github.xabgesagtx/telegram-spring-boot-starter@0.24
 - pkg:maven/com.github.xabgesagtx/telegram-spring-boot-starter@0.24?classifier=sources
+- pkg:maven/com.github.xabgesagtx/telegram-spring-boot-starter@0.25
+- pkg:maven/com.github.xabgesagtx/telegram-spring-boot-starter@0.25?classifier=sources
+- pkg:maven/com.github.xabgesagtx/telegram-spring-boot-starter@0.26
+- pkg:maven/com.github.xabgesagtx/telegram-spring-boot-starter@0.26?classifier=sources

@@ -82,6 +82,8 @@
 - pkg:maven/de.adorsys.psd2/xs2a-core@12.2?classifier=sources
 - pkg:maven/de.adorsys.psd2/xs2a-core@12.3
 - pkg:maven/de.adorsys.psd2/xs2a-core@12.3?classifier=sources
+- pkg:maven/de.adorsys.psd2/xs2a-core@12.4
+- pkg:maven/de.adorsys.psd2/xs2a-core@12.4?classifier=sources
 - pkg:maven/de.adorsys.psd2/xs2a-core@13.0
 - pkg:maven/de.adorsys.psd2/xs2a-core@13.0?classifier=sources
 - pkg:maven/de.adorsys.psd2/xs2a-core@13.1
@@ -90,6 +92,8 @@
 - pkg:maven/de.adorsys.psd2/xs2a-core@13.2?classifier=sources
 - pkg:maven/de.adorsys.psd2/xs2a-core@13.3
 - pkg:maven/de.adorsys.psd2/xs2a-core@13.3?classifier=sources
+- pkg:maven/de.adorsys.psd2/xs2a-core@13.4
+- pkg:maven/de.adorsys.psd2/xs2a-core@13.4?classifier=sources
 - pkg:maven/de.adorsys.psd2/xs2a-core@2.0
 - pkg:maven/de.adorsys.psd2/xs2a-core@2.0.1
 - pkg:maven/de.adorsys.psd2/xs2a-core@2.0.1?classifier=sources

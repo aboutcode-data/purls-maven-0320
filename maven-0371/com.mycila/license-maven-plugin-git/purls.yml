@@ -18,3 +18,5 @@
 - pkg:maven/com.mycila/license-maven-plugin-git@4.1?classifier=sources
 - pkg:maven/com.mycila/license-maven-plugin-git@4.2.rc1
 - pkg:maven/com.mycila/license-maven-plugin-git@4.2.rc1?classifier=sources
+- pkg:maven/com.mycila/license-maven-plugin-git@4.2.rc2
+- pkg:maven/com.mycila/license-maven-plugin-git@4.2.rc2?classifier=sources

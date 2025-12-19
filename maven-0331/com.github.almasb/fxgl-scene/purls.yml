@@ -24,3 +24,5 @@
 - pkg:maven/com.github.almasb/fxgl-scene@11.8?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-scene@11.9
 - pkg:maven/com.github.almasb/fxgl-scene@11.9?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-scene@17
+- pkg:maven/com.github.almasb/fxgl-scene@17?classifier=sources

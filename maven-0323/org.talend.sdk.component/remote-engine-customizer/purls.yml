@@ -88,6 +88,8 @@
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.38.3?classifier=sources
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.38.4
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.38.4?classifier=sources
+- pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.38.5
+- pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.38.5?classifier=sources
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.39.0
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.39.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.39.1
@@ -98,3 +100,5 @@
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.39.3?classifier=sources
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.40.0
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.40.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.41.0
+- pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.41.0?classifier=sources

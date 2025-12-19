@@ -16,3 +16,5 @@
 - pkg:maven/io.github.jaspercloud/mybatis@2.5.1?classifier=sources
 - pkg:maven/io.github.jaspercloud/mybatis@2.5.3
 - pkg:maven/io.github.jaspercloud/mybatis@2.5.3?classifier=sources
+- pkg:maven/io.github.jaspercloud/mybatis@3.1.24
+- pkg:maven/io.github.jaspercloud/mybatis@3.1.24?classifier=sources

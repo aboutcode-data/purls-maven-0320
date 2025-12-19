@@ -1,3 +1,6 @@
 - pkg:maven/com.jdcloud.jmsf/spring-cloud-starter-jmsf@1.0.0
 - pkg:maven/com.jdcloud.jmsf/spring-cloud-starter-jmsf@1.1.0
 - pkg:maven/com.jdcloud.jmsf/spring-cloud-starter-jmsf@1.2.0
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-starter-jmsf@1.2.1
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-starter-jmsf@1.2.2
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-starter-jmsf@1.2.3

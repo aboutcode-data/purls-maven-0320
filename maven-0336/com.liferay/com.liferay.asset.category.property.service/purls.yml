@@ -101,6 +101,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.4
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.40
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@1.0.5
@@ -191,6 +194,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.30
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.31
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@2.0.4
@@ -266,6 +272,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.26
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.27
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.category.property.service@3.0.3

@@ -20,3 +20,5 @@
 - pkg:maven/de.awagen.kolibri/kolibri-base_2.13@0.1.0-beta7?classifier=sources
 - pkg:maven/de.awagen.kolibri/kolibri-base_2.13@0.1.0-rc0
 - pkg:maven/de.awagen.kolibri/kolibri-base_2.13@0.1.0-rc0?classifier=sources
+- pkg:maven/de.awagen.kolibri/kolibri-base_2.13@0.1.0-rc2
+- pkg:maven/de.awagen.kolibri/kolibri-base_2.13@0.1.0-rc2?classifier=sources

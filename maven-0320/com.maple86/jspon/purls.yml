@@ -10,3 +10,5 @@
 - pkg:maven/com.maple86/jspon@1.4.0?classifier=sources
 - pkg:maven/com.maple86/jspon@1.4.3
 - pkg:maven/com.maple86/jspon@1.4.3?classifier=sources
+- pkg:maven/com.maple86/jspon@1.4.4
+- pkg:maven/com.maple86/jspon@1.4.4?classifier=sources

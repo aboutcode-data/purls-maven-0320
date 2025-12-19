@@ -1,0 +1,2 @@
+- pkg:maven/org.ekrich/sconfig_native0.4_3@1.4.8
+- pkg:maven/org.ekrich/sconfig_native0.4_3@1.4.8?classifier=sources

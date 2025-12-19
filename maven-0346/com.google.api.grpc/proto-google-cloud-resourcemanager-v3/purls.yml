@@ -40,3 +40,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.1.4?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.2.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.2.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.2.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.2.1?classifier=sources

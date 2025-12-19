@@ -25,6 +25,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.8
 - pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.9
+- pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.impl@1.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.0
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.0?classifier=sources-commercial
@@ -200,6 +203,12 @@
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.62
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.62?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.63
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.63?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.63?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.64
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.64?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.64?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.impl@2.0.7
@@ -308,6 +317,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.4
+- pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.40
+- pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.impl@3.0.5
@@ -377,6 +389,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.24
 - pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.25
+- pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.impl@4.0.3

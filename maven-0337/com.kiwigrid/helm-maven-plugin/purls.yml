@@ -75,6 +75,10 @@
 - pkg:maven/com.kiwigrid/helm-maven-plugin@5.0
 - pkg:maven/com.kiwigrid/helm-maven-plugin@5.0?classifier=sources
 - pkg:maven/com.kiwigrid/helm-maven-plugin@5.1
+- pkg:maven/com.kiwigrid/helm-maven-plugin@5.10
+- pkg:maven/com.kiwigrid/helm-maven-plugin@5.10?classifier=sources
+- pkg:maven/com.kiwigrid/helm-maven-plugin@5.11
+- pkg:maven/com.kiwigrid/helm-maven-plugin@5.11?classifier=sources
 - pkg:maven/com.kiwigrid/helm-maven-plugin@5.1?classifier=sources
 - pkg:maven/com.kiwigrid/helm-maven-plugin@5.2
 - pkg:maven/com.kiwigrid/helm-maven-plugin@5.2?classifier=sources

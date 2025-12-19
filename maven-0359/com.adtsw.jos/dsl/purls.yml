@@ -1,0 +1,2 @@
+- pkg:maven/com.adtsw.jos/dsl@1.0.2
+- pkg:maven/com.adtsw.jos/dsl@1.0.2?classifier=sources

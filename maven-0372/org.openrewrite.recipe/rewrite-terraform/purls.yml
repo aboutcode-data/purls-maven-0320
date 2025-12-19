@@ -6,3 +6,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-terraform@0.6.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-terraform@0.7.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-terraform@0.8.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-terraform@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.streamnative.connectors/nifi-pulsar-processors@1.14.0-rc-3
+- pkg:maven/io.streamnative.connectors/nifi-pulsar-processors@1.14.0-rc-3?classifier=sources

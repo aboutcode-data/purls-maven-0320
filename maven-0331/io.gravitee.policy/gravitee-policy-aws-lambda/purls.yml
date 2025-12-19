@@ -1,0 +1,1 @@
+- pkg:maven/io.gravitee.policy/gravitee-policy-aws-lambda@1.1.0?classifier=sources

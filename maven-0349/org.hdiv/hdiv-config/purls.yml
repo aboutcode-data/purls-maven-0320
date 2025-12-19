@@ -58,3 +58,5 @@
 - pkg:maven/org.hdiv/hdiv-config@3.5.0?classifier=sources
 - pkg:maven/org.hdiv/hdiv-config@3.5.1
 - pkg:maven/org.hdiv/hdiv-config@3.5.1?classifier=sources
+- pkg:maven/org.hdiv/hdiv-config@3.5.2
+- pkg:maven/org.hdiv/hdiv-config@3.5.2?classifier=sources

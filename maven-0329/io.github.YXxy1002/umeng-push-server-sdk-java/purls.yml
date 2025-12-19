@@ -1,0 +1,8 @@
+- pkg:maven/io.github.YXxy1002/umeng-push-server-sdk-java@1.0.3
+- pkg:maven/io.github.YXxy1002/umeng-push-server-sdk-java@1.0.3?classifier=sources
+- pkg:maven/io.github.YXxy1002/umeng-push-server-sdk-java@1.0.4
+- pkg:maven/io.github.YXxy1002/umeng-push-server-sdk-java@1.0.4?classifier=sources
+- pkg:maven/io.github.YXxy1002/umeng-push-server-sdk-java@1.0.5
+- pkg:maven/io.github.YXxy1002/umeng-push-server-sdk-java@1.0.5?classifier=sources
+- pkg:maven/io.github.YXxy1002/umeng-push-server-sdk-java@1.1.0
+- pkg:maven/io.github.YXxy1002/umeng-push-server-sdk-java@1.1.0?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.eobjects.metamodel/MetaModel-salesforce@3.4.9
 - pkg:maven/org.eobjects.metamodel/MetaModel-salesforce@3.4.9?classifier=sources
 - pkg:maven/org.eobjects.metamodel/MetaModel-salesforce@3.4?classifier=sources
+- pkg:maven/org.eobjects.metamodel/MetaModel-salesforce@5.3.4
+- pkg:maven/org.eobjects.metamodel/MetaModel-salesforce@5.3.4?classifier=sources

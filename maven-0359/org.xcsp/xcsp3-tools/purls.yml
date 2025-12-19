@@ -17,4 +17,6 @@
 - pkg:maven/org.xcsp/xcsp3-tools@1.2.4?classifier=sources
 - pkg:maven/org.xcsp/xcsp3-tools@1.2.?classifier=sources
 - pkg:maven/org.xcsp/xcsp3-tools@2.0
+- pkg:maven/org.xcsp/xcsp3-tools@2.0.1
+- pkg:maven/org.xcsp/xcsp3-tools@2.0.1?classifier=sources
 - pkg:maven/org.xcsp/xcsp3-tools@2.0?classifier=sources

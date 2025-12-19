@@ -1,0 +1,6 @@
+- pkg:maven/io.streamnative.pulsar.tracing/opentracing-pulsar-client@0.2.0
+- pkg:maven/io.streamnative.pulsar.tracing/opentracing-pulsar-client@0.2.0-rc-3
+- pkg:maven/io.streamnative.pulsar.tracing/opentracing-pulsar-client@0.2.0-rc-3?classifier=sources
+- pkg:maven/io.streamnative.pulsar.tracing/opentracing-pulsar-client@0.2.0-rc-4
+- pkg:maven/io.streamnative.pulsar.tracing/opentracing-pulsar-client@0.2.0-rc-4?classifier=sources
+- pkg:maven/io.streamnative.pulsar.tracing/opentracing-pulsar-client@0.2.0?classifier=sources

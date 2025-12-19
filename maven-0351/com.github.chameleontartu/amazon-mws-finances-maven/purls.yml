@@ -1,2 +1,4 @@
 - pkg:maven/com.github.chameleontartu/amazon-mws-finances-maven@1.2.0
 - pkg:maven/com.github.chameleontartu/amazon-mws-finances-maven@1.2.0?classifier=sources
+- pkg:maven/com.github.chameleontartu/amazon-mws-finances-maven@1.5.0
+- pkg:maven/com.github.chameleontartu/amazon-mws-finances-maven@1.5.0?classifier=sources

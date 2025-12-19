@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality/msgpack-proto@1.9-e8a931b
+- pkg:maven/dev.vality/msgpack-proto@1.9-e8a931b?classifier=sources

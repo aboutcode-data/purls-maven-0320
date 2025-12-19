@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-kotlin-serialization-common@2.7.0.CR1
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-kotlin-serialization-common@2.7.0.CR1?classifier=sources

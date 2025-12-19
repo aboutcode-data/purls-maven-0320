@@ -112,5 +112,7 @@
 - pkg:maven/org.webjars.npm/types__react@17.0.34?classifier=sources
 - pkg:maven/org.webjars.npm/types__react@17.0.37
 - pkg:maven/org.webjars.npm/types__react@17.0.37?classifier=sources
+- pkg:maven/org.webjars.npm/types__react@17.0.38
+- pkg:maven/org.webjars.npm/types__react@17.0.38?classifier=sources
 - pkg:maven/org.webjars.npm/types__react@17.0.5
 - pkg:maven/org.webjars.npm/types__react@17.0.5?classifier=sources

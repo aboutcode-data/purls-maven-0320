@@ -27,6 +27,8 @@
 - pkg:maven/lv.ctco.cukes/cukes-http-mock@0.0.35
 - pkg:maven/lv.ctco.cukes/cukes-http-mock@0.0.35?classifier=sources
 - pkg:maven/lv.ctco.cukes/cukes-http-mock@1.0.1
+- pkg:maven/lv.ctco.cukes/cukes-http-mock@1.0.10
+- pkg:maven/lv.ctco.cukes/cukes-http-mock@1.0.10?classifier=sources
 - pkg:maven/lv.ctco.cukes/cukes-http-mock@1.0.1?classifier=sources
 - pkg:maven/lv.ctco.cukes/cukes-http-mock@1.0.2
 - pkg:maven/lv.ctco.cukes/cukes-http-mock@1.0.2?classifier=sources

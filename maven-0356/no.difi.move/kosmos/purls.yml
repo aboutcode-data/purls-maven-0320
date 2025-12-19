@@ -1,2 +1,4 @@
 - pkg:maven/no.difi.move/kosmos@1.1.0
 - pkg:maven/no.difi.move/kosmos@1.1.0?classifier=sources
+- pkg:maven/no.difi.move/kosmos@1.2.0
+- pkg:maven/no.difi.move/kosmos@1.2.0?classifier=sources

@@ -292,3 +292,9 @@
 - pkg:maven/io.airlift/packaging@210?classifier=sources
 - pkg:maven/io.airlift/packaging@211
 - pkg:maven/io.airlift/packaging@211?classifier=sources
+- pkg:maven/io.airlift/packaging@212
+- pkg:maven/io.airlift/packaging@212?classifier=sources
+- pkg:maven/io.airlift/packaging@213
+- pkg:maven/io.airlift/packaging@213?classifier=sources
+- pkg:maven/io.airlift/packaging@214
+- pkg:maven/io.airlift/packaging@214?classifier=sources

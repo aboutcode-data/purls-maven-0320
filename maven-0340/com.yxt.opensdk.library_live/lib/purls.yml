@@ -15,6 +15,8 @@
 - pkg:maven/com.yxt.opensdk.library_live/lib@1.16.20?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/lib@1.16.21?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/lib@1.16.24?type=aar
+- pkg:maven/com.yxt.opensdk.library_live/lib@1.16.25?type=aar
+- pkg:maven/com.yxt.opensdk.library_live/lib@1.16.26?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/lib@1.16.7.1?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/lib@1.16.8?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/lib@1.16.9?type=aar

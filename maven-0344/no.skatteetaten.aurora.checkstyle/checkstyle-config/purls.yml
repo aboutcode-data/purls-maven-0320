@@ -36,3 +36,5 @@
 - pkg:maven/no.skatteetaten.aurora.checkstyle/checkstyle-config@2.2.7?classifier=sources
 - pkg:maven/no.skatteetaten.aurora.checkstyle/checkstyle-config@2.2.8
 - pkg:maven/no.skatteetaten.aurora.checkstyle/checkstyle-config@2.2.8?classifier=sources
+- pkg:maven/no.skatteetaten.aurora.checkstyle/checkstyle-config@2.3.4
+- pkg:maven/no.skatteetaten.aurora.checkstyle/checkstyle-config@2.3.4?classifier=sources

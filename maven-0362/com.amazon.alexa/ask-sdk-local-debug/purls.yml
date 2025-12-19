@@ -30,3 +30,5 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.41.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.42.0
 - pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.42.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.42.1
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.42.1?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.graalvm.nativeimage/svm-libffi@21.2.0?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm-libffi@21.3.0
 - pkg:maven/org.graalvm.nativeimage/svm-libffi@21.3.0?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm-libffi@21.3.1
+- pkg:maven/org.graalvm.nativeimage/svm-libffi@21.3.1?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm-libffi@22.0.0
+- pkg:maven/org.graalvm.nativeimage/svm-libffi@22.0.0?classifier=sources

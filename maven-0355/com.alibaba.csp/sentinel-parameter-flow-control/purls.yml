@@ -38,3 +38,5 @@
 - pkg:maven/com.alibaba.csp/sentinel-parameter-flow-control@1.8.1?classifier=sources
 - pkg:maven/com.alibaba.csp/sentinel-parameter-flow-control@1.8.2
 - pkg:maven/com.alibaba.csp/sentinel-parameter-flow-control@1.8.2?classifier=sources
+- pkg:maven/com.alibaba.csp/sentinel-parameter-flow-control@1.8.3
+- pkg:maven/com.alibaba.csp/sentinel-parameter-flow-control@1.8.3?classifier=sources

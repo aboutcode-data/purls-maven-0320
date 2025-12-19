@@ -4,3 +4,5 @@
 - pkg:maven/com.atlassian/nadel@2021-04-12T01-02-32-f7a6cc0?classifier=sources
 - pkg:maven/com.atlassian/nadel@2021-04-12T04-47-22-feaca9b?classifier=sources
 - pkg:maven/com.atlassian/nadel@2021-04-12T07-36-38-3fa32a2?classifier=sources
+- pkg:maven/com.atlassian/nadel@2022-01-19T23-18-30-adbad461?classifier=sources
+- pkg:maven/com.atlassian/nadel@2022-01-24T23-18-02-231e3cb0?classifier=sources

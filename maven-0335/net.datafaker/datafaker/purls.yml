@@ -1,0 +1,4 @@
+- pkg:maven/net.datafaker/datafaker@0.9.0
+- pkg:maven/net.datafaker/datafaker@0.9.0?classifier=sources
+- pkg:maven/net.datafaker/datafaker@1.0.0
+- pkg:maven/net.datafaker/datafaker@1.0.0?classifier=sources

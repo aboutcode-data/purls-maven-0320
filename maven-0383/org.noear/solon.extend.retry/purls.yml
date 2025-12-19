@@ -1,0 +1,14 @@
+- pkg:maven/org.noear/solon.extend.retry@1.6.16
+- pkg:maven/org.noear/solon.extend.retry@1.6.16-m3
+- pkg:maven/org.noear/solon.extend.retry@1.6.16-m3?classifier=sources
+- pkg:maven/org.noear/solon.extend.retry@1.6.16-m4
+- pkg:maven/org.noear/solon.extend.retry@1.6.16-m4?classifier=sources
+- pkg:maven/org.noear/solon.extend.retry@1.6.16?classifier=sources
+- pkg:maven/org.noear/solon.extend.retry@1.6.17
+- pkg:maven/org.noear/solon.extend.retry@1.6.17-m1
+- pkg:maven/org.noear/solon.extend.retry@1.6.17-m1?classifier=sources
+- pkg:maven/org.noear/solon.extend.retry@1.6.17?classifier=sources
+- pkg:maven/org.noear/solon.extend.retry@1.6.18
+- pkg:maven/org.noear/solon.extend.retry@1.6.18?classifier=sources
+- pkg:maven/org.noear/solon.extend.retry@1.6.19-m1
+- pkg:maven/org.noear/solon.extend.retry@1.6.19-m1?classifier=sources

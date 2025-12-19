@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.bleep/bloopgun-core_2.13@1.4.19
+- pkg:maven/io.github.alexarchambault.bleep/bloopgun-core_2.13@1.4.19?classifier=sources

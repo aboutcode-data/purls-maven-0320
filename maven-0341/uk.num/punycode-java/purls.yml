@@ -1,0 +1,2 @@
+- pkg:maven/uk.num/punycode-java@0.0.1?classifier=sources
+- pkg:maven/uk.num/punycode-java@0.0.3?classifier=sources

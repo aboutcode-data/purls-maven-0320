@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/paidms20210106@1.0.6
+- pkg:maven/com.aliyun/paidms20210106@1.0.6?classifier=sources

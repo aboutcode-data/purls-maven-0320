@@ -25,7 +25,11 @@
 - pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4
 - pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.1
 - pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.11
+- pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.11-2-g9fcfd95
+- pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.11-2-g9fcfd95?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.11?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.12
+- pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.12?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.1?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.2
 - pkg:maven/de.wayofquality.blended/blended-mill_2.13@0.4.2-1-g861c661

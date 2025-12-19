@@ -7,3 +7,5 @@
 - pkg:maven/org.anasoid.jmc/jmc-core@v0.6.0?classifier=sources
 - pkg:maven/org.anasoid.jmc/jmc-core@v0.6.1?classifier=sources
 - pkg:maven/org.anasoid.jmc/jmc-core@v0.6.2?classifier=sources
+- pkg:maven/org.anasoid.jmc/jmc-core@v0.6.3?classifier=sources
+- pkg:maven/org.anasoid.jmc/jmc-core@v0.6.4?classifier=sources

@@ -350,3 +350,5 @@
 - pkg:maven/org.apache.cxf/apache-cxf@3.4.4?classifier=src&type=zip
 - pkg:maven/org.apache.cxf/apache-cxf@3.4.5?classifier=src&type=tar.gz
 - pkg:maven/org.apache.cxf/apache-cxf@3.4.5?classifier=src&type=zip
+- pkg:maven/org.apache.cxf/apache-cxf@3.5.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.cxf/apache-cxf@3.5.0?classifier=src&type=zip

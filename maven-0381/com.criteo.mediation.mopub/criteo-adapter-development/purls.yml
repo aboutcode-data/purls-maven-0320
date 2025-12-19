@@ -6,3 +6,4 @@
 - pkg:maven/com.criteo.mediation.mopub/criteo-adapter-development@4.5.0.0-20211022.0756?classifier=sources
 - pkg:maven/com.criteo.mediation.mopub/criteo-adapter-development@4.5.0.0-20211116.1003?classifier=sources
 - pkg:maven/com.criteo.mediation.mopub/criteo-adapter-development@4.6.0.0-20211118.0907?classifier=sources
+- pkg:maven/com.criteo.mediation.mopub/criteo-adapter-development@4.6.0.0-20220124.0456?classifier=sources

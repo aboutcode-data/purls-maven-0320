@@ -1,0 +1,2 @@
+- pkg:maven/top.cheesetree.btx.framework.database/btx-framework-boot-database-hikari@1.2.0
+- pkg:maven/top.cheesetree.btx.framework.database/btx-framework-boot-database-hikari@1.2.0?classifier=sources

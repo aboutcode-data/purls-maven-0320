@@ -6,3 +6,5 @@
 - pkg:maven/com.fastjrun.codeg.example/example-sdkg-provider@4.0.3?classifier=sources
 - pkg:maven/com.fastjrun.codeg.example/example-sdkg-provider@4.0.4
 - pkg:maven/com.fastjrun.codeg.example/example-sdkg-provider@4.0.4?classifier=sources
+- pkg:maven/com.fastjrun.codeg.example/example-sdkg-provider@4.1
+- pkg:maven/com.fastjrun.codeg.example/example-sdkg-provider@4.1?classifier=sources

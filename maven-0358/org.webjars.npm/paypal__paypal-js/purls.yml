@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/paypal__paypal-js@5.0.2
+- pkg:maven/org.webjars.npm/paypal__paypal-js@5.0.2?classifier=sources

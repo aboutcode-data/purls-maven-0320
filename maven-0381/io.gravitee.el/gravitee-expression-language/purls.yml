@@ -36,3 +36,5 @@
 - pkg:maven/io.gravitee.el/gravitee-expression-language@1.7.2?classifier=sources
 - pkg:maven/io.gravitee.el/gravitee-expression-language@1.8.0
 - pkg:maven/io.gravitee.el/gravitee-expression-language@1.8.0?classifier=sources
+- pkg:maven/io.gravitee.el/gravitee-expression-language@1.9.0
+- pkg:maven/io.gravitee.el/gravitee-expression-language@1.9.0?classifier=sources

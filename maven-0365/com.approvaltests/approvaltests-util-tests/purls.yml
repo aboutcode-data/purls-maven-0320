@@ -33,6 +33,9 @@
 - pkg:maven/com.approvaltests/approvaltests-util-tests@13.1.1
 - pkg:maven/com.approvaltests/approvaltests-util-tests@13.2.0
 - pkg:maven/com.approvaltests/approvaltests-util-tests@13.2.1
+- pkg:maven/com.approvaltests/approvaltests-util-tests@13.3.0
+- pkg:maven/com.approvaltests/approvaltests-util-tests@13.4.0
+- pkg:maven/com.approvaltests/approvaltests-util-tests@14.0.0
 - pkg:maven/com.approvaltests/approvaltests-util-tests@7.0.0
 - pkg:maven/com.approvaltests/approvaltests-util-tests@8.0.0
 - pkg:maven/com.approvaltests/approvaltests-util-tests@9.0.0

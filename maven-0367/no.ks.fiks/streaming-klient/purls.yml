@@ -10,6 +10,8 @@
 - pkg:maven/no.ks.fiks/streaming-klient@1.0.14?classifier=sources
 - pkg:maven/no.ks.fiks/streaming-klient@1.0.15
 - pkg:maven/no.ks.fiks/streaming-klient@1.0.15?classifier=sources
+- pkg:maven/no.ks.fiks/streaming-klient@1.0.16
+- pkg:maven/no.ks.fiks/streaming-klient@1.0.16?classifier=sources
 - pkg:maven/no.ks.fiks/streaming-klient@1.0.3
 - pkg:maven/no.ks.fiks/streaming-klient@1.0.3?classifier=sources
 - pkg:maven/no.ks.fiks/streaming-klient@1.0.4

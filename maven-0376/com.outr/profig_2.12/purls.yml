@@ -78,3 +78,7 @@
 - pkg:maven/com.outr/profig_2.12@3.2.7?classifier=sources
 - pkg:maven/com.outr/profig_2.12@3.2.8
 - pkg:maven/com.outr/profig_2.12@3.2.8?classifier=sources
+- pkg:maven/com.outr/profig_2.12@3.2.9
+- pkg:maven/com.outr/profig_2.12@3.2.9?classifier=sources
+- pkg:maven/com.outr/profig_2.12@3.3.0
+- pkg:maven/com.outr/profig_2.12@3.3.0?classifier=sources

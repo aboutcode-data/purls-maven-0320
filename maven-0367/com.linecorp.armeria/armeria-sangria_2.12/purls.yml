@@ -11,3 +11,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-sangria_2.12@1.13.3?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-sangria_2.12@1.13.4
 - pkg:maven/com.linecorp.armeria/armeria-sangria_2.12@1.13.4?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-sangria_2.12@1.14.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-sangria_2.12@1.14.1?classifier=sources

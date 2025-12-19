@@ -8,6 +8,7 @@
 - pkg:maven/com.github.vjuge/cdmdsl@2.133.2.1?classifier=sources
 - pkg:maven/com.github.vjuge/cdmdsl@2.136.1.1?classifier=sources
 - pkg:maven/com.github.vjuge/cdmdsl@2.136.1.2?classifier=sources
+- pkg:maven/com.github.vjuge/cdmdsl@2.143.2.1?classifier=sources
 - pkg:maven/com.github.vjuge/cdmdsl@2.85.0.1?classifier=sources
 - pkg:maven/com.github.vjuge/cdmdsl@2.85.0.2?classifier=sources
 - pkg:maven/com.github.vjuge/cdmdsl@2.85.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/s3objectlambda-alpha@2.16.0-alpha.0
+- pkg:maven/software.amazon.awscdk/s3objectlambda-alpha@2.16.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/s3objectlambda-alpha@2.17.0-alpha.0
+- pkg:maven/software.amazon.awscdk/s3objectlambda-alpha@2.17.0-alpha.0?classifier=sources

@@ -124,3 +124,7 @@
 - pkg:maven/org.cache2k/cache2k-api@2.5.2.Alpha?classifier=sources
 - pkg:maven/org.cache2k/cache2k-api@2.5.3.Beta
 - pkg:maven/org.cache2k/cache2k-api@2.5.3.Beta?classifier=sources
+- pkg:maven/org.cache2k/cache2k-api@2.6.0.Final
+- pkg:maven/org.cache2k/cache2k-api@2.6.0.Final?classifier=sources
+- pkg:maven/org.cache2k/cache2k-api@2.6.1.Final
+- pkg:maven/org.cache2k/cache2k-api@2.6.1.Final?classifier=sources

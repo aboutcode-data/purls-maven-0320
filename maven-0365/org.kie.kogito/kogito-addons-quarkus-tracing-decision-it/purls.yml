@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-tracing-decision-it@1.17.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-tracing-decision-it@1.18.0.Final

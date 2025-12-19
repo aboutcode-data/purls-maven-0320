@@ -8,3 +8,7 @@
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.4?classifier=sources
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.5
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.5?classifier=sources
+- pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.6
+- pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.6?classifier=sources
+- pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.7
+- pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.7?classifier=sources

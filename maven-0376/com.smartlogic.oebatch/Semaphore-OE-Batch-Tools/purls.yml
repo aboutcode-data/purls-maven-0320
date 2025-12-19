@@ -2,6 +2,8 @@
 - pkg:maven/com.smartlogic.oebatch/Semaphore-OE-Batch-Tools@5.2.0?classifier=sources
 - pkg:maven/com.smartlogic.oebatch/Semaphore-OE-Batch-Tools@5.3.14
 - pkg:maven/com.smartlogic.oebatch/Semaphore-OE-Batch-Tools@5.3.14?classifier=sources
+- pkg:maven/com.smartlogic.oebatch/Semaphore-OE-Batch-Tools@5.4.0
+- pkg:maven/com.smartlogic.oebatch/Semaphore-OE-Batch-Tools@5.4.0?classifier=sources
 - pkg:maven/com.smartlogic.oebatch/Semaphore-OE-Batch-Tools@Semaphore-4.1.0
 - pkg:maven/com.smartlogic.oebatch/Semaphore-OE-Batch-Tools@Semaphore-4.1.0?classifier=sources
 - pkg:maven/com.smartlogic.oebatch/Semaphore-OE-Batch-Tools@Semaphore-4.1.1

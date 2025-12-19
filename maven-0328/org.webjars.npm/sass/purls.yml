@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/sass@1.32.12?classifier=sources
 - pkg:maven/org.webjars.npm/sass@1.42.1
 - pkg:maven/org.webjars.npm/sass@1.42.1?classifier=sources
+- pkg:maven/org.webjars.npm/sass@1.49.7
+- pkg:maven/org.webjars.npm/sass@1.49.7?classifier=sources

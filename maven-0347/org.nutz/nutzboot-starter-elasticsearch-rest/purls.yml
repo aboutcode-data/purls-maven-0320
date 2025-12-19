@@ -1,0 +1,2 @@
+- pkg:maven/org.nutz/nutzboot-starter-elasticsearch-rest@2.5.1.v20220215
+- pkg:maven/org.nutz/nutzboot-starter-elasticsearch-rest@2.5.1.v20220215?classifier=sources

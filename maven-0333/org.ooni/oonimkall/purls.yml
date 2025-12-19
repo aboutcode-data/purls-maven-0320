@@ -6,3 +6,7 @@
 - pkg:maven/org.ooni/oonimkall@2021.11.23-142059?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2021.12.06-165620?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2021.12.14-160025?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2022.01.24-135942?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2022.02.11-120629?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2022.02.23-125212?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2022.02.23-152335?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-query-graphql@1.49.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-query-graphql@1.49.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-query-graphql@1.50.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-query-graphql@1.50.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-query-graphql@1.51.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-query-graphql@1.51.0?classifier=sources

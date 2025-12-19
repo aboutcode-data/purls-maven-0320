@@ -1,0 +1,2 @@
+- pkg:maven/com.ekeitho.uni/uni@1.0.0?classifier=sources
+- pkg:maven/com.ekeitho.uni/uni@1.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.adyen.checkout/bacs@4.4.0?classifier=sources
+- pkg:maven/com.adyen.checkout/bacs@4.5.0?classifier=sources

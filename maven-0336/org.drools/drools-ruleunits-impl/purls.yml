@@ -1,0 +1,4 @@
+- pkg:maven/org.drools/drools-ruleunits-impl@8.17.0.Beta
+- pkg:maven/org.drools/drools-ruleunits-impl@8.17.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-ruleunits-impl@8.18.0.Beta
+- pkg:maven/org.drools/drools-ruleunits-impl@8.18.0.Beta?classifier=sources

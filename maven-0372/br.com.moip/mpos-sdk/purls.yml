@@ -13,3 +13,4 @@
 - pkg:maven/br.com.moip/mpos-sdk@6.0.2?type=aar
 - pkg:maven/br.com.moip/mpos-sdk@6.0.3?type=aar
 - pkg:maven/br.com.moip/mpos-sdk@7.0.0?type=aar
+- pkg:maven/br.com.moip/mpos-sdk@7.0.1?type=aar

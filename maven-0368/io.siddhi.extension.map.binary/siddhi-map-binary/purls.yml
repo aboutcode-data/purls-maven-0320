@@ -10,3 +10,5 @@
 - pkg:maven/io.siddhi.extension.map.binary/siddhi-map-binary@2.0.5?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.map.binary/siddhi-map-binary@2.1.0
 - pkg:maven/io.siddhi.extension.map.binary/siddhi-map-binary@2.1.0?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.map.binary/siddhi-map-binary@2.1.1
+- pkg:maven/io.siddhi.extension.map.binary/siddhi-map-binary@2.1.1?classifier=source-release&type=zip

@@ -1,1 +1,2 @@
 - pkg:maven/dev.icerock.moko/network-jvm@0.16.0?classifier=sources
+- pkg:maven/dev.icerock.moko/network-jvm@0.17.0?classifier=sources

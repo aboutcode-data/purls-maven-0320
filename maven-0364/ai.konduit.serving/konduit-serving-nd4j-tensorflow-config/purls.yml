@@ -1,0 +1,2 @@
+- pkg:maven/ai.konduit.serving/konduit-serving-nd4j-tensorflow-config@0.0.2
+- pkg:maven/ai.konduit.serving/konduit-serving-nd4j-tensorflow-config@0.0.2?classifier=sources

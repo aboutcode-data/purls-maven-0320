@@ -24,6 +24,8 @@
 - pkg:maven/org.opencastproject/opencast-search-service-feeds@11.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-feeds@11.3
 - pkg:maven/org.opencastproject/opencast-search-service-feeds@11.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-search-service-feeds@11.4
+- pkg:maven/org.opencastproject/opencast-search-service-feeds@11.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-feeds@6.6
 - pkg:maven/org.opencastproject/opencast-search-service-feeds@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-feeds@7.2

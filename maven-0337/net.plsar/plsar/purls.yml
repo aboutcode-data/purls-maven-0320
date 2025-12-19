@@ -1,0 +1,2 @@
+- pkg:maven/net.plsar/plsar@0.001?classifier=sources
+- pkg:maven/net.plsar/plsar@0.002?classifier=sources

@@ -160,3 +160,7 @@
 - pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp-core@7.17.0-alpha2?classifier=sources
 - pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp-core@7.17.0-alpha3
 - pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp-core@7.17.0-alpha3?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp-core@7.17.0-alpha4
+- pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp-core@7.17.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp-core@7.17.0-alpha5
+- pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp-core@7.17.0-alpha5?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.tencent.iot.explorer/explorer-link-rtc@1.4.0?classifier=sources
 - pkg:maven/com.tencent.iot.explorer/explorer-link-rtc@1.5.0?classifier=sources
 - pkg:maven/com.tencent.iot.explorer/explorer-link-rtc@1.5.3?classifier=sources
+- pkg:maven/com.tencent.iot.explorer/explorer-link-rtc@1.5.4?classifier=sources

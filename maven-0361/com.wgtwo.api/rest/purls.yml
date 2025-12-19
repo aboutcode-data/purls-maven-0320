@@ -4,3 +4,5 @@
 - pkg:maven/com.wgtwo.api/rest@0.0.2?classifier=sources
 - pkg:maven/com.wgtwo.api/rest@1.2.0
 - pkg:maven/com.wgtwo.api/rest@1.2.0?classifier=sources
+- pkg:maven/com.wgtwo.api/rest@1.2.1
+- pkg:maven/com.wgtwo.api/rest@1.2.1?classifier=sources

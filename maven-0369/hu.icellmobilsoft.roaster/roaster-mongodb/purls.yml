@@ -1,1 +1,2 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-mongodb@0.6.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-mongodb@0.7.0

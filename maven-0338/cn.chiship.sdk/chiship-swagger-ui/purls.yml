@@ -1,0 +1,6 @@
+- pkg:maven/cn.chiship.sdk/chiship-swagger-ui@1.1.1
+- pkg:maven/cn.chiship.sdk/chiship-swagger-ui@1.1.1?classifier=sources
+- pkg:maven/cn.chiship.sdk/chiship-swagger-ui@1.1.2
+- pkg:maven/cn.chiship.sdk/chiship-swagger-ui@1.1.2?classifier=sources
+- pkg:maven/cn.chiship.sdk/chiship-swagger-ui@1.1.4
+- pkg:maven/cn.chiship.sdk/chiship-swagger-ui@1.1.4?classifier=sources

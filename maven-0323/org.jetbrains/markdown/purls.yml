@@ -2,3 +2,5 @@
 - pkg:maven/org.jetbrains/markdown@0.1.46
 - pkg:maven/org.jetbrains/markdown@0.1.46?classifier=sources
 - pkg:maven/org.jetbrains/markdown@0.2.4?classifier=sources
+- pkg:maven/org.jetbrains/markdown@0.3.0?classifier=sources
+- pkg:maven/org.jetbrains/markdown@0.3.1?classifier=sources

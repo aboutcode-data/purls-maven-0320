@@ -6,3 +6,5 @@
 - pkg:maven/com.pragmatickm/website@1.10.2?type=war
 - pkg:maven/com.pragmatickm/website@1.10.3?classifier=sources
 - pkg:maven/com.pragmatickm/website@1.10.3?type=war
+- pkg:maven/com.pragmatickm/website@1.10.4?classifier=sources
+- pkg:maven/com.pragmatickm/website@1.10.4?type=war

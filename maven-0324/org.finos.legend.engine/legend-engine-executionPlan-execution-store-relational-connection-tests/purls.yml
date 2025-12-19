@@ -4,3 +4,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-execution-store-relational-connection-tests@2.52.0
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-execution-store-relational-connection-tests@2.54.0
 - pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-execution-store-relational-connection-tests@2.54.1
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-execution-store-relational-connection-tests@2.55.0
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-execution-store-relational-connection-tests@2.56.0
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-execution-store-relational-connection-tests@2.57.0
+- pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-execution-store-relational-connection-tests@2.58.0

@@ -1,0 +1,4 @@
+- pkg:maven/top.summerboot/orm-summer-boot-starter@2022.1.8
+- pkg:maven/top.summerboot/orm-summer-boot-starter@2022.1.8?classifier=sources
+- pkg:maven/top.summerboot/orm-summer-boot-starter@2022.1.9
+- pkg:maven/top.summerboot/orm-summer-boot-starter@2022.1.9?classifier=sources

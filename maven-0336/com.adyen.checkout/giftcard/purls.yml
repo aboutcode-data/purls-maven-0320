@@ -1,1 +1,2 @@
 - pkg:maven/com.adyen.checkout/giftcard@4.4.0?classifier=sources
+- pkg:maven/com.adyen.checkout/giftcard@4.5.0?classifier=sources

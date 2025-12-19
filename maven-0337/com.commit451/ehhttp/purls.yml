@@ -1,0 +1,2 @@
+- pkg:maven/com.commit451/ehhttp@3.0.2?classifier=sources
+- pkg:maven/com.commit451/ehhttp@3.0.6?classifier=sources

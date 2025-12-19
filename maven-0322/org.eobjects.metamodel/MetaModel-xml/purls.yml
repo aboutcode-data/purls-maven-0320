@@ -116,3 +116,5 @@
 - pkg:maven/org.eobjects.metamodel/MetaModel-xml@3.4?classifier=sources
 - pkg:maven/org.eobjects.metamodel/MetaModel-xml@5.3.4
 - pkg:maven/org.eobjects.metamodel/MetaModel-xml@5.3.4?classifier=sources
+- pkg:maven/org.eobjects.metamodel/MetaModel-xml@5.3.5
+- pkg:maven/org.eobjects.metamodel/MetaModel-xml@5.3.5?classifier=sources

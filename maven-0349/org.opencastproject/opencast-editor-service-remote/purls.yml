@@ -24,6 +24,8 @@
 - pkg:maven/org.opencastproject/opencast-editor-service-remote@11.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service-remote@11.3
 - pkg:maven/org.opencastproject/opencast-editor-service-remote@11.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-editor-service-remote@11.4
+- pkg:maven/org.opencastproject/opencast-editor-service-remote@11.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service-remote@9.10
 - pkg:maven/org.opencastproject/opencast-editor-service-remote@9.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service-remote@9.11

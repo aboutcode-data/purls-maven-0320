@@ -12,4 +12,5 @@
 - pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.1.2?classifier=sources
 - pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.1.5
 - pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.1.5.2
+- pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.2.0
 - pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.2.0-rc1

@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip.mock.mv/mock-mv@1.2.0
+- pkg:maven/io.mosip.mock.mv/mock-mv@1.2.0?classifier=sources

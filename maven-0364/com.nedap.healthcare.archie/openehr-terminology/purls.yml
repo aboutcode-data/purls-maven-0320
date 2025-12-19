@@ -18,3 +18,4 @@
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@1.0.3?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@1.0.4
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@1.0.4?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/openehr-terminology@2.0.0?classifier=sources

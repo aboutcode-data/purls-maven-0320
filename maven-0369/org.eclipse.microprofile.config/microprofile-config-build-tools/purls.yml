@@ -9,4 +9,6 @@
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-build-tools@2.0-RC3?classifier=sources
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-build-tools@2.0-RC5
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-build-tools@2.0-RC5?classifier=sources
+- pkg:maven/org.eclipse.microprofile.config/microprofile-config-build-tools@2.0.1
+- pkg:maven/org.eclipse.microprofile.config/microprofile-config-build-tools@2.0.1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-build-tools@2.0?classifier=sources

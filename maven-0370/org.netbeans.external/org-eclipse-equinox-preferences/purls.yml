@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-preferences@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-preferences@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-preferences@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-equinox-preferences@RELEASE130?classifier=sources

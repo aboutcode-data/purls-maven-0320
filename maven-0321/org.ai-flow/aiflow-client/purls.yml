@@ -8,3 +8,5 @@
 - pkg:maven/org.ai-flow/aiflow-client@0.2.2?classifier=sources
 - pkg:maven/org.ai-flow/aiflow-client@0.3.0
 - pkg:maven/org.ai-flow/aiflow-client@0.3.0?classifier=sources
+- pkg:maven/org.ai-flow/aiflow-client@0.3.1
+- pkg:maven/org.ai-flow/aiflow-client@0.3.1?classifier=sources

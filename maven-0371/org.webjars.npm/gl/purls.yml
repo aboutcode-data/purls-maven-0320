@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/gl@4.9.0
 - pkg:maven/org.webjars.npm/gl@4.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/gl@5.0.0
+- pkg:maven/org.webjars.npm/gl@5.0.0?classifier=sources

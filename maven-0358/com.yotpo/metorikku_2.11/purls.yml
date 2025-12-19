@@ -90,6 +90,12 @@
 - pkg:maven/com.yotpo/metorikku_2.11@0.0.142?classifier=sources
 - pkg:maven/com.yotpo/metorikku_2.11@0.0.143
 - pkg:maven/com.yotpo/metorikku_2.11@0.0.143?classifier=sources
+- pkg:maven/com.yotpo/metorikku_2.11@0.0.144
+- pkg:maven/com.yotpo/metorikku_2.11@0.0.144?classifier=sources
+- pkg:maven/com.yotpo/metorikku_2.11@0.0.145
+- pkg:maven/com.yotpo/metorikku_2.11@0.0.145?classifier=sources
+- pkg:maven/com.yotpo/metorikku_2.11@0.0.146
+- pkg:maven/com.yotpo/metorikku_2.11@0.0.146?classifier=sources
 - pkg:maven/com.yotpo/metorikku_2.11@0.0.14?classifier=sources
 - pkg:maven/com.yotpo/metorikku_2.11@0.0.15
 - pkg:maven/com.yotpo/metorikku_2.11@0.0.15?classifier=sources

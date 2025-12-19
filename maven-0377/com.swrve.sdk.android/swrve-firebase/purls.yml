@@ -40,3 +40,4 @@
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@8.0.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@9.0.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@9.1.0?classifier=sources
+- pkg:maven/com.swrve.sdk.android/swrve-firebase@9.2.0?classifier=sources

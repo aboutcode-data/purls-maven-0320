@@ -1,0 +1,2 @@
+- pkg:maven/net.kyori/adventure-text-minimessage@4.10.0?classifier=sources
+- pkg:maven/net.kyori/adventure-text-minimessage@4.10.1?classifier=sources

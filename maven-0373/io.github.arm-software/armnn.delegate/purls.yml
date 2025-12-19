@@ -1,2 +1,3 @@
 - pkg:maven/io.github.arm-software/armnn.delegate@22.02?classifier=sources
 - pkg:maven/io.github.arm-software/armnn.delegate@22.05?classifier=sources
+- pkg:maven/io.github.arm-software/armnn.delegate@22.08?classifier=sources

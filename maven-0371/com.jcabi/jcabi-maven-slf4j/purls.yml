@@ -10,6 +10,14 @@
 - pkg:maven/com.jcabi/jcabi-maven-slf4j@0.1.9?classifier=sources
 - pkg:maven/com.jcabi/jcabi-maven-slf4j@0.10
 - pkg:maven/com.jcabi/jcabi-maven-slf4j@0.10?classifier=sources
+- pkg:maven/com.jcabi/jcabi-maven-slf4j@0.11
+- pkg:maven/com.jcabi/jcabi-maven-slf4j@0.11?classifier=sources
+- pkg:maven/com.jcabi/jcabi-maven-slf4j@0.12
+- pkg:maven/com.jcabi/jcabi-maven-slf4j@0.12.1
+- pkg:maven/com.jcabi/jcabi-maven-slf4j@0.12.1?classifier=sources
+- pkg:maven/com.jcabi/jcabi-maven-slf4j@0.12.2
+- pkg:maven/com.jcabi/jcabi-maven-slf4j@0.12.2?classifier=sources
+- pkg:maven/com.jcabi/jcabi-maven-slf4j@0.12?classifier=sources
 - pkg:maven/com.jcabi/jcabi-maven-slf4j@0.2.0
 - pkg:maven/com.jcabi/jcabi-maven-slf4j@0.2.0?classifier=sources
 - pkg:maven/com.jcabi/jcabi-maven-slf4j@0.2.1

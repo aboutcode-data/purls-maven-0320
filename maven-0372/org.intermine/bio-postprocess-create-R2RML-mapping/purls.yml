@@ -1,0 +1,2 @@
+- pkg:maven/org.intermine/bio-postprocess-create-R2RML-mapping@5.1.0
+- pkg:maven/org.intermine/bio-postprocess-create-R2RML-mapping@5.1.0?classifier=sources

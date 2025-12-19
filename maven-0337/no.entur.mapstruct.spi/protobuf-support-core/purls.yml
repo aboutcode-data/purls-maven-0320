@@ -16,3 +16,13 @@
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.27?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.28
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.28?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.29
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.29?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.30
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.30?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.31
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.31?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.32
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.32?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.33
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-core@1.33?classifier=sources

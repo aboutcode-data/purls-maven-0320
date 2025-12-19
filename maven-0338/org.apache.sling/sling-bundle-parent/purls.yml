@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.sling/sling-bundle-parent@46?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/sling-bundle-parent@47?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/sling-bundle-parent@48?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling-bundle-parent@49?classifier=source-release&type=zip

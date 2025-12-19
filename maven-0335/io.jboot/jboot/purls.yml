@@ -377,6 +377,8 @@
 - pkg:maven/io.jboot/jboot@3.15.0
 - pkg:maven/io.jboot/jboot@3.15.0?classifier=sources
 - pkg:maven/io.jboot/jboot@3.15.1
+- pkg:maven/io.jboot/jboot@3.15.10
+- pkg:maven/io.jboot/jboot@3.15.10?classifier=sources
 - pkg:maven/io.jboot/jboot@3.15.1?classifier=sources
 - pkg:maven/io.jboot/jboot@3.15.2
 - pkg:maven/io.jboot/jboot@3.15.2?classifier=sources
@@ -390,6 +392,10 @@
 - pkg:maven/io.jboot/jboot@3.15.6?classifier=sources
 - pkg:maven/io.jboot/jboot@3.15.7
 - pkg:maven/io.jboot/jboot@3.15.7?classifier=sources
+- pkg:maven/io.jboot/jboot@3.15.8
+- pkg:maven/io.jboot/jboot@3.15.8?classifier=sources
+- pkg:maven/io.jboot/jboot@3.15.9
+- pkg:maven/io.jboot/jboot@3.15.9?classifier=sources
 - pkg:maven/io.jboot/jboot@3.2.0
 - pkg:maven/io.jboot/jboot@3.2.0?classifier=sources
 - pkg:maven/io.jboot/jboot@3.2.1

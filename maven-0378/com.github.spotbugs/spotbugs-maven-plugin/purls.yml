@@ -76,3 +76,5 @@
 - pkg:maven/com.github.spotbugs/spotbugs-maven-plugin@4.7.0.0?classifier=sources
 - pkg:maven/com.github.spotbugs/spotbugs-maven-plugin@4.7.1.0
 - pkg:maven/com.github.spotbugs/spotbugs-maven-plugin@4.7.1.0?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs-maven-plugin@4.7.1.1
+- pkg:maven/com.github.spotbugs/spotbugs-maven-plugin@4.7.1.1?classifier=sources

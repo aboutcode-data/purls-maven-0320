@@ -1,0 +1,2 @@
+- pkg:maven/cn.dynamictp/dynamic-tp-spring-cloud-starter-nacos@1.0.8
+- pkg:maven/cn.dynamictp/dynamic-tp-spring-cloud-starter-nacos@1.0.8?classifier=sources

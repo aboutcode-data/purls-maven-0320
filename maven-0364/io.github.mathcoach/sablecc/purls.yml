@@ -1,0 +1,6 @@
+- pkg:maven/io.github.mathcoach/sablecc@3.7
+- pkg:maven/io.github.mathcoach/sablecc@3.7-java17
+- pkg:maven/io.github.mathcoach/sablecc@3.7-java17-count-2
+- pkg:maven/io.github.mathcoach/sablecc@3.7-java17-count-2?classifier=sources
+- pkg:maven/io.github.mathcoach/sablecc@3.7-java17?classifier=sources
+- pkg:maven/io.github.mathcoach/sablecc@3.7?classifier=sources

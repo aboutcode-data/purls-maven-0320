@@ -4,3 +4,5 @@
 - pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-plugin@0.3?classifier=sources
 - pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-plugin@0.4.0-1.7.0?classifier=sources
 - pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-plugin@0.4.0?classifier=sources
+- pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-plugin@0.4.1-1.7.10?classifier=sources
+- pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-plugin@0.4.1?classifier=sources

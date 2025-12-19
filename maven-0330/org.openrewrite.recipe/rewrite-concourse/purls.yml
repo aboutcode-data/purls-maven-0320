@@ -3,6 +3,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@0.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.0.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.1.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.10.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.4.0?classifier=sources
@@ -11,3 +12,6 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.6.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.7.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.8.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.9.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.9.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-concourse@1.9.2?classifier=sources

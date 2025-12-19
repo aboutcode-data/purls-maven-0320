@@ -1,2 +1,4 @@
 - pkg:maven/io.holixon.axon.gateway/axon-gateway-spring-boot-autoconfigure@0.1.0
 - pkg:maven/io.holixon.axon.gateway/axon-gateway-spring-boot-autoconfigure@0.1.0?classifier=sources
+- pkg:maven/io.holixon.axon.gateway/axon-gateway-spring-boot-autoconfigure@0.1.1
+- pkg:maven/io.holixon.axon.gateway/axon-gateway-spring-boot-autoconfigure@0.1.1?classifier=sources

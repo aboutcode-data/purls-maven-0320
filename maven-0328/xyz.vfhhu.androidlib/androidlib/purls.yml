@@ -2,3 +2,5 @@
 - pkg:maven/xyz.vfhhu.androidlib/androidlib@17.7?type=aar
 - pkg:maven/xyz.vfhhu.androidlib/androidlib@17.8?classifier=sources
 - pkg:maven/xyz.vfhhu.androidlib/androidlib@17.8?type=aar
+- pkg:maven/xyz.vfhhu.androidlib/androidlib@17.9?classifier=sources
+- pkg:maven/xyz.vfhhu.androidlib/androidlib@17.9?type=aar

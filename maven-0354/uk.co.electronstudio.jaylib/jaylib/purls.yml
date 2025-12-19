@@ -1,1 +1,2 @@
 - pkg:maven/uk.co.electronstudio.jaylib/jaylib@4.2.0-0?classifier=sources
+- pkg:maven/uk.co.electronstudio.jaylib/jaylib@4.2.0-1?classifier=sources

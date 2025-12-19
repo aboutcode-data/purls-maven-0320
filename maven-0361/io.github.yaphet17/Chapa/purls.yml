@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yaphet17/Chapa@1.0.0
+- pkg:maven/io.github.yaphet17/Chapa@1.0.0?classifier=sources

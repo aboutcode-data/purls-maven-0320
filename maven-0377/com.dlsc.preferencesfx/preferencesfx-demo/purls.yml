@@ -1,2 +1,6 @@
+- pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.10.0
+- pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.10.0?classifier=sources
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.9.0
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.9.0?classifier=sources
+- pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.9.1
+- pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.9.1?classifier=sources

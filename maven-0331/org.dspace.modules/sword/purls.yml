@@ -38,6 +38,7 @@
 - pkg:maven/org.dspace.modules/sword@5.0-rc3?type=war
 - pkg:maven/org.dspace.modules/sword@5.0?type=war
 - pkg:maven/org.dspace.modules/sword@5.10?type=war
+- pkg:maven/org.dspace.modules/sword@5.11?type=war
 - pkg:maven/org.dspace.modules/sword@5.1?type=war
 - pkg:maven/org.dspace.modules/sword@5.2?type=war
 - pkg:maven/org.dspace.modules/sword@5.3?type=war
@@ -55,4 +56,5 @@
 - pkg:maven/org.dspace.modules/sword@6.1?type=war
 - pkg:maven/org.dspace.modules/sword@6.2?type=war
 - pkg:maven/org.dspace.modules/sword@6.3?type=war
+- pkg:maven/org.dspace.modules/sword@6.4?type=war
 - pkg:maven/org.dspace.modules/sword@7.0-preview-1?type=war

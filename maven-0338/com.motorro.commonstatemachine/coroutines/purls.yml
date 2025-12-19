@@ -1,0 +1,2 @@
+- pkg:maven/com.motorro.commonstatemachine/coroutines@2.0.0?classifier=sources
+- pkg:maven/com.motorro.commonstatemachine/coroutines@2.1.0?classifier=sources

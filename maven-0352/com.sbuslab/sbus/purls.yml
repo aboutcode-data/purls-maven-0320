@@ -81,5 +81,7 @@
 - pkg:maven/com.sbuslab/sbus@1.3.8?classifier=sources
 - pkg:maven/com.sbuslab/sbus@1.3.9
 - pkg:maven/com.sbuslab/sbus@1.3.9?classifier=sources
+- pkg:maven/com.sbuslab/sbus@1.4.53?classifier=sources
+- pkg:maven/com.sbuslab/sbus@1.5.53?classifier=sources
 - pkg:maven/com.sbuslab/sbus@unspecified
 - pkg:maven/com.sbuslab/sbus@unspecified?classifier=sources

@@ -34,3 +34,4 @@
 - pkg:maven/com.blazebit/blaze-persistence-website@1.6.4
 - pkg:maven/com.blazebit/blaze-persistence-website@1.6.5
 - pkg:maven/com.blazebit/blaze-persistence-website@1.6.6
+- pkg:maven/com.blazebit/blaze-persistence-website@1.6.7

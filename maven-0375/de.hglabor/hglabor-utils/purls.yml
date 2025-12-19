@@ -28,3 +28,4 @@
 - pkg:maven/de.hglabor/hglabor-utils@1.17.1_v2?classifier=sources
 - pkg:maven/de.hglabor/hglabor-utils@1.17.1_v3?classifier=sources
 - pkg:maven/de.hglabor/hglabor-utils@1.18.1_v2?classifier=sources
+- pkg:maven/de.hglabor/hglabor-utils@1.19.2_v3?classifier=sources

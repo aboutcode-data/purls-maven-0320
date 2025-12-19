@@ -14,3 +14,7 @@
 - pkg:maven/in.virit/viritin@1.4.0?classifier=sources
 - pkg:maven/in.virit/viritin@1.4.1
 - pkg:maven/in.virit/viritin@1.4.1?classifier=sources
+- pkg:maven/in.virit/viritin@1.5.0
+- pkg:maven/in.virit/viritin@1.5.0?classifier=sources
+- pkg:maven/in.virit/viritin@1.5.1
+- pkg:maven/in.virit/viritin@1.5.1?classifier=sources

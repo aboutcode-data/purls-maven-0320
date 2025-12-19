@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/jridgewell__resolve-uri@3.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/jridgewell__resolve-uri@3.0.7
 - pkg:maven/org.webjars.npm/jridgewell__resolve-uri@3.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/jridgewell__resolve-uri@3.1.0
+- pkg:maven/org.webjars.npm/jridgewell__resolve-uri@3.1.0?classifier=sources

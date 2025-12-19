@@ -1,1 +1,2 @@
 - pkg:maven/net.termer.vertx.kotlin.validation/vertx-web-validator-kotlin@1.0.1?classifier=sources
+- pkg:maven/net.termer.vertx.kotlin.validation/vertx-web-validator-kotlin@2.0.0?classifier=sources

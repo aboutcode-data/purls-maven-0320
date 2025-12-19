@@ -1,0 +1,4 @@
+- pkg:maven/io.github.minhhoangvn/protoc-jar@3.11.4
+- pkg:maven/io.github.minhhoangvn/protoc-jar@3.11.4?classifier=sources
+- pkg:maven/io.github.minhhoangvn/protoc-jar@3.21.4
+- pkg:maven/io.github.minhhoangvn/protoc-jar@3.21.4?classifier=sources

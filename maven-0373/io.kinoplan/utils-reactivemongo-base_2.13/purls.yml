@@ -1,0 +1,2 @@
+- pkg:maven/io.kinoplan/utils-reactivemongo-base_2.13@0.0.14
+- pkg:maven/io.kinoplan/utils-reactivemongo-base_2.13@0.0.14?classifier=sources

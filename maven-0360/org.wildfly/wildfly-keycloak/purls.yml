@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly/wildfly-keycloak@27.0.0.Alpha4
+- pkg:maven/org.wildfly/wildfly-keycloak@27.0.0.Alpha4?classifier=sources

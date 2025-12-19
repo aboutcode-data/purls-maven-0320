@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stuartwdouglas.hacbs-test.simple/simple-jdk17@0.1.2
+- pkg:maven/io.github.stuartwdouglas.hacbs-test.simple/simple-jdk17@0.1.2?classifier=sources

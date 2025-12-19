@@ -1,0 +1,6 @@
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.10.0
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.10.0?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.10.1
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.10.1?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.11.1
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.11.1?classifier=sources

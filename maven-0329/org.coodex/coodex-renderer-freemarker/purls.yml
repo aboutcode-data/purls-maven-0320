@@ -12,3 +12,7 @@
 - pkg:maven/org.coodex/coodex-renderer-freemarker@0.5.1-RC3?classifier=sources
 - pkg:maven/org.coodex/coodex-renderer-freemarker@0.5.1-RC4
 - pkg:maven/org.coodex/coodex-renderer-freemarker@0.5.1-RC4?classifier=sources
+- pkg:maven/org.coodex/coodex-renderer-freemarker@0.5.1-RC5
+- pkg:maven/org.coodex/coodex-renderer-freemarker@0.5.1-RC5?classifier=sources
+- pkg:maven/org.coodex/coodex-renderer-freemarker@0.5.1-RC6
+- pkg:maven/org.coodex/coodex-renderer-freemarker@0.5.1-RC6?classifier=sources

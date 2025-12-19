@@ -33,6 +33,7 @@
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.22.1.8626?classifier=sources
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.23.0.8726?classifier=sources
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.23.1.8766?classifier=sources
+- pkg:maven/org.sonarsource.php/sonar-php-plugin@3.24.0.8949?classifier=sources
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.3.0.5166?classifier=sources
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.4.0.5461?classifier=sources
 - pkg:maven/org.sonarsource.php/sonar-php-plugin@3.5.0.5655?classifier=sources

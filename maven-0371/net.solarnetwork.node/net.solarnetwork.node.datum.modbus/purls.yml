@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.modbus@3.1.1
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.modbus@3.1.1?classifier=sources

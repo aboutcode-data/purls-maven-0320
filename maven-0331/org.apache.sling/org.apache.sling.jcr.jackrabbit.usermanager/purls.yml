@@ -31,6 +31,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.22
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.22?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.22?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.24
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.24?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.24?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.26
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.26?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.26?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager@2.2.4

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stylesmile/fast-cloud-nacos@0.1.0
+- pkg:maven/io.github.stylesmile/fast-cloud-nacos@0.1.0?classifier=sources

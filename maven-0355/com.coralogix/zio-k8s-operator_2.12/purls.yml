@@ -70,3 +70,5 @@
 - pkg:maven/com.coralogix/zio-k8s-operator_2.12@2.0.0-RC3
 - pkg:maven/com.coralogix/zio-k8s-operator_2.12@2.0.0-RC3?classifier=sources
 - pkg:maven/com.coralogix/zio-k8s-operator_2.12@2.0.0?classifier=sources
+- pkg:maven/com.coralogix/zio-k8s-operator_2.12@2.0.1
+- pkg:maven/com.coralogix/zio-k8s-operator_2.12@2.0.1?classifier=sources

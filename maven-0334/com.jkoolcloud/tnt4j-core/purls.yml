@@ -8,3 +8,5 @@
 - pkg:maven/com.jkoolcloud/tnt4j-core@2.14?classifier=sources
 - pkg:maven/com.jkoolcloud/tnt4j-core@2.15.0
 - pkg:maven/com.jkoolcloud/tnt4j-core@2.15.0?classifier=sources
+- pkg:maven/com.jkoolcloud/tnt4j-core@2.15.1
+- pkg:maven/com.jkoolcloud/tnt4j-core@2.15.1?classifier=sources

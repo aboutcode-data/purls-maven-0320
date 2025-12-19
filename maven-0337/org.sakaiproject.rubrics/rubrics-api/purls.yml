@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.rubrics/rubrics-api@22.1
+- pkg:maven/org.sakaiproject.rubrics/rubrics-api@22.1?classifier=sources

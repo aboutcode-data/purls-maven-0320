@@ -93,3 +93,4 @@
 - pkg:maven/com.squareup.wire/wire-schema@4.2.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema@4.3.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema@4.4.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema@4.4.1?classifier=sources

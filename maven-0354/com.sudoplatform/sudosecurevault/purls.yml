@@ -30,3 +30,7 @@
 - pkg:maven/com.sudoplatform/sudosecurevault@4.4.0?type=aar
 - pkg:maven/com.sudoplatform/sudosecurevault@5.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudosecurevault@5.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudosecurevault@5.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudosecurevault@5.1.0?type=aar
+- pkg:maven/com.sudoplatform/sudosecurevault@6.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudosecurevault@6.0.0?type=aar

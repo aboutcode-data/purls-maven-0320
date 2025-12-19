@@ -21,3 +21,6 @@
 - pkg:maven/io.acryl/datahub-client@0.8.38?classifier=sources
 - pkg:maven/io.acryl/datahub-client@0.8.39?classifier=sources
 - pkg:maven/io.acryl/datahub-client@0.8.40?classifier=sources
+- pkg:maven/io.acryl/datahub-client@0.8.41-3-rc3?classifier=sources
+- pkg:maven/io.acryl/datahub-client@0.8.43?classifier=sources
+- pkg:maven/io.acryl/datahub-client@0.8.44?classifier=sources

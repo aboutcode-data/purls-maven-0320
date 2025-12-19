@@ -1,2 +1,4 @@
 - pkg:maven/com.imagingbook/imagingbook_plugins_tools@4.0.0
 - pkg:maven/com.imagingbook/imagingbook_plugins_tools@4.0.0?classifier=sources
+- pkg:maven/com.imagingbook/imagingbook_plugins_tools@5.0.0
+- pkg:maven/com.imagingbook/imagingbook_plugins_tools@5.0.0?classifier=sources

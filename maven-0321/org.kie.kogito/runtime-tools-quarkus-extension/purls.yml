@@ -36,3 +36,11 @@
 - pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.23.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.24.0.Final
 - pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.24.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.24.1.Final
+- pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.24.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.25.0.Final
+- pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.25.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.26.0.Final
+- pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.26.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.27.0.Final
+- pkg:maven/org.kie.kogito/runtime-tools-quarkus-extension@1.27.0.Final?classifier=sources

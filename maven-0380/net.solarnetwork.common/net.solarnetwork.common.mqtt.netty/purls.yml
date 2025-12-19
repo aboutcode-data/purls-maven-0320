@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.netty@2.1.2
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.netty@2.1.2?classifier=sources

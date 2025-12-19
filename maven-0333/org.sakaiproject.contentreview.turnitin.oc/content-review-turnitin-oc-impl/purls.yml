@@ -34,6 +34,8 @@
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@20.4?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@20.5
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@20.5?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@20.6
+- pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@20.6?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@21.0
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@21.0?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@21.1
@@ -44,3 +46,5 @@
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@21.3?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@22.0
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@22.0?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@22.1
+- pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@22.1?classifier=sources

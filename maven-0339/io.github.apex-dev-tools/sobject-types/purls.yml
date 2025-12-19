@@ -1,0 +1,2 @@
+- pkg:maven/io.github.apex-dev-tools/sobject-types@55.0.0
+- pkg:maven/io.github.apex-dev-tools/sobject-types@55.0.0?classifier=sources

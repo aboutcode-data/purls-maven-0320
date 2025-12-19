@@ -1,0 +1,1 @@
+- pkg:maven/com.braisgabin.detekt/kotlin-compiler-wrapper@0.0.2?classifier=sources

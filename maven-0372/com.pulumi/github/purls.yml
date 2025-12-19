@@ -1,0 +1,8 @@
+- pkg:maven/com.pulumi/github@4.15.0-alpha.1659603026%2B321172cc?classifier=sources
+- pkg:maven/com.pulumi/github@4.15.0?classifier=sources
+- pkg:maven/com.pulumi/github@4.15.1?classifier=sources
+- pkg:maven/com.pulumi/github@4.16.0-alpha.1660165600%2B68e4bff3?classifier=sources
+- pkg:maven/com.pulumi/github@4.16.0-alpha.1660927842%2Bc804f9a9?classifier=sources
+- pkg:maven/com.pulumi/github@4.16.0?classifier=sources
+- pkg:maven/com.pulumi/github@4.17.0-alpha.1662043476%2B3021a175?classifier=sources
+- pkg:maven/com.pulumi/github@4.17.0?classifier=sources

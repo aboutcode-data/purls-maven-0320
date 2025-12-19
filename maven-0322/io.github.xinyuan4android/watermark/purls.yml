@@ -1,0 +1,3 @@
+- pkg:maven/io.github.xinyuan4android/watermark@0.0.2-beta?classifier=sources
+- pkg:maven/io.github.xinyuan4android/watermark@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.xinyuan4android/watermark@S.0.0.2-beta?classifier=sources

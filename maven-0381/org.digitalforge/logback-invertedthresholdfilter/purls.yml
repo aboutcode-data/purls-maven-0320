@@ -1,0 +1,1 @@
+- pkg:maven/org.digitalforge/logback-invertedthresholdfilter@1.0.0?classifier=sources

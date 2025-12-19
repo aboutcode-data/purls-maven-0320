@@ -352,3 +352,6 @@
 - pkg:maven/com.qaprosoft/carina-proxy@8.0.0?classifier=sources
 - pkg:maven/com.qaprosoft/carina-proxy@8.0.1
 - pkg:maven/com.qaprosoft/carina-proxy@8.0.1?classifier=sources
+- pkg:maven/com.qaprosoft/carina-proxy@8.0.2
+- pkg:maven/com.qaprosoft/carina-proxy@8.0.2?classifier=sources
+- pkg:maven/com.qaprosoft/carina-proxy@8.0.3

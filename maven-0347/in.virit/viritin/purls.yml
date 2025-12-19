@@ -20,3 +20,13 @@
 - pkg:maven/in.virit/viritin@1.5.1?classifier=sources
 - pkg:maven/in.virit/viritin@1.5.2
 - pkg:maven/in.virit/viritin@1.5.2?classifier=sources
+- pkg:maven/in.virit/viritin@1.6.0
+- pkg:maven/in.virit/viritin@1.6.0?classifier=sources
+- pkg:maven/in.virit/viritin@1.6.1
+- pkg:maven/in.virit/viritin@1.6.1?classifier=sources
+- pkg:maven/in.virit/viritin@1.7.0
+- pkg:maven/in.virit/viritin@1.7.0?classifier=sources
+- pkg:maven/in.virit/viritin@1.7.1
+- pkg:maven/in.virit/viritin@1.7.1?classifier=sources
+- pkg:maven/in.virit/viritin@1.7.2
+- pkg:maven/in.virit/viritin@1.7.2?classifier=sources

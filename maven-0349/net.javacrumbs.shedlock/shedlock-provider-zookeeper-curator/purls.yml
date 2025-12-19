@@ -168,6 +168,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.41.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.42.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.42.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.43.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.43.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.5.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.5.1
@@ -190,3 +192,7 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.9.2?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.9.3
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@4.9.3?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@5.0.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@5.0.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@5.0.1
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-zookeeper-curator@5.0.1?classifier=sources

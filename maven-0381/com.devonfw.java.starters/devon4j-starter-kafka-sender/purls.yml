@@ -16,3 +16,5 @@
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-kafka-sender@2021.04.003?classifier=sources
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-kafka-sender@2022.04.001
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-kafka-sender@2022.04.001?classifier=sources
+- pkg:maven/com.devonfw.java.starters/devon4j-starter-kafka-sender@2022.12.001
+- pkg:maven/com.devonfw.java.starters/devon4j-starter-kafka-sender@2022.12.001?classifier=sources

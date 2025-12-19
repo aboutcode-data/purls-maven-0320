@@ -9,3 +9,4 @@
 - pkg:maven/com.pulumi/github@4.18.0-alpha.1663889758%2Bd6411e50?classifier=sources
 - pkg:maven/com.pulumi/github@5.0.0-alpha.1663887713%2B95d019c2?classifier=sources
 - pkg:maven/com.pulumi/github@5.0.0?classifier=sources
+- pkg:maven/com.pulumi/github@5.1.0?classifier=sources

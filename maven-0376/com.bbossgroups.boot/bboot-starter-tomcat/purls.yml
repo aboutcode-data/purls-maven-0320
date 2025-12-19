@@ -55,3 +55,4 @@
 - pkg:maven/com.bbossgroups.boot/bboot-starter-tomcat@5.9.8?classifier=sources
 - pkg:maven/com.bbossgroups.boot/bboot-starter-tomcat@5.9.9?classifier=sources
 - pkg:maven/com.bbossgroups.boot/bboot-starter-tomcat@6.0.0?classifier=sources
+- pkg:maven/com.bbossgroups.boot/bboot-starter-tomcat@6.0.1?classifier=sources

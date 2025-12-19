@@ -6,5 +6,9 @@
 - pkg:maven/dev.vality/msgpack-proto@1.14-7e44749?classifier=sources
 - pkg:maven/dev.vality/msgpack-proto@1.15-ce882a7
 - pkg:maven/dev.vality/msgpack-proto@1.15-ce882a7?classifier=sources
+- pkg:maven/dev.vality/msgpack-proto@1.16-ce737ab
+- pkg:maven/dev.vality/msgpack-proto@1.16-ce737ab?classifier=sources
+- pkg:maven/dev.vality/msgpack-proto@1.17-7481bb4
+- pkg:maven/dev.vality/msgpack-proto@1.17-7481bb4?classifier=sources
 - pkg:maven/dev.vality/msgpack-proto@1.9-e8a931b
 - pkg:maven/dev.vality/msgpack-proto@1.9-e8a931b?classifier=sources

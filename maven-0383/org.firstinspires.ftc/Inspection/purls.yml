@@ -4,3 +4,5 @@
 - pkg:maven/org.firstinspires.ftc/Inspection@7.1.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Inspection@7.2.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Inspection@8.0.0?classifier=sources
+- pkg:maven/org.firstinspires.ftc/Inspection@8.1.0?classifier=sources
+- pkg:maven/org.firstinspires.ftc/Inspection@8.1.1?classifier=sources

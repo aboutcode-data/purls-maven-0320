@@ -15,6 +15,7 @@
 - pkg:maven/hu.simplexion.zakadabar/schedule-jvm@2021.12.9?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/schedule-jvm@2022.10.19?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/schedule-jvm@2022.11.9?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/schedule-jvm@2022.12.13?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/schedule-jvm@2022.2.10?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/schedule-jvm@2022.2.14?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/schedule-jvm@2022.2.25?classifier=sources

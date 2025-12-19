@@ -19,3 +19,5 @@
 - pkg:maven/com.applovin.mediation/amazon-tam-adapter@9.5.4.1?classifier=sources
 - pkg:maven/com.applovin.mediation/amazon-tam-adapter@9.5.6.0?classifier=sources
 - pkg:maven/com.applovin.mediation/amazon-tam-adapter@9.5.7.0?classifier=sources
+- pkg:maven/com.applovin.mediation/amazon-tam-adapter@9.6.2.0?classifier=sources
+- pkg:maven/com.applovin.mediation/amazon-tam-adapter@9.6.2.1?classifier=sources

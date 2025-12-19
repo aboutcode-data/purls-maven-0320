@@ -24,3 +24,5 @@
 - pkg:maven/cc.carm.lib/easyconfiguration-yaml@3.1.0?classifier=sources
 - pkg:maven/cc.carm.lib/easyconfiguration-yaml@3.2.0
 - pkg:maven/cc.carm.lib/easyconfiguration-yaml@3.2.0?classifier=sources
+- pkg:maven/cc.carm.lib/easyconfiguration-yaml@3.3.1
+- pkg:maven/cc.carm.lib/easyconfiguration-yaml@3.3.1?classifier=sources

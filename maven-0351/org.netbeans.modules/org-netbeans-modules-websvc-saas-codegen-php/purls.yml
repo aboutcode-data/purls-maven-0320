@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE160?classifier=sources

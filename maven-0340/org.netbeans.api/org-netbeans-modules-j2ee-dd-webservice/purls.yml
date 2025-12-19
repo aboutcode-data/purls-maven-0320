@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-dd-webservice@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-dd-webservice@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-dd-webservice@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-dd-webservice@RELEASE160?classifier=sources

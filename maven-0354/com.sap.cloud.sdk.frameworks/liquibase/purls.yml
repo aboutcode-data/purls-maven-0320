@@ -152,6 +152,10 @@
 - pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.75.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.76.0
 - pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.76.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.77.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.77.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.78.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.78.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.8.0
 - pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/liquibase@3.9.0

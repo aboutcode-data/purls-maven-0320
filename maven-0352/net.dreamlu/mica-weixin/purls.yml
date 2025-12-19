@@ -17,3 +17,4 @@
 - pkg:maven/net.dreamlu/mica-weixin@2.1.1
 - pkg:maven/net.dreamlu/mica-weixin@2.1.1?classifier=sources
 - pkg:maven/net.dreamlu/mica-weixin@2.1.2?classifier=sources
+- pkg:maven/net.dreamlu/mica-weixin@3.0.0?classifier=sources

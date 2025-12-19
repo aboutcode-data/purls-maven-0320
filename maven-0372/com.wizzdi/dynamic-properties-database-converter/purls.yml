@@ -16,3 +16,5 @@
 - pkg:maven/com.wizzdi/dynamic-properties-database-converter@1.2.0?classifier=sources
 - pkg:maven/com.wizzdi/dynamic-properties-database-converter@2.0.0
 - pkg:maven/com.wizzdi/dynamic-properties-database-converter@2.0.0?classifier=sources
+- pkg:maven/com.wizzdi/dynamic-properties-database-converter@3.0.0
+- pkg:maven/com.wizzdi/dynamic-properties-database-converter@3.0.0?classifier=sources

@@ -362,3 +362,7 @@
 - pkg:maven/com.google.cloud/google-cloud-video-intelligence@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-video-intelligence@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-video-intelligence@2.4.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-video-intelligence@2.5.0
+- pkg:maven/com.google.cloud/google-cloud-video-intelligence@2.5.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-video-intelligence@2.6.0
+- pkg:maven/com.google.cloud/google-cloud-video-intelligence@2.6.0?classifier=sources

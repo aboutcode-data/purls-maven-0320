@@ -56,3 +56,5 @@
 - pkg:maven/com.qudini/qudini-reactive-tests@0.0.70?classifier=sources
 - pkg:maven/com.qudini/qudini-reactive-tests@0.0.71
 - pkg:maven/com.qudini/qudini-reactive-tests@0.0.71?classifier=sources
+- pkg:maven/com.qudini/qudini-reactive-tests@0.0.72
+- pkg:maven/com.qudini/qudini-reactive-tests@0.0.72?classifier=sources

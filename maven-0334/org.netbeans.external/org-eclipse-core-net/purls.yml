@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-core-net@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-core-net@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-core-net@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-core-net@RELEASE160?classifier=sources

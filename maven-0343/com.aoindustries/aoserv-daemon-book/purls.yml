@@ -56,3 +56,5 @@
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.91.2?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.91.3
 - pkg:maven/com.aoindustries/aoserv-daemon-book@1.91.3?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.91.7
+- pkg:maven/com.aoindustries/aoserv-daemon-book@1.91.7?classifier=sources

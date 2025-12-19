@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__express@4.0.35
 - pkg:maven/org.webjars.npm/types__express@4.0.35?classifier=sources
+- pkg:maven/org.webjars.npm/types__express@4.17.14
+- pkg:maven/org.webjars.npm/types__express@4.17.14?classifier=sources

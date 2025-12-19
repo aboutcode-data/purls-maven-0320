@@ -50,6 +50,8 @@
 - pkg:maven/com.azure.android/azure-communication-calling@2.2.0?type=aar
 - pkg:maven/com.azure.android/azure-communication-calling@2.2.1?classifier=sources
 - pkg:maven/com.azure.android/azure-communication-calling@2.2.1?type=aar
+- pkg:maven/com.azure.android/azure-communication-calling@2.2.2?classifier=sources
+- pkg:maven/com.azure.android/azure-communication-calling@2.2.2?type=aar
 - pkg:maven/com.azure.android/azure-communication-calling@2.3.0-beta.1?classifier=sources
 - pkg:maven/com.azure.android/azure-communication-calling@2.3.0-beta.1?type=aar
 - pkg:maven/com.azure.android/azure-communication-calling@2.4.0-alpha.20220829.1?classifier=sources
@@ -58,3 +60,7 @@
 - pkg:maven/com.azure.android/azure-communication-calling@2.4.0-beta.1?type=aar
 - pkg:maven/com.azure.android/azure-communication-calling@2.5.0-beta.1?classifier=sources
 - pkg:maven/com.azure.android/azure-communication-calling@2.5.0-beta.1?type=aar
+- pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.1?classifier=sources
+- pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.1?type=aar
+- pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.2?classifier=sources
+- pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.2?type=aar

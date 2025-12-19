@@ -5,3 +5,5 @@
 - pkg:maven/net.plsar/plsar@1.02?classifier=sources
 - pkg:maven/net.plsar/plsar@1.03?classifier=sources
 - pkg:maven/net.plsar/plsar@1.04?classifier=sources
+- pkg:maven/net.plsar/plsar@1.05?classifier=sources
+- pkg:maven/net.plsar/plsar@1.06?classifier=sources

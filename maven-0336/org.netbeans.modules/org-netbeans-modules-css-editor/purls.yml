@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-editor@RELEASE90?classifier=sources

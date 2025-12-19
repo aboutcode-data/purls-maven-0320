@@ -28,3 +28,9 @@
 - pkg:maven/com.heroku/webapp-runner-memcached@9.0.52.1?classifier=sources
 - pkg:maven/com.heroku/webapp-runner-memcached@9.0.68.0
 - pkg:maven/com.heroku/webapp-runner-memcached@9.0.68.0?classifier=sources
+- pkg:maven/com.heroku/webapp-runner-memcached@9.0.68.1
+- pkg:maven/com.heroku/webapp-runner-memcached@9.0.68.1?classifier=sources
+- pkg:maven/com.heroku/webapp-runner-memcached@9.0.69.0
+- pkg:maven/com.heroku/webapp-runner-memcached@9.0.69.0?classifier=sources
+- pkg:maven/com.heroku/webapp-runner-memcached@9.0.69.1
+- pkg:maven/com.heroku/webapp-runner-memcached@9.0.69.1?classifier=sources

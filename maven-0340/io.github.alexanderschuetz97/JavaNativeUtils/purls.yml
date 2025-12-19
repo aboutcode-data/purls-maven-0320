@@ -6,3 +6,4 @@
 - pkg:maven/io.github.alexanderschuetz97/JavaNativeUtils@1.6?classifier=sources
 - pkg:maven/io.github.alexanderschuetz97/JavaNativeUtils@1.7?classifier=sources
 - pkg:maven/io.github.alexanderschuetz97/JavaNativeUtils@2.0?classifier=sources
+- pkg:maven/io.github.alexanderschuetz97/JavaNativeUtils@2.1?classifier=sources

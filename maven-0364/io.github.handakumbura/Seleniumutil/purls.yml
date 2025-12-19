@@ -1,0 +1,6 @@
+- pkg:maven/io.github.handakumbura/Seleniumutil@0.5.0
+- pkg:maven/io.github.handakumbura/Seleniumutil@0.5.0?classifier=sources
+- pkg:maven/io.github.handakumbura/Seleniumutil@0.6.0
+- pkg:maven/io.github.handakumbura/Seleniumutil@0.6.0?classifier=sources
+- pkg:maven/io.github.handakumbura/Seleniumutil@0.6.5
+- pkg:maven/io.github.handakumbura/Seleniumutil@0.6.5?classifier=sources

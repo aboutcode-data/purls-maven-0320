@@ -195,5 +195,6 @@
 - pkg:maven/com.palantir.dialogue/dialogue-futures@3.7.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@3.70.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@3.71.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@3.72.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@3.8.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@3.9.0?classifier=sources

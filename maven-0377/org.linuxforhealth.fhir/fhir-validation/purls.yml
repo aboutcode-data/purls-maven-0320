@@ -2,3 +2,4 @@
 - pkg:maven/org.linuxforhealth.fhir/fhir-validation@5.0.0-RC2?classifier=sources
 - pkg:maven/org.linuxforhealth.fhir/fhir-validation@5.0.0?classifier=sources
 - pkg:maven/org.linuxforhealth.fhir/fhir-validation@5.1.0?classifier=sources
+- pkg:maven/org.linuxforhealth.fhir/fhir-validation@5.1.1?classifier=sources

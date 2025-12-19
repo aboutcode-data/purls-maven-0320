@@ -2,6 +2,7 @@
 - pkg:maven/dev.vality/shared-resources@1.0.0?classifier=sources
 - pkg:maven/dev.vality/shared-resources@1.0.1
 - pkg:maven/dev.vality/shared-resources@1.0.1?classifier=sources
+- pkg:maven/dev.vality/shared-resources@2.0.0
 - pkg:maven/dev.vality/shared-resources@2.0.0-BETA
 - pkg:maven/dev.vality/shared-resources@2.0.0-BETA-2
 - pkg:maven/dev.vality/shared-resources@2.0.0-BETA-2?classifier=sources
@@ -10,3 +11,8 @@
 - pkg:maven/dev.vality/shared-resources@2.0.0-BETA-4
 - pkg:maven/dev.vality/shared-resources@2.0.0-BETA-4?classifier=sources
 - pkg:maven/dev.vality/shared-resources@2.0.0-BETA?classifier=sources
+- pkg:maven/dev.vality/shared-resources@2.0.0?classifier=sources
+- pkg:maven/dev.vality/shared-resources@2.0.1
+- pkg:maven/dev.vality/shared-resources@2.0.1?classifier=sources
+- pkg:maven/dev.vality/shared-resources@2.0.2
+- pkg:maven/dev.vality/shared-resources@2.0.2?classifier=sources

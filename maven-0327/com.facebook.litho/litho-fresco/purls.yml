@@ -10,5 +10,6 @@
 - pkg:maven/com.facebook.litho/litho-fresco@0.42.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-fresco@0.43.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-fresco@0.44.0?classifier=sources
+- pkg:maven/com.facebook.litho/litho-fresco@0.45.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-fresco@0.6.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-fresco@0.6.0?type=aar

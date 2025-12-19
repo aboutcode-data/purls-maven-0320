@@ -9,6 +9,17 @@
 - pkg:maven/dev.mobile/maestro-orchestra@1.13.1?classifier=sources
 - pkg:maven/dev.mobile/maestro-orchestra@1.13.2?classifier=sources
 - pkg:maven/dev.mobile/maestro-orchestra@1.14.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.15.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.16.0-RC1?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.16.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.16.1?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.16.2?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.17.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.17.1?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.17.2?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.17.3?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.17.4?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@1.18.0?classifier=sources
 - pkg:maven/dev.mobile/maestro-orchestra@1.2.0?classifier=sources
 - pkg:maven/dev.mobile/maestro-orchestra@1.2.1?classifier=sources
 - pkg:maven/dev.mobile/maestro-orchestra@1.2.2?classifier=sources

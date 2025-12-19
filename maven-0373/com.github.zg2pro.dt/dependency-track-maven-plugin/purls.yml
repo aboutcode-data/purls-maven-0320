@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zg2pro.dt/dependency-track-maven-plugin@1.2.1
+- pkg:maven/com.github.zg2pro.dt/dependency-track-maven-plugin@1.2.1?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/com.github.shynixn.structureblocklib/structureblocklib-bukkit-sample@2.6.0?classifier=sources
 - pkg:maven/com.github.shynixn.structureblocklib/structureblocklib-bukkit-sample@2.7.0?classifier=sources
 - pkg:maven/com.github.shynixn.structureblocklib/structureblocklib-bukkit-sample@2.8.0?classifier=sources
+- pkg:maven/com.github.shynixn.structureblocklib/structureblocklib-bukkit-sample@2.9.0?classifier=sources

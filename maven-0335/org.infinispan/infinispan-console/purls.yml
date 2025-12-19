@@ -66,3 +66,5 @@
 - pkg:maven/org.infinispan/infinispan-console@14.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-console@14.0.2.Final
 - pkg:maven/org.infinispan/infinispan-console@14.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-console@14.0.3.Final
+- pkg:maven/org.infinispan/infinispan-console@14.0.3.Final?classifier=sources

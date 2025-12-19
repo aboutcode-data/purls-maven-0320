@@ -1,1 +1,2 @@
 - pkg:maven/io.realm.kotlin/library-sync-macosx64@1.5.0?classifier=sources
+- pkg:maven/io.realm.kotlin/library-sync-macosx64@1.5.1?classifier=sources

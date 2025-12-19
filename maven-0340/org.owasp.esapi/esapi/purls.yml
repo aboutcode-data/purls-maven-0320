@@ -36,3 +36,5 @@
 - pkg:maven/org.owasp.esapi/esapi@2.4.0.0?classifier=sources
 - pkg:maven/org.owasp.esapi/esapi@2.5.0.0
 - pkg:maven/org.owasp.esapi/esapi@2.5.0.0?classifier=sources
+- pkg:maven/org.owasp.esapi/esapi@2.5.1.0
+- pkg:maven/org.owasp.esapi/esapi@2.5.1.0?classifier=sources

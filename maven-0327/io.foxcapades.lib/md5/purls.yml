@@ -1,1 +1,2 @@
 - pkg:maven/io.foxcapades.lib/md5@1.0.0?classifier=sources
+- pkg:maven/io.foxcapades.lib/md5@1.0.1?classifier=sources

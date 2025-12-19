@@ -33,3 +33,7 @@
 - pkg:maven/io.github.flayone/advance-gdt@4.1.0_4482_core?type=aar
 - pkg:maven/io.github.flayone/advance-gdt@4.1.1_4482?type=aar
 - pkg:maven/io.github.flayone/advance-gdt@4.1.1_4482_core?type=aar
+- pkg:maven/io.github.flayone/advance-gdt@4.1.1_4482_core_1?type=aar
+- pkg:maven/io.github.flayone/advance-gdt@4.2.0_4492?type=aar
+- pkg:maven/io.github.flayone/advance-gdt@4.2.0_4492_1?type=aar
+- pkg:maven/io.github.flayone/advance-gdt@4.2.0_4492_core?type=aar

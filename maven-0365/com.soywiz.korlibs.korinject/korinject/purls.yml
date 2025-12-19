@@ -44,3 +44,4 @@
 - pkg:maven/com.soywiz.korlibs.korinject/korinject@3.3.0?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korinject/korinject@3.3.1?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korinject/korinject@3.4.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korinject/korinject@4.0.0-alpha-1?classifier=sources

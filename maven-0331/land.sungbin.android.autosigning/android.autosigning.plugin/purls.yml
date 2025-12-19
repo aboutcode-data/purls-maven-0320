@@ -1,0 +1,2 @@
+- pkg:maven/land.sungbin.android.autosigning/android.autosigning.plugin@1.0.0?classifier=sources
+- pkg:maven/land.sungbin.android.autosigning/android.autosigning.plugin@1.0.1?classifier=sources

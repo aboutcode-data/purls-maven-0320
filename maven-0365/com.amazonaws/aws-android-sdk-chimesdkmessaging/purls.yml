@@ -68,3 +68,11 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.56.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.57.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.57.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.58.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.58.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.59.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.59.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.59.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.59.1?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.60.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkmessaging@2.60.0?type=aar

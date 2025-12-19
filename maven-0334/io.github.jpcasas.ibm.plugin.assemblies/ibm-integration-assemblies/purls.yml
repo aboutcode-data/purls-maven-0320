@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jpcasas.ibm.plugin.assemblies/ibm-integration-assemblies@1.0.0
+- pkg:maven/io.github.jpcasas.ibm.plugin.assemblies/ibm-integration-assemblies@1.0.0?classifier=sources

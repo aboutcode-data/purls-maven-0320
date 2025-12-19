@@ -32,3 +32,5 @@
 - pkg:maven/com.aliyun/cgcs20211111@2.3.4?classifier=sources
 - pkg:maven/com.aliyun/cgcs20211111@2.3.6
 - pkg:maven/com.aliyun/cgcs20211111@2.3.6?classifier=sources
+- pkg:maven/com.aliyun/cgcs20211111@2.5.0
+- pkg:maven/com.aliyun/cgcs20211111@2.5.0?classifier=sources

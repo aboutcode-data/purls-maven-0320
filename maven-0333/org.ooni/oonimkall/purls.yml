@@ -18,3 +18,5 @@
 - pkg:maven/org.ooni/oonimkall@2022.09.14-184707?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2022.10.26-125902?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2022.10.31-184318?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2022.11.24-124007?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2022.12.08-092817?classifier=sources

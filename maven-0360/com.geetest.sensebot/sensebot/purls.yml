@@ -42,3 +42,11 @@
 - pkg:maven/com.geetest.sensebot/sensebot@4.3.7.2?type=aar
 - pkg:maven/com.geetest.sensebot/sensebot@4.3.7?classifier=sources
 - pkg:maven/com.geetest.sensebot/sensebot@4.3.7?type=aar
+- pkg:maven/com.geetest.sensebot/sensebot@4.3.8.1?classifier=sources
+- pkg:maven/com.geetest.sensebot/sensebot@4.3.8.1?type=aar
+- pkg:maven/com.geetest.sensebot/sensebot@4.3.8?classifier=sources
+- pkg:maven/com.geetest.sensebot/sensebot@4.3.8?type=aar
+- pkg:maven/com.geetest.sensebot/sensebot@4.3.9.1?classifier=sources
+- pkg:maven/com.geetest.sensebot/sensebot@4.3.9.1?type=aar
+- pkg:maven/com.geetest.sensebot/sensebot@4.3.9?classifier=sources
+- pkg:maven/com.geetest.sensebot/sensebot@4.3.9?type=aar

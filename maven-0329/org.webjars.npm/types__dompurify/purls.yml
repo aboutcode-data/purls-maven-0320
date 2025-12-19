@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/types__dompurify@2.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/types__dompurify@2.3.4
 - pkg:maven/org.webjars.npm/types__dompurify@2.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__dompurify@2.4.0
+- pkg:maven/org.webjars.npm/types__dompurify@2.4.0?classifier=sources

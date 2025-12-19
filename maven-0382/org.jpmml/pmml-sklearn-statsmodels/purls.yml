@@ -1,0 +1,2 @@
+- pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.20
+- pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.20?classifier=sources

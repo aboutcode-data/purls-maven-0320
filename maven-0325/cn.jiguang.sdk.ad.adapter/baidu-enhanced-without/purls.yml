@@ -8,3 +8,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.225.08181?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.24.09201?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.24.09201?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.241.10281?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.241.10281?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.openpixee/java-security-toolkit-xstream@1.0.0
+- pkg:maven/io.openpixee/java-security-toolkit-xstream@1.0.0?classifier=sources

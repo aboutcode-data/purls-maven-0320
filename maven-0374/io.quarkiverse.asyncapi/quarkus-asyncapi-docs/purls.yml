@@ -1,0 +1,6 @@
+- pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.0.1
+- pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.0.1.jandex2
+- pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.0.1.jandex2?classifier=sources
+- pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.0.1.jandex2a
+- pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.0.1.jandex2a?classifier=sources
+- pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.0.1?classifier=sources

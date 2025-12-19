@@ -8,3 +8,8 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-tests@6.3.25
 - pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-tests@6.3.26
 - pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-tests@6.3.27
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-tests@6.3.28
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-tests@6.3.29
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-tests@6.3.30
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-tests@6.3.31
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-tests@7.0.0

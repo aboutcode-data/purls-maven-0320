@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.main.deployment/deployment-jakartaee-full@7.0.0-M10?classifier=sources
+- pkg:maven/org.glassfish.main.deployment/deployment-jakartaee-full@7.0.0?classifier=sources

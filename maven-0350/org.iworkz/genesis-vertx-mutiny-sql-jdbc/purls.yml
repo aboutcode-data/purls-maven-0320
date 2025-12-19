@@ -1,0 +1,2 @@
+- pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-jdbc@1.0.44
+- pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-jdbc@1.0.44?classifier=sources

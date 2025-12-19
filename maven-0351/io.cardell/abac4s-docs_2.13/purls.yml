@@ -1,0 +1,8 @@
+- pkg:maven/io.cardell/abac4s-docs_2.13@0.1.6
+- pkg:maven/io.cardell/abac4s-docs_2.13@0.1.6-RC3
+- pkg:maven/io.cardell/abac4s-docs_2.13@0.1.6-RC3?classifier=sources
+- pkg:maven/io.cardell/abac4s-docs_2.13@0.1.6-RC4
+- pkg:maven/io.cardell/abac4s-docs_2.13@0.1.6-RC4?classifier=sources
+- pkg:maven/io.cardell/abac4s-docs_2.13@0.1.6-RC5
+- pkg:maven/io.cardell/abac4s-docs_2.13@0.1.6-RC5?classifier=sources
+- pkg:maven/io.cardell/abac4s-docs_2.13@0.1.6?classifier=sources

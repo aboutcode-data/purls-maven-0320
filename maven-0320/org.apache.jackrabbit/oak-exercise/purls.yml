@@ -160,6 +160,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-exercise@1.42.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-exercise@1.44.0
 - pkg:maven/org.apache.jackrabbit/oak-exercise@1.44.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-exercise@1.46.0
+- pkg:maven/org.apache.jackrabbit/oak-exercise@1.46.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-exercise@1.5.0
 - pkg:maven/org.apache.jackrabbit/oak-exercise@1.5.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-exercise@1.5.1

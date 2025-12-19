@@ -27,3 +27,5 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1059?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1060?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1061?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1062?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1063?classifier=sources

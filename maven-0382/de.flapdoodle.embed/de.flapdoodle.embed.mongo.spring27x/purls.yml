@@ -12,3 +12,13 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.0.3-beta?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.0.4-beta
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.0.4-beta?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.1.0-beta
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.1.0-beta?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.2.0-beta
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.2.0-beta?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.3.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.3.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.3.1
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.3.1?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.3.2
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.3.2?classifier=sources

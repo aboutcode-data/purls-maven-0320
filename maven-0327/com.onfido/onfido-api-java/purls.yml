@@ -58,3 +58,5 @@
 - pkg:maven/com.onfido/onfido-api-java@2.7.2?classifier=sources
 - pkg:maven/com.onfido/onfido-api-java@2.8.0
 - pkg:maven/com.onfido/onfido-api-java@2.8.0?classifier=sources
+- pkg:maven/com.onfido/onfido-api-java@2.9.0
+- pkg:maven/com.onfido/onfido-api-java@2.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fi.linuxbox.gradle/gradle-aws-services-plugin@0.1.0?classifier=sources
+- pkg:maven/fi.linuxbox.gradle/gradle-aws-services-plugin@0.2.0?classifier=sources

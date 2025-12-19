@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems-nb@RELEASE90?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-evs@0.0.1-beta
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-evs@0.0.1-beta?classifier=sources
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-evs@0.0.2-beta
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-evs@0.0.2-beta?classifier=sources

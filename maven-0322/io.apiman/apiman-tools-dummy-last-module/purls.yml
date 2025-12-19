@@ -7,3 +7,5 @@
 - pkg:maven/io.apiman/apiman-tools-dummy-last-module@2.2.1.Final
 - pkg:maven/io.apiman/apiman-tools-dummy-last-module@2.2.2.Final
 - pkg:maven/io.apiman/apiman-tools-dummy-last-module@2.2.3.Final
+- pkg:maven/io.apiman/apiman-tools-dummy-last-module@3.0.0.Final
+- pkg:maven/io.apiman/apiman-tools-dummy-last-module@3.0.0.RC6

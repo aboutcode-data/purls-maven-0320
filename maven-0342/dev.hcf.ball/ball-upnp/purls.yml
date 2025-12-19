@@ -1,2 +1,4 @@
 - pkg:maven/dev.hcf.ball/ball-upnp@4.0.2.20221024
 - pkg:maven/dev.hcf.ball/ball-upnp@4.0.2.20221024?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-upnp@4.0.3.20221214
+- pkg:maven/dev.hcf.ball/ball-upnp@4.0.3.20221214?classifier=sources

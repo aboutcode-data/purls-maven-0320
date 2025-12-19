@@ -22,5 +22,7 @@
 - pkg:maven/com.github.han-yaeger/yaeger@2021.2022.3
 - pkg:maven/com.github.han-yaeger/yaeger@2021.2022.3?classifier=sources
 - pkg:maven/com.github.han-yaeger/yaeger@2021.2022?classifier=sources
+- pkg:maven/com.github.han-yaeger/yaeger@2022.2023
 - pkg:maven/com.github.han-yaeger/yaeger@2022.2023.beta1
 - pkg:maven/com.github.han-yaeger/yaeger@2022.2023.beta1?classifier=sources
+- pkg:maven/com.github.han-yaeger/yaeger@2022.2023?classifier=sources

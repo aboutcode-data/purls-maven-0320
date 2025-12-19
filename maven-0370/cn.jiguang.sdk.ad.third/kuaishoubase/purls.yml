@@ -14,3 +14,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.third/kuaishoubase@3.3.321?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.third/kuaishoubase@3.3.32?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.third/kuaishoubase@3.3.32?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/kuaishoubase@3.3.34?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.third/kuaishoubase@3.3.34?type=aar

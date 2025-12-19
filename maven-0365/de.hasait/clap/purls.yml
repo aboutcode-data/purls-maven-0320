@@ -26,3 +26,5 @@
 - pkg:maven/de.hasait/clap@2.0.2?classifier=sources
 - pkg:maven/de.hasait/clap@2.0.3
 - pkg:maven/de.hasait/clap@2.0.3?classifier=sources
+- pkg:maven/de.hasait/clap@3.0.0
+- pkg:maven/de.hasait/clap@3.0.0?classifier=sources

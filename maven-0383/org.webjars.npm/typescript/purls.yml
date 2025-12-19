@@ -226,7 +226,13 @@
 - pkg:maven/org.webjars.npm/typescript@4.7.0-dev.20220305?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@4.7.3
 - pkg:maven/org.webjars.npm/typescript@4.7.3?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@4.7.4
+- pkg:maven/org.webjars.npm/typescript@4.7.4?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@4.8.0-dev.20220709
 - pkg:maven/org.webjars.npm/typescript@4.8.0-dev.20220709?classifier=sources
 - pkg:maven/org.webjars.npm/typescript@4.8.4
 - pkg:maven/org.webjars.npm/typescript@4.8.4?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@4.9.4
+- pkg:maven/org.webjars.npm/typescript@4.9.4?classifier=sources
+- pkg:maven/org.webjars.npm/typescript@5.0.0-dev.20221220
+- pkg:maven/org.webjars.npm/typescript@5.0.0-dev.20221220?classifier=sources

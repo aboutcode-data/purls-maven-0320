@@ -1,3 +1,4 @@
 - pkg:maven/io.bkbn/kompendium-resources@3.5.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-resources@3.6.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-resources@3.8.0?classifier=sources
+- pkg:maven/io.bkbn/kompendium-resources@3.9.0?classifier=sources

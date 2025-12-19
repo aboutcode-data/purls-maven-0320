@@ -1,0 +1,2 @@
+- pkg:maven/site.heaven96/req-filter-starter@0.0.1-RELEASE
+- pkg:maven/site.heaven96/req-filter-starter@0.0.1-RELEASE?classifier=sources

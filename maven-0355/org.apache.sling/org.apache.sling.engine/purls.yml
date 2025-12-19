@@ -112,3 +112,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.8.0
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.8.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.engine@2.9.0
+- pkg:maven/org.apache.sling/org.apache.sling.engine@2.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.engine@2.9.0?classifier=sources

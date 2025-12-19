@@ -116,6 +116,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.45
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.46
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.46?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@1.0.5
@@ -449,6 +452,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.55
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.55?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.56
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.56?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@3.0.6
@@ -542,6 +548,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.33
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.34
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@4.0.4
@@ -605,6 +614,15 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.21
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.22
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.23
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.24
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.impl@5.0.3

@@ -1,2 +1,4 @@
 - pkg:maven/org.opengauss/opengauss-jdbc@2.0.1-compatibility
 - pkg:maven/org.opengauss/opengauss-jdbc@2.0.1-compatibility?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@3.0.0
+- pkg:maven/org.opengauss/opengauss-jdbc@3.0.0?classifier=sources

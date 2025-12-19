@@ -1,0 +1,3 @@
+- pkg:maven/aws.sdk.kotlin/keyspaces@0.14.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/keyspaces@0.14.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/keyspaces@0.14.2-beta?classifier=sources

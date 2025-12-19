@@ -128,6 +128,12 @@
 - pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220217-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220303-1.32.1
 - pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220303-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220317-1.32.1
+- pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220317-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220324-1.32.1
+- pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220324-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220411-1.32.1
+- pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev20220411-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-displayvideo@v1-rev3-1.25.0

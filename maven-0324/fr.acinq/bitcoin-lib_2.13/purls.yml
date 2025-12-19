@@ -6,3 +6,9 @@
 - pkg:maven/fr.acinq/bitcoin-lib_2.13@0.20-KMP
 - pkg:maven/fr.acinq/bitcoin-lib_2.13@0.20-KMP?classifier=sources
 - pkg:maven/fr.acinq/bitcoin-lib_2.13@0.20?classifier=sources
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.21-KMP
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.21-KMP?classifier=sources
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.22
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.22?classifier=sources
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.23
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.23?classifier=sources

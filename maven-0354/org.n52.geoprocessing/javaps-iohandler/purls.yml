@@ -6,3 +6,5 @@
 - pkg:maven/org.n52.geoprocessing/javaps-iohandler@2?classifier=sources
 - pkg:maven/org.n52.geoprocessing/javaps-iohandler@3
 - pkg:maven/org.n52.geoprocessing/javaps-iohandler@3?classifier=sources
+- pkg:maven/org.n52.geoprocessing/javaps-iohandler@4
+- pkg:maven/org.n52.geoprocessing/javaps-iohandler@4?classifier=sources

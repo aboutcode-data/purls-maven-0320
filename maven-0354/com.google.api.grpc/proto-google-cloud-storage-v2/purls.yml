@@ -44,3 +44,13 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.4.3-alpha?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.4.4-alpha
 - pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.4.4-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.4.5-alpha
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.4.5-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.5.0-alpha
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.5.0-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.5.1-alpha
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.5.1-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.6.0-alpha
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.6.0-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.6.1-alpha
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-v2@2.6.1-alpha?classifier=sources

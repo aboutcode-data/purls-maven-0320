@@ -114,6 +114,8 @@
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev20201021-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev20201021-1.32.1
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev20201021-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-books@v1-rev20220318-1.32.1
+- pkg:maven/com.google.apis/google-api-services-books@v1-rev20220318-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev21-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev21-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-books@v1-rev21-1.14.1-beta

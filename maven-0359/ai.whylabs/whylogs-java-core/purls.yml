@@ -19,3 +19,4 @@
 - pkg:maven/ai.whylabs/whylogs-java-core@0.1.4-b6?classifier=sources
 - pkg:maven/ai.whylabs/whylogs-java-core@0.1.7-b1?classifier=sources
 - pkg:maven/ai.whylabs/whylogs-java-core@0.1.7-b2?classifier=sources
+- pkg:maven/ai.whylabs/whylogs-java-core@0.1.8-b0?classifier=sources

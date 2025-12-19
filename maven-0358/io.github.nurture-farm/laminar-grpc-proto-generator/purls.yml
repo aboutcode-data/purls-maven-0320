@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nurture-farm/laminar-grpc-proto-generator@1.0.0
+- pkg:maven/io.github.nurture-farm/laminar-grpc-proto-generator@1.0.0?classifier=sources

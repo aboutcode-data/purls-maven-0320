@@ -10,3 +10,7 @@
 - pkg:maven/io.github.flayone/advance-gdt@3.5.4_4431_core?type=aar
 - pkg:maven/io.github.flayone/advance-gdt@3.5.5_4441?type=aar
 - pkg:maven/io.github.flayone/advance-gdt@3.5.5_4441_core?type=aar
+- pkg:maven/io.github.flayone/advance-gdt@3.6.0.1_4441?type=aar
+- pkg:maven/io.github.flayone/advance-gdt@3.6.0.1_4441_core?type=aar
+- pkg:maven/io.github.flayone/advance-gdt@3.6.0_4441?type=aar
+- pkg:maven/io.github.flayone/advance-gdt@3.6.0_4441_core?type=aar

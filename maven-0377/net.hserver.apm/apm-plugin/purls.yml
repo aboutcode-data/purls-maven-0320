@@ -1,2 +1,4 @@
 - pkg:maven/net.hserver.apm/apm-plugin@1.0
 - pkg:maven/net.hserver.apm/apm-plugin@1.0?classifier=sources
+- pkg:maven/net.hserver.apm/apm-plugin@2.0
+- pkg:maven/net.hserver.apm/apm-plugin@2.0?classifier=sources

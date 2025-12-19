@@ -16,3 +16,6 @@
 - pkg:maven/com.juul.tuulbox/logging@5.0.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging@5.1.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging@6.0.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging@6.0.1?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging@6.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging@6.2.0?classifier=sources

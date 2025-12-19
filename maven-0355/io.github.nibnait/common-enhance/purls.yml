@@ -1,0 +1,6 @@
+- pkg:maven/io.github.nibnait/common-enhance@1.0-RELEASE
+- pkg:maven/io.github.nibnait/common-enhance@1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.nibnait/common-enhance@1.1-RELEASE
+- pkg:maven/io.github.nibnait/common-enhance@1.1-RELEASE?classifier=sources
+- pkg:maven/io.github.nibnait/common-enhance@22.04.11
+- pkg:maven/io.github.nibnait/common-enhance@22.04.11?classifier=sources

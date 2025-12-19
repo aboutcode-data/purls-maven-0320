@@ -202,3 +202,5 @@
 - pkg:maven/org.apache.lucene/lucene-facet@8.9.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-facet@9.0.0
 - pkg:maven/org.apache.lucene/lucene-facet@9.0.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-facet@9.1.0
+- pkg:maven/org.apache.lucene/lucene-facet@9.1.0?classifier=sources

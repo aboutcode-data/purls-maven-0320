@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-model-project-codegen@8.20.0.Beta
+- pkg:maven/org.drools/drools-model-project-codegen@8.20.0.Beta?classifier=sources

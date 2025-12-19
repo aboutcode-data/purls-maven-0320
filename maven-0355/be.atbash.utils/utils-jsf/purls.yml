@@ -12,3 +12,5 @@
 - pkg:maven/be.atbash.utils/utils-jsf@0.9.3?classifier=sources
 - pkg:maven/be.atbash.utils/utils-jsf@1.0.0
 - pkg:maven/be.atbash.utils/utils-jsf@1.0.0?classifier=sources
+- pkg:maven/be.atbash.utils/utils-jsf@1.1.0
+- pkg:maven/be.atbash.utils/utils-jsf@1.1.0?classifier=sources

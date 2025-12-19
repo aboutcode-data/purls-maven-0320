@@ -42,3 +42,5 @@
 - pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@5.0.0?classifier=sources
 - pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@5.0.1
 - pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@5.0.1?classifier=sources
+- pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@5.1.0
+- pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@5.1.0?classifier=sources

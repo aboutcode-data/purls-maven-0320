@@ -1,0 +1,2 @@
+- pkg:maven/io.holixon.avro.maven/axon-avro-generator-maven-plugin@0.0.2
+- pkg:maven/io.holixon.avro.maven/axon-avro-generator-maven-plugin@0.0.2?classifier=sources

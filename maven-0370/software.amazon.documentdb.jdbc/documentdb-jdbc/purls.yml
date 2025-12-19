@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.documentdb.jdbc/documentdb-jdbc@1.2.2?classifier=sources

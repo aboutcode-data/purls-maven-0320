@@ -204,6 +204,10 @@
 - pkg:maven/org.drools/ruleunit@7.65.0.Final?classifier=sources
 - pkg:maven/org.drools/ruleunit@7.66.0.Final
 - pkg:maven/org.drools/ruleunit@7.66.0.Final?classifier=sources
+- pkg:maven/org.drools/ruleunit@7.67.0.Final
+- pkg:maven/org.drools/ruleunit@7.67.0.Final?classifier=sources
+- pkg:maven/org.drools/ruleunit@7.68.0.Final
+- pkg:maven/org.drools/ruleunit@7.68.0.Final?classifier=sources
 - pkg:maven/org.drools/ruleunit@7.7.0.Final
 - pkg:maven/org.drools/ruleunit@7.7.0.Final?classifier=sources
 - pkg:maven/org.drools/ruleunit@7.8.0.Final

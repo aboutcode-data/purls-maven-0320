@@ -31,3 +31,5 @@
 - pkg:maven/org.springframework.ldap/spring-ldap-ldif-batch@2.3.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.ldap/spring-ldap-ldif-batch@2.3.6.RELEASE
 - pkg:maven/org.springframework.ldap/spring-ldap-ldif-batch@2.3.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-ldif-batch@2.3.7.RELEASE
+- pkg:maven/org.springframework.ldap/spring-ldap-ldif-batch@2.3.7.RELEASE?classifier=sources

@@ -48,6 +48,7 @@
 - pkg:maven/org.jboss.forge.roaster/roaster-distribution@2.23.1.Alpha1?classifier=sources
 - pkg:maven/org.jboss.forge.roaster/roaster-distribution@2.23.1.Final?classifier=sources
 - pkg:maven/org.jboss.forge.roaster/roaster-distribution@2.23.2.Final?classifier=sources
+- pkg:maven/org.jboss.forge.roaster/roaster-distribution@2.24.0.Final?classifier=sources
 - pkg:maven/org.jboss.forge.roaster/roaster-distribution@2.8.1.Final?classifier=sources
 - pkg:maven/org.jboss.forge.roaster/roaster-distribution@2.8.2.Final?classifier=sources
 - pkg:maven/org.jboss.forge.roaster/roaster-distribution@2.9.0.Final?classifier=sources

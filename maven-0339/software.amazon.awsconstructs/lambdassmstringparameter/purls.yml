@@ -98,6 +98,18 @@
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.145.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.146.0
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.146.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.147.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.147.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.148.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.148.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.149.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.149.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.150.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.150.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.151.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.151.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.152.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@1.152.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.0.0
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.0.0-rc.1
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.0.0-rc.1?classifier=sources
@@ -110,3 +122,7 @@
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.2.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.3.0
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.3.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.4.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.4.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.5.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.5.0?classifier=sources

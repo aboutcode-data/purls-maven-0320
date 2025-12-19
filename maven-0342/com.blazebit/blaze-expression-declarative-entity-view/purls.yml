@@ -30,6 +30,8 @@
 - pkg:maven/com.blazebit/blaze-expression-declarative-entity-view@1.0.0-Alpha25?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-declarative-entity-view@1.0.0-Alpha26
 - pkg:maven/com.blazebit/blaze-expression-declarative-entity-view@1.0.0-Alpha26?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-declarative-entity-view@1.0.0-Alpha27
+- pkg:maven/com.blazebit/blaze-expression-declarative-entity-view@1.0.0-Alpha27?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-declarative-entity-view@1.0.0-Alpha4
 - pkg:maven/com.blazebit/blaze-expression-declarative-entity-view@1.0.0-Alpha4?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-declarative-entity-view@1.0.0-Alpha5

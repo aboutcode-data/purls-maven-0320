@@ -8,3 +8,7 @@
 - pkg:maven/com.x-breeze.powerdecomposer/PowerDeComposer@1.1.2?classifier=sources
 - pkg:maven/com.x-breeze.powerdecomposer/PowerDeComposer@1.2.0
 - pkg:maven/com.x-breeze.powerdecomposer/PowerDeComposer@1.2.0?classifier=sources
+- pkg:maven/com.x-breeze.powerdecomposer/PowerDeComposer@1.3.3
+- pkg:maven/com.x-breeze.powerdecomposer/PowerDeComposer@1.3.3?classifier=sources
+- pkg:maven/com.x-breeze.powerdecomposer/PowerDeComposer@1.4.0
+- pkg:maven/com.x-breeze.powerdecomposer/PowerDeComposer@1.4.0?classifier=sources

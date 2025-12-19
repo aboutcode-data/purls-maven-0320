@@ -8,3 +8,7 @@
 - pkg:maven/org.drools/drools-wiring-dynamic@8.17.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-wiring-dynamic@8.18.0.Beta
 - pkg:maven/org.drools/drools-wiring-dynamic@8.18.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-wiring-dynamic@8.19.0.Beta
+- pkg:maven/org.drools/drools-wiring-dynamic@8.19.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-wiring-dynamic@8.20.0.Beta
+- pkg:maven/org.drools/drools-wiring-dynamic@8.20.0.Beta?classifier=sources

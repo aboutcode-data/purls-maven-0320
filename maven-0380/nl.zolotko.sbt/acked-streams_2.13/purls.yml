@@ -1,0 +1,2 @@
+- pkg:maven/nl.zolotko.sbt/acked-streams_2.13@2.2.0
+- pkg:maven/nl.zolotko.sbt/acked-streams_2.13@2.2.0?classifier=sources

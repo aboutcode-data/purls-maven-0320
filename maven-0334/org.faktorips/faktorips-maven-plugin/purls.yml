@@ -62,3 +62,5 @@
 - pkg:maven/org.faktorips/faktorips-maven-plugin@21.6.7?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-plugin@22.6.0-m01
 - pkg:maven/org.faktorips/faktorips-maven-plugin@22.6.0-m01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-plugin@22.6.0-m02
+- pkg:maven/org.faktorips/faktorips-maven-plugin@22.6.0-m02?classifier=sources

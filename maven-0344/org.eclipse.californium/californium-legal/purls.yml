@@ -32,6 +32,8 @@
 - pkg:maven/org.eclipse.californium/californium-legal@2.6.5
 - pkg:maven/org.eclipse.californium/californium-legal@2.6.6
 - pkg:maven/org.eclipse.californium/californium-legal@2.7.0
+- pkg:maven/org.eclipse.californium/californium-legal@2.7.1
+- pkg:maven/org.eclipse.californium/californium-legal@2.7.2
 - pkg:maven/org.eclipse.californium/californium-legal@3.0.0
 - pkg:maven/org.eclipse.californium/californium-legal@3.0.0-M1
 - pkg:maven/org.eclipse.californium/californium-legal@3.0.0-M2
@@ -43,3 +45,4 @@
 - pkg:maven/org.eclipse.californium/californium-legal@3.2.0
 - pkg:maven/org.eclipse.californium/californium-legal@3.3.0
 - pkg:maven/org.eclipse.californium/californium-legal@3.3.1
+- pkg:maven/org.eclipse.californium/californium-legal@3.4.0

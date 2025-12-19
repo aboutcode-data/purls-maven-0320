@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tomdw.java.modules.spring/java-modules-context-boot-starter@0.0.5
+- pkg:maven/io.github.tomdw.java.modules.spring/java-modules-context-boot-starter@0.0.5?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/pl.matsuo/matsuo-webapp@0.1.4?type=war
 - pkg:maven/pl.matsuo/matsuo-webapp@0.1.5?type=war
 - pkg:maven/pl.matsuo/matsuo-webapp@0.1.6?type=war
+- pkg:maven/pl.matsuo/matsuo-webapp@0.1.7?type=war

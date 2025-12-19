@@ -1,0 +1,2 @@
+- pkg:maven/com.qualizeal.community/sigmoid@1.0.0
+- pkg:maven/com.qualizeal.community/sigmoid@1.0.0?classifier=sources

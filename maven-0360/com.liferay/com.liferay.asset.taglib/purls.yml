@@ -431,6 +431,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.31
 - pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.32
+- pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.taglib@4.2.4
@@ -619,6 +622,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.taglib@5.3.2
 - pkg:maven/com.liferay/com.liferay.asset.taglib@5.3.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.taglib@5.3.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.taglib@5.3.3
+- pkg:maven/com.liferay/com.liferay.asset.taglib@5.3.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.taglib@5.3.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.0.0
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.0.0?classifier=sources-commercial
@@ -707,6 +713,15 @@
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.11
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.12
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.13
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.14
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.2
@@ -733,3 +748,6 @@
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.9
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.taglib@6.2.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.taglib@7.0.0
+- pkg:maven/com.liferay/com.liferay.asset.taglib@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.taglib@7.0.0?classifier=sources-commercial

@@ -1,0 +1,6 @@
+- pkg:maven/cn.gjing/excel-style@2022.1.0
+- pkg:maven/cn.gjing/excel-style@2022.1.0?classifier=sources
+- pkg:maven/cn.gjing/excel-style@2022.1.1
+- pkg:maven/cn.gjing/excel-style@2022.1.1?classifier=sources
+- pkg:maven/cn.gjing/excel-style@2022.1.2
+- pkg:maven/cn.gjing/excel-style@2022.1.2?classifier=sources

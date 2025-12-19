@@ -1,2 +1,4 @@
 - pkg:maven/com.cognitect.aws/connect-contact-lens@810.2.801.0
 - pkg:maven/com.cognitect.aws/connect-contact-lens@810.2.801.0?classifier=sources
+- pkg:maven/com.cognitect.aws/connect-contact-lens@821.2.1107.0
+- pkg:maven/com.cognitect.aws/connect-contact-lens@821.2.1107.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.nablarch.framework/nablarch-fw-web@1.10.0
+- pkg:maven/com.nablarch.framework/nablarch-fw-web@1.10.0?classifier=sources
 - pkg:maven/com.nablarch.framework/nablarch-fw-web@1.2.2
 - pkg:maven/com.nablarch.framework/nablarch-fw-web@1.2.2?classifier=sources
 - pkg:maven/com.nablarch.framework/nablarch-fw-web@1.2.3

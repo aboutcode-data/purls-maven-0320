@@ -6,3 +6,5 @@
 - pkg:maven/org.postgresql/pgjdbc-osgi-test@42.3.2?classifier=sources
 - pkg:maven/org.postgresql/pgjdbc-osgi-test@42.3.3
 - pkg:maven/org.postgresql/pgjdbc-osgi-test@42.3.3?classifier=sources
+- pkg:maven/org.postgresql/pgjdbc-osgi-test@42.3.4
+- pkg:maven/org.postgresql/pgjdbc-osgi-test@42.3.4?classifier=sources

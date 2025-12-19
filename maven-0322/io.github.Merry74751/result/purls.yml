@@ -1,0 +1,10 @@
+- pkg:maven/io.github.Merry74751/result@0.0.1.RELEASE
+- pkg:maven/io.github.Merry74751/result@0.0.1.RELEASE?classifier=sources
+- pkg:maven/io.github.Merry74751/result@0.0.2
+- pkg:maven/io.github.Merry74751/result@0.0.2?classifier=sources
+- pkg:maven/io.github.Merry74751/result@0.0.3
+- pkg:maven/io.github.Merry74751/result@0.0.3?classifier=sources
+- pkg:maven/io.github.Merry74751/result@0.1
+- pkg:maven/io.github.Merry74751/result@0.1.RELEASE
+- pkg:maven/io.github.Merry74751/result@0.1.RELEASE?classifier=sources
+- pkg:maven/io.github.Merry74751/result@0.1?classifier=sources

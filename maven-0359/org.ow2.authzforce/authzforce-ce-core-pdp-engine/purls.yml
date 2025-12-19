@@ -46,6 +46,10 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@18.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@19.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@19.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@20.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@20.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@20.1.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@20.1.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@8.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@8.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-engine@9.0.0

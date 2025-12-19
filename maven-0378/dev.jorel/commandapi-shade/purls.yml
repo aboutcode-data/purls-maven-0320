@@ -1,0 +1,2 @@
+- pkg:maven/dev.jorel/commandapi-shade@7.0.0
+- pkg:maven/dev.jorel/commandapi-shade@7.0.0?classifier=sources

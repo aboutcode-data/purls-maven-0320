@@ -17,6 +17,8 @@
 - pkg:maven/com.hazelcast/hazelcast-sql@4.1.7?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql@4.1.8
 - pkg:maven/com.hazelcast/hazelcast-sql@4.1.8?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-sql@4.1.9
+- pkg:maven/com.hazelcast/hazelcast-sql@4.1.9?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql@4.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql@4.2
 - pkg:maven/com.hazelcast/hazelcast-sql@4.2-BETA-1
@@ -39,8 +41,12 @@
 - pkg:maven/com.hazelcast/hazelcast-sql@5.0.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql@5.0.2
 - pkg:maven/com.hazelcast/hazelcast-sql@5.0.2?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-sql@5.0.3
+- pkg:maven/com.hazelcast/hazelcast-sql@5.0.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql@5.0?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql@5.1
 - pkg:maven/com.hazelcast/hazelcast-sql@5.1-BETA-1
 - pkg:maven/com.hazelcast/hazelcast-sql@5.1-BETA-1?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-sql@5.1.1
+- pkg:maven/com.hazelcast/hazelcast-sql@5.1.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql@5.1?classifier=sources

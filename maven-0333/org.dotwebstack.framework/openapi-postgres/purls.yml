@@ -5,6 +5,14 @@
 - pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.104
 - pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.105
 - pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.106
+- pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.107
+- pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.108
+- pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.109
+- pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.110
+- pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.111
+- pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.112
+- pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.113
+- pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.114
 - pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.39
 - pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.40
 - pkg:maven/org.dotwebstack.framework/openapi-postgres@0.3.41

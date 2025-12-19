@@ -60,6 +60,8 @@
 - pkg:maven/com.sap.cds/cds4j-core@1.26.1?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-core@1.26.2
 - pkg:maven/com.sap.cds/cds4j-core@1.26.2?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-core@1.27.0
+- pkg:maven/com.sap.cds/cds4j-core@1.27.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-core@1.8.0
 - pkg:maven/com.sap.cds/cds4j-core@1.8.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-core@1.9.0

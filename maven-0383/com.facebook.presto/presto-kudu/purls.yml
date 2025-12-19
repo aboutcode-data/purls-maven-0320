@@ -95,3 +95,4 @@
 - pkg:maven/com.facebook.presto/presto-kudu@0.269?classifier=sources
 - pkg:maven/com.facebook.presto/presto-kudu@0.270?classifier=sources
 - pkg:maven/com.facebook.presto/presto-kudu@0.271?classifier=sources
+- pkg:maven/com.facebook.presto/presto-kudu@0.272?classifier=sources

@@ -80,3 +80,4 @@
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2021c?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2021d?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2021e?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2022a?classifier=sources

@@ -32,6 +32,8 @@
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@5.12.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@5.12.1
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@5.12.1?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@5.12.2
+- pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@5.12.2?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@5.2.0
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@5.2.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@5.2.1

@@ -1,0 +1,6 @@
+- pkg:maven/de.codecamp.vaadin/vaadin-service-ref@0.6.0
+- pkg:maven/de.codecamp.vaadin/vaadin-service-ref@0.6.0?classifier=sources
+- pkg:maven/de.codecamp.vaadin/vaadin-service-ref@0.7.0
+- pkg:maven/de.codecamp.vaadin/vaadin-service-ref@0.7.0?classifier=sources
+- pkg:maven/de.codecamp.vaadin/vaadin-service-ref@0.7.1
+- pkg:maven/de.codecamp.vaadin/vaadin-service-ref@0.7.1?classifier=sources

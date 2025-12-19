@@ -44,3 +44,5 @@
 - pkg:maven/vip.toby.rpc/simple-rpc@1.4.3.RELEASE?classifier=sources
 - pkg:maven/vip.toby.rpc/simple-rpc@1.4.4
 - pkg:maven/vip.toby.rpc/simple-rpc@1.4.4?classifier=sources
+- pkg:maven/vip.toby.rpc/simple-rpc@1.4.5
+- pkg:maven/vip.toby.rpc/simple-rpc@1.4.5?classifier=sources

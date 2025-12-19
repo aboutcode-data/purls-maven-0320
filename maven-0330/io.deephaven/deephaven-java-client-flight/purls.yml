@@ -1,4 +1,5 @@
 - pkg:maven/io.deephaven/deephaven-java-client-flight@0.10.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-java-client-flight@0.11.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-java-client-flight@0.6.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-java-client-flight@0.6.1?classifier=sources
 - pkg:maven/io.deephaven/deephaven-java-client-flight@0.7.0?classifier=sources

@@ -3,4 +3,14 @@
 - pkg:maven/com.notikumi/bananaj@0.6.1?classifier=sources
 - pkg:maven/com.notikumi/bananaj@0.6.2
 - pkg:maven/com.notikumi/bananaj@0.6.2?classifier=sources
+- pkg:maven/com.notikumi/bananaj@0.6.3-notikumi
+- pkg:maven/com.notikumi/bananaj@0.6.3-notikumi?classifier=sources
+- pkg:maven/com.notikumi/bananaj@0.6.4-notikumi
+- pkg:maven/com.notikumi/bananaj@0.6.4-notikumi?classifier=sources
+- pkg:maven/com.notikumi/bananaj@0.6.5-notikumi
+- pkg:maven/com.notikumi/bananaj@0.6.5-notikumi?classifier=sources
+- pkg:maven/com.notikumi/bananaj@0.6.6-notikumi
+- pkg:maven/com.notikumi/bananaj@0.6.6-notikumi?classifier=sources
+- pkg:maven/com.notikumi/bananaj@0.6.7-notikumi
+- pkg:maven/com.notikumi/bananaj@0.6.7-notikumi?classifier=sources
 - pkg:maven/com.notikumi/bananaj@0.6?classifier=sources

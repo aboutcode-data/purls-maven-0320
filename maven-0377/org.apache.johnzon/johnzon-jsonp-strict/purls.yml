@@ -12,5 +12,7 @@
 - pkg:maven/org.apache.johnzon/johnzon-jsonp-strict@1.2.15?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-jsonp-strict@1.2.16
 - pkg:maven/org.apache.johnzon/johnzon-jsonp-strict@1.2.16?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-jsonp-strict@1.2.17
+- pkg:maven/org.apache.johnzon/johnzon-jsonp-strict@1.2.17?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-jsonp-strict@1.2.9
 - pkg:maven/org.apache.johnzon/johnzon-jsonp-strict@1.2.9?classifier=sources

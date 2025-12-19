@@ -16,3 +16,5 @@
 - pkg:maven/com.cognitect.aws/marketplacecommerceanalytics@794.2.637.0?classifier=sources
 - pkg:maven/com.cognitect.aws/marketplacecommerceanalytics@809.2.784.0
 - pkg:maven/com.cognitect.aws/marketplacecommerceanalytics@809.2.784.0?classifier=sources
+- pkg:maven/com.cognitect.aws/marketplacecommerceanalytics@821.2.1107.0
+- pkg:maven/com.cognitect.aws/marketplacecommerceanalytics@821.2.1107.0?classifier=sources

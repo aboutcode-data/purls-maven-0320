@@ -46,3 +46,5 @@
 - pkg:maven/com.cognitect.aws/organizations@811.2.844.0?classifier=sources
 - pkg:maven/com.cognitect.aws/organizations@811.2.934.0
 - pkg:maven/com.cognitect.aws/organizations@811.2.934.0?classifier=sources
+- pkg:maven/com.cognitect.aws/organizations@822.2.1109.0
+- pkg:maven/com.cognitect.aws/organizations@822.2.1109.0?classifier=sources

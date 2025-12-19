@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/swag-questionary@1.33-b8d2639-client
+- pkg:maven/dev.vality/swag-questionary@1.33-b8d2639-client?classifier=sources
+- pkg:maven/dev.vality/swag-questionary@1.33-b8d2639-server
+- pkg:maven/dev.vality/swag-questionary@1.33-b8d2639-server?classifier=sources

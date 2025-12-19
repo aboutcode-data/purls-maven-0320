@@ -1,0 +1,4 @@
+- pkg:maven/org.camunda.bpm/camunda-bpm-junit5@7.17.0
+- pkg:maven/org.camunda.bpm/camunda-bpm-junit5@7.17.0-alpha6
+- pkg:maven/org.camunda.bpm/camunda-bpm-junit5@7.17.0-alpha6?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-bpm-junit5@7.17.0?classifier=sources

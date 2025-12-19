@@ -11,3 +11,4 @@
 - pkg:maven/org.mnode.ical4j/ical4j-zoneinfo-outlook@2.0.4
 - pkg:maven/org.mnode.ical4j/ical4j-zoneinfo-outlook@2.0.4?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j-zoneinfo-outlook@2.1.0?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-zoneinfo-outlook@2.1.2?classifier=sources

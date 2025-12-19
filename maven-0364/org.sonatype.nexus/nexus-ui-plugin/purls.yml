@@ -103,3 +103,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-ui-plugin@3.37.3-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-ui-plugin@3.38.0-01
 - pkg:maven/org.sonatype.nexus/nexus-ui-plugin@3.38.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-ui-plugin@3.38.1-01
+- pkg:maven/org.sonatype.nexus/nexus-ui-plugin@3.38.1-01?classifier=sources

@@ -86,3 +86,7 @@
 - pkg:maven/com.checkout/checkout-sdk-java@5.6.0?classifier=sources
 - pkg:maven/com.checkout/checkout-sdk-java@5.7.0
 - pkg:maven/com.checkout/checkout-sdk-java@5.7.0?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@5.7.2
+- pkg:maven/com.checkout/checkout-sdk-java@5.7.2?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@5.8.0
+- pkg:maven/com.checkout/checkout-sdk-java@5.8.0?classifier=sources

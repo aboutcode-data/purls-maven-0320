@@ -24,3 +24,7 @@
 - pkg:maven/com.github.irof/jig-maven-plugin@2021.9.2?classifier=sources
 - pkg:maven/com.github.irof/jig-maven-plugin@2021.9.4.1
 - pkg:maven/com.github.irof/jig-maven-plugin@2021.9.4.1?classifier=sources
+- pkg:maven/com.github.irof/jig-maven-plugin@2022.3.2
+- pkg:maven/com.github.irof/jig-maven-plugin@2022.3.2?classifier=sources
+- pkg:maven/com.github.irof/jig-maven-plugin@2022.3.3
+- pkg:maven/com.github.irof/jig-maven-plugin@2022.3.3?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.thomasjensen.checkstyle.addons/checkstyle-addons-java7@6.0.0?classifier=sources
 - pkg:maven/com.thomasjensen.checkstyle.addons/checkstyle-addons-java7@6.0.1
 - pkg:maven/com.thomasjensen.checkstyle.addons/checkstyle-addons-java7@6.0.1?classifier=sources
+- pkg:maven/com.thomasjensen.checkstyle.addons/checkstyle-addons-java7@7.0.0?classifier=sources
+- pkg:maven/com.thomasjensen.checkstyle.addons/checkstyle-addons-java7@7.0.1?classifier=sources

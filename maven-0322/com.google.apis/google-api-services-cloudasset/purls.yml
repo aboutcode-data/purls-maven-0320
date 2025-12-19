@@ -236,6 +236,12 @@
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220211-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220225-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220225-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220304-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220304-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220318-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220318-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220412-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev20220412-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev27-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev27-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1-rev27-1.25.0
@@ -538,6 +544,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1beta1-rev20211015-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1beta1-rev20211125-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1beta1-rev20211125-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1beta1-rev20220412-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1beta1-rev20220412-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1beta1-rev21-1.22.0
@@ -752,6 +760,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p1beta1-rev20211015-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p1beta1-rev20211125-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p1beta1-rev20211125-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1p1beta1-rev20220412-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1p1beta1-rev20220412-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p1beta1-rev4-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p1beta1-rev4-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p4beta1-rev20200403-1.30.9
@@ -804,6 +814,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p4beta1-rev20211015-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p4beta1-rev20211125-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p4beta1-rev20211125-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1p4beta1-rev20220412-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1p4beta1-rev20220412-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p5beta1-rev20200717-1.30.10
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p5beta1-rev20200717-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p5beta1-rev20200731-1.30.10
@@ -846,6 +858,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p5beta1-rev20211015-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p5beta1-rev20211125-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p5beta1-rev20211125-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1p5beta1-rev20220412-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1p5beta1-rev20220412-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p7beta1-rev20210129-1.31.0
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p7beta1-rev20210129-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p7beta1-rev20210209-1.31.0
@@ -872,3 +886,5 @@
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p7beta1-rev20211015-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p7beta1-rev20211125-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudasset@v1p7beta1-rev20211125-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1p7beta1-rev20220412-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudasset@v1p7beta1-rev20220412-1.32.1?classifier=sources

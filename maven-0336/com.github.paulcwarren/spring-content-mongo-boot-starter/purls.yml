@@ -98,6 +98,8 @@
 - pkg:maven/com.github.paulcwarren/spring-content-mongo-boot-starter@2.0.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-mongo-boot-starter@2.1.0
 - pkg:maven/com.github.paulcwarren/spring-content-mongo-boot-starter@2.1.0?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-mongo-boot-starter@2.2.0
+- pkg:maven/com.github.paulcwarren/spring-content-mongo-boot-starter@2.2.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-mongo-boot-starter@v1.2.0
 - pkg:maven/com.github.paulcwarren/spring-content-mongo-boot-starter@v1.2.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-mongo-boot-starter@v1.2.3

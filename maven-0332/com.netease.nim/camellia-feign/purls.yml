@@ -1,0 +1,8 @@
+- pkg:maven/com.netease.nim/camellia-feign@1.0.52
+- pkg:maven/com.netease.nim/camellia-feign@1.0.52?classifier=sources
+- pkg:maven/com.netease.nim/camellia-feign@1.0.53
+- pkg:maven/com.netease.nim/camellia-feign@1.0.53?classifier=sources
+- pkg:maven/com.netease.nim/camellia-feign@1.0.54
+- pkg:maven/com.netease.nim/camellia-feign@1.0.54?classifier=sources
+- pkg:maven/com.netease.nim/camellia-feign@1.0.55
+- pkg:maven/com.netease.nim/camellia-feign@1.0.55?classifier=sources

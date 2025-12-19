@@ -10,3 +10,7 @@
 - pkg:maven/com.paywholesail/assisted-inject@0.1.4?classifier=sources
 - pkg:maven/com.paywholesail/assisted-inject@0.2.0
 - pkg:maven/com.paywholesail/assisted-inject@0.2.0?classifier=sources
+- pkg:maven/com.paywholesail/assisted-inject@0.9.0
+- pkg:maven/com.paywholesail/assisted-inject@0.9.0?classifier=sources
+- pkg:maven/com.paywholesail/assisted-inject@0.9.1-RC-5
+- pkg:maven/com.paywholesail/assisted-inject@0.9.1-RC-5?classifier=sources

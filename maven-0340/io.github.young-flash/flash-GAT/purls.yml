@@ -1,0 +1,6 @@
+- pkg:maven/io.github.young-flash/flash-GAT@3.7.0
+- pkg:maven/io.github.young-flash/flash-GAT@3.7.0?classifier=sources
+- pkg:maven/io.github.young-flash/flash-GAT@4.1.0
+- pkg:maven/io.github.young-flash/flash-GAT@4.1.0?classifier=sources
+- pkg:maven/io.github.young-flash/flash-GAT@4.2.0
+- pkg:maven/io.github.young-flash/flash-GAT@4.2.0?classifier=sources

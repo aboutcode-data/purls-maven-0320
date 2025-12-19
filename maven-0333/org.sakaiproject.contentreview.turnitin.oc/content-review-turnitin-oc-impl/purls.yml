@@ -40,3 +40,5 @@
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@21.1?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@21.2
 - pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@21.2?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@22.0
+- pkg:maven/org.sakaiproject.contentreview.turnitin.oc/content-review-turnitin-oc-impl@22.0?classifier=sources

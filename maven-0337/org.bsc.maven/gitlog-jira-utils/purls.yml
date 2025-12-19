@@ -15,6 +15,8 @@
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.10?classifier=sources
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.11
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.11?classifier=sources
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.12
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@7.12?classifier=sources
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.1?classifier=sources
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.2
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.2.1

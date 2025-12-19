@@ -117,6 +117,8 @@
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.4
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.4.1
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.4.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.40
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.40?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.5
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/additional-bundle@2.5.1

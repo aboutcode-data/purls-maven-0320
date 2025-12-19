@@ -70,3 +70,7 @@
 - pkg:maven/org.dhatim/dropwizard-sftp@2.1.8?classifier=sources
 - pkg:maven/org.dhatim/dropwizard-sftp@2.1.9
 - pkg:maven/org.dhatim/dropwizard-sftp@2.1.9?classifier=sources
+- pkg:maven/org.dhatim/dropwizard-sftp@4.0.0
+- pkg:maven/org.dhatim/dropwizard-sftp@4.0.0?classifier=sources
+- pkg:maven/org.dhatim/dropwizard-sftp@4.0.1
+- pkg:maven/org.dhatim/dropwizard-sftp@4.0.1?classifier=sources

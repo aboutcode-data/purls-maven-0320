@@ -74,3 +74,5 @@
 - pkg:maven/com.lightstep.tracer/tracer-okhttp@0.30.3?classifier=sources
 - pkg:maven/com.lightstep.tracer/tracer-okhttp@0.31.0
 - pkg:maven/com.lightstep.tracer/tracer-okhttp@0.31.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/tracer-okhttp@0.32.0
+- pkg:maven/com.lightstep.tracer/tracer-okhttp@0.32.0?classifier=sources

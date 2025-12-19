@@ -88,3 +88,7 @@
 - pkg:maven/org.sosy-lab/java-smt@3.8.0?classifier=sources
 - pkg:maven/org.sosy-lab/java-smt@3.9.0-1-g304079c2
 - pkg:maven/org.sosy-lab/java-smt@3.9.0-1-g304079c2?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@4.0.0
+- pkg:maven/org.sosy-lab/java-smt@4.0.0?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@4.0.2
+- pkg:maven/org.sosy-lab/java-smt@4.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.grossmax.ktorwebsocketrest/client@0.0.2?classifier=sources
+- pkg:maven/net.grossmax.ktorwebsocketrest/client@0.0.3?classifier=sources
+- pkg:maven/net.grossmax.ktorwebsocketrest/client@0.0.4?classifier=sources
+- pkg:maven/net.grossmax.ktorwebsocketrest/client@0.0.5?classifier=sources

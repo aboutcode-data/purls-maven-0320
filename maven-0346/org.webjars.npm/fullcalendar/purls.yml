@@ -68,6 +68,8 @@
 - pkg:maven/org.webjars.npm/fullcalendar@5.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/fullcalendar@5.9.0
 - pkg:maven/org.webjars.npm/fullcalendar@5.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/fullcalendar@6.0.0-beta.4
+- pkg:maven/org.webjars.npm/fullcalendar@6.0.0-beta.4?classifier=sources
 - pkg:maven/org.webjars.npm/fullcalendar@6.1.4
 - pkg:maven/org.webjars.npm/fullcalendar@6.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/fullcalendar@6.1.7

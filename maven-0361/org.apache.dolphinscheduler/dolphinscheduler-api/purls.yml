@@ -38,6 +38,8 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@2.0.5?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@2.0.6
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@2.0.6?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@2.0.9
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@2.0.9?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.0.0
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.0.0-alpha
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.0.0-alpha?classifier=sources
@@ -56,6 +58,8 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.0.4?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.0.5
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.0.5?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.0.6
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.0.6?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.0
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.0?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.1
@@ -68,3 +72,7 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.4?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.5
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.5?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.6
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.6?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.7
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-api@3.1.7?classifier=sources

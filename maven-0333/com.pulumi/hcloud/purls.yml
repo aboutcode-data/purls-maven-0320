@@ -18,3 +18,15 @@
 - pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683265207%2B22311331?classifier=sources
 - pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683351659%2Bdf694672?classifier=sources
 - pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683610602%2B90d82eb9?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683784438%2B608909ef?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683924732%2B23618bbb?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683925305%2B0c5174d3?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683926290%2Bd19e8565?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683931196%2Bc1aa56a7?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1683956067%2B5096fe6b?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1684215271%2Bb7a0222f?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0-alpha.1684255613%2Bbf9b3aeb?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.12.0?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.13.0-alpha.1684388373%2Bf4977da8?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.13.0-alpha.1685079818%2B1422bdad?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.13.0-alpha.1685165954%2Bdf885288?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.litong/socket-business-websocket@1.0.4
+- pkg:maven/io.gitee.litong/socket-business-websocket@1.0.4?classifier=sources

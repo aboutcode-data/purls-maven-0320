@@ -27,3 +27,6 @@
 - pkg:maven/tech.relaycorp/poweb@1.5.43?classifier=sources
 - pkg:maven/tech.relaycorp/poweb@1.5.44?classifier=sources
 - pkg:maven/tech.relaycorp/poweb@1.5.45?classifier=sources
+- pkg:maven/tech.relaycorp/poweb@1.5.46?classifier=sources
+- pkg:maven/tech.relaycorp/poweb@1.5.47?classifier=sources
+- pkg:maven/tech.relaycorp/poweb@1.5.48?classifier=sources

@@ -120,3 +120,7 @@
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@291-gamma?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@294
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@294?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-s3a@295
+- pkg:maven/org.alluxio/alluxio-underfs-s3a@295?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-s3a@300
+- pkg:maven/org.alluxio/alluxio-underfs-s3a@300?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.streamthoughts/jikkou-extension-schema-registry@0.22.0
+- pkg:maven/io.streamthoughts/jikkou-extension-schema-registry@0.22.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/cn.com.kingbase/kingbase8@8.6.0
+- pkg:maven/cn.com.kingbase/kingbase8@8.6.0.jre6
+- pkg:maven/cn.com.kingbase/kingbase8@8.6.0.jre6?classifier=sources
+- pkg:maven/cn.com.kingbase/kingbase8@8.6.0.jre7
+- pkg:maven/cn.com.kingbase/kingbase8@8.6.0.jre7?classifier=sources
+- pkg:maven/cn.com.kingbase/kingbase8@8.6.0?classifier=sources

@@ -5,6 +5,8 @@
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@10.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@10.4.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@10.5.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/form-flow-valtimo@10.5.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/form-flow-valtimo@10.5.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.11.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.12.0.RELEASE?classifier=sources
@@ -23,6 +25,7 @@
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.24.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.26.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.26.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.26.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.7.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.8.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-flow-valtimo@9.9.0.RELEASE?classifier=sources

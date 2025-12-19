@@ -66,3 +66,7 @@
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@291-gamma?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@294
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@294?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@295
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@295?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@300
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@300?classifier=sources

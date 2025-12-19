@@ -70,3 +70,4 @@
 - pkg:maven/com.palantir.safe-logging/safe-logging@3.2.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/safe-logging@3.3.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/safe-logging@3.4.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/safe-logging@3.5.0?classifier=sources

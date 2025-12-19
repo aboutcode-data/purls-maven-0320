@@ -32,6 +32,7 @@
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.12?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.13?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.14?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.15?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.1?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.2?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.4?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/org.typesense/typesense-java@0.0.9-beta9?classifier=sources
 - pkg:maven/org.typesense/typesense-java@0.1.0?classifier=sources
 - pkg:maven/org.typesense/typesense-java@0.2.0?classifier=sources
+- pkg:maven/org.typesense/typesense-java@0.3.0?classifier=sources

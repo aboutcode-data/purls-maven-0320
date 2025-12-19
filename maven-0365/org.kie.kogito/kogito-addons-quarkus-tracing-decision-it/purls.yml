@@ -25,3 +25,5 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-tracing-decision-it@1.37.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-tracing-decision-it@1.38.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-tracing-decision-it@1.39.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-tracing-decision-it@1.40.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-tracing-decision-it@1.40.1.Final

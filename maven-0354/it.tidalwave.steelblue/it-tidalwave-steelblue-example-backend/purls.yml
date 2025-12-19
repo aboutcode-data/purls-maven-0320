@@ -16,3 +16,5 @@
 - pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-1?classifier=sources
 - pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-2
 - pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-2?classifier=sources
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-3
+- pkg:maven/it.tidalwave.steelblue/it-tidalwave-steelblue-example-backend@1.1-ALPHA-3?classifier=sources

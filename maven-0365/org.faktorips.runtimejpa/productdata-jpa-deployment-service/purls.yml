@@ -1,2 +1,4 @@
 - pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-service@22.12.0?classifier=sources
 - pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-service@22.12.0?type=war
+- pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-service@23.6.0?classifier=sources
+- pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-service@23.6.0?type=war

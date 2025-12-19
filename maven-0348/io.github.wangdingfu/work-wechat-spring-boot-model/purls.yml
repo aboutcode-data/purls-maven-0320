@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wangdingfu/work-wechat-spring-boot-model@2.3.1
+- pkg:maven/io.github.wangdingfu/work-wechat-spring-boot-model@2.3.1?classifier=sources

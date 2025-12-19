@@ -1,0 +1,2 @@
+- pkg:maven/tech.catheu/jnotebook-utils@0.4.0
+- pkg:maven/tech.catheu/jnotebook-utils@0.4.0?classifier=sources

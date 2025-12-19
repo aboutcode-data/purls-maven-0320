@@ -17,6 +17,11 @@
 - pkg:maven/me.proton.core/account-manager-data-db@10.3.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@10.4.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@10.5.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-data-db@10.6.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-data-db@10.7.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-data-db@10.7.1?classifier=sources
+- pkg:maven/me.proton.core/account-manager-data-db@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-data-db@12.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@3.0.0?classifier=sources

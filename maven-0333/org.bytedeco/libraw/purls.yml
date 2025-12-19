@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco/libraw@0.21.1-1.5.9
+- pkg:maven/org.bytedeco/libraw@0.21.1-1.5.9?classifier=sources

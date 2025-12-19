@@ -16,3 +16,5 @@
 - pkg:maven/io.quarkiverse.tika/quarkus-tika-deployment@2.0.0.CR2
 - pkg:maven/io.quarkiverse.tika/quarkus-tika-deployment@2.0.0.CR2?classifier=sources
 - pkg:maven/io.quarkiverse.tika/quarkus-tika-deployment@2.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.tika/quarkus-tika-deployment@2.0.1
+- pkg:maven/io.quarkiverse.tika/quarkus-tika-deployment@2.0.1?classifier=sources

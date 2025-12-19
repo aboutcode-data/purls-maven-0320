@@ -1,2 +1,4 @@
 - pkg:maven/net.guerlab.sms/guerlab-sms-aliyun-openapi-starter@2.3.0
 - pkg:maven/net.guerlab.sms/guerlab-sms-aliyun-openapi-starter@2.3.0?classifier=sources
+- pkg:maven/net.guerlab.sms/guerlab-sms-aliyun-openapi-starter@2.4.0
+- pkg:maven/net.guerlab.sms/guerlab-sms-aliyun-openapi-starter@2.4.0?classifier=sources

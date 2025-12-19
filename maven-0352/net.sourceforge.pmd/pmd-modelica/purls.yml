@@ -72,3 +72,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-modelica@7.0.0-rc1?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-modelica@7.0.0-rc2
 - pkg:maven/net.sourceforge.pmd/pmd-modelica@7.0.0-rc2?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@7.0.0-rc3
+- pkg:maven/net.sourceforge.pmd/pmd-modelica@7.0.0-rc3?classifier=sources

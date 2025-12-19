@@ -2,3 +2,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-ssh-util@2.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-ssh-util@2.2.0.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-ssh-util@2.2.0.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-ssh-util@2.2.1.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-ssh-util@2.2.1.Final?classifier=sources

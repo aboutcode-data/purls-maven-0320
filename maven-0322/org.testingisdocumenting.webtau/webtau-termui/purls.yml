@@ -12,3 +12,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-termui@1.52?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-termui@1.53
 - pkg:maven/org.testingisdocumenting.webtau/webtau-termui@1.53?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-termui@2.0
+- pkg:maven/org.testingisdocumenting.webtau/webtau-termui@2.0?classifier=sources

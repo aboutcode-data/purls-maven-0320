@@ -1,0 +1,2 @@
+- pkg:maven/com.abissell/java-log-util@0.1.0
+- pkg:maven/com.abissell/java-log-util@0.1.0?classifier=sources

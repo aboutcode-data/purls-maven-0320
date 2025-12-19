@@ -14,3 +14,7 @@
 - pkg:maven/dev.struchkov.haiti.filter/haiti-filter-jooq@0.6.0?classifier=sources
 - pkg:maven/dev.struchkov.haiti.filter/haiti-filter-jooq@0.8.0
 - pkg:maven/dev.struchkov.haiti.filter/haiti-filter-jooq@0.8.0?classifier=sources
+- pkg:maven/dev.struchkov.haiti.filter/haiti-filter-jooq@1.0.0
+- pkg:maven/dev.struchkov.haiti.filter/haiti-filter-jooq@1.0.0?classifier=sources
+- pkg:maven/dev.struchkov.haiti.filter/haiti-filter-jooq@1.1.0
+- pkg:maven/dev.struchkov.haiti.filter/haiti-filter-jooq@1.1.0?classifier=sources

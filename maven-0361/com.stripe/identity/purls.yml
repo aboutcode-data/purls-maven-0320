@@ -36,6 +36,10 @@
 - pkg:maven/com.stripe/identity@20.24.1?classifier=sources
 - pkg:maven/com.stripe/identity@20.24.2?classifier=sources
 - pkg:maven/com.stripe/identity@20.25.0?classifier=sources
+- pkg:maven/com.stripe/identity@20.25.1?classifier=sources
+- pkg:maven/com.stripe/identity@20.25.2?classifier=sources
+- pkg:maven/com.stripe/identity@20.25.3?classifier=sources
+- pkg:maven/com.stripe/identity@20.25.4?classifier=sources
 - pkg:maven/com.stripe/identity@20.3.0?classifier=sources
 - pkg:maven/com.stripe/identity@20.4.0?classifier=sources
 - pkg:maven/com.stripe/identity@20.5.0?classifier=sources

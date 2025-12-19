@@ -30,3 +30,5 @@
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.55.09?type=aar
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.56.01?type=aar
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.60.01?type=aar
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.60.02?type=aar
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.60.03?type=aar

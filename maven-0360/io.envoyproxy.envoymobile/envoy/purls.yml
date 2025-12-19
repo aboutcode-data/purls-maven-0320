@@ -96,3 +96,6 @@
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.5.0.20230410?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.5.0.20230417?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy@0.5.0.20230424?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.5.0.20230515?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.5.0.20230522?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy@0.5.0.20230529?classifier=sources

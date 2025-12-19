@@ -14,3 +14,7 @@
 - pkg:maven/org.myguide/creator@2.4.0?type=aar
 - pkg:maven/org.myguide/creator@2.5.0?classifier=sources
 - pkg:maven/org.myguide/creator@2.5.0?type=aar
+- pkg:maven/org.myguide/creator@2023.05?classifier=sources
+- pkg:maven/org.myguide/creator@2023.05?type=aar
+- pkg:maven/org.myguide/creator@2023.06?classifier=sources
+- pkg:maven/org.myguide/creator@2023.06?type=aar

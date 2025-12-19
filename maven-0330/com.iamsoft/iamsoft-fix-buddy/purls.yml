@@ -2,3 +2,5 @@
 - pkg:maven/com.iamsoft/iamsoft-fix-buddy@11.0.0?classifier=sources
 - pkg:maven/com.iamsoft/iamsoft-fix-buddy@17.0.0
 - pkg:maven/com.iamsoft/iamsoft-fix-buddy@17.0.0?classifier=sources
+- pkg:maven/com.iamsoft/iamsoft-fix-buddy@17.0.1
+- pkg:maven/com.iamsoft/iamsoft-fix-buddy@17.0.1?classifier=sources

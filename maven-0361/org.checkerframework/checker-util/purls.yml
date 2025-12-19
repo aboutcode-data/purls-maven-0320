@@ -31,3 +31,4 @@
 - pkg:maven/org.checkerframework/checker-util@3.33.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-util@3.34.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-util@3.35.0?classifier=sources
+- pkg:maven/org.checkerframework/checker-util@3.36.0?classifier=sources

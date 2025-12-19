@@ -10,6 +10,15 @@
 - pkg:maven/com.pulumi/github@5.0.0-alpha.1663887713%2B95d019c2?classifier=sources
 - pkg:maven/com.pulumi/github@5.0.0?classifier=sources
 - pkg:maven/com.pulumi/github@5.1.0?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0-alpha.1683784123%2Bfd26f47b?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0-alpha.1683955644%2Bdd42cf58?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0-alpha.1684215254%2Bad753b8b?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0-alpha.1684388330%2Bb9145b06?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0-alpha.1684867565%2B02f04317?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0-alpha.1685079549%2B5f78cd04?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0-alpha.1685165806%2Bd896ebd6?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0-alpha.1685673200%2Be3562663?classifier=sources
+- pkg:maven/com.pulumi/github@5.10.0?classifier=sources
 - pkg:maven/com.pulumi/github@5.2.0-alpha.1673638210%2B50435cfe?classifier=sources
 - pkg:maven/com.pulumi/github@5.2.0?classifier=sources
 - pkg:maven/com.pulumi/github@5.2.1?classifier=sources
@@ -40,3 +49,6 @@
 - pkg:maven/com.pulumi/github@5.9.0-alpha.1683265053%2B07076736?classifier=sources
 - pkg:maven/com.pulumi/github@5.9.0-alpha.1683351090%2B65a01653?classifier=sources
 - pkg:maven/com.pulumi/github@5.9.0-alpha.1683610445%2B963eb76d?classifier=sources
+- pkg:maven/com.pulumi/github@5.9.0-alpha.1683752304%2Bc5de6232?classifier=sources
+- pkg:maven/com.pulumi/github@5.9.0?classifier=sources
+- pkg:maven/com.pulumi/github@5.9.1?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/se.fnord/log4j2-logstash-reactor@0.10?classifier=sources
+- pkg:maven/se.fnord/log4j2-logstash-reactor@0.11?classifier=sources
+- pkg:maven/se.fnord/log4j2-logstash-reactor@0.12?classifier=sources
 - pkg:maven/se.fnord/log4j2-logstash-reactor@0.7?classifier=sources
 - pkg:maven/se.fnord/log4j2-logstash-reactor@0.8?classifier=sources
 - pkg:maven/se.fnord/log4j2-logstash-reactor@0.9?classifier=sources

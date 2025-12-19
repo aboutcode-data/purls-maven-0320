@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.4.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.4.200?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.5.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.5.0?classifier=sources

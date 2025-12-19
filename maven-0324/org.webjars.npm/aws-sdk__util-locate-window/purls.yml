@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/aws-sdk__util-locate-window@3.188.0
 - pkg:maven/org.webjars.npm/aws-sdk__util-locate-window@3.188.0?classifier=sources
+- pkg:maven/org.webjars.npm/aws-sdk__util-locate-window@3.310.0
+- pkg:maven/org.webjars.npm/aws-sdk__util-locate-window@3.310.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__util-locate-window@3.55.0
 - pkg:maven/org.webjars.npm/aws-sdk__util-locate-window@3.55.0?classifier=sources

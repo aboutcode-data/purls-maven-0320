@@ -350,6 +350,12 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.60
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.60?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.61
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.61?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.61?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.62
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.62?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.62?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.impl@2.0.7

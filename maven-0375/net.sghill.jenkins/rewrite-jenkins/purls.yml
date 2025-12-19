@@ -1,0 +1,1 @@
+- pkg:maven/net.sghill.jenkins/rewrite-jenkins@0.1.1?classifier=sources

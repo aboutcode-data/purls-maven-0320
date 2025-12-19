@@ -1,1 +1,2 @@
 - pkg:maven/com.google.pay.button/compose-pay-button@0.1.0-beta01?classifier=sources
+- pkg:maven/com.google.pay.button/compose-pay-button@0.1.0-beta02?classifier=sources

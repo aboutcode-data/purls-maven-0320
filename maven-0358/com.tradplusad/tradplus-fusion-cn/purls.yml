@@ -1,1 +1,3 @@
 - pkg:maven/com.tradplusad/tradplus-fusion-cn@62.9.3.30.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-fusion-cn@62.9.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-fusion-cn@62.9.7.10.1?type=aar

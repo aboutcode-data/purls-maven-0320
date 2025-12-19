@@ -1,0 +1,2 @@
+- pkg:maven/io.atleon/atleon-schema-registry-confluent-embedded@0.17.0
+- pkg:maven/io.atleon/atleon-schema-registry-confluent-embedded@0.17.0?classifier=sources

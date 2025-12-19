@@ -1,3 +1,5 @@
 - pkg:maven/io.github.bkoehm/reliable-tx-spring-jdbc@0.10.1?classifier=sources
 - pkg:maven/io.github.bkoehm/reliable-tx-spring-jdbc@0.10?classifier=sources
 - pkg:maven/io.github.bkoehm/reliable-tx-spring-jdbc@0.11?classifier=sources
+- pkg:maven/io.github.bkoehm/reliable-tx-spring-jdbc@1.0?classifier=sources
+- pkg:maven/io.github.bkoehm/reliable-tx-spring-jdbc@1.1?classifier=sources

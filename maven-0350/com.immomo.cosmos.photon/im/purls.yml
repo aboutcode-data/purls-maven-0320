@@ -18,3 +18,11 @@
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.23_2053?type=aar
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.23_2054?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.23_2054?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1001?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1001?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1002?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1002?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1003?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1003?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1004?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1004?type=aar

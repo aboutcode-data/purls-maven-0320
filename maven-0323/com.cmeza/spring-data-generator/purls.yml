@@ -20,3 +20,5 @@
 - pkg:maven/com.cmeza/spring-data-generator@1.1.8?classifier=sources
 - pkg:maven/com.cmeza/spring-data-generator@1.1.9
 - pkg:maven/com.cmeza/spring-data-generator@1.1.9?classifier=sources
+- pkg:maven/com.cmeza/spring-data-generator@2.0.0
+- pkg:maven/com.cmeza/spring-data-generator@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sebastian-toepfer.json.rpc/json-rpc-extension-openrpc@0.4.0
+- pkg:maven/io.github.sebastian-toepfer.json.rpc/json-rpc-extension-openrpc@0.4.0?classifier=sources

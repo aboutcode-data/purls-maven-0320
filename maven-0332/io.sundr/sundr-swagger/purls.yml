@@ -1,3 +1,5 @@
+- pkg:maven/io.sundr/sundr-swagger@0.100.0
+- pkg:maven/io.sundr/sundr-swagger@0.100.0?classifier=sources
 - pkg:maven/io.sundr/sundr-swagger@0.13.1
 - pkg:maven/io.sundr/sundr-swagger@0.13.1?classifier=sources
 - pkg:maven/io.sundr/sundr-swagger@0.14.0
@@ -134,5 +136,7 @@
 - pkg:maven/io.sundr/sundr-swagger@0.93.2?classifier=sources
 - pkg:maven/io.sundr/sundr-swagger@0.94.0
 - pkg:maven/io.sundr/sundr-swagger@0.94.0?classifier=sources
+- pkg:maven/io.sundr/sundr-swagger@0.95.0
+- pkg:maven/io.sundr/sundr-swagger@0.95.0?classifier=sources
 - pkg:maven/io.sundr/sundr-swagger@1.14.0
 - pkg:maven/io.sundr/sundr-swagger@1.14.0?classifier=sources

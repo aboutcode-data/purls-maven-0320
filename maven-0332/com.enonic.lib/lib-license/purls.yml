@@ -1,1 +1,2 @@
 - pkg:maven/com.enonic.lib/lib-license@3.0.1?classifier=sources
+- pkg:maven/com.enonic.lib/lib-license@3.1.0?classifier=sources

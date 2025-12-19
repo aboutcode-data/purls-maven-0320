@@ -126,3 +126,5 @@
 - pkg:maven/com.flowlogix/flowlogix-jee@5.3.2
 - pkg:maven/com.flowlogix/flowlogix-jee@5.3.2?classifier=sources
 - pkg:maven/com.flowlogix/flowlogix-jee@5.3?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-jee@5.4
+- pkg:maven/com.flowlogix/flowlogix-jee@5.4?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.13@0.1.8?classifier=sources
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.13@0.1.9
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.13@0.1.9?classifier=sources
+- pkg:maven/pl.datart/http4s-timer-newrelic_2.13@1.0.0
+- pkg:maven/pl.datart/http4s-timer-newrelic_2.13@1.0.0?classifier=sources

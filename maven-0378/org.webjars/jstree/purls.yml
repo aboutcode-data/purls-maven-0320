@@ -37,6 +37,8 @@
 - pkg:maven/org.webjars/jstree@3.3.11?classifier=sources
 - pkg:maven/org.webjars/jstree@3.3.12
 - pkg:maven/org.webjars/jstree@3.3.12?classifier=sources
+- pkg:maven/org.webjars/jstree@3.3.14
+- pkg:maven/org.webjars/jstree@3.3.14?classifier=sources
 - pkg:maven/org.webjars/jstree@3.3.3
 - pkg:maven/org.webjars/jstree@3.3.3?classifier=sources
 - pkg:maven/org.webjars/jstree@3.3.5

@@ -1,0 +1,5 @@
+- pkg:maven/dev.inmo/micro_utils.koin.generator@0.16.12?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.koin.generator@0.16.13?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.koin.generator@0.17.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.koin.generator@0.17.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.koin.generator@0.17.2?classifier=sources

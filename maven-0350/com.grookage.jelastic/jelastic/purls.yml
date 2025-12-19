@@ -1,4 +1,6 @@
 - pkg:maven/com.grookage.jelastic/jelastic@7.2.1-1
 - pkg:maven/com.grookage.jelastic/jelastic@7.2.1-1?classifier=sources
 - pkg:maven/com.grookage.jelastic/jelastic@7.3.0
+- pkg:maven/com.grookage.jelastic/jelastic@7.3.0-1
+- pkg:maven/com.grookage.jelastic/jelastic@7.3.0-1?classifier=sources
 - pkg:maven/com.grookage.jelastic/jelastic@7.3.0?classifier=sources

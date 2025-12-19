@@ -1,2 +1,4 @@
 - pkg:maven/tech.guanli.boot.suite/throwable@1.0.1-RELEASE
 - pkg:maven/tech.guanli.boot.suite/throwable@1.0.1-RELEASE?classifier=sources
+- pkg:maven/tech.guanli.boot.suite/throwable@1.0.2-RELEASE
+- pkg:maven/tech.guanli.boot.suite/throwable@1.0.2-RELEASE?classifier=sources

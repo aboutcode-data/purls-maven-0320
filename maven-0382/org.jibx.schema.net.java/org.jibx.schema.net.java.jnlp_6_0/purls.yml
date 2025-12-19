@@ -16,3 +16,7 @@
 - pkg:maven/org.jibx.schema.net.java/org.jibx.schema.net.java.jnlp_6_0@1.2.0?classifier=sources
 - pkg:maven/org.jibx.schema.net.java/org.jibx.schema.net.java.jnlp_6_0@1.2.1
 - pkg:maven/org.jibx.schema.net.java/org.jibx.schema.net.java.jnlp_6_0@1.2.1?classifier=sources
+- pkg:maven/org.jibx.schema.net.java/org.jibx.schema.net.java.jnlp_6_0@1.2.3
+- pkg:maven/org.jibx.schema.net.java/org.jibx.schema.net.java.jnlp_6_0@1.2.3?classifier=sources
+- pkg:maven/org.jibx.schema.net.java/org.jibx.schema.net.java.jnlp_6_0@1.2.4
+- pkg:maven/org.jibx.schema.net.java/org.jibx.schema.net.java.jnlp_6_0@1.2.4?classifier=sources

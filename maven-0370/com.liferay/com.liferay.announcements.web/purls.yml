@@ -208,6 +208,9 @@
 - pkg:maven/com.liferay/com.liferay.announcements.web@2.0.55
 - pkg:maven/com.liferay/com.liferay.announcements.web@2.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.announcements.web@2.0.55?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.56
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.announcements.web@2.0.56?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.announcements.web@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.announcements.web@2.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.announcements.web@2.0.6
@@ -835,6 +838,12 @@
 - pkg:maven/com.liferay/com.liferay.announcements.web@6.0.42
 - pkg:maven/com.liferay/com.liferay.announcements.web@6.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.announcements.web@6.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.announcements.web@6.0.43
+- pkg:maven/com.liferay/com.liferay.announcements.web@6.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.announcements.web@6.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.announcements.web@6.0.44
+- pkg:maven/com.liferay/com.liferay.announcements.web@6.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.announcements.web@6.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.announcements.web@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.announcements.web@6.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.announcements.web@6.0.5

@@ -43,3 +43,5 @@
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-j2ee@0.8?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-j2ee@0.9
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-j2ee@0.9?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-j2ee@1.15.1
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-j2ee@1.15.1?classifier=sources

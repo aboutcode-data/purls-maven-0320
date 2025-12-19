@@ -68,3 +68,5 @@
 - pkg:maven/org.mandas/docker-client@6.1.0?classifier=sources
 - pkg:maven/org.mandas/docker-client@7.0.0
 - pkg:maven/org.mandas/docker-client@7.0.0?classifier=sources
+- pkg:maven/org.mandas/docker-client@7.0.1
+- pkg:maven/org.mandas/docker-client@7.0.1?classifier=sources

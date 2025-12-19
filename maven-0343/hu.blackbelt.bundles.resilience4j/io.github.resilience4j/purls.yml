@@ -1,1 +1,2 @@
 - pkg:maven/hu.blackbelt.bundles.resilience4j/io.github.resilience4j@1.7.1_0
+- pkg:maven/hu.blackbelt.bundles.resilience4j/io.github.resilience4j@1.7.1_1

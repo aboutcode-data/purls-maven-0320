@@ -6,3 +6,5 @@
 - pkg:maven/org.cleartk/cleartk-eval@0.9.2?classifier=sources
 - pkg:maven/org.cleartk/cleartk-eval@2.0.0
 - pkg:maven/org.cleartk/cleartk-eval@2.0.0?classifier=sources
+- pkg:maven/org.cleartk/cleartk-eval@3.0.0
+- pkg:maven/org.cleartk/cleartk-eval@3.0.0?classifier=sources

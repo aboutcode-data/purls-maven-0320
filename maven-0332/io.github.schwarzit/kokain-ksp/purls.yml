@@ -1,1 +1,2 @@
 - pkg:maven/io.github.schwarzit/kokain-ksp@0.1?classifier=sources
+- pkg:maven/io.github.schwarzit/kokain-ksp@1.1.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.projectnessie.nessie/nessie-quarkus-common@0.51.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/de.valtech.avs/avs.complete@2.0.0?classifier=sources
+- pkg:maven/de.valtech.avs/avs.complete@2.0.1?classifier=sources

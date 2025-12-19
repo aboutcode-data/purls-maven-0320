@@ -1,5 +1,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@1.99.1
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@1.99.1?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@1.99.2
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@1.99.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@2.3.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@2.3.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@2.4.0
@@ -178,3 +180,5 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@2.6.8?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@2.6.9
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@2.6.9?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@4.0.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-java-generated-client@4.0.0?classifier=sources

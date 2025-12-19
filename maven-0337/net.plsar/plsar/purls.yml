@@ -18,3 +18,8 @@
 - pkg:maven/net.plsar/plsar@1.20.0?classifier=sources
 - pkg:maven/net.plsar/plsar@1.30.0?classifier=sources
 - pkg:maven/net.plsar/plsar@1.40.0?classifier=sources
+- pkg:maven/net.plsar/plsar@1.50.0?classifier=sources
+- pkg:maven/net.plsar/plsar@1.60.0?classifier=sources
+- pkg:maven/net.plsar/plsar@1.70.0?classifier=sources
+- pkg:maven/net.plsar/plsar@1.80.0?classifier=sources
+- pkg:maven/net.plsar/plsar@1.90.0?classifier=sources

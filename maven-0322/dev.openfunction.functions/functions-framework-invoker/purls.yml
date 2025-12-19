@@ -1,2 +1,4 @@
+- pkg:maven/dev.openfunction.functions/functions-framework-invoker@1.0.0
 - pkg:maven/dev.openfunction.functions/functions-framework-invoker@1.0.0-SNAPSHOTS
 - pkg:maven/dev.openfunction.functions/functions-framework-invoker@1.0.0-SNAPSHOTS?classifier=sources
+- pkg:maven/dev.openfunction.functions/functions-framework-invoker@1.0.0?classifier=sources

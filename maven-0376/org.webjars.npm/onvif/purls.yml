@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/onvif@0.6.7
+- pkg:maven/org.webjars.npm/onvif@0.6.7?classifier=sources

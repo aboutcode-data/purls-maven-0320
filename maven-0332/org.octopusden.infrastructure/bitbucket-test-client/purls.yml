@@ -1,0 +1,5 @@
+- pkg:maven/org.octopusden.infrastructure/bitbucket-test-client@0.0.1?classifier=sources
+- pkg:maven/org.octopusden.infrastructure/bitbucket-test-client@2.0.1?classifier=sources
+- pkg:maven/org.octopusden.infrastructure/bitbucket-test-client@2.0.2?classifier=sources
+- pkg:maven/org.octopusden.infrastructure/bitbucket-test-client@2.0.3?classifier=sources
+- pkg:maven/org.octopusden.infrastructure/bitbucket-test-client@v2.0.1?classifier=sources

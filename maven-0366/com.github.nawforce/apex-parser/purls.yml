@@ -12,5 +12,7 @@
 - pkg:maven/com.github.nawforce/apex-parser@2.14.0?classifier=sources
 - pkg:maven/com.github.nawforce/apex-parser@2.16.0
 - pkg:maven/com.github.nawforce/apex-parser@2.16.0?classifier=sources
+- pkg:maven/com.github.nawforce/apex-parser@2.17.0
+- pkg:maven/com.github.nawforce/apex-parser@2.17.0?classifier=sources
 - pkg:maven/com.github.nawforce/apex-parser@2.9.1
 - pkg:maven/com.github.nawforce/apex-parser@2.9.1?classifier=sources

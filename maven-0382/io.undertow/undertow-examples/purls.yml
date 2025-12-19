@@ -563,6 +563,8 @@
 - pkg:maven/io.undertow/undertow-examples@2.2.21.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-examples@2.2.22.Final
 - pkg:maven/io.undertow/undertow-examples@2.2.22.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-examples@2.2.23.Final
+- pkg:maven/io.undertow/undertow-examples@2.2.23.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-examples@2.2.3.Final
 - pkg:maven/io.undertow/undertow-examples@2.2.3.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-examples@2.2.4.Final
@@ -590,3 +592,5 @@
 - pkg:maven/io.undertow/undertow-examples@2.3.2.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-examples@2.3.3.Final
 - pkg:maven/io.undertow/undertow-examples@2.3.3.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-examples@2.3.4.Final
+- pkg:maven/io.undertow/undertow-examples@2.3.4.Final?classifier=sources

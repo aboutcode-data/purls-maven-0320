@@ -95,6 +95,8 @@
 - pkg:maven/com.ultracart/rest-sdk@3.10.105?classifier=sources
 - pkg:maven/com.ultracart/rest-sdk@3.10.10?classifier=sources
 - pkg:maven/com.ultracart/rest-sdk@3.10.11
+- pkg:maven/com.ultracart/rest-sdk@3.10.111
+- pkg:maven/com.ultracart/rest-sdk@3.10.111?classifier=sources
 - pkg:maven/com.ultracart/rest-sdk@3.10.11?classifier=sources
 - pkg:maven/com.ultracart/rest-sdk@3.10.12
 - pkg:maven/com.ultracart/rest-sdk@3.10.12?classifier=sources
@@ -479,6 +481,8 @@
 - pkg:maven/com.ultracart/rest-sdk@4.0.121-RC?classifier=sources
 - pkg:maven/com.ultracart/rest-sdk@4.0.122-RC
 - pkg:maven/com.ultracart/rest-sdk@4.0.122-RC?classifier=sources
+- pkg:maven/com.ultracart/rest-sdk@4.0.128
+- pkg:maven/com.ultracart/rest-sdk@4.0.128?classifier=sources
 - pkg:maven/com.ultracart/rest-sdk@4.0.20-RC
 - pkg:maven/com.ultracart/rest-sdk@4.0.20-RC?classifier=sources
 - pkg:maven/com.ultracart/rest-sdk@4.0.23-RC

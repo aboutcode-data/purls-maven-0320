@@ -2,3 +2,5 @@
 - pkg:maven/net.avcompris.commons/avc-commons3-databeans@0.0.2?classifier=sources
 - pkg:maven/net.avcompris.commons/avc-commons3-databeans@0.0.5
 - pkg:maven/net.avcompris.commons/avc-commons3-databeans@0.0.5?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-commons3-databeans@0.6.4
+- pkg:maven/net.avcompris.commons/avc-commons3-databeans@0.6.4?classifier=sources

@@ -30,3 +30,9 @@
 - pkg:maven/org.evrete/evrete-jsr94@2.2.03?classifier=sources
 - pkg:maven/org.evrete/evrete-jsr94@2.2.04
 - pkg:maven/org.evrete/evrete-jsr94@2.2.04?classifier=sources
+- pkg:maven/org.evrete/evrete-jsr94@2.2.05
+- pkg:maven/org.evrete/evrete-jsr94@2.2.05?classifier=sources
+- pkg:maven/org.evrete/evrete-jsr94@3.0.01
+- pkg:maven/org.evrete/evrete-jsr94@3.0.01?classifier=sources
+- pkg:maven/org.evrete/evrete-jsr94@3.0.02
+- pkg:maven/org.evrete/evrete-jsr94@3.0.02?classifier=sources

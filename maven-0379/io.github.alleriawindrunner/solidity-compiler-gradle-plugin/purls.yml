@@ -1,1 +1,2 @@
 - pkg:maven/io.github.alleriawindrunner/solidity-compiler-gradle-plugin@1.0.0?classifier=sources
+- pkg:maven/io.github.alleriawindrunner/solidity-compiler-gradle-plugin@1.0.1?classifier=sources

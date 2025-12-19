@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/firebase__installations-types@0.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__installations-types@0.4.0
 - pkg:maven/org.webjars.npm/firebase__installations-types@0.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__installations-types@0.5.0
+- pkg:maven/org.webjars.npm/firebase__installations-types@0.5.0?classifier=sources

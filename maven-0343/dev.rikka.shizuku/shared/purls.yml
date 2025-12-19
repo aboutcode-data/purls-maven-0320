@@ -3,3 +3,5 @@
 - pkg:maven/dev.rikka.shizuku/shared@12.0.0?classifier=sources
 - pkg:maven/dev.rikka.shizuku/shared@12.1.0?classifier=sources
 - pkg:maven/dev.rikka.shizuku/shared@12.2.0?classifier=sources
+- pkg:maven/dev.rikka.shizuku/shared@13.0.0?classifier=sources
+- pkg:maven/dev.rikka.shizuku/shared@13.1.0?classifier=sources

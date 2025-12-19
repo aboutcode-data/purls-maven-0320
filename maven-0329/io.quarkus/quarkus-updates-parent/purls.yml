@@ -1,1 +1,3 @@
 - pkg:maven/io.quarkus/quarkus-updates-parent@0.0.1?classifier=source-release&type=zip
+- pkg:maven/io.quarkus/quarkus-updates-parent@0.0.2?classifier=source-release&type=zip
+- pkg:maven/io.quarkus/quarkus-updates-parent@0.0.3?classifier=source-release&type=zip

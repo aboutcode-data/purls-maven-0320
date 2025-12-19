@@ -8,3 +8,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-builtin-watchosx86@4.4.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-builtin-watchosx86@4.5.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-builtin-watchosx86@5.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-builtin-watchosx86@5.1.0?classifier=sources

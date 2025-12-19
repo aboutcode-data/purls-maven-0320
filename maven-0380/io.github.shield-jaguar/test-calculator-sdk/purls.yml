@@ -1,2 +1,6 @@
 - pkg:maven/io.github.shield-jaguar/test-calculator-sdk@1.0.0
 - pkg:maven/io.github.shield-jaguar/test-calculator-sdk@1.0.0?classifier=sources
+- pkg:maven/io.github.shield-jaguar/test-calculator-sdk@2.0.7
+- pkg:maven/io.github.shield-jaguar/test-calculator-sdk@2.0.7?classifier=sources
+- pkg:maven/io.github.shield-jaguar/test-calculator-sdk@2.0.8
+- pkg:maven/io.github.shield-jaguar/test-calculator-sdk@2.0.8?classifier=sources

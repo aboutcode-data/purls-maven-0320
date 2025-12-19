@@ -1,0 +1,2 @@
+- pkg:maven/com.formance/ledgerclient@v1.9.1
+- pkg:maven/com.formance/ledgerclient@v1.9.1?classifier=sources

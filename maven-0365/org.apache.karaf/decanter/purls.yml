@@ -1,1 +1,2 @@
+- pkg:maven/org.apache.karaf/decanter@2.10.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.karaf/decanter@2.9.0?classifier=source-release&type=zip

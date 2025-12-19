@@ -6,3 +6,4 @@
 - pkg:maven/io.github.github-yoyo/yoyo-data@0.0.0.7?classifier=sources
 - pkg:maven/io.github.github-yoyo/yoyo-data@0.0.0.8?classifier=sources
 - pkg:maven/io.github.github-yoyo/yoyo-data@1.0.0.0?classifier=sources
+- pkg:maven/io.github.github-yoyo/yoyo-data@1.0.0.1?classifier=sources

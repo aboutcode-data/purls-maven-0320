@@ -2,3 +2,4 @@
 - pkg:maven/com.github.bancolombia/aws-parameter-store-manager-sync@3.1.1.PREVIEW?classifier=sources
 - pkg:maven/com.github.bancolombia/aws-parameter-store-manager-sync@3.1.1?classifier=sources
 - pkg:maven/com.github.bancolombia/aws-parameter-store-manager-sync@3.2.0?classifier=sources
+- pkg:maven/com.github.bancolombia/aws-parameter-store-manager-sync@4.0.0?classifier=sources

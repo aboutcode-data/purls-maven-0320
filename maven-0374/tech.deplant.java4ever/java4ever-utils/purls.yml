@@ -1,1 +1,2 @@
 - pkg:maven/tech.deplant.java4ever/java4ever-utils@1.4.0?classifier=sources
+- pkg:maven/tech.deplant.java4ever/java4ever-utils@1.5.0?classifier=sources

@@ -22,5 +22,9 @@
 - pkg:maven/pro.verron/docx-stamper@1.6.0-javax?classifier=sources
 - pkg:maven/pro.verron/docx-stamper@1.6.1-javax
 - pkg:maven/pro.verron/docx-stamper@1.6.1-javax?classifier=sources
+- pkg:maven/pro.verron/docx-stamper@1.6.2
 - pkg:maven/pro.verron/docx-stamper@1.6.2-javax
 - pkg:maven/pro.verron/docx-stamper@1.6.2-javax?classifier=sources
+- pkg:maven/pro.verron/docx-stamper@1.6.2?classifier=sources
+- pkg:maven/pro.verron/docx-stamper@1.6.3
+- pkg:maven/pro.verron/docx-stamper@1.6.3?classifier=sources

@@ -32,3 +32,9 @@
 - pkg:maven/io.trino/trino-phoenix5-patched@405?classifier=sources
 - pkg:maven/io.trino/trino-phoenix5-patched@406
 - pkg:maven/io.trino/trino-phoenix5-patched@406?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@407
+- pkg:maven/io.trino/trino-phoenix5-patched@407?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@408
+- pkg:maven/io.trino/trino-phoenix5-patched@408?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@409
+- pkg:maven/io.trino/trino-phoenix5-patched@409?classifier=sources

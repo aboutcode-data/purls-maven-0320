@@ -6,3 +6,9 @@
 - pkg:maven/io.weaviate/spark-connector_2.13@0.1.3?classifier=sources
 - pkg:maven/io.weaviate/spark-connector_2.13@1.0.0
 - pkg:maven/io.weaviate/spark-connector_2.13@1.0.0?classifier=sources
+- pkg:maven/io.weaviate/spark-connector_2.13@1.1.0
+- pkg:maven/io.weaviate/spark-connector_2.13@1.1.0?classifier=sources
+- pkg:maven/io.weaviate/spark-connector_2.13@1.2.0
+- pkg:maven/io.weaviate/spark-connector_2.13@1.2.0?classifier=sources
+- pkg:maven/io.weaviate/spark-connector_2.13@1.2.1
+- pkg:maven/io.weaviate/spark-connector_2.13@1.2.1?classifier=sources

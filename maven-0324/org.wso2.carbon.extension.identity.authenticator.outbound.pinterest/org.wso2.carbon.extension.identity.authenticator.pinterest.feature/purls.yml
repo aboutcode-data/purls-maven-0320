@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.pinterest/org.wso2.carbon.extension.identity.authenticator.pinterest.feature@1.0.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.pinterest/org.wso2.carbon.extension.identity.authenticator.pinterest.feature@1.0.2?classifier=source-release&type=zip

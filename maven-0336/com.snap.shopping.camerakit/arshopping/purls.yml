@@ -1,2 +1,3 @@
 - pkg:maven/com.snap.shopping.camerakit/arshopping@0.7.0?classifier=sources
 - pkg:maven/com.snap.shopping.camerakit/arshopping@0.8.0?classifier=sources
+- pkg:maven/com.snap.shopping.camerakit/arshopping@0.9.0?classifier=sources

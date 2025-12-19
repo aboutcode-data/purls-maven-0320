@@ -6,3 +6,5 @@
 - pkg:maven/org.cleartk/cleartk-ml-crfsuite@0.2.2?classifier=sources
 - pkg:maven/org.cleartk/cleartk-ml-crfsuite@2.0.0
 - pkg:maven/org.cleartk/cleartk-ml-crfsuite@2.0.0?classifier=sources
+- pkg:maven/org.cleartk/cleartk-ml-crfsuite@3.0.0
+- pkg:maven/org.cleartk/cleartk-ml-crfsuite@3.0.0?classifier=sources

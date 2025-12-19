@@ -1,0 +1,2 @@
+- pkg:maven/top.wu2020/wu-log-server-platform-starter@1.1.9-JDK1.8
+- pkg:maven/top.wu2020/wu-log-server-platform-starter@1.1.9-JDK1.8?classifier=sources

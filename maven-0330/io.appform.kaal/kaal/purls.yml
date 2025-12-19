@@ -1,0 +1,2 @@
+- pkg:maven/io.appform.kaal/kaal@1.0.0
+- pkg:maven/io.appform.kaal/kaal@1.0.0?classifier=sources

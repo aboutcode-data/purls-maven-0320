@@ -33,3 +33,4 @@
 - pkg:maven/net.bull.javamelody/javamelody-collector-server@1.89.0?type=war
 - pkg:maven/net.bull.javamelody/javamelody-collector-server@1.90.0?type=war
 - pkg:maven/net.bull.javamelody/javamelody-collector-server@1.91.0?type=war
+- pkg:maven/net.bull.javamelody/javamelody-collector-server@1.92.0?type=war

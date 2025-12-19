@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.tests.http@4.2.0-beta
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.tests.http@4.2.0-beta?classifier=sources

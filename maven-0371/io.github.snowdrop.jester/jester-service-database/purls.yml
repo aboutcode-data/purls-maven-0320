@@ -1,0 +1,2 @@
+- pkg:maven/io.github.snowdrop.jester/jester-service-database@0.0.2
+- pkg:maven/io.github.snowdrop.jester/jester-service-database@0.0.2?classifier=sources

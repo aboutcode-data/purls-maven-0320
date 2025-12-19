@@ -31,3 +31,4 @@
 - pkg:maven/com.seeq/seeq-sdk@59.1.0-v202212281741?classifier=sources
 - pkg:maven/com.seeq/seeq-sdk@59.1.1-v202301140031?classifier=sources
 - pkg:maven/com.seeq/seeq-sdk@59.1.1-v202301172059?classifier=sources
+- pkg:maven/com.seeq/seeq-sdk@60.0.0-v202302030033-BETA?classifier=sources

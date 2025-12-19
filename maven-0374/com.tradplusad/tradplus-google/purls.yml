@@ -75,3 +75,7 @@
 - pkg:maven/com.tradplusad/tradplus-google@2.8.9.10?type=aar
 - pkg:maven/com.tradplusad/tradplus-google@2.9.0.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-google@2.9.1.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.9.1.30?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.9.2.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.9.2.10?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.9.3.0?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/com.plumelog/plumelog-lite-spring-boot-starter@3.5.2
 - pkg:maven/com.plumelog/plumelog-lite-spring-boot-starter@3.5.2?classifier=sources
+- pkg:maven/com.plumelog/plumelog-lite-spring-boot-starter@3.5.3
+- pkg:maven/com.plumelog/plumelog-lite-spring-boot-starter@3.5.3?classifier=sources

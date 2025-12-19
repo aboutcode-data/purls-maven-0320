@@ -6,3 +6,5 @@
 - pkg:maven/mil.nga.sf/sf-wkt@1.0.2?classifier=sources
 - pkg:maven/mil.nga.sf/sf-wkt@1.0.3
 - pkg:maven/mil.nga.sf/sf-wkt@1.0.3?classifier=sources
+- pkg:maven/mil.nga.sf/sf-wkt@1.1.0
+- pkg:maven/mil.nga.sf/sf-wkt@1.1.0?classifier=sources

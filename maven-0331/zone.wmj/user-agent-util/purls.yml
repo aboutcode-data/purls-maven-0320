@@ -22,3 +22,5 @@
 - pkg:maven/zone.wmj/user-agent-util@1.2.8?classifier=sources
 - pkg:maven/zone.wmj/user-agent-util@1.2.9
 - pkg:maven/zone.wmj/user-agent-util@1.2.9?classifier=sources
+- pkg:maven/zone.wmj/user-agent-util@2.0.0
+- pkg:maven/zone.wmj/user-agent-util@2.0.0?classifier=sources

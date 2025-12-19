@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-otlp@2.10.0
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-otlp@2.10.0?classifier=sources

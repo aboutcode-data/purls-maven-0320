@@ -34,6 +34,7 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-types@1.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-types@1.0.9
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-types@1.0.9?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-types@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-types@6.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-types@6.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-types@6.0.1

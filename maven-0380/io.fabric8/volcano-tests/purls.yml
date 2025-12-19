@@ -4,3 +4,5 @@
 - pkg:maven/io.fabric8/volcano-tests@5.12.0
 - pkg:maven/io.fabric8/volcano-tests@5.12.1
 - pkg:maven/io.fabric8/volcano-tests@5.12.2
+- pkg:maven/io.fabric8/volcano-tests@6.0.0
+- pkg:maven/io.fabric8/volcano-tests@6.0.0-RC1

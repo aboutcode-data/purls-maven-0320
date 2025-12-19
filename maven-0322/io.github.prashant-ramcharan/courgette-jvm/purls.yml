@@ -100,3 +100,5 @@
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.4.2?classifier=sources
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.5.0
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.5.0?classifier=sources
+- pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.5.1
+- pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.5.1?classifier=sources

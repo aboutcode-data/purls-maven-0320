@@ -1,1 +1,2 @@
 - pkg:maven/io.matthewnelson.kotlin-components/build-configuration-tvossimulatorarm64@3.0.2?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/build-configuration-tvossimulatorarm64@3.0.3?classifier=sources

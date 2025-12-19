@@ -10,3 +10,5 @@
 - pkg:maven/com.github.fracpete/weka-option-utils@2019.8.24?classifier=sources
 - pkg:maven/com.github.fracpete/weka-option-utils@2019.8.25
 - pkg:maven/com.github.fracpete/weka-option-utils@2019.8.25?classifier=sources
+- pkg:maven/com.github.fracpete/weka-option-utils@2022.5.23
+- pkg:maven/com.github.fracpete/weka-option-utils@2022.5.23?classifier=sources

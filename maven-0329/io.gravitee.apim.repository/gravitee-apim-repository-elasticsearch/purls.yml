@@ -1,3 +1,14 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.10.15?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.10.16?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.10.17?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.15.10?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.15.11?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.15.12?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.15.9?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.16.5?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.17.3?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.17.4?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.18.0?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.18.1?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.18.2?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-elasticsearch@3.5.31?classifier=sources

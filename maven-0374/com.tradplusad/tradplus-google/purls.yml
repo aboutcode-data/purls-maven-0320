@@ -52,3 +52,10 @@
 - pkg:maven/com.tradplusad/tradplus-google@2.7.7.20?type=aar
 - pkg:maven/com.tradplusad/tradplus-google@2.7.7.21?type=aar
 - pkg:maven/com.tradplusad/tradplus-google@2.7.8.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.7.9.01?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.7.9.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.7.9.10?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.7.9.20?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.8.0.10?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-google@2.8.0.20?type=aar

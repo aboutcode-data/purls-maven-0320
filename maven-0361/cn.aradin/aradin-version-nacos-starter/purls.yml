@@ -1,0 +1,2 @@
+- pkg:maven/cn.aradin/aradin-version-nacos-starter@0.0.4.BETA
+- pkg:maven/cn.aradin/aradin-version-nacos-starter@0.0.4.BETA?classifier=sources

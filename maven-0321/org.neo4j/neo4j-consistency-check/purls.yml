@@ -479,6 +479,8 @@
 - pkg:maven/org.neo4j/neo4j-consistency-check@3.5.32?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@3.5.33
 - pkg:maven/org.neo4j/neo4j-consistency-check@3.5.33?classifier=sources
+- pkg:maven/org.neo4j/neo4j-consistency-check@3.5.34
+- pkg:maven/org.neo4j/neo4j-consistency-check@3.5.34?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@3.5.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@3.5.4
 - pkg:maven/org.neo4j/neo4j-consistency-check@3.5.4?classifier=sources
@@ -563,6 +565,8 @@
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.2.16?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.2.17
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.2.17?classifier=sources
+- pkg:maven/org.neo4j/neo4j-consistency-check@4.2.18
+- pkg:maven/org.neo4j/neo4j-consistency-check@4.2.18?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.2.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.2.2
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.2.2?classifier=sources
@@ -591,6 +595,10 @@
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.3.12?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.3.13
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.3.13?classifier=sources
+- pkg:maven/org.neo4j/neo4j-consistency-check@4.3.14
+- pkg:maven/org.neo4j/neo4j-consistency-check@4.3.14?classifier=sources
+- pkg:maven/org.neo4j/neo4j-consistency-check@4.3.15
+- pkg:maven/org.neo4j/neo4j-consistency-check@4.3.15?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.3.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.3.2
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.3.2?classifier=sources
@@ -624,3 +632,5 @@
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.4.6?classifier=sources
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.4.7
 - pkg:maven/org.neo4j/neo4j-consistency-check@4.4.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j-consistency-check@4.4.8
+- pkg:maven/org.neo4j/neo4j-consistency-check@4.4.8?classifier=sources

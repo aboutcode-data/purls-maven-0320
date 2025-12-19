@@ -36,3 +36,5 @@
 - pkg:maven/org.elasticmq/ui_2.13@1.3.6?classifier=sources
 - pkg:maven/org.elasticmq/ui_2.13@1.3.7
 - pkg:maven/org.elasticmq/ui_2.13@1.3.7?classifier=sources
+- pkg:maven/org.elasticmq/ui_2.13@1.3.8
+- pkg:maven/org.elasticmq/ui_2.13@1.3.8?classifier=sources

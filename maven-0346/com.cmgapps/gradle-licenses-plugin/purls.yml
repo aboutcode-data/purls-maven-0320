@@ -8,3 +8,5 @@
 - pkg:maven/com.cmgapps/gradle-licenses-plugin@4.2.0?classifier=sources
 - pkg:maven/com.cmgapps/gradle-licenses-plugin@4.3.0?classifier=sources
 - pkg:maven/com.cmgapps/gradle-licenses-plugin@4.4.0?classifier=sources
+- pkg:maven/com.cmgapps/gradle-licenses-plugin@4.5.0?classifier=sources
+- pkg:maven/com.cmgapps/gradle-licenses-plugin@4.6.0?classifier=sources

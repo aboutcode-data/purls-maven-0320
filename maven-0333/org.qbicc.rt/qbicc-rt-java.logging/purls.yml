@@ -4,3 +4,13 @@
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.26?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.27
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.27?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.28
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.28?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.29
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.29?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.30
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.30?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.31
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.31?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.32
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.logging@17.alpha.0.32?classifier=sources

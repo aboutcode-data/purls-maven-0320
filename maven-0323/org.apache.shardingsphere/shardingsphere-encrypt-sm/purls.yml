@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-encrypt-sm@5.1.2
+- pkg:maven/org.apache.shardingsphere/shardingsphere-encrypt-sm@5.1.2?classifier=sources

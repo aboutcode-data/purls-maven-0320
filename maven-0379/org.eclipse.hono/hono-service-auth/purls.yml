@@ -148,3 +148,5 @@
 - pkg:maven/org.eclipse.hono/hono-service-auth@1.9.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-service-auth@1.9.1
 - pkg:maven/org.eclipse.hono/hono-service-auth@1.9.1?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-auth@2.0.0
+- pkg:maven/org.eclipse.hono/hono-service-auth@2.0.0?classifier=sources

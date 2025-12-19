@@ -1,2 +1,12 @@
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.15
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.15?classifier=sources
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.22
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.22?classifier=sources
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.29
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.29?classifier=sources
 - pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.8
 - pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.8?classifier=sources
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.7.13
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.7.13?classifier=sources
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.7.6
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.7.6?classifier=sources

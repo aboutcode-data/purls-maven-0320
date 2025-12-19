@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bowergithub.caolan/async@1.5.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.caolan/async@2.6.1
 - pkg:maven/org.webjars.bowergithub.caolan/async@2.6.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.caolan/async@3.2.4
+- pkg:maven/org.webjars.bowergithub.caolan/async@3.2.4?classifier=sources

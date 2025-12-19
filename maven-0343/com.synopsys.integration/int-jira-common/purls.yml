@@ -65,3 +65,4 @@
 - pkg:maven/com.synopsys.integration/int-jira-common@3.0.2?classifier=sources
 - pkg:maven/com.synopsys.integration/int-jira-common@3.0.3?classifier=sources
 - pkg:maven/com.synopsys.integration/int-jira-common@3.0.4?classifier=sources
+- pkg:maven/com.synopsys.integration/int-jira-common@3.0.5?classifier=sources

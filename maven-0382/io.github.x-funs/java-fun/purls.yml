@@ -10,3 +10,7 @@
 - pkg:maven/io.github.x-funs/java-fun@0.3.0?classifier=sources
 - pkg:maven/io.github.x-funs/java-fun@0.4.0
 - pkg:maven/io.github.x-funs/java-fun@0.4.0?classifier=sources
+- pkg:maven/io.github.x-funs/java-fun@0.5.0
+- pkg:maven/io.github.x-funs/java-fun@0.5.0?classifier=sources
+- pkg:maven/io.github.x-funs/java-fun@0.6.0
+- pkg:maven/io.github.x-funs/java-fun@0.6.0?classifier=sources

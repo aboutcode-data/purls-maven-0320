@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/org.wso2.carbon.identity.application.authenticator.magiclink@1.0.5
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/org.wso2.carbon.identity.application.authenticator.magiclink@1.0.5?classifier=sources

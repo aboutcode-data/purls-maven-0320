@@ -21,6 +21,8 @@
 - pkg:maven/org.drools/drools-impact-analysis-itests@7.68.0.Final
 - pkg:maven/org.drools/drools-impact-analysis-itests@7.69.0.Final
 - pkg:maven/org.drools/drools-impact-analysis-itests@7.70.0.Final
+- pkg:maven/org.drools/drools-impact-analysis-itests@7.71.0.Final
+- pkg:maven/org.drools/drools-impact-analysis-itests@7.72.0.Final
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.13.0.Beta
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.14.0.Beta
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.14.1.Beta
@@ -34,3 +36,5 @@
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.21.0.Beta
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.22.0.Beta
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.22.1.Beta
+- pkg:maven/org.drools/drools-impact-analysis-itests@8.23.0.Beta
+- pkg:maven/org.drools/drools-impact-analysis-itests@8.24.0.Beta

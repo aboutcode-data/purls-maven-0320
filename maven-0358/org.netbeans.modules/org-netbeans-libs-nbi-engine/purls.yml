@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE90?classifier=sources

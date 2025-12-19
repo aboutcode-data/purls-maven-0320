@@ -1,4 +1,6 @@
 - pkg:maven/eu.hansolo.fx/heatmap@17.0.0?classifier=sources
+- pkg:maven/eu.hansolo.fx/heatmap@17.0.11?classifier=sources
+- pkg:maven/eu.hansolo.fx/heatmap@17.0.12?classifier=sources
 - pkg:maven/eu.hansolo.fx/heatmap@17.0.2?classifier=sources
 - pkg:maven/eu.hansolo.fx/heatmap@17.0.3?classifier=sources
 - pkg:maven/eu.hansolo.fx/heatmap@17.0.4?classifier=sources

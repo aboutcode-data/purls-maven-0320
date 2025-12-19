@@ -1,0 +1,2 @@
+- pkg:maven/com.cloudinary/media-delivery-api-java@0.1.0-beta
+- pkg:maven/com.cloudinary/media-delivery-api-java@0.1.0-beta?classifier=sources

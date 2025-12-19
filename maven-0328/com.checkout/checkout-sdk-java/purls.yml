@@ -52,6 +52,8 @@
 - pkg:maven/com.checkout/checkout-sdk-java@3.6.0?classifier=sources
 - pkg:maven/com.checkout/checkout-sdk-java@3.7.0
 - pkg:maven/com.checkout/checkout-sdk-java@3.7.0?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@3.7.1
+- pkg:maven/com.checkout/checkout-sdk-java@3.7.1?classifier=sources
 - pkg:maven/com.checkout/checkout-sdk-java@4.0.0
 - pkg:maven/com.checkout/checkout-sdk-java@4.0.0?classifier=sources
 - pkg:maven/com.checkout/checkout-sdk-java@4.1.1
@@ -96,3 +98,15 @@
 - pkg:maven/com.checkout/checkout-sdk-java@5.9.2?classifier=sources
 - pkg:maven/com.checkout/checkout-sdk-java@5.9.3
 - pkg:maven/com.checkout/checkout-sdk-java@5.9.3?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.4
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.4?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.5
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.5?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.6
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.6.PTC.1
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.6.PTC.1?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.6.ptc.beta.1
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.6.ptc.beta.1?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.6?classifier=sources
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.7
+- pkg:maven/com.checkout/checkout-sdk-java@5.9.7?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/io.github.solven-eu.pepper/pepper-spark_2.13@3.0
 - pkg:maven/io.github.solven-eu.pepper/pepper-spark_2.13@3.1
+- pkg:maven/io.github.solven-eu.pepper/pepper-spark_2.13@4.0

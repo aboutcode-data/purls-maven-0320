@@ -1,0 +1,4 @@
+- pkg:maven/com.paytm.pg/paytm-pg@0.0.6
+- pkg:maven/com.paytm.pg/paytm-pg@0.0.6?classifier=sources
+- pkg:maven/com.paytm.pg/paytm-pg@1.0.6
+- pkg:maven/com.paytm.pg/paytm-pg@1.0.6?classifier=sources

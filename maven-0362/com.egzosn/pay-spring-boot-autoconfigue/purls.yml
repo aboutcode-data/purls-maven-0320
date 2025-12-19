@@ -20,3 +20,5 @@
 - pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.2-fix
 - pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.2-fix?classifier=sources
 - pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.2?classifier=sources
+- pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.3
+- pkg:maven/com.egzosn/pay-spring-boot-autoconfigue@1.0.3?classifier=sources

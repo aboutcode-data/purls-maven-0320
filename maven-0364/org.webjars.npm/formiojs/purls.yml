@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/formiojs@4.14.1
 - pkg:maven/org.webjars.npm/formiojs@4.14.1?classifier=sources
+- pkg:maven/org.webjars.npm/formiojs@4.14.8
+- pkg:maven/org.webjars.npm/formiojs@4.14.8?classifier=sources
 - pkg:maven/org.webjars.npm/formiojs@4.7.8
 - pkg:maven/org.webjars.npm/formiojs@4.7.8?classifier=sources

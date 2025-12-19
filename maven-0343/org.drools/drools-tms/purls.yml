@@ -16,3 +16,7 @@
 - pkg:maven/org.drools/drools-tms@8.22.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-tms@8.22.1.Beta
 - pkg:maven/org.drools/drools-tms@8.22.1.Beta?classifier=sources
+- pkg:maven/org.drools/drools-tms@8.23.0.Beta
+- pkg:maven/org.drools/drools-tms@8.23.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-tms@8.24.0.Beta
+- pkg:maven/org.drools/drools-tms@8.24.0.Beta?classifier=sources

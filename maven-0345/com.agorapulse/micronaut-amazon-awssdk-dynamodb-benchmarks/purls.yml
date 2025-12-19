@@ -7,3 +7,9 @@
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@1.7.3-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@1.7.3-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@1.7.3-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@2.0.0-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@2.0.0-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@2.0.0-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@2.0.1-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@2.0.1-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-benchmarks@2.0.1-micronaut-3.0?classifier=sources

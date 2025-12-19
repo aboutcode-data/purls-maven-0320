@@ -40,3 +40,6 @@
 - pkg:maven/com.svix.kotlin/svix-kotlin@0.58.2?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@0.59.0?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@0.59.1?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@0.60.0?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@0.61.0?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@0.62.1?classifier=sources

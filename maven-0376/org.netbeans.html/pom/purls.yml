@@ -4,4 +4,5 @@
 - pkg:maven/org.netbeans.html/pom@1.7.2?classifier=source-release&type=zip
 - pkg:maven/org.netbeans.html/pom@1.7.3?classifier=source-release&type=zip
 - pkg:maven/org.netbeans.html/pom@1.7?classifier=source-release&type=zip
+- pkg:maven/org.netbeans.html/pom@1.8.1?classifier=source-release&type=zip
 - pkg:maven/org.netbeans.html/pom@1.8?classifier=source-release&type=zip

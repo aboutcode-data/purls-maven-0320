@@ -1,0 +1,4 @@
+- pkg:maven/io.trino/trino-phoenix5-patched@389
+- pkg:maven/io.trino/trino-phoenix5-patched@389?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@390
+- pkg:maven/io.trino/trino-phoenix5-patched@390?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.fastjrun.codeg/mybatis-generator-plugin-ext@1.0
+- pkg:maven/com.fastjrun.codeg/mybatis-generator-plugin-ext@1.0?classifier=sources
+- pkg:maven/com.fastjrun.codeg/mybatis-generator-plugin-ext@1.1
+- pkg:maven/com.fastjrun.codeg/mybatis-generator-plugin-ext@1.1?classifier=sources

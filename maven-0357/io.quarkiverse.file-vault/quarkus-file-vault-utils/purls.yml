@@ -1,0 +1,12 @@
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.4.0
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.4.0?classifier=sources
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.5.0
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.5.0?classifier=sources
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.6.0
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.6.0?classifier=sources
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.7.0
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.7.1
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@0.7.1?classifier=sources
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@1.0.0
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-utils@1.0.0?classifier=sources

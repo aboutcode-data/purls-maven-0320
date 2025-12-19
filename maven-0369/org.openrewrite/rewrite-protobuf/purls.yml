@@ -6,3 +6,7 @@
 - pkg:maven/org.openrewrite/rewrite-protobuf@7.22.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@7.23.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@7.24.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@7.24.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@7.24.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@7.25.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@7.26.0?classifier=sources

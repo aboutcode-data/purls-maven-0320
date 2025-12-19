@@ -6,3 +6,5 @@
 - pkg:maven/org.drools/drools-model-project-codegen@8.22.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-model-project-codegen@8.22.1.Beta
 - pkg:maven/org.drools/drools-model-project-codegen@8.22.1.Beta?classifier=sources
+- pkg:maven/org.drools/drools-model-project-codegen@8.23.0.Beta
+- pkg:maven/org.drools/drools-model-project-codegen@8.23.0.Beta?classifier=sources

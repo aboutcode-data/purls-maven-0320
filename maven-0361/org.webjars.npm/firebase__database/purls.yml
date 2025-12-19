@@ -1,5 +1,9 @@
 - pkg:maven/org.webjars.npm/firebase__database@0.12.7
 - pkg:maven/org.webjars.npm/firebase__database@0.12.7?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__database@0.12.8
+- pkg:maven/org.webjars.npm/firebase__database@0.12.8?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__database@0.13.3
+- pkg:maven/org.webjars.npm/firebase__database@0.13.3?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__database@0.3.16
 - pkg:maven/org.webjars.npm/firebase__database@0.3.16?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__database@0.5.7

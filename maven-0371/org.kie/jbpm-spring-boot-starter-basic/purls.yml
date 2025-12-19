@@ -69,5 +69,7 @@
 - pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.69.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.7.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.70.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.71.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.72.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.8.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-starter-basic@7.9.0.Final

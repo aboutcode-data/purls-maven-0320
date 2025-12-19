@@ -90,6 +90,14 @@
 - pkg:maven/com.cardpay/java-sdk@3.17.7?classifier=sources
 - pkg:maven/com.cardpay/java-sdk@3.18.3
 - pkg:maven/com.cardpay/java-sdk@3.18.3?classifier=sources
+- pkg:maven/com.cardpay/java-sdk@3.19.20
+- pkg:maven/com.cardpay/java-sdk@3.19.20?classifier=sources
+- pkg:maven/com.cardpay/java-sdk@3.19.24
+- pkg:maven/com.cardpay/java-sdk@3.19.24?classifier=sources
+- pkg:maven/com.cardpay/java-sdk@3.20.23
+- pkg:maven/com.cardpay/java-sdk@3.20.23?classifier=sources
+- pkg:maven/com.cardpay/java-sdk@3.21.3
+- pkg:maven/com.cardpay/java-sdk@3.21.3?classifier=sources
 - pkg:maven/com.cardpay/java-sdk@3.4.6
 - pkg:maven/com.cardpay/java-sdk@3.4.6?classifier=sources
 - pkg:maven/com.cardpay/java-sdk@3.5.9

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.peacetrue/peacetrue-beans@1.0.0?classifier=sources
 - pkg:maven/com.github.peacetrue/peacetrue-beans@1.1.0?classifier=sources
+- pkg:maven/com.github.peacetrue/peacetrue-beans@1.2.0?classifier=sources
+- pkg:maven/com.github.peacetrue/peacetrue-beans@1.3.0?classifier=sources

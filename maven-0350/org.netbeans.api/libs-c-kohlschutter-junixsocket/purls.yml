@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.api/libs-c-kohlschutter-junixsocket@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/libs-c-kohlschutter-junixsocket@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/libs-c-kohlschutter-junixsocket@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/libs-c-kohlschutter-junixsocket@RELEASE140?classifier=sources

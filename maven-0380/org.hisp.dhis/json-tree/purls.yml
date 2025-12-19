@@ -4,3 +4,7 @@
 - pkg:maven/org.hisp.dhis/json-tree@0.2.0?classifier=sources
 - pkg:maven/org.hisp.dhis/json-tree@0.3.0
 - pkg:maven/org.hisp.dhis/json-tree@0.3.0?classifier=sources
+- pkg:maven/org.hisp.dhis/json-tree@0.4.0
+- pkg:maven/org.hisp.dhis/json-tree@0.4.0-snapshot
+- pkg:maven/org.hisp.dhis/json-tree@0.4.0-snapshot?classifier=sources
+- pkg:maven/org.hisp.dhis/json-tree@0.4.0?classifier=sources

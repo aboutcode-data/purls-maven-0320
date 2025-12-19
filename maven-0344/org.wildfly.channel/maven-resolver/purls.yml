@@ -6,3 +6,7 @@
 - pkg:maven/org.wildfly.channel/maven-resolver@1.0.0.Alpha15?classifier=sources
 - pkg:maven/org.wildfly.channel/maven-resolver@1.0.0.Alpha16
 - pkg:maven/org.wildfly.channel/maven-resolver@1.0.0.Alpha16?classifier=sources
+- pkg:maven/org.wildfly.channel/maven-resolver@1.0.0.Alpha17
+- pkg:maven/org.wildfly.channel/maven-resolver@1.0.0.Alpha17?classifier=sources
+- pkg:maven/org.wildfly.channel/maven-resolver@1.0.0.Alpha18
+- pkg:maven/org.wildfly.channel/maven-resolver@1.0.0.Alpha18?classifier=sources

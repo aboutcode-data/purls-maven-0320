@@ -1,0 +1,2 @@
+- pkg:maven/io.v47.tmdb-api-client/spring-boot-starter@3.0.0?classifier=sources
+- pkg:maven/io.v47.tmdb-api-client/spring-boot-starter@3.0.1?classifier=sources

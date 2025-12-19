@@ -7,6 +7,7 @@
 - pkg:maven/io.americanexpress.synapse/example-service-graphql-book@0.2.15
 - pkg:maven/io.americanexpress.synapse/example-service-graphql-book@0.2.16
 - pkg:maven/io.americanexpress.synapse/example-service-graphql-book@0.2.17
+- pkg:maven/io.americanexpress.synapse/example-service-graphql-book@0.2.18
 - pkg:maven/io.americanexpress.synapse/example-service-graphql-book@0.2.2
 - pkg:maven/io.americanexpress.synapse/example-service-graphql-book@0.2.3
 - pkg:maven/io.americanexpress.synapse/example-service-graphql-book@0.2.4

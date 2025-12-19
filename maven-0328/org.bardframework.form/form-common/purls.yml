@@ -8,5 +8,9 @@
 - pkg:maven/org.bardframework.form/form-common@1.2.29?classifier=sources
 - pkg:maven/org.bardframework.form/form-common@1.3.10
 - pkg:maven/org.bardframework.form/form-common@1.3.10?classifier=sources
+- pkg:maven/org.bardframework.form/form-common@1.3.19
+- pkg:maven/org.bardframework.form/form-common@1.3.19?classifier=sources
+- pkg:maven/org.bardframework.form/form-common@1.3.29
+- pkg:maven/org.bardframework.form/form-common@1.3.29?classifier=sources
 - pkg:maven/org.bardframework.form/form-common@1.3.9
 - pkg:maven/org.bardframework.form/form-common@1.3.9?classifier=sources

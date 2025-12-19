@@ -541,3 +541,12 @@
 - pkg:maven/com.yahoo.vespa/yolean@7.91.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/yolean@7.92.7?classifier=sources
 - pkg:maven/com.yahoo.vespa/yolean@7.99.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.11.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.12.48?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.13.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.15.63?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.16.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.17.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.4.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.7.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/yolean@8.8.35?classifier=sources

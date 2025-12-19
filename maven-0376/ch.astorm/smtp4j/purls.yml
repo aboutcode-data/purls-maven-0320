@@ -12,3 +12,7 @@
 - pkg:maven/ch.astorm/smtp4j@2.0.0?classifier=sources
 - pkg:maven/ch.astorm/smtp4j@2.0.1
 - pkg:maven/ch.astorm/smtp4j@2.0.1?classifier=sources
+- pkg:maven/ch.astorm/smtp4j@2.1.0
+- pkg:maven/ch.astorm/smtp4j@2.1.0?classifier=sources
+- pkg:maven/ch.astorm/smtp4j@3.0.0
+- pkg:maven/ch.astorm/smtp4j@3.0.0?classifier=sources

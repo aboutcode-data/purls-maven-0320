@@ -28,3 +28,9 @@
 - pkg:maven/group.rxcloud/cloud-runtimes-api@1.12.RELEASE?classifier=sources
 - pkg:maven/group.rxcloud/cloud-runtimes-api@1.13.RELEASE
 - pkg:maven/group.rxcloud/cloud-runtimes-api@1.13.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/cloud-runtimes-api@1.14.RELEASE
+- pkg:maven/group.rxcloud/cloud-runtimes-api@1.14.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/cloud-runtimes-api@1.15.RELEASE
+- pkg:maven/group.rxcloud/cloud-runtimes-api@1.15.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/cloud-runtimes-api@1.16.RELEASE
+- pkg:maven/group.rxcloud/cloud-runtimes-api@1.16.RELEASE?classifier=sources

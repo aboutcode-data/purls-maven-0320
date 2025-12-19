@@ -1,2 +1,4 @@
 - pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-junit-jupiter@0.4.0-862c628?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-junit-jupiter@0.4.0-950e18e?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-junit-jupiter@0.4.0-dd71410?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-junit-jupiter@0.4.0-fcf0630?classifier=sources

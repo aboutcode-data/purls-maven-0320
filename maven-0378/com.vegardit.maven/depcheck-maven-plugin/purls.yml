@@ -1,2 +1,4 @@
 - pkg:maven/com.vegardit.maven/depcheck-maven-plugin@1.0.0
 - pkg:maven/com.vegardit.maven/depcheck-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.vegardit.maven/depcheck-maven-plugin@2.0.0
+- pkg:maven/com.vegardit.maven/depcheck-maven-plugin@2.0.0?classifier=sources

@@ -1,2 +1,3 @@
+- pkg:maven/com.yandex.ads.mediation/mobileads-tapjoy@12.10.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-tapjoy@12.8.1.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-tapjoy@12.9.0.0?classifier=sources

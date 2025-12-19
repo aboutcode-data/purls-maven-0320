@@ -6,3 +6,5 @@
 - pkg:maven/fun.qinghuan/ella-boot@2.0.1.B?classifier=sources
 - pkg:maven/fun.qinghuan/ella-boot@2.0.1.C
 - pkg:maven/fun.qinghuan/ella-boot@2.0.1.C?classifier=sources
+- pkg:maven/fun.qinghuan/ella-boot@2.0.1.E.SNAPSHOTS
+- pkg:maven/fun.qinghuan/ella-boot@2.0.1.E.SNAPSHOTS?classifier=sources

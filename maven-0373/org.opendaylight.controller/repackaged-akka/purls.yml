@@ -55,3 +55,4 @@
 - pkg:maven/org.opendaylight.controller/repackaged-akka@5.0.4
 - pkg:maven/org.opendaylight.controller/repackaged-akka@5.0.4?classifier=sources
 - pkg:maven/org.opendaylight.controller/repackaged-akka@5.0.5?classifier=sources
+- pkg:maven/org.opendaylight.controller/repackaged-akka@6.0.0?classifier=sources

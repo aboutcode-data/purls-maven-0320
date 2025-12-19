@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.audio/audio@0.18.0
+- pkg:maven/ai.djl.audio/audio@0.18.0?classifier=sources

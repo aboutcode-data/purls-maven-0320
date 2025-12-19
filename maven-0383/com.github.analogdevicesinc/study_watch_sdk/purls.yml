@@ -8,3 +8,5 @@
 - pkg:maven/com.github.analogdevicesinc/study_watch_sdk@4.0.7?classifier=sources
 - pkg:maven/com.github.analogdevicesinc/study_watch_sdk@4.0.8?classifier=sources
 - pkg:maven/com.github.analogdevicesinc/study_watch_sdk@4.1.0?classifier=sources
+- pkg:maven/com.github.analogdevicesinc/study_watch_sdk@4.2.0?classifier=sources
+- pkg:maven/com.github.analogdevicesinc/study_watch_sdk@4.2.1?classifier=sources

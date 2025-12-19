@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hotcoinblockchain/ton-client-binding@1.23.0
+- pkg:maven/io.github.hotcoinblockchain/ton-client-binding@1.23.0?classifier=sources

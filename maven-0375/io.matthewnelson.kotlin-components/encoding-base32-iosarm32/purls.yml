@@ -3,3 +3,4 @@
 - pkg:maven/io.matthewnelson.kotlin-components/encoding-base32-iosarm32@1.0.2?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/encoding-base32-iosarm32@1.0.3?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/encoding-base32-iosarm32@1.1.2?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/encoding-base32-iosarm32@1.1.3?classifier=sources

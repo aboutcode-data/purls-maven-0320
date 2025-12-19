@@ -38,3 +38,5 @@
 - pkg:maven/com.mindscapehq/core@2.2.0?classifier=sources
 - pkg:maven/com.mindscapehq/core@3.0.0
 - pkg:maven/com.mindscapehq/core@3.0.0?classifier=sources
+- pkg:maven/com.mindscapehq/core@4.0.0-rc1
+- pkg:maven/com.mindscapehq/core@4.0.0-rc1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/types__hast@2.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/types__hast@2.3.4
 - pkg:maven/org.webjars.npm/types__hast@2.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__hast@2.3.5
+- pkg:maven/org.webjars.npm/types__hast@2.3.5?classifier=sources

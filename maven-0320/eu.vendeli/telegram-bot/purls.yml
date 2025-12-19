@@ -34,3 +34,5 @@
 - pkg:maven/eu.vendeli/telegram-bot@2.7.3?classifier=sources
 - pkg:maven/eu.vendeli/telegram-bot@2.7.4?classifier=sources
 - pkg:maven/eu.vendeli/telegram-bot@2.8.0?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@2.8.1?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@2.9.0?classifier=sources

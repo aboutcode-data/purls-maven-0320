@@ -1,0 +1,4 @@
+- pkg:maven/dev.b37.libs/mgutils@3.0.0
+- pkg:maven/dev.b37.libs/mgutils@3.0.0?classifier=sources
+- pkg:maven/dev.b37.libs/mgutils@3.1.0
+- pkg:maven/dev.b37.libs/mgutils@3.1.0?classifier=sources

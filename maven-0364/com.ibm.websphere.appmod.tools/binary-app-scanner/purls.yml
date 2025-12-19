@@ -4,3 +4,4 @@
 - pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@22.0.0.4
 - pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@22.0.0.7
 - pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@23.0.0.1
+- pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@23.0.0.2

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.embeddedkafka/embedded-kafka-schema-registry_3@7.4.0
 - pkg:maven/io.github.embeddedkafka/embedded-kafka-schema-registry_3@7.4.0?classifier=sources
+- pkg:maven/io.github.embeddedkafka/embedded-kafka-schema-registry_3@7.4.1
+- pkg:maven/io.github.embeddedkafka/embedded-kafka-schema-registry_3@7.4.1?classifier=sources

@@ -3,3 +3,6 @@
 - pkg:maven/com.github.bijukunjummen/aws-sdk2-dynamo-json-helper@0.11.0-rc.2?classifier=sources
 - pkg:maven/com.github.bijukunjummen/aws-sdk2-dynamo-json-helper@0.11.0?classifier=sources
 - pkg:maven/com.github.bijukunjummen/aws-sdk2-dynamo-json-helper@0.13.0?classifier=sources
+- pkg:maven/com.github.bijukunjummen/aws-sdk2-dynamo-json-helper@0.14.0-rc.5?classifier=sources
+- pkg:maven/com.github.bijukunjummen/aws-sdk2-dynamo-json-helper@0.14.0?classifier=sources
+- pkg:maven/com.github.bijukunjummen/aws-sdk2-dynamo-json-helper@1.0.0?classifier=sources

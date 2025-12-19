@@ -1,0 +1,2 @@
+- pkg:maven/com.volcengine/volcengine-java-sdk-kafka@0.1.69
+- pkg:maven/com.volcengine/volcengine-java-sdk-kafka@0.1.69?classifier=sources

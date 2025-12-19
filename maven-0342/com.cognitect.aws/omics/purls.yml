@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/omics@847.2.1365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/omics@847.2.1387.0
 - pkg:maven/com.cognitect.aws/omics@847.2.1387.0?classifier=sources
+- pkg:maven/com.cognitect.aws/omics@848.2.1413.0
+- pkg:maven/com.cognitect.aws/omics@848.2.1413.0?classifier=sources

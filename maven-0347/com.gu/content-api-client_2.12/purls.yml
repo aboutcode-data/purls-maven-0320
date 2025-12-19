@@ -222,3 +222,5 @@
 - pkg:maven/com.gu/content-api-client_2.12@19.2.3?classifier=sources
 - pkg:maven/com.gu/content-api-client_2.12@19.3.0
 - pkg:maven/com.gu/content-api-client_2.12@19.3.0?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.12@19.3.1
+- pkg:maven/com.gu/content-api-client_2.12@19.3.1?classifier=sources

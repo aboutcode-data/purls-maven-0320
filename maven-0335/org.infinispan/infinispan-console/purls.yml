@@ -82,3 +82,5 @@
 - pkg:maven/org.infinispan/infinispan-console@14.0.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-console@15.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-console@15.0.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan/infinispan-console@15.0.0.Dev02
+- pkg:maven/org.infinispan/infinispan-console@15.0.0.Dev02?classifier=sources

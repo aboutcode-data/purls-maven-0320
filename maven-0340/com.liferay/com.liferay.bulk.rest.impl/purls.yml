@@ -218,6 +218,11 @@
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.75
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.75?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.75?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.76
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.76?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.76?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.77
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.77?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.8
@@ -419,6 +424,8 @@
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@2.0.67
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@2.0.67?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@2.0.67?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@2.0.68
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@2.0.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@2.0.7
@@ -536,6 +543,9 @@
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.40
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.41
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.41?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.5

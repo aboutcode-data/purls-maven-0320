@@ -32,3 +32,5 @@
 - pkg:maven/com.uber.motif/motif-errormessage@0.3.8?classifier=sources
 - pkg:maven/com.uber.motif/motif-errormessage@0.4.0-alpha01?classifier=sources
 - pkg:maven/com.uber.motif/motif-errormessage@0.4.0-alpha02?classifier=sources
+- pkg:maven/com.uber.motif/motif-errormessage@0.4.0-alpha03?classifier=sources
+- pkg:maven/com.uber.motif/motif-errormessage@0.4.0-alpha04?classifier=sources

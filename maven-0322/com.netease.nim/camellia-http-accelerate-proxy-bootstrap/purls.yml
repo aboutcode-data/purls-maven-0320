@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nim/camellia-http-accelerate-proxy-bootstrap@1.2.11
+- pkg:maven/com.netease.nim/camellia-http-accelerate-proxy-bootstrap@1.2.11?classifier=sources

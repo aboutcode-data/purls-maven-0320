@@ -1,4 +1,16 @@
 - pkg:maven/com.flutterwave/f4b-java@3.0
 - pkg:maven/com.flutterwave/f4b-java@3.0.1
 - pkg:maven/com.flutterwave/f4b-java@3.0.1?classifier=sources
+- pkg:maven/com.flutterwave/f4b-java@3.0.1A
+- pkg:maven/com.flutterwave/f4b-java@3.0.1A?classifier=sources
+- pkg:maven/com.flutterwave/f4b-java@3.0.1B
+- pkg:maven/com.flutterwave/f4b-java@3.0.1B?classifier=sources
+- pkg:maven/com.flutterwave/f4b-java@3.0.1BA
+- pkg:maven/com.flutterwave/f4b-java@3.0.1BA?classifier=sources
+- pkg:maven/com.flutterwave/f4b-java@3.0.1C
+- pkg:maven/com.flutterwave/f4b-java@3.0.1C?classifier=sources
+- pkg:maven/com.flutterwave/f4b-java@3.0.1D
+- pkg:maven/com.flutterwave/f4b-java@3.0.1D?classifier=sources
+- pkg:maven/com.flutterwave/f4b-java@3.0.1E
+- pkg:maven/com.flutterwave/f4b-java@3.0.1E?classifier=sources
 - pkg:maven/com.flutterwave/f4b-java@3.0?classifier=sources

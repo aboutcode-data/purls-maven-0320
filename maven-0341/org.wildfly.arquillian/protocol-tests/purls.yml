@@ -2,3 +2,4 @@
 - pkg:maven/org.wildfly.arquillian/protocol-tests@5.0.0.Alpha5
 - pkg:maven/org.wildfly.arquillian/protocol-tests@5.0.0.Alpha6
 - pkg:maven/org.wildfly.arquillian/protocol-tests@5.0.0.Final
+- pkg:maven/org.wildfly.arquillian/protocol-tests@5.0.1.Final

@@ -182,3 +182,5 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.6.2?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.7.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.7.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.7.1
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.7.1?classifier=sources

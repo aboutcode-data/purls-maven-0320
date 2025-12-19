@@ -1,0 +1,4 @@
+- pkg:maven/io.github.ealenxie/allegro-sdk@2023-07-14
+- pkg:maven/io.github.ealenxie/allegro-sdk@2023-07-14?classifier=sources
+- pkg:maven/io.github.ealenxie/allegro-sdk@2023-07-15
+- pkg:maven/io.github.ealenxie/allegro-sdk@2023-07-15?classifier=sources

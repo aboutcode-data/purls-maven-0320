@@ -1,0 +1,4 @@
+- pkg:maven/com.river-kt/connector-redis@1.0.0-alpha5?classifier=sources
+- pkg:maven/com.river-kt/connector-redis@1.0.0-alpha6?classifier=sources
+- pkg:maven/com.river-kt/connector-redis@1.0.0-alpha7?classifier=sources
+- pkg:maven/com.river-kt/connector-redis@1.0.0-alpha8?classifier=sources

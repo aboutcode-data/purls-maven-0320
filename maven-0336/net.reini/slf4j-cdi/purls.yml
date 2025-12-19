@@ -1,3 +1,4 @@
 - pkg:maven/net.reini/slf4j-cdi@1.0
 - pkg:maven/net.reini/slf4j-cdi@1.0?classifier=sources
 - pkg:maven/net.reini/slf4j-cdi@1.1?classifier=sources
+- pkg:maven/net.reini/slf4j-cdi@2.0.0?classifier=sources

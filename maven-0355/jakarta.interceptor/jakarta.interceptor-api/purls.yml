@@ -20,3 +20,5 @@
 - pkg:maven/jakarta.interceptor/jakarta.interceptor-api@2.1.0-RC3
 - pkg:maven/jakarta.interceptor/jakarta.interceptor-api@2.1.0-RC3?classifier=sources
 - pkg:maven/jakarta.interceptor/jakarta.interceptor-api@2.1.0?classifier=sources
+- pkg:maven/jakarta.interceptor/jakarta.interceptor-api@2.2.0-RC1
+- pkg:maven/jakarta.interceptor/jakarta.interceptor-api@2.2.0-RC1?classifier=sources

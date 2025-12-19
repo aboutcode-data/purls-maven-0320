@@ -46,6 +46,11 @@
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.27
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.28
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.29
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.1
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.10
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.10?classifier=sources
@@ -59,6 +64,11 @@
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.13
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.14
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.15
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.2
@@ -127,6 +137,8 @@
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@3.0.23
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@3.0.24
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@3.0.8
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@3.0.8?classifier=sources-commercial

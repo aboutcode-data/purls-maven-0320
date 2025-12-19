@@ -1,0 +1,12 @@
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0011
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0011?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0013
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0013?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0014
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0014?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0015
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0015?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0016
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0016?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0017
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.strings@1.0.0-beta0017?classifier=sources

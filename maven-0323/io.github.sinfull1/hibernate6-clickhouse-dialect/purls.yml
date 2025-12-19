@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sinfull1/hibernate6-clickhouse-dialect@1.0.2
+- pkg:maven/io.github.sinfull1/hibernate6-clickhouse-dialect@1.0.2?classifier=sources

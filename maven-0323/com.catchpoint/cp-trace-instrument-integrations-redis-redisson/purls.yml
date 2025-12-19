@@ -1,0 +1,2 @@
+- pkg:maven/com.catchpoint/cp-trace-instrument-integrations-redis-redisson@0.0.7
+- pkg:maven/com.catchpoint/cp-trace-instrument-integrations-redis-redisson@0.0.7?classifier=sources

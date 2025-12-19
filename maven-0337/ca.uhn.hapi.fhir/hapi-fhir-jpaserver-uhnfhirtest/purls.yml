@@ -20,3 +20,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-uhnfhirtest@6.4.2?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-uhnfhirtest@6.4.3?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-uhnfhirtest@6.4.4?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-uhnfhirtest@6.4.6?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-uhnfhirtest@6.4.7?type=war

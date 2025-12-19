@@ -6,3 +6,5 @@
 - pkg:maven/de.uni-trier.wi2/procake-framework@3.0.0?classifier=sources
 - pkg:maven/de.uni-trier.wi2/procake-framework@4.0.0
 - pkg:maven/de.uni-trier.wi2/procake-framework@4.0.0?classifier=sources
+- pkg:maven/de.uni-trier.wi2/procake-framework@5.0.0
+- pkg:maven/de.uni-trier.wi2/procake-framework@5.0.0?classifier=sources

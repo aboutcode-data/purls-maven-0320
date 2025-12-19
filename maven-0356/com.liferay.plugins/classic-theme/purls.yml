@@ -68,6 +68,7 @@
 - pkg:maven/com.liferay.plugins/classic-theme@1.0.70?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@1.0.71?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@1.0.72?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@1.0.73?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@1.0.7?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@1.0.8?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@1.0.9?type=war
@@ -121,6 +122,7 @@
 - pkg:maven/com.liferay.plugins/classic-theme@2.0.52?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@2.0.53?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@2.0.54?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@2.0.55?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@2.0.5?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@2.0.6?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@2.0.7?type=war
@@ -188,6 +190,8 @@
 - pkg:maven/com.liferay.plugins/classic-theme@3.0.63?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@3.0.64?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@3.0.65?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@3.0.66?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@3.0.67?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@3.0.6?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@3.0.7?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@3.0.8?type=war
@@ -287,6 +291,9 @@
 - pkg:maven/com.liferay.plugins/classic-theme@4.0.93?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@4.0.94?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@4.0.95?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@4.0.96?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@4.0.97?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@4.0.98?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@4.0.9?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.0?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.10?type=war
@@ -357,6 +364,9 @@
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.6?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.70?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.71?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@5.0.72?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@5.0.73?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@5.0.74?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.7?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.8?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.9?type=war

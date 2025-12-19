@@ -1,0 +1,5 @@
+- pkg:maven/com.hexagonkt/rest_tools@3.0.0-B4?classifier=sources
+- pkg:maven/com.hexagonkt/rest_tools@3.0.0-B5?classifier=sources
+- pkg:maven/com.hexagonkt/rest_tools@3.0.0-B6?classifier=sources
+- pkg:maven/com.hexagonkt/rest_tools@3.0.0-B7?classifier=sources
+- pkg:maven/com.hexagonkt/rest_tools@3.0.0-B8?classifier=sources

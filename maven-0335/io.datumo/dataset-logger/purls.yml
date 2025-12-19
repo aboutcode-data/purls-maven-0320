@@ -1,0 +1,2 @@
+- pkg:maven/io.datumo/dataset-logger@0.1.0-dev
+- pkg:maven/io.datumo/dataset-logger@0.1.0-dev?classifier=sources

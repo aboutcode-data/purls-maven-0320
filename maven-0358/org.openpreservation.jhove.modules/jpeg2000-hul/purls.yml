@@ -6,3 +6,5 @@
 - pkg:maven/org.openpreservation.jhove.modules/jpeg2000-hul@1.4.3-RC2
 - pkg:maven/org.openpreservation.jhove.modules/jpeg2000-hul@1.4.3-RC2?classifier=sources
 - pkg:maven/org.openpreservation.jhove.modules/jpeg2000-hul@1.4.3?classifier=sources
+- pkg:maven/org.openpreservation.jhove.modules/jpeg2000-hul@1.4.4
+- pkg:maven/org.openpreservation.jhove.modules/jpeg2000-hul@1.4.4?classifier=sources

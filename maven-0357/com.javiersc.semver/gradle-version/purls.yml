@@ -1,1 +1,2 @@
 - pkg:maven/com.javiersc.semver/gradle-version@0.5.0-alpha.2?classifier=sources
+- pkg:maven/com.javiersc.semver/gradle-version@0.5.0-rc.1?classifier=sources

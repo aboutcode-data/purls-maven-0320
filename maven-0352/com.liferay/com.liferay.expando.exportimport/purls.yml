@@ -26,6 +26,8 @@
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@2.0.12
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.expando.exportimport@2.0.13
+- pkg:maven/com.liferay/com.liferay.expando.exportimport@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@2.0.2
@@ -74,6 +76,8 @@
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@3.0.15
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@3.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.expando.exportimport@3.0.16
+- pkg:maven/com.liferay/com.liferay.expando.exportimport@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.exportimport@3.0.2

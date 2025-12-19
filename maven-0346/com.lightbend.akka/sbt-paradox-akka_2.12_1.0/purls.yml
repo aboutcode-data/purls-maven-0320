@@ -1,0 +1,4 @@
+- pkg:maven/com.lightbend.akka/sbt-paradox-akka_2.12_1.0@0.50
+- pkg:maven/com.lightbend.akka/sbt-paradox-akka_2.12_1.0@0.50?classifier=sources
+- pkg:maven/com.lightbend.akka/sbt-paradox-akka_2.12_1.0@0.51
+- pkg:maven/com.lightbend.akka/sbt-paradox-akka_2.12_1.0@0.51?classifier=sources

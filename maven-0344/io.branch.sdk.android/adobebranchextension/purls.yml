@@ -25,3 +25,5 @@
 - pkg:maven/io.branch.sdk.android/adobebranchextension@1.3.5?type=aar
 - pkg:maven/io.branch.sdk.android/adobebranchextension@1.4.0?classifier=sources
 - pkg:maven/io.branch.sdk.android/adobebranchextension@1.4.0?type=aar
+- pkg:maven/io.branch.sdk.android/adobebranchextension@2.0.0?classifier=sources
+- pkg:maven/io.branch.sdk.android/adobebranchextension@2.0.0?type=aar

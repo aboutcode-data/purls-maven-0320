@@ -8,3 +8,5 @@
 - pkg:maven/com.charlyghislain.keycloak/keycloak-importexport@16.0.0?classifier=sources
 - pkg:maven/com.charlyghislain.keycloak/keycloak-importexport@19.0.0
 - pkg:maven/com.charlyghislain.keycloak/keycloak-importexport@19.0.0?classifier=sources
+- pkg:maven/com.charlyghislain.keycloak/keycloak-importexport@21.0.0
+- pkg:maven/com.charlyghislain.keycloak/keycloak-importexport@21.0.0?classifier=sources

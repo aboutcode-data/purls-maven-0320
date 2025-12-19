@@ -197,6 +197,7 @@
 - pkg:maven/it.unibo.alchemist/alchemist@26.0.5?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist@26.0.6?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist@26.0.7?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist@26.0.8?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist@3.0.0
 - pkg:maven/it.unibo.alchemist/alchemist@3.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist@3.0.1

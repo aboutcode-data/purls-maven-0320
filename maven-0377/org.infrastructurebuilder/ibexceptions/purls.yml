@@ -150,6 +150,8 @@
 - pkg:maven/org.infrastructurebuilder/ibexceptions@8
 - pkg:maven/org.infrastructurebuilder/ibexceptions@80
 - pkg:maven/org.infrastructurebuilder/ibexceptions@80?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibexceptions@81
+- pkg:maven/org.infrastructurebuilder/ibexceptions@81?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibexceptions@8?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibexceptions@9
 - pkg:maven/org.infrastructurebuilder/ibexceptions@9?classifier=sources

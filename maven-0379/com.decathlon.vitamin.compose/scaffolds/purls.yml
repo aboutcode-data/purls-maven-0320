@@ -1,0 +1,2 @@
+- pkg:maven/com.decathlon.vitamin.compose/scaffolds@0.3.0-beta03?classifier=sources
+- pkg:maven/com.decathlon.vitamin.compose/scaffolds@0.3.0-beta04?classifier=sources

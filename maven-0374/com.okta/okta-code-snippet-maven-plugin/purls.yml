@@ -36,6 +36,10 @@
 - pkg:maven/com.okta/okta-code-snippet-maven-plugin@27?classifier=sources
 - pkg:maven/com.okta/okta-code-snippet-maven-plugin@28
 - pkg:maven/com.okta/okta-code-snippet-maven-plugin@28?classifier=sources
+- pkg:maven/com.okta/okta-code-snippet-maven-plugin@29
+- pkg:maven/com.okta/okta-code-snippet-maven-plugin@29?classifier=sources
+- pkg:maven/com.okta/okta-code-snippet-maven-plugin@30
+- pkg:maven/com.okta/okta-code-snippet-maven-plugin@30?classifier=sources
 - pkg:maven/com.okta/okta-code-snippet-maven-plugin@6
 - pkg:maven/com.okta/okta-code-snippet-maven-plugin@6?classifier=sources
 - pkg:maven/com.okta/okta-code-snippet-maven-plugin@7

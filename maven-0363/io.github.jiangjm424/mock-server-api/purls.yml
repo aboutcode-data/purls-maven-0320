@@ -1,1 +1,2 @@
 - pkg:maven/io.github.jiangjm424/mock-server-api@0.0.1?classifier=sources
+- pkg:maven/io.github.jiangjm424/mock-server-api@1.0.0?classifier=sources

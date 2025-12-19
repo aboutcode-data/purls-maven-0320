@@ -209,6 +209,8 @@
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-tests@21.0.0.Beta3
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-tests@21.0.0.Beta4
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-tests@21.1.0.Beta1
+- pkg:maven/org.wildfly.core/wildfly-subsystem-test-tests@21.1.0.Beta2
+- pkg:maven/org.wildfly.core/wildfly-subsystem-test-tests@21.1.0.Final
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-tests@3.0.0.Alpha1
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-tests@3.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-tests@3.0.0.Alpha11

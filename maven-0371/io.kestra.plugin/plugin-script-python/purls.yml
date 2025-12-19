@@ -1,0 +1,1 @@
+- pkg:maven/io.kestra.plugin/plugin-script-python@0.10.0?classifier=sources

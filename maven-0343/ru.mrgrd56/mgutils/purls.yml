@@ -26,3 +26,5 @@
 - pkg:maven/ru.mrgrd56/mgutils@1.9.0?classifier=sources
 - pkg:maven/ru.mrgrd56/mgutils@2.0.0
 - pkg:maven/ru.mrgrd56/mgutils@2.0.0?classifier=sources
+- pkg:maven/ru.mrgrd56/mgutils@3.0.0
+- pkg:maven/ru.mrgrd56/mgutils@3.0.0?classifier=sources

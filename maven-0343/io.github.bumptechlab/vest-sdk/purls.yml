@@ -3,3 +3,13 @@
 - pkg:maven/io.github.bumptechlab/vest-sdk@0.9.2?classifier=sources
 - pkg:maven/io.github.bumptechlab/vest-sdk@0.9.3?classifier=sources
 - pkg:maven/io.github.bumptechlab/vest-sdk@0.9.4?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.5.hotfix01?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.5.hotfix02?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.5.hotfix03?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.5.hotfix?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.5?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.6-beta?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.6?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.7?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.8.fix01?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-sdk@0.9.8?classifier=sources

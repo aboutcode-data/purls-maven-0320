@@ -4,6 +4,8 @@
 - pkg:maven/dev.medzik.librepass/types@0.1.0-alpha11?classifier=sources
 - pkg:maven/dev.medzik.librepass/types@0.1.0-alpha12
 - pkg:maven/dev.medzik.librepass/types@0.1.0-alpha12?classifier=sources
+- pkg:maven/dev.medzik.librepass/types@0.1.0-alpha13
+- pkg:maven/dev.medzik.librepass/types@0.1.0-alpha13?classifier=sources
 - pkg:maven/dev.medzik.librepass/types@0.1.0-alpha2
 - pkg:maven/dev.medzik.librepass/types@0.1.0-alpha2?classifier=sources
 - pkg:maven/dev.medzik.librepass/types@0.1.0-alpha3

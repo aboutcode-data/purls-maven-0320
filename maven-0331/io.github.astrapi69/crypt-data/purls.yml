@@ -9,4 +9,7 @@
 - pkg:maven/io.github.astrapi69/crypt-data@7.9?classifier=sources
 - pkg:maven/io.github.astrapi69/crypt-data@8.1?classifier=sources
 - pkg:maven/io.github.astrapi69/crypt-data@8.2?classifier=sources
+- pkg:maven/io.github.astrapi69/crypt-data@8.3?classifier=sources
+- pkg:maven/io.github.astrapi69/crypt-data@8.4?classifier=sources
+- pkg:maven/io.github.astrapi69/crypt-data@8.5?classifier=sources
 - pkg:maven/io.github.astrapi69/crypt-data@8?classifier=sources

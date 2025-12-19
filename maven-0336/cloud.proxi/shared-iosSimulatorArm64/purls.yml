@@ -1,1 +1,2 @@
 - pkg:maven/cloud.proxi/shared-iosSimulatorArm64@3.0.0-RC1?classifier=sources
+- pkg:maven/cloud.proxi/shared-iosSimulatorArm64@3.0.6?classifier=sources

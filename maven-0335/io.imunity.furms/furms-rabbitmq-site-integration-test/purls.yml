@@ -23,3 +23,4 @@
 - pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@4.2.6
 - pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@4.2.7
 - pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@4.2.8
+- pkg:maven/io.imunity.furms/furms-rabbitmq-site-integration-test@4.2.9

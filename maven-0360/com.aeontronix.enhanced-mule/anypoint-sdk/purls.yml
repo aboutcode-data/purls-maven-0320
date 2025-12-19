@@ -16,6 +16,12 @@
 - pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta17?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta18
 - pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta18?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta20
+- pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta20?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta21
+- pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta21?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta22
+- pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta22?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta5
 - pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta5?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/anypoint-sdk@1.0.0-beta6

@@ -55,6 +55,8 @@
 - pkg:maven/com.aliyun/das20200116@2.1.4
 - pkg:maven/com.aliyun/das20200116@2.1.40
 - pkg:maven/com.aliyun/das20200116@2.1.40?classifier=sources
+- pkg:maven/com.aliyun/das20200116@2.1.41
+- pkg:maven/com.aliyun/das20200116@2.1.41?classifier=sources
 - pkg:maven/com.aliyun/das20200116@2.1.4?classifier=sources
 - pkg:maven/com.aliyun/das20200116@2.1.5
 - pkg:maven/com.aliyun/das20200116@2.1.5?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/build.less/buildless-plugin-gradle@1.0.0-beta1?classifier=sources

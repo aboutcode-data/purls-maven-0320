@@ -8,3 +8,5 @@
 - pkg:maven/com.lazycece.rapidf/rapidf-domain@1.2.2?classifier=sources
 - pkg:maven/com.lazycece.rapidf/rapidf-domain@1.3.0
 - pkg:maven/com.lazycece.rapidf/rapidf-domain@1.3.0?classifier=sources
+- pkg:maven/com.lazycece.rapidf/rapidf-domain@1.4.0
+- pkg:maven/com.lazycece.rapidf/rapidf-domain@1.4.0?classifier=sources

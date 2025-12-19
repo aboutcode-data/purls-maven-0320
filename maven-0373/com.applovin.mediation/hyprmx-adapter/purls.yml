@@ -19,3 +19,5 @@
 - pkg:maven/com.applovin.mediation/hyprmx-adapter@6.0.3.0?classifier=sources
 - pkg:maven/com.applovin.mediation/hyprmx-adapter@6.0.3.1?classifier=sources
 - pkg:maven/com.applovin.mediation/hyprmx-adapter@6.2.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/hyprmx-adapter@6.2.0.1?classifier=sources
+- pkg:maven/com.applovin.mediation/hyprmx-adapter@6.2.0.2?classifier=sources

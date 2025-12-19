@@ -61,6 +61,9 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-client@6.4.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-client@6.4.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-client@6.5.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-client@6.5.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-client@6.5.2?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-client@6.5.3?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-client@7.0.0-alpha.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-client@7.0.0-alpha.2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-client@7.0.0-alpha.3?classifier=sources

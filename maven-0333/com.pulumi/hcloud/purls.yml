@@ -1,0 +1,3 @@
+- pkg:maven/com.pulumi/hcloud@1.10.2?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.11.0-alpha.1673714975%2B6e181fea?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.11.0-alpha.1675060950%2B326bdd06?classifier=sources

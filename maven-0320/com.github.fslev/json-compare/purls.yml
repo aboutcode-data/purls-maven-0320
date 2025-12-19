@@ -126,3 +126,7 @@
 - pkg:maven/com.github.fslev/json-compare@6.4?classifier=sources
 - pkg:maven/com.github.fslev/json-compare@6.5
 - pkg:maven/com.github.fslev/json-compare@6.5?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@6.6
+- pkg:maven/com.github.fslev/json-compare@6.6?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@6.7
+- pkg:maven/com.github.fslev/json-compare@6.7?classifier=sources

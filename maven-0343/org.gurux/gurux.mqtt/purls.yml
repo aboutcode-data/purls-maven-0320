@@ -1,0 +1,2 @@
+- pkg:maven/org.gurux/gurux.mqtt@1.0.1
+- pkg:maven/org.gurux/gurux.mqtt@1.0.1?classifier=sources

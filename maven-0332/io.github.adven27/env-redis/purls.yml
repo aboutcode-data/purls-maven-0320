@@ -1,1 +1,2 @@
 - pkg:maven/io.github.adven27/env-redis@5.0.0?classifier=sources
+- pkg:maven/io.github.adven27/env-redis@5.0.1?classifier=sources

@@ -27,3 +27,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-thrift@2.41.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-thrift@2.42.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-thrift@2.43.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-thrift@2.44.0?classifier=sources

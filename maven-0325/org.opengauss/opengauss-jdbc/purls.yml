@@ -6,3 +6,7 @@
 - pkg:maven/org.opengauss/opengauss-jdbc@3.1.0-og
 - pkg:maven/org.opengauss/opengauss-jdbc@3.1.0-og?classifier=sources
 - pkg:maven/org.opengauss/opengauss-jdbc@3.1.0?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@3.1.1
+- pkg:maven/org.opengauss/opengauss-jdbc@3.1.1-og
+- pkg:maven/org.opengauss/opengauss-jdbc@3.1.1-og?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@3.1.1?classifier=sources

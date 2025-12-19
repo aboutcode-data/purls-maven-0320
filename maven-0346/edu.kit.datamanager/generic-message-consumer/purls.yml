@@ -8,3 +8,4 @@
 - pkg:maven/edu.kit.datamanager/generic-message-consumer@0.1?classifier=sources
 - pkg:maven/edu.kit.datamanager/generic-message-consumer@0.2.0
 - pkg:maven/edu.kit.datamanager/generic-message-consumer@0.2.0?classifier=sources
+- pkg:maven/edu.kit.datamanager/generic-message-consumer@1.0.0?classifier=sources

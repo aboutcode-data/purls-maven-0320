@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/eventsource@1.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/eventsource@1.1.0
 - pkg:maven/org.webjars.npm/eventsource@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/eventsource@1.1.2
+- pkg:maven/org.webjars.npm/eventsource@1.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/eventsource@2.0.2
 - pkg:maven/org.webjars.npm/eventsource@2.0.2?classifier=sources

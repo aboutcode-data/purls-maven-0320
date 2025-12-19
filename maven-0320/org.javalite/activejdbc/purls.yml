@@ -56,3 +56,7 @@
 - pkg:maven/org.javalite/activejdbc@3.0-j11?classifier=sources
 - pkg:maven/org.javalite/activejdbc@3.1-j11
 - pkg:maven/org.javalite/activejdbc@3.1-j11?classifier=sources
+- pkg:maven/org.javalite/activejdbc@3.3-j11
+- pkg:maven/org.javalite/activejdbc@3.3-j11?classifier=sources
+- pkg:maven/org.javalite/activejdbc@3.4-j11
+- pkg:maven/org.javalite/activejdbc@3.4-j11?classifier=sources

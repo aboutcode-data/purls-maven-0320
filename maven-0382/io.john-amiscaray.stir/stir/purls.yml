@@ -1,0 +1,2 @@
+- pkg:maven/io.john-amiscaray.stir/stir@1.0.0
+- pkg:maven/io.john-amiscaray.stir/stir@1.0.0?classifier=sources

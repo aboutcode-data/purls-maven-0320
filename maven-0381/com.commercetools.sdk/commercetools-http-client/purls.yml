@@ -1,6 +1,9 @@
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@10.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@10.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@11.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-http-client@11.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-http-client@11.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-http-client@12.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@2.0.0
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@2.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@2.0.1

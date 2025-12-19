@@ -12,5 +12,7 @@
 - pkg:maven/net.mingsoft/ms-mattention@2.1.14?classifier=sources
 - pkg:maven/net.mingsoft/ms-mattention@2.1.15
 - pkg:maven/net.mingsoft/ms-mattention@2.1.15?classifier=sources
+- pkg:maven/net.mingsoft/ms-mattention@2.1.18
+- pkg:maven/net.mingsoft/ms-mattention@2.1.18?classifier=sources
 - pkg:maven/net.mingsoft/ms-mattention@2.1.7
 - pkg:maven/net.mingsoft/ms-mattention@2.1.7?classifier=sources

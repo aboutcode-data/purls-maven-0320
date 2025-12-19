@@ -62,3 +62,15 @@
 - pkg:maven/com.github.promregator/promregator@0.9.1?classifier=sources
 - pkg:maven/com.github.promregator/promregator@0.9.2
 - pkg:maven/com.github.promregator/promregator@0.9.2?classifier=sources
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc1
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc1?classifier=sources
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc2
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc2?classifier=sources
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc3
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc3?classifier=sources
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc4
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc4?classifier=sources
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc5
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc5?classifier=sources
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc6
+- pkg:maven/com.github.promregator/promregator@1.0.0-rc6?classifier=sources

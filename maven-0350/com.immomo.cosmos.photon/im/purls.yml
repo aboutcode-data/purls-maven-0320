@@ -8,3 +8,5 @@
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.22_1747?type=aar
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.23_2051?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.23_2051?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.23_2052?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.23_2052?type=aar

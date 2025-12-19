@@ -355,6 +355,12 @@
 - pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-43-f1362b23?classifier=sources
 - pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-45-931ce1b4
 - pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-45-931ce1b4?classifier=sources
+- pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-47-607be307
+- pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-47-607be307?classifier=sources
+- pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-49-5406395c
+- pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-49-5406395c?classifier=sources
+- pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-51-45e321ed
+- pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-51-45e321ed?classifier=sources
 - pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-6-aed542c7
 - pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6-6-aed542c7?classifier=sources
 - pkg:maven/ch.epfl.scala/bloopgun_2.13@1.5.6?classifier=sources

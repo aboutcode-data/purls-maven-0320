@@ -870,6 +870,8 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.store.api.rest@3.0.65?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.store.api.rest@3.0.66
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.store.api.rest@3.0.66?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.store.api.rest@3.0.67
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.store.api.rest@3.0.67?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.store.api.rest@3.0.8
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.store.api.rest@3.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.store.api.rest@3.0.9

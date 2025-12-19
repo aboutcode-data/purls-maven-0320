@@ -18,3 +18,5 @@
 - pkg:maven/org.codelibs.fione/fione-serving@3.32.0.2?classifier=sources
 - pkg:maven/org.codelibs.fione/fione-serving@3.36.1.0
 - pkg:maven/org.codelibs.fione/fione-serving@3.36.1.0?classifier=sources
+- pkg:maven/org.codelibs.fione/fione-serving@3.38.0.0
+- pkg:maven/org.codelibs.fione/fione-serving@3.38.0.0?classifier=sources

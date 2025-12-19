@@ -12,5 +12,11 @@
 - pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.18?classifier=sources
 - pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.19
 - pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.19?classifier=sources
+- pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.20
+- pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.20?classifier=sources
+- pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.21
+- pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.21?classifier=sources
+- pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.22
+- pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.22?classifier=sources
 - pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.3
 - pkg:maven/io.github.thibaudledent.j8583/j8583@1.17.3?classifier=sources

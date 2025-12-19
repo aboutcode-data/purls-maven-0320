@@ -64,3 +64,5 @@
 - pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.1?type=aar
 - pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.2?classifier=sources
 - pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.2?type=aar
+- pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.3?classifier=sources
+- pkg:maven/com.azure.android/azure-communication-calling@2.5.1-beta.3?type=aar

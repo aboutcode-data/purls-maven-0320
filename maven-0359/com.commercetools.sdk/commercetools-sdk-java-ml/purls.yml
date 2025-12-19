@@ -21,6 +21,9 @@
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@10.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@10.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@11.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@11.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@11.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@12.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@2.0.0
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@2.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-ml@2.0.1

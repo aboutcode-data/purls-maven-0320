@@ -1,0 +1,16 @@
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B30-4a995403
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B30-4a995403?classifier=sources
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B30-def4149b
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B30-def4149b?classifier=sources
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B31-45ba0c36
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B31-45ba0c36?classifier=sources
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B31-6747f6cd
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B31-6747f6cd?classifier=sources
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B32-db6e8c99
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B32-db6e8c99?classifier=sources
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B32-dd77cc4b
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.0.0%2B32-dd77cc4b?classifier=sources
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.1.0
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.1.0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.1.1
+- pkg:maven/com.thoughtworks.binding/futurebinding_3@12.1.1?classifier=sources

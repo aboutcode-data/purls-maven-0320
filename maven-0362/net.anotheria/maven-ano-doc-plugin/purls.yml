@@ -32,3 +32,7 @@
 - pkg:maven/net.anotheria/maven-ano-doc-plugin@3.0.0?classifier=sources
 - pkg:maven/net.anotheria/maven-ano-doc-plugin@3.0.2
 - pkg:maven/net.anotheria/maven-ano-doc-plugin@3.0.2?classifier=sources
+- pkg:maven/net.anotheria/maven-ano-doc-plugin@3.1.0
+- pkg:maven/net.anotheria/maven-ano-doc-plugin@3.1.0?classifier=sources
+- pkg:maven/net.anotheria/maven-ano-doc-plugin@3.2.0
+- pkg:maven/net.anotheria/maven-ano-doc-plugin@3.2.0?classifier=sources

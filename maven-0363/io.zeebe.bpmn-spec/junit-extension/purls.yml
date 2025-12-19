@@ -6,3 +6,5 @@
 - pkg:maven/io.zeebe.bpmn-spec/junit-extension@1.0.0?classifier=sources
 - pkg:maven/io.zeebe.bpmn-spec/junit-extension@2.0.0
 - pkg:maven/io.zeebe.bpmn-spec/junit-extension@2.0.0?classifier=sources
+- pkg:maven/io.zeebe.bpmn-spec/junit-extension@2.1.0
+- pkg:maven/io.zeebe.bpmn-spec/junit-extension@2.1.0?classifier=sources

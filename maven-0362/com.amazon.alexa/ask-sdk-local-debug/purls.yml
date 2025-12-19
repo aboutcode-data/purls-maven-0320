@@ -58,3 +58,13 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.45.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.46.0
 - pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.46.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.47.0
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.47.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.48.0
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.48.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.49.0
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.49.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.50.0
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.50.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.51.0
+- pkg:maven/com.amazon.alexa/ask-sdk-local-debug@2.51.0?classifier=sources

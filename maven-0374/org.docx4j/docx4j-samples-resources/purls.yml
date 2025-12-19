@@ -1,0 +1,2 @@
+- pkg:maven/org.docx4j/docx4j-samples-resources@11.4.9
+- pkg:maven/org.docx4j/docx4j-samples-resources@11.4.9?classifier=sources

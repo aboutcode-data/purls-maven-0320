@@ -6,3 +6,7 @@
 - pkg:maven/org.myguide/creator@1.0.3?type=aar
 - pkg:maven/org.myguide/creator@2.1.0?classifier=sources
 - pkg:maven/org.myguide/creator@2.1.0?type=aar
+- pkg:maven/org.myguide/creator@2.2.0?classifier=sources
+- pkg:maven/org.myguide/creator@2.2.0?type=aar
+- pkg:maven/org.myguide/creator@2.3.0?classifier=sources
+- pkg:maven/org.myguide/creator@2.3.0?type=aar

@@ -44,6 +44,8 @@
 - pkg:maven/org.apache.calcite/calcite-druid@1.31.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-druid@1.32.0
 - pkg:maven/org.apache.calcite/calcite-druid@1.32.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-druid@1.33.0
+- pkg:maven/org.apache.calcite/calcite-druid@1.33.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-druid@1.8.0
 - pkg:maven/org.apache.calcite/calcite-druid@1.8.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-druid@1.9.0

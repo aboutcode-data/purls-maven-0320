@@ -2,3 +2,4 @@
 - pkg:maven/de.skuzzle.test/snapshot-tests-release-test@1.6.1
 - pkg:maven/de.skuzzle.test/snapshot-tests-release-test@1.7.0
 - pkg:maven/de.skuzzle.test/snapshot-tests-release-test@1.7.1
+- pkg:maven/de.skuzzle.test/snapshot-tests-release-test@1.8.0

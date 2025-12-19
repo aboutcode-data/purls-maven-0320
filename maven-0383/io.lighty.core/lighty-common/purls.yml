@@ -102,6 +102,10 @@
 - pkg:maven/io.lighty.core/lighty-common@16.3.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-common@17.0.0
 - pkg:maven/io.lighty.core/lighty-common@17.0.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-common@17.1.0
+- pkg:maven/io.lighty.core/lighty-common@17.1.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-common@17.2.0
+- pkg:maven/io.lighty.core/lighty-common@17.2.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-common@8.4.1
 - pkg:maven/io.lighty.core/lighty-common@8.4.1?classifier=sources
 - pkg:maven/io.lighty.core/lighty-common@8.4.2

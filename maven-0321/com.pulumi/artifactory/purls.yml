@@ -1,3 +1,8 @@
+- pkg:maven/com.pulumi/artifactory@2.10.0-alpha.1673991581%2B0784f02e?classifier=sources
+- pkg:maven/com.pulumi/artifactory@2.10.0?classifier=sources
+- pkg:maven/com.pulumi/artifactory@2.11.0-alpha.1673995223%2B2f17a2d0?classifier=sources
+- pkg:maven/com.pulumi/artifactory@2.11.0-alpha.1674594197%2B3ac5c784?classifier=sources
+- pkg:maven/com.pulumi/artifactory@2.11.0?classifier=sources
 - pkg:maven/com.pulumi/artifactory@2.6.0-alpha.1660221417%2B406b7c3e?classifier=sources
 - pkg:maven/com.pulumi/artifactory@2.6.0?classifier=sources
 - pkg:maven/com.pulumi/artifactory@2.6.1?classifier=sources

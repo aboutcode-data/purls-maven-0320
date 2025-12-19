@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.features.distributed/org.opennms.features.distributed.kv-store.api@31.0.3
+- pkg:maven/org.opennms.features.distributed/org.opennms.features.distributed.kv-store.api@31.0.3?classifier=sources

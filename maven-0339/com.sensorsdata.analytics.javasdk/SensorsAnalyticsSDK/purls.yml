@@ -149,3 +149,5 @@
 - pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.5.3?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.6.0
 - pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.6.0?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.6.1
+- pkg:maven/com.sensorsdata.analytics.javasdk/SensorsAnalyticsSDK@3.6.1?classifier=sources

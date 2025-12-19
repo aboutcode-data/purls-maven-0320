@@ -1,0 +1,2 @@
+- pkg:maven/at.noahb/smartInvs@1.4.0
+- pkg:maven/at.noahb/smartInvs@1.4.0?classifier=sources

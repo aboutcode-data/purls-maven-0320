@@ -78,3 +78,5 @@
 - pkg:maven/org.languagetool/languagetool-gui-commons@5.8?classifier=sources
 - pkg:maven/org.languagetool/languagetool-gui-commons@5.9
 - pkg:maven/org.languagetool/languagetool-gui-commons@5.9?classifier=sources
+- pkg:maven/org.languagetool/languagetool-gui-commons@6.0
+- pkg:maven/org.languagetool/languagetool-gui-commons@6.0?classifier=sources

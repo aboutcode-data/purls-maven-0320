@@ -33,6 +33,8 @@
 - pkg:maven/net.wicp.tams/common-binlog-alone@3.6.20?classifier=sources
 - pkg:maven/net.wicp.tams/common-binlog-alone@3.6.21
 - pkg:maven/net.wicp.tams/common-binlog-alone@3.6.21?classifier=sources
+- pkg:maven/net.wicp.tams/common-binlog-alone@3.6.23
+- pkg:maven/net.wicp.tams/common-binlog-alone@3.6.23?classifier=sources
 - pkg:maven/net.wicp.tams/common-binlog-alone@3.6.2?classifier=sources
 - pkg:maven/net.wicp.tams/common-binlog-alone@3.6.3
 - pkg:maven/net.wicp.tams/common-binlog-alone@3.6.3?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/ecr-public@811.2.858.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ecr-public@821.2.1107.0
 - pkg:maven/com.cognitect.aws/ecr-public@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ecr-public@834.2.1291.0
+- pkg:maven/com.cognitect.aws/ecr-public@834.2.1291.0?classifier=sources

@@ -48,6 +48,16 @@
 - pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.13?type=war
 - pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.14?classifier=sources
 - pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.14?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.15?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.15?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.16?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.16?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.17?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.17?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.18?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.18?type=war
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.19?classifier=sources
+- pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.19?type=war
 - pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.1?classifier=sources
 - pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.1?type=war
 - pkg:maven/io.cronapp/camunda-webapp@2.9.2-SP.2?classifier=sources

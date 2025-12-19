@@ -171,3 +171,5 @@
 - pkg:maven/com.box/box-java-sdk@3.7.1?classifier=sources
 - pkg:maven/com.box/box-java-sdk@3.8.0?classifier=sources
 - pkg:maven/com.box/box-java-sdk@3.8.1?classifier=sources
+- pkg:maven/com.box/box-java-sdk@3.8.2?classifier=sources
+- pkg:maven/com.box/box-java-sdk@4.0.0?classifier=sources

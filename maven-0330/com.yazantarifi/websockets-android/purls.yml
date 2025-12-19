@@ -1,0 +1,13 @@
+- pkg:maven/com.yazantarifi/websockets-android@0.0-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.1-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.10-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.11-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.12-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.13-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.2-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.3-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.5-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.6-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.7-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.8-alpha?classifier=sources
+- pkg:maven/com.yazantarifi/websockets-android@0.9-alpha?classifier=sources

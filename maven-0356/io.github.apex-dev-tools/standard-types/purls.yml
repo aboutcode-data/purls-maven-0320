@@ -2,3 +2,7 @@
 - pkg:maven/io.github.apex-dev-tools/standard-types@55.0.0?classifier=sources
 - pkg:maven/io.github.apex-dev-tools/standard-types@56.0.0
 - pkg:maven/io.github.apex-dev-tools/standard-types@56.0.0?classifier=sources
+- pkg:maven/io.github.apex-dev-tools/standard-types@57.0.0
+- pkg:maven/io.github.apex-dev-tools/standard-types@57.0.0?classifier=sources
+- pkg:maven/io.github.apex-dev-tools/standard-types@57.0.1
+- pkg:maven/io.github.apex-dev-tools/standard-types@57.0.1?classifier=sources

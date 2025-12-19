@@ -5,4 +5,6 @@
 - pkg:maven/co.featbit/featbit-springboot-starter@1.0.2?classifier=sources
 - pkg:maven/co.featbit/featbit-springboot-starter@1.0.4
 - pkg:maven/co.featbit/featbit-springboot-starter@1.0.4?classifier=sources
+- pkg:maven/co.featbit/featbit-springboot-starter@1.0.5
+- pkg:maven/co.featbit/featbit-springboot-starter@1.0.5?classifier=sources
 - pkg:maven/co.featbit/featbit-springboot-starter@1.0?classifier=sources

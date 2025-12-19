@@ -18,3 +18,7 @@
 - pkg:maven/nu.aron/nextversion-maven-plugin@34?classifier=sources
 - pkg:maven/nu.aron/nextversion-maven-plugin@35
 - pkg:maven/nu.aron/nextversion-maven-plugin@35?classifier=sources
+- pkg:maven/nu.aron/nextversion-maven-plugin@36
+- pkg:maven/nu.aron/nextversion-maven-plugin@36?classifier=sources
+- pkg:maven/nu.aron/nextversion-maven-plugin@37
+- pkg:maven/nu.aron/nextversion-maven-plugin@37?classifier=sources

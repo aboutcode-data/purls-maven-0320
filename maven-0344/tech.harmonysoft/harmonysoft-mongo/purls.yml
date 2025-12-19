@@ -9,3 +9,5 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.36.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.37.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.38.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.40.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo@1.41.0?classifier=sources

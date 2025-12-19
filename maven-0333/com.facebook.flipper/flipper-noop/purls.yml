@@ -81,6 +81,7 @@
 - pkg:maven/com.facebook.flipper/flipper-noop@0.175.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.176.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.176.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.177.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.75.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.75.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.76.0?classifier=sources

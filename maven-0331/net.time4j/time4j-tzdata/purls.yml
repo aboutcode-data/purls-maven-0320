@@ -84,3 +84,4 @@
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2022c?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2022e?classifier=sources
 - pkg:maven/net.time4j/time4j-tzdata@5.0-2022f?classifier=sources
+- pkg:maven/net.time4j/time4j-tzdata@5.0-2022g?classifier=sources

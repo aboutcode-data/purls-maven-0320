@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.xmlgraphics/batik-shared-resources@1.14?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-shared-resources@1.15?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-shared-resources@1.16?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/batik-shared-resources@1.17?classifier=sources

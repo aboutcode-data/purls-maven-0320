@@ -89,3 +89,4 @@
 - pkg:maven/org.opendaylight.controller/repackaged-akka@7.0.9?classifier=sources
 - pkg:maven/org.opendaylight.controller/repackaged-akka@8.0.0
 - pkg:maven/org.opendaylight.controller/repackaged-akka@8.0.0?classifier=sources
+- pkg:maven/org.opendaylight.controller/repackaged-akka@8.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.grishka.sparkjava/spark-core@2.9.4%2Bpatch.1
+- pkg:maven/me.grishka.sparkjava/spark-core@2.9.4%2Bpatch.1?classifier=sources

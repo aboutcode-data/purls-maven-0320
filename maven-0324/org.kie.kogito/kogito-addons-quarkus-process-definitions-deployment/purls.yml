@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-process-definitions-deployment@1.42.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-process-definitions-deployment@1.42.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-process-definitions-deployment@1.43.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-process-definitions-deployment@1.43.0.Final?classifier=sources

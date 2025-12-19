@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tno/com.github.tno.gltsdiff@1.1.0
+- pkg:maven/io.github.tno/com.github.tno.gltsdiff@1.1.0?classifier=sources

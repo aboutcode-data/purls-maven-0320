@@ -1,2 +1,4 @@
 - pkg:maven/io.github.hamawhitegg/langchain-spark@0.1.10
 - pkg:maven/io.github.hamawhitegg/langchain-spark@0.1.10?classifier=sources
+- pkg:maven/io.github.hamawhitegg/langchain-spark@0.1.11
+- pkg:maven/io.github.hamawhitegg/langchain-spark@0.1.11?classifier=sources

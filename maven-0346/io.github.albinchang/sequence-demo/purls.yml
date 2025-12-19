@@ -1,0 +1,2 @@
+- pkg:maven/io.github.albinchang/sequence-demo@2023.08.29
+- pkg:maven/io.github.albinchang/sequence-demo@2023.08.29?classifier=sources

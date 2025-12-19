@@ -29,3 +29,4 @@
 - pkg:maven/com.braintreepayments.api/paypal-native-checkout@4.34.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/paypal-native-checkout@4.35.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/paypal-native-checkout@4.36.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/paypal-native-checkout@4.37.0?classifier=sources

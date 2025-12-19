@@ -464,3 +464,5 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-reporter@3.9.2?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-reporter@3.9.3
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-reporter@3.9.3?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-reporter@4.0.0
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-reporter@4.0.0?classifier=sources

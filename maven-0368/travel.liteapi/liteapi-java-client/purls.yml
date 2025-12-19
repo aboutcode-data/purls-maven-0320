@@ -1,2 +1,4 @@
 - pkg:maven/travel.liteapi/liteapi-java-client@2.0.0
+- pkg:maven/travel.liteapi/liteapi-java-client@2.0.0-updates
+- pkg:maven/travel.liteapi/liteapi-java-client@2.0.0-updates?classifier=sources
 - pkg:maven/travel.liteapi/liteapi-java-client@2.0.0?classifier=sources

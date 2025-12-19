@@ -1,0 +1,2 @@
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.134
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.134?classifier=sources

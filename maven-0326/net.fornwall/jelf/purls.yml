@@ -11,3 +11,4 @@
 - pkg:maven/net.fornwall/jelf@0.6.0?classifier=sources
 - pkg:maven/net.fornwall/jelf@0.7.0?classifier=sources
 - pkg:maven/net.fornwall/jelf@0.8.0?classifier=sources
+- pkg:maven/net.fornwall/jelf@0.9.0?classifier=sources

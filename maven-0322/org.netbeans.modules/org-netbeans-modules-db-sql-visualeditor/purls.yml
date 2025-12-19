@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-visualeditor@RELEASE90?classifier=sources

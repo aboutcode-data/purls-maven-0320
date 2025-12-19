@@ -1,1 +1,2 @@
 - pkg:maven/org.hertsstack/herts-rpc-client@1.0.0?classifier=sources
+- pkg:maven/org.hertsstack/herts-rpc-client@1.1.0?classifier=sources

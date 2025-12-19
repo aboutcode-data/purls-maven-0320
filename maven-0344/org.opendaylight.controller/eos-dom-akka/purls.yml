@@ -59,3 +59,4 @@
 - pkg:maven/org.opendaylight.controller/eos-dom-akka@7.0.9?classifier=sources
 - pkg:maven/org.opendaylight.controller/eos-dom-akka@8.0.0
 - pkg:maven/org.opendaylight.controller/eos-dom-akka@8.0.0?classifier=sources
+- pkg:maven/org.opendaylight.controller/eos-dom-akka@8.0.1?classifier=sources

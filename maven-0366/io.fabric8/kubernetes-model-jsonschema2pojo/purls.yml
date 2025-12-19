@@ -110,3 +110,5 @@
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@6.7.2?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@6.8.0
 - pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@6.8.0?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@6.8.1
+- pkg:maven/io.fabric8/kubernetes-model-jsonschema2pojo@6.8.1?classifier=sources

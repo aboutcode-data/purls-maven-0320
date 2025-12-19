@@ -156,5 +156,7 @@
 - pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.6.7?classifier=sources
 - pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.6.8
 - pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.6.8?classifier=sources
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.6.9
+- pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@0.6.9?classifier=sources
 - pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@195ae24
 - pkg:maven/org.factcast/factcast-spring-boot-autoconfigure@195ae24?classifier=sources

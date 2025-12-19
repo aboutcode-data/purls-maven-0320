@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.141.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.141.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.142.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.142.0?classifier=sources

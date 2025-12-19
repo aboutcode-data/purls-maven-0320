@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.gobblin/gobblin-utility@0.14.0?classifier=sources
 - pkg:maven/org.apache.gobblin/gobblin-utility@0.15.0?classifier=sources
 - pkg:maven/org.apache.gobblin/gobblin-utility@0.16.0?classifier=sources
+- pkg:maven/org.apache.gobblin/gobblin-utility@0.17.0?classifier=sources

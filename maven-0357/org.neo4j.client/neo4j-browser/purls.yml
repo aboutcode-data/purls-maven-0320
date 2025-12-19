@@ -252,6 +252,8 @@
 - pkg:maven/org.neo4j.client/neo4j-browser@4.4.7?classifier=sources
 - pkg:maven/org.neo4j.client/neo4j-browser@5.0.0
 - pkg:maven/org.neo4j.client/neo4j-browser@5.0.0?classifier=sources
+- pkg:maven/org.neo4j.client/neo4j-browser@5.11.0
+- pkg:maven/org.neo4j.client/neo4j-browser@5.11.0?classifier=sources
 - pkg:maven/org.neo4j.client/neo4j-browser@5.4.0
 - pkg:maven/org.neo4j.client/neo4j-browser@5.4.0?classifier=sources
 - pkg:maven/org.neo4j.client/neo4j-browser@5.6.0

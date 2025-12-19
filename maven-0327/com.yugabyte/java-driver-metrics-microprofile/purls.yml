@@ -1,2 +1,4 @@
 - pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.11.4-yb-1-RC1
 - pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.11.4-yb-1-RC1?classifier=sources
+- pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.15.0-yb-1
+- pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.15.0-yb-1?classifier=sources

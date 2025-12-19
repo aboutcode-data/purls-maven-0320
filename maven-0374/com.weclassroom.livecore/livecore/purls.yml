@@ -22,4 +22,5 @@
 - pkg:maven/com.weclassroom.livecore/livecore@0.5.3.yach?classifier=sources
 - pkg:maven/com.weclassroom.livecore/livecore@0.5.3?classifier=sources
 - pkg:maven/com.weclassroom.livecore/livecore@0.5.4.yach?classifier=sources
+- pkg:maven/com.weclassroom.livecore/livecore@0.5.4?classifier=sources
 - pkg:maven/com.weclassroom.livecore/livecore@0.5.5.yach?classifier=sources

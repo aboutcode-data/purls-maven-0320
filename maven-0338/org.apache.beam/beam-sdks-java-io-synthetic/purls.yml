@@ -53,6 +53,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-synthetic@2.47.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-synthetic@2.48.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-synthetic@2.49.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-synthetic@2.50.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-synthetic@2.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-synthetic@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-synthetic@2.7.0

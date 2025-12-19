@@ -32,6 +32,8 @@
 - pkg:maven/org.neo4j.procedure/apoc-processor@4.4.0.18?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@4.4.0.19?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@4.4.0.1?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-processor@4.4.0.20?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-processor@4.4.0.21?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@4.4.0.2?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@4.4.0.3?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@4.4.0.4?classifier=sources
@@ -46,6 +48,7 @@
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.1.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.10.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.10.1?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-processor@5.11.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.2.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.2.1?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.3.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.noleme/noleme-json@0.10
+- pkg:maven/com.noleme/noleme-json@0.10?classifier=sources
 - pkg:maven/com.noleme/noleme-json@0.9
 - pkg:maven/com.noleme/noleme-json@0.9.1
 - pkg:maven/com.noleme/noleme-json@0.9.1?classifier=sources

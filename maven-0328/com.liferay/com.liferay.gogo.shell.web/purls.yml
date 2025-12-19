@@ -504,6 +504,9 @@
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.22
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.23
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gogo.shell.web@5.0.3

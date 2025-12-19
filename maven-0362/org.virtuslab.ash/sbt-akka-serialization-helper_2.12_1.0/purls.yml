@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab.ash/sbt-akka-serialization-helper_2.12_1.0@0.7.3
+- pkg:maven/org.virtuslab.ash/sbt-akka-serialization-helper_2.12_1.0@0.7.3?classifier=sources

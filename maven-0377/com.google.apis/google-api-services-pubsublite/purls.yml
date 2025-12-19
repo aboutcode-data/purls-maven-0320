@@ -42,3 +42,7 @@
 - pkg:maven/com.google.apis/google-api-services-pubsublite@v1-rev20221206-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsublite@v1-rev20230304-2.0.0
 - pkg:maven/com.google.apis/google-api-services-pubsublite@v1-rev20230304-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsublite@v1-rev20230707-2.0.0
+- pkg:maven/com.google.apis/google-api-services-pubsublite@v1-rev20230707-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsublite@v1-rev20230804-2.0.0
+- pkg:maven/com.google.apis/google-api-services-pubsublite@v1-rev20230804-2.0.0?classifier=sources

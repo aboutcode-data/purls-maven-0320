@@ -37,6 +37,7 @@
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.1.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@2.16.10.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.2.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.3.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.4.Final?classifier=sources
@@ -44,6 +45,7 @@
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.6.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.16.8.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@2.16.9.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.5.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.5.1.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@2.5.2.Final?classifier=sources
@@ -95,3 +97,10 @@
 - pkg:maven/io.quarkus/quarkus-gradle-model@3.2.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@3.2.1.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-gradle-model@3.2.2.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@3.2.3.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@3.2.4.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@3.2.5.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@3.3.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@3.3.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@3.3.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-gradle-model@3.3.2?classifier=sources

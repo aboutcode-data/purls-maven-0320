@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jeancnasc.testando.testando-maven-release/shared@1.8.0
+- pkg:maven/io.github.jeancnasc.testando.testando-maven-release/shared@1.8.0?classifier=sources

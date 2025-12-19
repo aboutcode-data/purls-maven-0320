@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.mightlin/might-springboot-starter-persist@1.2
+- pkg:maven/io.gitee.mightlin/might-springboot-starter-persist@1.2?classifier=sources

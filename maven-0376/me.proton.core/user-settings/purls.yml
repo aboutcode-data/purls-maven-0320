@@ -30,6 +30,10 @@
 - pkg:maven/me.proton.core/user-settings@13.0.0?classifier=sources
 - pkg:maven/me.proton.core/user-settings@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/user-settings@14.0.0?classifier=sources
+- pkg:maven/me.proton.core/user-settings@14.0.1?classifier=sources
+- pkg:maven/me.proton.core/user-settings@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/user-settings@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/user-settings@15.1.0?classifier=sources
 - pkg:maven/me.proton.core/user-settings@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/user-settings@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/user-settings@3.0.0?classifier=sources

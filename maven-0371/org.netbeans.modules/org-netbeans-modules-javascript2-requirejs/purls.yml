@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-requirejs@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-requirejs@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-requirejs@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-requirejs@RELEASE190?classifier=sources

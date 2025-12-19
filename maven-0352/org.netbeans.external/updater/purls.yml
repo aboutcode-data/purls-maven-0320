@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.external/updater@RELEASE160
 - pkg:maven/org.netbeans.external/updater@RELEASE170
 - pkg:maven/org.netbeans.external/updater@RELEASE180
+- pkg:maven/org.netbeans.external/updater@RELEASE190
 - pkg:maven/org.netbeans.external/updater@RELEASE90

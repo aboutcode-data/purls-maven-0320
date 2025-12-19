@@ -30,3 +30,7 @@
 - pkg:maven/me.hsgamer/uni-hologram-spigot-common@2.1.1?classifier=sources
 - pkg:maven/me.hsgamer/uni-hologram-spigot-common@2.2.0
 - pkg:maven/me.hsgamer/uni-hologram-spigot-common@2.2.0?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-common@2.3.0
+- pkg:maven/me.hsgamer/uni-hologram-spigot-common@2.3.0?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-common@2.4.0
+- pkg:maven/me.hsgamer/uni-hologram-spigot-common@2.4.0?classifier=sources

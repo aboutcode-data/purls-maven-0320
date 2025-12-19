@@ -1,2 +1,4 @@
 - pkg:maven/org.jqassistant.tooling.common/rules@2.0.3
 - pkg:maven/org.jqassistant.tooling.common/rules@2.0.3?classifier=sources
+- pkg:maven/org.jqassistant.tooling.common/rules@2.0.7
+- pkg:maven/org.jqassistant.tooling.common/rules@2.0.7?classifier=sources

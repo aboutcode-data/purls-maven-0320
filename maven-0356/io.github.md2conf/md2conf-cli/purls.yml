@@ -4,3 +4,7 @@
 - pkg:maven/io.github.md2conf/md2conf-cli@0.0.7
 - pkg:maven/io.github.md2conf/md2conf-cli@0.0.8
 - pkg:maven/io.github.md2conf/md2conf-cli@0.0.9
+- pkg:maven/io.github.md2conf/md2conf-cli@0.1.0
+- pkg:maven/io.github.md2conf/md2conf-cli@0.1.1
+- pkg:maven/io.github.md2conf/md2conf-cli@0.1.2
+- pkg:maven/io.github.md2conf/md2conf-cli@0.1.3

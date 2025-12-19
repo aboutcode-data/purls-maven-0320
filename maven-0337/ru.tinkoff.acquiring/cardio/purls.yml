@@ -73,3 +73,4 @@
 - pkg:maven/ru.tinkoff.acquiring/cardio@2.8.2?classifier=sources
 - pkg:maven/ru.tinkoff.acquiring/cardio@2.9.0?classifier=sources
 - pkg:maven/ru.tinkoff.acquiring/cardio@3.0.0?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/cardio@3.0.1?classifier=sources

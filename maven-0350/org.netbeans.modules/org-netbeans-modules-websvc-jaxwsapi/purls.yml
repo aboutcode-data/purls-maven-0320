@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsapi@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsapi@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsapi@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsapi@RELEASE190?classifier=sources

@@ -124,3 +124,4 @@
 - pkg:maven/com.clevertap.android/clevertap-android-sdk@4.7.5?classifier=sources
 - pkg:maven/com.clevertap.android/clevertap-android-sdk@5.0.0?classifier=sources
 - pkg:maven/com.clevertap.android/clevertap-android-sdk@5.1.0?classifier=sources
+- pkg:maven/com.clevertap.android/clevertap-android-sdk@5.2.0?classifier=sources

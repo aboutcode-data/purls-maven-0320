@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/dashbuilder-js__dashbuilder-client@0.26.10
+- pkg:maven/org.webjars.npm/dashbuilder-js__dashbuilder-client@0.26.10?classifier=sources
+- pkg:maven/org.webjars.npm/dashbuilder-js__dashbuilder-client@0.26.11
+- pkg:maven/org.webjars.npm/dashbuilder-js__dashbuilder-client@0.26.11?classifier=sources

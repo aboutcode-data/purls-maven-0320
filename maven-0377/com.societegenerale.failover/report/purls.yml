@@ -1,3 +1,6 @@
 - pkg:maven/com.societegenerale.failover/report@1.0.1
 - pkg:maven/com.societegenerale.failover/report@1.1.0
 - pkg:maven/com.societegenerale.failover/report@2.0.0
+- pkg:maven/com.societegenerale.failover/report@2.0.1
+- pkg:maven/com.societegenerale.failover/report@2.1.0
+- pkg:maven/com.societegenerale.failover/report@2.1.1

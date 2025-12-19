@@ -17,3 +17,4 @@
 - pkg:maven/com.yoc.visx.sdk/mediation-adapter-goolgeads@20.6.0.14?classifier=sources
 - pkg:maven/com.yoc.visx.sdk/mediation-adapter-goolgeads@20.6.0.15?classifier=sources
 - pkg:maven/com.yoc.visx.sdk/mediation-adapter-goolgeads@22.1.0.0?classifier=sources
+- pkg:maven/com.yoc.visx.sdk/mediation-adapter-goolgeads@22.1.0.1?classifier=sources

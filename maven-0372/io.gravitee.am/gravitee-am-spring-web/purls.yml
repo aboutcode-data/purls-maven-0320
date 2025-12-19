@@ -10,3 +10,5 @@
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.2?classifier=sources
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.4
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.4?classifier=sources
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.0
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.0?classifier=sources

@@ -36,3 +36,7 @@
 - pkg:maven/com.composum.dashboard/composum-dashboard-sling-core@1.1.4
 - pkg:maven/com.composum.dashboard/composum-dashboard-sling-core@1.1.4?classifier=sources
 - pkg:maven/com.composum.dashboard/composum-dashboard-sling-core@1.1?classifier=sources
+- pkg:maven/com.composum.dashboard/composum-dashboard-sling-core@1.2
+- pkg:maven/com.composum.dashboard/composum-dashboard-sling-core@1.2.1
+- pkg:maven/com.composum.dashboard/composum-dashboard-sling-core@1.2.1?classifier=sources
+- pkg:maven/com.composum.dashboard/composum-dashboard-sling-core@1.2?classifier=sources

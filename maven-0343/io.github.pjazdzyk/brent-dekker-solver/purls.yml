@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pjazdzyk/brent-dekker-solver@1.1.1
+- pkg:maven/io.github.pjazdzyk/brent-dekker-solver@1.1.1?classifier=sources

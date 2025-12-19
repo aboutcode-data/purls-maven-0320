@@ -106,3 +106,17 @@
 - pkg:maven/com.github.fslev/json-compare@4.4?classifier=sources
 - pkg:maven/com.github.fslev/json-compare@4.5
 - pkg:maven/com.github.fslev/json-compare@4.5?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@5.0
+- pkg:maven/com.github.fslev/json-compare@5.0?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@5.1
+- pkg:maven/com.github.fslev/json-compare@5.1?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@5.2
+- pkg:maven/com.github.fslev/json-compare@5.2?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@5.3
+- pkg:maven/com.github.fslev/json-compare@5.3?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@6.0
+- pkg:maven/com.github.fslev/json-compare@6.0?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@6.1
+- pkg:maven/com.github.fslev/json-compare@6.1?classifier=sources
+- pkg:maven/com.github.fslev/json-compare@6.2
+- pkg:maven/com.github.fslev/json-compare@6.2?classifier=sources

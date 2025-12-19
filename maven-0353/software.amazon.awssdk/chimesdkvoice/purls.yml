@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/chimesdkvoice@2.18.21
+- pkg:maven/software.amazon.awssdk/chimesdkvoice@2.18.21?classifier=sources

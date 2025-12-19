@@ -118,6 +118,7 @@
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta7?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta8?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta9?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.0.0.Alpha10?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.0.0.Alpha11?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.0.0.Alpha12?classifier=source-release&type=zip
@@ -160,6 +161,8 @@
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.2.1.CR1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.2.1.CR2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@2.2.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@20.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@20.0.0.Beta2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Alpha10?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Alpha11?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@3.0.0.Alpha12?classifier=source-release&type=zip

@@ -6,3 +6,4 @@
 - pkg:maven/com.pulumi/artifactory@2.7.0?classifier=sources
 - pkg:maven/com.pulumi/artifactory@2.8.0-alpha.1662043471%2B63abc5d3?classifier=sources
 - pkg:maven/com.pulumi/artifactory@2.8.0?classifier=sources
+- pkg:maven/com.pulumi/artifactory@2.9.0?classifier=sources

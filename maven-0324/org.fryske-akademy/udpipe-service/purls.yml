@@ -2,3 +2,5 @@
 - pkg:maven/org.fryske-akademy/udpipe-service@4.1?type=war
 - pkg:maven/org.fryske-akademy/udpipe-service@4.2?classifier=sources
 - pkg:maven/org.fryske-akademy/udpipe-service@4.2?type=war
+- pkg:maven/org.fryske-akademy/udpipe-service@4.6?classifier=sources
+- pkg:maven/org.fryske-akademy/udpipe-service@4.6?type=war

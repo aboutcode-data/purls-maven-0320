@@ -13,3 +13,4 @@
 - pkg:maven/com.kroegerama.android-kaiteki/retrofit@4.2.4?classifier=sources
 - pkg:maven/com.kroegerama.android-kaiteki/retrofit@4.2.5?classifier=sources
 - pkg:maven/com.kroegerama.android-kaiteki/retrofit@4.2.6?classifier=sources
+- pkg:maven/com.kroegerama.android-kaiteki/retrofit@4.3.0?classifier=sources

@@ -27,3 +27,5 @@
 - pkg:maven/cn.jiguang.sdk.plugin/oppo@4.7.2?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/oppo@4.8.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/oppo@4.8.1?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/oppo@4.8.3?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/oppo@4.8.4?classifier=sources

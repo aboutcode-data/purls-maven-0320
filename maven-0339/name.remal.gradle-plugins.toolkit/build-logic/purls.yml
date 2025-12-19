@@ -8,3 +8,17 @@
 - pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.30.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.31.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.32.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.32.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.33.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.34.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.34.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.35.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.35.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.36.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.36.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.37.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.38.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.39.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.39.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.40.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/build-logic@0.41.0?classifier=sources

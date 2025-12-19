@@ -500,6 +500,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.3
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.31
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.32
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.33
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.admin.web@4.0.4

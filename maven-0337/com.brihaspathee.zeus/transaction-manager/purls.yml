@@ -1,0 +1,2 @@
+- pkg:maven/com.brihaspathee.zeus/transaction-manager@0.0.1
+- pkg:maven/com.brihaspathee.zeus/transaction-manager@0.0.1?classifier=sources

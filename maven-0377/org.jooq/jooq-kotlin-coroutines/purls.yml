@@ -8,3 +8,5 @@
 - pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.3?classifier=sources
 - pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.4
 - pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.4?classifier=sources
+- pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.5
+- pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.5?classifier=sources

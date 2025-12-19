@@ -14,6 +14,12 @@
 - pkg:maven/io.github.springstudent/GyJdbc@1.2.3.RELEASE?classifier=sources
 - pkg:maven/io.github.springstudent/GyJdbc@1.2.4.RELEASE
 - pkg:maven/io.github.springstudent/GyJdbc@1.2.4.RELEASE?classifier=sources
+- pkg:maven/io.github.springstudent/GyJdbc@1.2.5.RELEASE
+- pkg:maven/io.github.springstudent/GyJdbc@1.2.5.RELEASE?classifier=sources
+- pkg:maven/io.github.springstudent/GyJdbc@1.2.6.RELEASE
+- pkg:maven/io.github.springstudent/GyJdbc@1.2.6.RELEASE?classifier=sources
+- pkg:maven/io.github.springstudent/GyJdbc@1.2.7.RELEASE
+- pkg:maven/io.github.springstudent/GyJdbc@1.2.7.RELEASE?classifier=sources
 - pkg:maven/io.github.springstudent/GyJdbc@10.0.0
 - pkg:maven/io.github.springstudent/GyJdbc@10.0.0?classifier=sources
 - pkg:maven/io.github.springstudent/GyJdbc@10.1.0

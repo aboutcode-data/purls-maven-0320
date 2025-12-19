@@ -2,3 +2,4 @@
 - pkg:maven/org.wso2.carbon.secvault/carbon-secvault@5.0.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.secvault/carbon-secvault@5.0.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.secvault/carbon-secvault@5.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.secvault/carbon-secvault@5.0.17?classifier=source-release&type=zip

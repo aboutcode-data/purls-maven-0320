@@ -50,3 +50,5 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-io-xacml-json@20.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-io-xacml-json@20.1.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-io-xacml-json@20.1.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-io-xacml-json@20.1.1
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-io-xacml-json@20.1.1?classifier=sources

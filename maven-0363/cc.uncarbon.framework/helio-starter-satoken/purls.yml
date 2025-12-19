@@ -12,3 +12,5 @@
 - pkg:maven/cc.uncarbon.framework/helio-starter-satoken@1.6.0?classifier=sources
 - pkg:maven/cc.uncarbon.framework/helio-starter-satoken@1.7.0
 - pkg:maven/cc.uncarbon.framework/helio-starter-satoken@1.7.0?classifier=sources
+- pkg:maven/cc.uncarbon.framework/helio-starter-satoken@1.7.1
+- pkg:maven/cc.uncarbon.framework/helio-starter-satoken@1.7.1?classifier=sources

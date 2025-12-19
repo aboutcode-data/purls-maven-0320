@@ -49,6 +49,12 @@
 - pkg:maven/berlin.yuna/wiser-unit@0.0.34?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@0.0.35
 - pkg:maven/berlin.yuna/wiser-unit@0.0.35?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@0.0.36
+- pkg:maven/berlin.yuna/wiser-unit@0.0.36?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@0.0.37
+- pkg:maven/berlin.yuna/wiser-unit@0.0.37?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@0.0.38
+- pkg:maven/berlin.yuna/wiser-unit@0.0.38?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@0.0.3?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@0.0.6
 - pkg:maven/berlin.yuna/wiser-unit@0.0.6?classifier=sources

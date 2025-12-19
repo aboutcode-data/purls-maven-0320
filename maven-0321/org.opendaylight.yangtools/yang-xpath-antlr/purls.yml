@@ -79,6 +79,7 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@7.0.16
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@7.0.16?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@7.0.17?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@7.0.18?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@7.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@7.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-antlr@7.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cool.doudou/doudada-message@1.0.0?classifier=sources
+- pkg:maven/cool.doudou/doudada-message@2.0.0?classifier=sources

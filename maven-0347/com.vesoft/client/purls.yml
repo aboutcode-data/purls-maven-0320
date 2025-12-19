@@ -42,3 +42,5 @@
 - pkg:maven/com.vesoft/client@2.6.2?classifier=sources
 - pkg:maven/com.vesoft/client@3.0.0
 - pkg:maven/com.vesoft/client@3.0.0?classifier=sources
+- pkg:maven/com.vesoft/client@3.3.0
+- pkg:maven/com.vesoft/client@3.3.0?classifier=sources

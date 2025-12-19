@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.scala-cli.signing/cli-options_3@0.1.12
+- pkg:maven/io.github.alexarchambault.scala-cli.signing/cli-options_3@0.1.12?classifier=sources

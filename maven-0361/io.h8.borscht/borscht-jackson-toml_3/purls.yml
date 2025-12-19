@@ -1,5 +1,7 @@
 - pkg:maven/io.h8.borscht/borscht-jackson-toml_3@1.2.10
 - pkg:maven/io.h8.borscht/borscht-jackson-toml_3@1.2.10?classifier=sources
+- pkg:maven/io.h8.borscht/borscht-jackson-toml_3@1.2.11
+- pkg:maven/io.h8.borscht/borscht-jackson-toml_3@1.2.11?classifier=sources
 - pkg:maven/io.h8.borscht/borscht-jackson-toml_3@1.2.8
 - pkg:maven/io.h8.borscht/borscht-jackson-toml_3@1.2.8?classifier=sources
 - pkg:maven/io.h8.borscht/borscht-jackson-toml_3@1.2.9

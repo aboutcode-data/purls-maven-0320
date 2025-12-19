@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/jest@20.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/jest@24.8.0
 - pkg:maven/org.webjars.npm/jest@24.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/jest@29.1.2
+- pkg:maven/org.webjars.npm/jest@29.1.2?classifier=sources

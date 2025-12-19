@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.woodstock/woodstock-dt@5.0.0
 - pkg:maven/org.glassfish.woodstock/woodstock-dt@5.0.0?classifier=sources
+- pkg:maven/org.glassfish.woodstock/woodstock-dt@6.0.0
+- pkg:maven/org.glassfish.woodstock/woodstock-dt@6.0.0?classifier=sources

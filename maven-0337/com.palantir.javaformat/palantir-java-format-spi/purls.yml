@@ -84,6 +84,7 @@
 - pkg:maven/com.palantir.javaformat/palantir-java-format-spi@2.25.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-spi@2.26.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-spi@2.27.0?classifier=sources
+- pkg:maven/com.palantir.javaformat/palantir-java-format-spi@2.28.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-spi@2.3.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-spi@2.4.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-spi@2.5.0?classifier=sources

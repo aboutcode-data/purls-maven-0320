@@ -1,0 +1,8 @@
+- pkg:maven/cn.org.opendfl/mapper-ext@3
+- pkg:maven/cn.org.opendfl/mapper-ext@3.1
+- pkg:maven/cn.org.opendfl/mapper-ext@3.1?classifier=sources
+- pkg:maven/cn.org.opendfl/mapper-ext@3?classifier=sources
+- pkg:maven/cn.org.opendfl/mapper-ext@4
+- pkg:maven/cn.org.opendfl/mapper-ext@4.1
+- pkg:maven/cn.org.opendfl/mapper-ext@4.1?classifier=sources
+- pkg:maven/cn.org.opendfl/mapper-ext@4?classifier=sources

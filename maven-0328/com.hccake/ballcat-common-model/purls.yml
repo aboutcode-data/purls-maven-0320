@@ -22,3 +22,5 @@
 - pkg:maven/com.hccake/ballcat-common-model@0.8.0?classifier=sources
 - pkg:maven/com.hccake/ballcat-common-model@0.9.0
 - pkg:maven/com.hccake/ballcat-common-model@0.9.0?classifier=sources
+- pkg:maven/com.hccake/ballcat-common-model@1.0.0
+- pkg:maven/com.hccake/ballcat-common-model@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.adityabavadekar/mvn-sample@1.0?type=aar
+- pkg:maven/io.github.adityabavadekar/mvn-sample@1.1?type=aar
+- pkg:maven/io.github.adityabavadekar/mvn-sample@1.2?type=aar
+- pkg:maven/io.github.adityabavadekar/mvn-sample@unspecified?type=aar

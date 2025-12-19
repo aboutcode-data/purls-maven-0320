@@ -1,0 +1,2 @@
+- pkg:maven/io.github.steven-gueguen/warp10-plugin-warpstudio@2.0.9-uberjar?classifier=sources
+- pkg:maven/io.github.steven-gueguen/warp10-plugin-warpstudio@2.0.9?classifier=sources

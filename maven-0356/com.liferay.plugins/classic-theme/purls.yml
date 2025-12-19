@@ -298,6 +298,9 @@
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.43?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.44?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.4?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@5.0.56?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@5.0.57?type=war
+- pkg:maven/com.liferay.plugins/classic-theme@5.0.58?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.5?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.6?type=war
 - pkg:maven/com.liferay.plugins/classic-theme@5.0.7?type=war

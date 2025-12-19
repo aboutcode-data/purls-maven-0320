@@ -45,3 +45,4 @@
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.27.0.Beta
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.28.0.Beta
 - pkg:maven/org.drools/drools-impact-analysis-itests@8.29.0.Final
+- pkg:maven/org.drools/drools-impact-analysis-itests@8.30.0.Final

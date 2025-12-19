@@ -2,3 +2,4 @@
 - pkg:maven/io.fabric8/crd-generator-test@6.0.0-RC1
 - pkg:maven/io.fabric8/crd-generator-test@6.1.0
 - pkg:maven/io.fabric8/crd-generator-test@6.1.1
+- pkg:maven/io.fabric8/crd-generator-test@6.2.0

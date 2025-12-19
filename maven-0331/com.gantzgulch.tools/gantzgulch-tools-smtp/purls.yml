@@ -1,0 +1,2 @@
+- pkg:maven/com.gantzgulch.tools/gantzgulch-tools-smtp@1.0.27
+- pkg:maven/com.gantzgulch.tools/gantzgulch-tools-smtp@1.0.27?classifier=sources

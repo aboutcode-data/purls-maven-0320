@@ -56,6 +56,12 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.33.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.33.1
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.33.1?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.34.0
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.34.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.34.1
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.34.1?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.34.2
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.34.2?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.5.0
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.5.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.6.0
@@ -74,3 +80,7 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.9.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.9.1
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.9.1?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@3.0.0
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@3.0.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@3.0.1
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@3.0.1?classifier=sources

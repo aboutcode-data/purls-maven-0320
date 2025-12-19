@@ -8,3 +8,5 @@
 - pkg:maven/com.yworks/annotation@3.0.0?classifier=sources
 - pkg:maven/com.yworks/annotation@3.1.0
 - pkg:maven/com.yworks/annotation@3.1.0?classifier=sources
+- pkg:maven/com.yworks/annotation@4.0.0
+- pkg:maven/com.yworks/annotation@4.0.0?classifier=sources

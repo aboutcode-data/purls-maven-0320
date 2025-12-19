@@ -25,6 +25,14 @@
 - pkg:maven/io.github.perplexhub/rsql-jpa@5.0.22?classifier=sources
 - pkg:maven/io.github.perplexhub/rsql-jpa@5.0.23
 - pkg:maven/io.github.perplexhub/rsql-jpa@5.0.23?classifier=sources
+- pkg:maven/io.github.perplexhub/rsql-jpa@5.0.24
+- pkg:maven/io.github.perplexhub/rsql-jpa@5.0.24?classifier=sources
+- pkg:maven/io.github.perplexhub/rsql-jpa@5.0.25
+- pkg:maven/io.github.perplexhub/rsql-jpa@5.0.25?classifier=sources
+- pkg:maven/io.github.perplexhub/rsql-jpa@5.0.26
+- pkg:maven/io.github.perplexhub/rsql-jpa@5.0.26?classifier=sources
+- pkg:maven/io.github.perplexhub/rsql-jpa@5.0.27
+- pkg:maven/io.github.perplexhub/rsql-jpa@5.0.27?classifier=sources
 - pkg:maven/io.github.perplexhub/rsql-jpa@5.0.2?classifier=sources
 - pkg:maven/io.github.perplexhub/rsql-jpa@5.0.3
 - pkg:maven/io.github.perplexhub/rsql-jpa@5.0.3?classifier=sources

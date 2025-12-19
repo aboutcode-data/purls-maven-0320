@@ -64,3 +64,5 @@
 - pkg:maven/com.cognitect.aws/autoscaling@822.2.1122.0?classifier=sources
 - pkg:maven/com.cognitect.aws/autoscaling@822.2.1193.0
 - pkg:maven/com.cognitect.aws/autoscaling@822.2.1193.0?classifier=sources
+- pkg:maven/com.cognitect.aws/autoscaling@825.2.1250.0
+- pkg:maven/com.cognitect.aws/autoscaling@825.2.1250.0?classifier=sources

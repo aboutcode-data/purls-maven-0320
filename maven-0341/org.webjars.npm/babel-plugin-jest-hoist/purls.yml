@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/babel-plugin-jest-hoist@24.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-plugin-jest-hoist@24.6.0
 - pkg:maven/org.webjars.npm/babel-plugin-jest-hoist@24.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-plugin-jest-hoist@29.2.0
+- pkg:maven/org.webjars.npm/babel-plugin-jest-hoist@29.2.0?classifier=sources

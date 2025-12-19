@@ -77,3 +77,4 @@
 - pkg:maven/com.atlassian/nadel@2022-08-23T04-05-49-08423513?classifier=sources
 - pkg:maven/com.atlassian/nadel@2022-09-02T02-19-32-fb792fcb?classifier=sources
 - pkg:maven/com.atlassian/nadel@2022-09-20T23-56-29-c4ac1bf8?classifier=sources
+- pkg:maven/com.atlassian/nadel@2022-10-31T04-06-34-78e1be70?classifier=sources

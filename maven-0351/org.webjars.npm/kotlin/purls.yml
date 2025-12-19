@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/kotlin@1.4.30?classifier=sources
 - pkg:maven/org.webjars.npm/kotlin@1.6.21
 - pkg:maven/org.webjars.npm/kotlin@1.6.21?classifier=sources
+- pkg:maven/org.webjars.npm/kotlin@1.7.21
+- pkg:maven/org.webjars.npm/kotlin@1.7.21?classifier=sources

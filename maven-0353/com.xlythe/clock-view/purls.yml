@@ -1,1 +1,2 @@
+- pkg:maven/com.xlythe/clock-view@1.1.1?classifier=sources
 - pkg:maven/com.xlythe/clock-view@1.1?classifier=sources

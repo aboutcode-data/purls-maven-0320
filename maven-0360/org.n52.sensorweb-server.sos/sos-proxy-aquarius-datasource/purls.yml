@@ -10,6 +10,10 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.14?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.15
 - pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.15?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.17
+- pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.17?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.18
+- pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.18?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.3
 - pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.3?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-aquarius-datasource@6.0.0-PR.4

@@ -133,3 +133,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot1-starter@0.56.2
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot1-starter@0.56.2?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot1-starter@0.57.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot1-starter@0.57.1
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot1-starter@0.57.1?classifier=sources

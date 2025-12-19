@@ -1,0 +1,2 @@
+- pkg:maven/org.qbicc/qbicc-plugin-initialization-control@0.46.0
+- pkg:maven/org.qbicc/qbicc-plugin-initialization-control@0.46.0?classifier=sources

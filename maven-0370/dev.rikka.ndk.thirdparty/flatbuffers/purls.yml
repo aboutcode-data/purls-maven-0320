@@ -1,1 +1,2 @@
 - pkg:maven/dev.rikka.ndk.thirdparty/flatbuffers@1.12.0?classifier=sources
+- pkg:maven/dev.rikka.ndk.thirdparty/flatbuffers@2.0.8?classifier=sources

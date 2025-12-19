@@ -4,3 +4,4 @@
 - pkg:maven/dev.stashy.midifunk/midifunk@0.5.0?classifier=sources
 - pkg:maven/dev.stashy.midifunk/midifunk@0.5.1?classifier=sources
 - pkg:maven/dev.stashy.midifunk/midifunk@0.5.2?classifier=sources
+- pkg:maven/dev.stashy.midifunk/midifunk@0.6.0?classifier=sources

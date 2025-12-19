@@ -152,3 +152,4 @@
 - pkg:maven/io.airlift/sample-server@216?classifier=sources
 - pkg:maven/io.airlift/sample-server@217?classifier=sources
 - pkg:maven/io.airlift/sample-server@218?classifier=sources
+- pkg:maven/io.airlift/sample-server@219?classifier=sources

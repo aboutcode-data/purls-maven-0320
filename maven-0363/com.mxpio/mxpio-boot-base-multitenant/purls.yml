@@ -1,0 +1,4 @@
+- pkg:maven/com.mxpio/mxpio-boot-base-multitenant@1.0.12-beta.3
+- pkg:maven/com.mxpio/mxpio-boot-base-multitenant@1.0.12-beta.3?classifier=sources
+- pkg:maven/com.mxpio/mxpio-boot-base-multitenant@1.0.12-beta.4
+- pkg:maven/com.mxpio/mxpio-boot-base-multitenant@1.0.12-beta.4?classifier=sources

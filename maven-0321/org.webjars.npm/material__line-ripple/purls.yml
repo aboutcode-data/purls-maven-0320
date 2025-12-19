@@ -48,5 +48,7 @@
 - pkg:maven/org.webjars.npm/material__line-ripple@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__line-ripple@7.0.0
 - pkg:maven/org.webjars.npm/material__line-ripple@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__line-ripple@8.0.0
+- pkg:maven/org.webjars.npm/material__line-ripple@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__line-ripple@9.0.0
 - pkg:maven/org.webjars.npm/material__line-ripple@9.0.0?classifier=sources

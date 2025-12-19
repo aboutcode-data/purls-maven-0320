@@ -1,0 +1,2 @@
+- pkg:maven/net.thisptr.flume.plugins/flume-synchronous-channel@0.0.1
+- pkg:maven/net.thisptr.flume.plugins/flume-synchronous-channel@0.0.1?classifier=sources

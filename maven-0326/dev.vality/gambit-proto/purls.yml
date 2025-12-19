@@ -4,3 +4,5 @@
 - pkg:maven/dev.vality/gambit-proto@1.4-33c62d2?classifier=sources
 - pkg:maven/dev.vality/gambit-proto@1.5-b55710e
 - pkg:maven/dev.vality/gambit-proto@1.5-b55710e?classifier=sources
+- pkg:maven/dev.vality/gambit-proto@1.6-931f2b8
+- pkg:maven/dev.vality/gambit-proto@1.6-931f2b8?classifier=sources

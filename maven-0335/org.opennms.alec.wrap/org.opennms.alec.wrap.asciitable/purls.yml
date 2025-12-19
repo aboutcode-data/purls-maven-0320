@@ -1,2 +1,4 @@
 - pkg:maven/org.opennms.alec.wrap/org.opennms.alec.wrap.asciitable@1.1.1
 - pkg:maven/org.opennms.alec.wrap/org.opennms.alec.wrap.asciitable@2.0.0
+- pkg:maven/org.opennms.alec.wrap/org.opennms.alec.wrap.asciitable@2.1.1-ALPHA
+- pkg:maven/org.opennms.alec.wrap/org.opennms.alec.wrap.asciitable@2.1.2-ALPHA

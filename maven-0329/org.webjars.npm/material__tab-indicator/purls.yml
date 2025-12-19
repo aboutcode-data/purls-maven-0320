@@ -42,5 +42,7 @@
 - pkg:maven/org.webjars.npm/material__tab-indicator@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab-indicator@7.0.0
 - pkg:maven/org.webjars.npm/material__tab-indicator@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__tab-indicator@8.0.0
+- pkg:maven/org.webjars.npm/material__tab-indicator@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab-indicator@9.0.0
 - pkg:maven/org.webjars.npm/material__tab-indicator@9.0.0?classifier=sources

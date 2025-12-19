@@ -1,0 +1,2 @@
+- pkg:maven/ca.vanzyl.concord.ck8s/ck8s-its@3.0.0?classifier=sources
+- pkg:maven/ca.vanzyl.concord.ck8s/ck8s-its@3.0.1?classifier=sources

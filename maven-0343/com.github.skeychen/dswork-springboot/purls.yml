@@ -32,3 +32,7 @@
 - pkg:maven/com.github.skeychen/dswork-springboot@10.3.5?classifier=sources
 - pkg:maven/com.github.skeychen/dswork-springboot@10.3.6
 - pkg:maven/com.github.skeychen/dswork-springboot@10.3.6?classifier=sources
+- pkg:maven/com.github.skeychen/dswork-springboot@10.4.0
+- pkg:maven/com.github.skeychen/dswork-springboot@10.4.0?classifier=sources
+- pkg:maven/com.github.skeychen/dswork-springboot@10.4.1
+- pkg:maven/com.github.skeychen/dswork-springboot@10.4.1?classifier=sources

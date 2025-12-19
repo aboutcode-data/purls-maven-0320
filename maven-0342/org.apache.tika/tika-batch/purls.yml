@@ -47,6 +47,8 @@
 - pkg:maven/org.apache.tika/tika-batch@1.28.3?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.28.4
 - pkg:maven/org.apache.tika/tika-batch@1.28.4?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@1.28.5
+- pkg:maven/org.apache.tika/tika-batch@1.28.5?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.28?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@1.8
 - pkg:maven/org.apache.tika/tika-batch@1.8?classifier=sources
@@ -70,3 +72,5 @@
 - pkg:maven/org.apache.tika/tika-batch@2.4.0?classifier=sources
 - pkg:maven/org.apache.tika/tika-batch@2.4.1
 - pkg:maven/org.apache.tika/tika-batch@2.4.1?classifier=sources
+- pkg:maven/org.apache.tika/tika-batch@2.5.0
+- pkg:maven/org.apache.tika/tika-batch@2.5.0?classifier=sources

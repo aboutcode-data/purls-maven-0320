@@ -26,6 +26,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@3.2.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@3.2.4
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@3.2.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@3.2.5
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@3.2.5?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Brooklyn.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Brooklyn.SR1
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-docs@Brooklyn.SR2

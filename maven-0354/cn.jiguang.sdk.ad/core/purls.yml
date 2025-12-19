@@ -4,3 +4,13 @@
 - pkg:maven/cn.jiguang.sdk.ad/core@3.6.2.06141?type=aar
 - pkg:maven/cn.jiguang.sdk.ad/core@3.6.2.06142?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad/core@3.6.2.06142?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.5.07161?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.5.07161?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.6.08031?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.6.08031?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.6.08032?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.6.08032?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.6.08033?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.6.08033?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.6.08034?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.6.6.08034?type=aar

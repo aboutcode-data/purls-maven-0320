@@ -153,6 +153,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.16.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.16.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.16.1
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.16.10
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.16.10?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.16.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.16.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.16.2?classifier=sources
@@ -261,6 +263,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.21.11?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.21.12
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.21.12?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.21.13
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.21.13?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.21.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.21.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-rmi@2.21.2?classifier=sources

@@ -95,4 +95,8 @@
 - pkg:maven/io.imqa/imqa-mpm-client@2.23.0.a?classifier=sources
 - pkg:maven/io.imqa/imqa-mpm-client@2.23.0.b?classifier=sources
 - pkg:maven/io.imqa/imqa-mpm-client@2.24.4?classifier=sources
+- pkg:maven/io.imqa/imqa-mpm-client@2.24.5.a?classifier=sources
+- pkg:maven/io.imqa/imqa-mpm-client@2.24.5.b?classifier=sources
+- pkg:maven/io.imqa/imqa-mpm-client@2.24.5?classifier=sources
+- pkg:maven/io.imqa/imqa-mpm-client@2.24.6?classifier=sources
 - pkg:maven/io.imqa/imqa-mpm-client@2.3.0?classifier=sources

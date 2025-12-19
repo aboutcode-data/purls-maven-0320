@@ -1,0 +1,2 @@
+- pkg:maven/se.swedenconnect.ca/ca-service-base@1.4.0
+- pkg:maven/se.swedenconnect.ca/ca-service-base@1.4.0?classifier=sources

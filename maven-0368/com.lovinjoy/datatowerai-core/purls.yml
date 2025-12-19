@@ -6,3 +6,6 @@
 - pkg:maven/com.lovinjoy/datatowerai-core@1.2.37?classifier=sources
 - pkg:maven/com.lovinjoy/datatowerai-core@1.2.38?classifier=sources
 - pkg:maven/com.lovinjoy/datatowerai-core@1.2.44?classifier=sources
+- pkg:maven/com.lovinjoy/datatowerai-core@1.2.48?classifier=sources
+- pkg:maven/com.lovinjoy/datatowerai-core@1.2.49?classifier=sources
+- pkg:maven/com.lovinjoy/datatowerai-core@1.2.50?classifier=sources

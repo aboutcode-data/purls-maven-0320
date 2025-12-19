@@ -76,6 +76,8 @@
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.16.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.16.1
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.16.1?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/testutils@0.16.2?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/testutils@0.16.3?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.9.0
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.9.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.9.1

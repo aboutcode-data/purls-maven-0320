@@ -18,3 +18,5 @@
 - pkg:maven/com.xdev-software/vaadin-chip-combobox@2.2.3?classifier=sources
 - pkg:maven/com.xdev-software/vaadin-chip-combobox@3.0.0
 - pkg:maven/com.xdev-software/vaadin-chip-combobox@3.0.0?classifier=sources
+- pkg:maven/com.xdev-software/vaadin-chip-combobox@3.0.1
+- pkg:maven/com.xdev-software/vaadin-chip-combobox@3.0.1?classifier=sources

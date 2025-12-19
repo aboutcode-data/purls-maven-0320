@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pinot/pinot-java-client-jdk8@0.11.0
+- pkg:maven/org.apache.pinot/pinot-java-client-jdk8@0.11.0?classifier=sources

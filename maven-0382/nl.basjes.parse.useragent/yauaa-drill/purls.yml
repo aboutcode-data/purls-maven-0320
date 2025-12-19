@@ -98,3 +98,5 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-drill@7.4.0?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-drill@7.5.0
 - pkg:maven/nl.basjes.parse.useragent/yauaa-drill@7.5.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-drill@7.6.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-drill@7.6.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.jspecify/jspecify@0.2.0?classifier=sources
+- pkg:maven/org.jspecify/jspecify@0.3.0-alpha-1?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/mx.com.sw.services/SW-JAVA@1.0.6.6?classifier=sources
 - pkg:maven/mx.com.sw.services/SW-JAVA@1.0.6.7
 - pkg:maven/mx.com.sw.services/SW-JAVA@1.0.6.7?classifier=sources
+- pkg:maven/mx.com.sw.services/SW-JAVA@1.0.7.1
+- pkg:maven/mx.com.sw.services/SW-JAVA@1.0.7.1?classifier=sources

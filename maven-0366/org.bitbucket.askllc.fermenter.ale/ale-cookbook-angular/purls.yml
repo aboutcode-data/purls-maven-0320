@@ -1,3 +1,4 @@
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-cookbook-angular@2.2.0?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-cookbook-angular@2.3.0?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-cookbook-angular@2.4.0?type=war
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-cookbook-angular@2.5.0?type=war

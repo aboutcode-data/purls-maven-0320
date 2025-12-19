@@ -12,6 +12,8 @@
 - pkg:maven/org.kurento.module/pointerdetector@6.1.0?classifier=sources
 - pkg:maven/org.kurento.module/pointerdetector@6.15.0
 - pkg:maven/org.kurento.module/pointerdetector@6.15.0?classifier=sources
+- pkg:maven/org.kurento.module/pointerdetector@6.18.0
+- pkg:maven/org.kurento.module/pointerdetector@6.18.0?classifier=sources
 - pkg:maven/org.kurento.module/pointerdetector@6.2.0
 - pkg:maven/org.kurento.module/pointerdetector@6.2.0?classifier=sources
 - pkg:maven/org.kurento.module/pointerdetector@6.3.0

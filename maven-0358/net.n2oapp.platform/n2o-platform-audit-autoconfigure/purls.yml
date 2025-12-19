@@ -76,3 +76,7 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-audit-autoconfigure@4.8.0?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-audit-autoconfigure@4.9.0
 - pkg:maven/net.n2oapp.platform/n2o-platform-audit-autoconfigure@4.9.0?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-audit-autoconfigure@5.0.0
+- pkg:maven/net.n2oapp.platform/n2o-platform-audit-autoconfigure@5.0.0-java8
+- pkg:maven/net.n2oapp.platform/n2o-platform-audit-autoconfigure@5.0.0-java8?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-audit-autoconfigure@5.0.0?classifier=sources

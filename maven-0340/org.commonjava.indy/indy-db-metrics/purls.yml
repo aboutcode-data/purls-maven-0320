@@ -50,3 +50,5 @@
 - pkg:maven/org.commonjava.indy/indy-db-metrics@2.7.3?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-db-metrics@2.7.4
 - pkg:maven/org.commonjava.indy/indy-db-metrics@2.7.4?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-db-metrics@2.7.5
+- pkg:maven/org.commonjava.indy/indy-db-metrics@2.7.5?classifier=sources

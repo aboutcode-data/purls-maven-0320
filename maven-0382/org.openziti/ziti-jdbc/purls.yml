@@ -1,1 +1,2 @@
 - pkg:maven/org.openziti/ziti-jdbc@0.23.15?classifier=sources
+- pkg:maven/org.openziti/ziti-jdbc@0.23.16?classifier=sources

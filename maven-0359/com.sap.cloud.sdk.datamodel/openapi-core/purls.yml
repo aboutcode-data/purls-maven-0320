@@ -68,3 +68,5 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/openapi-core@3.73.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/openapi-core@3.74.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/openapi-core@3.74.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-core@3.75.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-core@3.75.0?classifier=sources

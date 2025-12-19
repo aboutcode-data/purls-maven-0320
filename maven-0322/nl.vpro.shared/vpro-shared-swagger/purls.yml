@@ -54,6 +54,8 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.32.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.33.0
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.33.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.33.1
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.33.1?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.5.0
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.5.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger@2.6.0

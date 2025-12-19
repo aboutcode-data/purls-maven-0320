@@ -20,3 +20,5 @@
 - pkg:maven/org.daisy.pipeline.modules/dtbook-utils@2.0.3?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/dtbook-utils@3.0.0
 - pkg:maven/org.daisy.pipeline.modules/dtbook-utils@3.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/dtbook-utils@3.1.0
+- pkg:maven/org.daisy.pipeline.modules/dtbook-utils@3.1.0?classifier=sources

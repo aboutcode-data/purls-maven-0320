@@ -1,0 +1,5 @@
+- pkg:maven/com.intsoftdev/sdknrstations-iossimulatorarm64@0.623?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-iossimulatorarm64@0.624?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-iossimulatorarm64@0.62?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-iossimulatorarm64@1.0?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-iossimulatorarm64@1.1?classifier=sources

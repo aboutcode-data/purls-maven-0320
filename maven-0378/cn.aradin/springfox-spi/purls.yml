@@ -1,0 +1,2 @@
+- pkg:maven/cn.aradin/springfox-spi@0.0.4.BETA6
+- pkg:maven/cn.aradin/springfox-spi@0.0.4.BETA6?classifier=sources

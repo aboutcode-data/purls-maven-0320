@@ -13,3 +13,4 @@
 - pkg:maven/de.telekom.smartcredentials/documentscanner@6.3.8?classifier=sources
 - pkg:maven/de.telekom.smartcredentials/documentscanner@6.3.9?classifier=sources
 - pkg:maven/de.telekom.smartcredentials/documentscanner@6.4.0?classifier=sources
+- pkg:maven/de.telekom.smartcredentials/documentscanner@6.4.1?classifier=sources

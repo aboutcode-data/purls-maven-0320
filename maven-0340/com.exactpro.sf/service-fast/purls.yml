@@ -39,3 +39,5 @@
 - pkg:maven/com.exactpro.sf/service-fast@3.2.1859?classifier=sources
 - pkg:maven/com.exactpro.sf/service-fast@3.2.1860?classifier=sources
 - pkg:maven/com.exactpro.sf/service-fast@3.2.1877?classifier=sources
+- pkg:maven/com.exactpro.sf/service-fast@3.2.1881?classifier=sources
+- pkg:maven/com.exactpro.sf/service-fast@3.3.7?classifier=sources

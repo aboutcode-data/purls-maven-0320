@@ -107,6 +107,8 @@
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta13?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta14?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta15?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta17?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta18?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.core/wildfly-core-parent@19.0.0.Beta3?classifier=source-release&type=zip

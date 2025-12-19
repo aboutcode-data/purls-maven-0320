@@ -3,6 +3,7 @@
 - pkg:maven/org.robolectric/android-all@11-robolectric-6757853?classifier=sources
 - pkg:maven/org.robolectric/android-all@12-robolectric-7732740?classifier=sources
 - pkg:maven/org.robolectric/android-all@12.1-robolectric-8229987?classifier=sources
+- pkg:maven/org.robolectric/android-all@13-robolectric-9030017?classifier=sources
 - pkg:maven/org.robolectric/android-all@4.1.2_r1-robolectric-0
 - pkg:maven/org.robolectric/android-all@4.1.2_r1-robolectric-0?classifier=sources
 - pkg:maven/org.robolectric/android-all@4.1.2_r1-robolectric-r1

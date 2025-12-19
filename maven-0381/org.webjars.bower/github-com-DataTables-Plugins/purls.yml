@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-DataTables-Plugins@1.10.16
 - pkg:maven/org.webjars.bower/github-com-DataTables-Plugins@1.10.16?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-DataTables-Plugins@1.12.0
+- pkg:maven/org.webjars.bower/github-com-DataTables-Plugins@1.12.0?classifier=sources

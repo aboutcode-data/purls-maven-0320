@@ -52,3 +52,5 @@
 - pkg:maven/space.testflight/testflight@0.8.2?classifier=sources
 - pkg:maven/space.testflight/testflight@0.8.3
 - pkg:maven/space.testflight/testflight@0.8.3?classifier=sources
+- pkg:maven/space.testflight/testflight@0.8.4
+- pkg:maven/space.testflight/testflight@0.8.4?classifier=sources

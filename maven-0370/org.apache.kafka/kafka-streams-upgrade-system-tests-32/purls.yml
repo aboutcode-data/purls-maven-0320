@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-32@3.3.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-32@3.3.1?classifier=sources

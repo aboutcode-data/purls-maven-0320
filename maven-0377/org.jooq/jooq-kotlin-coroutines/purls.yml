@@ -6,3 +6,5 @@
 - pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.2?classifier=sources
 - pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.3
 - pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.3?classifier=sources
+- pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.4
+- pkg:maven/org.jooq/jooq-kotlin-coroutines@3.17.4?classifier=sources

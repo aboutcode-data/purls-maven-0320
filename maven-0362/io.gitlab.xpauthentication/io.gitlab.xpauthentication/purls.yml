@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.xpauthentication/io.gitlab.xpauthentication@1.0.0
+- pkg:maven/io.gitlab.xpauthentication/io.gitlab.xpauthentication@1.0.0?classifier=sources

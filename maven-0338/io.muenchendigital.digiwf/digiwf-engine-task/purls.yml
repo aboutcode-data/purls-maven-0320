@@ -2,3 +2,4 @@
 - pkg:maven/io.muenchendigital.digiwf/digiwf-engine-task@0.10.1
 - pkg:maven/io.muenchendigital.digiwf/digiwf-engine-task@0.10.2
 - pkg:maven/io.muenchendigital.digiwf/digiwf-engine-task@0.11.0
+- pkg:maven/io.muenchendigital.digiwf/digiwf-engine-task@0.12.0

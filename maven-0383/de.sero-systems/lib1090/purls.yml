@@ -1,2 +1,4 @@
 - pkg:maven/de.sero-systems/lib1090@4.0.0-RC1
 - pkg:maven/de.sero-systems/lib1090@4.0.0-RC1?classifier=sources
+- pkg:maven/de.sero-systems/lib1090@4.0.0-RC3
+- pkg:maven/de.sero-systems/lib1090@4.0.0-RC3?classifier=sources

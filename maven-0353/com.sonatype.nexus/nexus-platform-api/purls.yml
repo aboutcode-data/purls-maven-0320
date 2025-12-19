@@ -88,3 +88,5 @@
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.8.20190814-164423.77b6330
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.8.20190821-172053.8894a6d
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@3.9.20190913-115236.86599cb
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@4.0.0-01
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@4.0.1-01

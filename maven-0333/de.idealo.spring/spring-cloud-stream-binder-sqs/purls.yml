@@ -18,3 +18,5 @@
 - pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.7.1?classifier=sources
 - pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.8.0
 - pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.8.0?classifier=sources
+- pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.9.0
+- pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sqs@1.9.0?classifier=sources

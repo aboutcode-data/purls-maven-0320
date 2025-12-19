@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ashwinbhaskar/redis-rate-limit-ce_2.13@3.0.0
+- pkg:maven/io.github.ashwinbhaskar/redis-rate-limit-ce_2.13@3.0.0?classifier=sources
+- pkg:maven/io.github.ashwinbhaskar/redis-rate-limit-ce_2.13@3.0.3
+- pkg:maven/io.github.ashwinbhaskar/redis-rate-limit-ce_2.13@3.0.3?classifier=sources
+- pkg:maven/io.github.ashwinbhaskar/redis-rate-limit-ce_2.13@4.0.0
+- pkg:maven/io.github.ashwinbhaskar/redis-rate-limit-ce_2.13@4.0.0?classifier=sources

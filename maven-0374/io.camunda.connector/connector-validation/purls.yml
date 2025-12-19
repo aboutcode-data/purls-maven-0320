@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/connector-validation@0.2.0
+- pkg:maven/io.camunda.connector/connector-validation@0.2.0?classifier=sources

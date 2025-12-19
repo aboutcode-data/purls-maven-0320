@@ -8,5 +8,7 @@
 - pkg:maven/net.mingsoft/ms-mattention@1.0.3?classifier=sources
 - pkg:maven/net.mingsoft/ms-mattention@1.0.4
 - pkg:maven/net.mingsoft/ms-mattention@1.0.4?classifier=sources
+- pkg:maven/net.mingsoft/ms-mattention@2.1.14
+- pkg:maven/net.mingsoft/ms-mattention@2.1.14?classifier=sources
 - pkg:maven/net.mingsoft/ms-mattention@2.1.7
 - pkg:maven/net.mingsoft/ms-mattention@2.1.7?classifier=sources

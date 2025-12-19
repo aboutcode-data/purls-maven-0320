@@ -33,6 +33,8 @@
 - pkg:maven/com.vaadin/vaadin-icons-flow-demo@14.8.14?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow-demo@14.8.15?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow-demo@14.8.16?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-flow-demo@14.8.17?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-flow-demo@14.8.18?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow-demo@14.8.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow-demo@14.8.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow-demo@14.8.3?classifier=sources

@@ -67,3 +67,7 @@
 - pkg:maven/com.svix.kotlin/svix-kotlin@0.79.0?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@0.80.0?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@0.81.0?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@0.82.0?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@0.82.1?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@0.83.0?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@0.83.1?classifier=sources

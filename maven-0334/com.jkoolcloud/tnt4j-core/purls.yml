@@ -14,3 +14,7 @@
 - pkg:maven/com.jkoolcloud/tnt4j-core@2.15.2?classifier=sources
 - pkg:maven/com.jkoolcloud/tnt4j-core@2.15.3
 - pkg:maven/com.jkoolcloud/tnt4j-core@2.15.3?classifier=sources
+- pkg:maven/com.jkoolcloud/tnt4j-core@2.15.4
+- pkg:maven/com.jkoolcloud/tnt4j-core@2.15.4?classifier=sources
+- pkg:maven/com.jkoolcloud/tnt4j-core@2.15.5
+- pkg:maven/com.jkoolcloud/tnt4j-core@2.15.5?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/uppy__provider-views@2.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__provider-views@3.0.2
 - pkg:maven/org.webjars.npm/uppy__provider-views@3.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__provider-views@3.1.0
+- pkg:maven/org.webjars.npm/uppy__provider-views@3.1.0?classifier=sources

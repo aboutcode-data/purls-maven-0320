@@ -1,2 +1,4 @@
 - pkg:maven/com.olvind.st-material-ui/st-joy-scalajs-react_sjs1_3@1.1.0
 - pkg:maven/com.olvind.st-material-ui/st-joy-scalajs-react_sjs1_3@1.1.0?classifier=sources
+- pkg:maven/com.olvind.st-material-ui/st-joy-scalajs-react_sjs1_3@5.11.16
+- pkg:maven/com.olvind.st-material-ui/st-joy-scalajs-react_sjs1_3@5.11.16?classifier=sources

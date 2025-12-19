@@ -44,3 +44,5 @@
 - pkg:maven/ai.tripl/arc-deltalake-pipeline-plugin_2.12@2.7.0?classifier=sources
 - pkg:maven/ai.tripl/arc-deltalake-pipeline-plugin_2.12@2.8.0
 - pkg:maven/ai.tripl/arc-deltalake-pipeline-plugin_2.12@2.8.0?classifier=sources
+- pkg:maven/ai.tripl/arc-deltalake-pipeline-plugin_2.12@3.0.0
+- pkg:maven/ai.tripl/arc-deltalake-pipeline-plugin_2.12@3.0.0?classifier=sources

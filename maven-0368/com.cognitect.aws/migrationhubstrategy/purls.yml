@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/migrationhubstrategy@822.2.1109.0?classifier=sources
 - pkg:maven/com.cognitect.aws/migrationhubstrategy@825.2.1283.0
 - pkg:maven/com.cognitect.aws/migrationhubstrategy@825.2.1283.0?classifier=sources
+- pkg:maven/com.cognitect.aws/migrationhubstrategy@845.2.1345.0
+- pkg:maven/com.cognitect.aws/migrationhubstrategy@845.2.1345.0?classifier=sources

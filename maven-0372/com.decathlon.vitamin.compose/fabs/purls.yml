@@ -1,1 +1,3 @@
 - pkg:maven/com.decathlon.vitamin.compose/fabs@0.2.0-alpha02?classifier=sources
+- pkg:maven/com.decathlon.vitamin.compose/fabs@0.2.0?classifier=sources
+- pkg:maven/com.decathlon.vitamin.compose/fabs@0.3.0-beta01?classifier=sources

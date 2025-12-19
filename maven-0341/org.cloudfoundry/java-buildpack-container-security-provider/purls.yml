@@ -1,0 +1,2 @@
+- pkg:maven/org.cloudfoundry/java-buildpack-container-security-provider@1.20.0.RELEASE
+- pkg:maven/org.cloudfoundry/java-buildpack-container-security-provider@1.20.0.RELEASE?classifier=sources

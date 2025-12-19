@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.coherence.ce/coherence-mp-health@23.03
+- pkg:maven/com.oracle.coherence.ce/coherence-mp-health@23.03?classifier=sources

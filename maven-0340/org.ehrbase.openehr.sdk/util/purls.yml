@@ -14,5 +14,9 @@
 - pkg:maven/org.ehrbase.openehr.sdk/util@1.23.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/util@1.24.0
 - pkg:maven/org.ehrbase.openehr.sdk/util@1.24.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/util@1.25.0
+- pkg:maven/org.ehrbase.openehr.sdk/util@1.25.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/util@1.26.0
+- pkg:maven/org.ehrbase.openehr.sdk/util@1.26.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/util@1.6.0
 - pkg:maven/org.ehrbase.openehr.sdk/util@1.6.0?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-annotations-android-debug@1.0.0-beta17?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-annotations-android-debug@1.0.0-beta18?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-annotations-android-debug@1.0.0?classifier=sources
+- pkg:maven/de.jensklingenberg.ktorfit/ktorfit-annotations-android-debug@1.0.1?classifier=sources

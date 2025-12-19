@@ -30,3 +30,5 @@
 - pkg:maven/cz.cvut.kbss.jopa/datatype@0.20.2?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/datatype@0.21.0
 - pkg:maven/cz.cvut.kbss.jopa/datatype@0.21.0?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/datatype@0.21.1
+- pkg:maven/cz.cvut.kbss.jopa/datatype@0.21.1?classifier=sources

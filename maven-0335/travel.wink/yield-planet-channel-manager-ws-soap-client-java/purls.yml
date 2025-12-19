@@ -1,0 +1,2 @@
+- pkg:maven/travel.wink/yield-planet-channel-manager-ws-soap-client-java@2.0.1
+- pkg:maven/travel.wink/yield-planet-channel-manager-ws-soap-client-java@2.0.1?classifier=sources

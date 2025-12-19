@@ -22,3 +22,4 @@
 - pkg:maven/com.mycila/license-maven-plugin-git@4.2.rc2?classifier=sources
 - pkg:maven/com.mycila/license-maven-plugin-git@4.2.rc3
 - pkg:maven/com.mycila/license-maven-plugin-git@4.2.rc3?classifier=sources
+- pkg:maven/com.mycila/license-maven-plugin-git@4.2?classifier=sources

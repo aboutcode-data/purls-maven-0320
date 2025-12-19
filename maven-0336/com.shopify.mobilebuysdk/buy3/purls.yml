@@ -12,5 +12,7 @@
 - pkg:maven/com.shopify.mobilebuysdk/buy3@15.0.0?type=aar
 - pkg:maven/com.shopify.mobilebuysdk/buy3@15.1.0?classifier=sources
 - pkg:maven/com.shopify.mobilebuysdk/buy3@15.1.0?type=aar
+- pkg:maven/com.shopify.mobilebuysdk/buy3@16.0.0?classifier=sources
+- pkg:maven/com.shopify.mobilebuysdk/buy3@16.0.0?type=aar
 - pkg:maven/com.shopify.mobilebuysdk/buy3@9.0.1?classifier=sources
 - pkg:maven/com.shopify.mobilebuysdk/buy3@9.0.1?type=aar

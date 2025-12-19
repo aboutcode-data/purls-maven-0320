@@ -4,3 +4,5 @@
 - pkg:maven/io.lighty.applications/lighty-app-modules-config@17.1.0?classifier=sources
 - pkg:maven/io.lighty.applications/lighty-app-modules-config@17.2.0
 - pkg:maven/io.lighty.applications/lighty-app-modules-config@17.2.0?classifier=sources
+- pkg:maven/io.lighty.applications/lighty-app-modules-config@18.0.0
+- pkg:maven/io.lighty.applications/lighty-app-modules-config@18.0.0?classifier=sources

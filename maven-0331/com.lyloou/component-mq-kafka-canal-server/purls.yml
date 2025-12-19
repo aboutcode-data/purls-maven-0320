@@ -1,0 +1,2 @@
+- pkg:maven/com.lyloou/component-mq-kafka-canal-server@1.0.75
+- pkg:maven/com.lyloou/component-mq-kafka-canal-server@1.0.75?classifier=sources

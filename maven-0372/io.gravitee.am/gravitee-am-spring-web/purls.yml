@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.0-alpha.4
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.0-alpha.4?classifier=sources

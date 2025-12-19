@@ -26,6 +26,9 @@
 - pkg:maven/io.dropwizard/dropwizard-health@2.1.4?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-health@2.1.5
 - pkg:maven/io.dropwizard/dropwizard-health@2.1.5?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-health@2.1.6
+- pkg:maven/io.dropwizard/dropwizard-health@2.1.6?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-health@3.0.0
 - pkg:maven/io.dropwizard/dropwizard-health@3.0.0-beta.1
 - pkg:maven/io.dropwizard/dropwizard-health@3.0.0-beta.1?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-health@3.0.0-beta.2
@@ -36,6 +39,8 @@
 - pkg:maven/io.dropwizard/dropwizard-health@3.0.0-beta.4?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-health@3.0.0-beta.5
 - pkg:maven/io.dropwizard/dropwizard-health@3.0.0-beta.5?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-health@3.0.0?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-health@4.0.0
 - pkg:maven/io.dropwizard/dropwizard-health@4.0.0-beta.1
 - pkg:maven/io.dropwizard/dropwizard-health@4.0.0-beta.1?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-health@4.0.0-beta.2
@@ -44,3 +49,4 @@
 - pkg:maven/io.dropwizard/dropwizard-health@4.0.0-beta.3?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-health@4.0.0-beta.4
 - pkg:maven/io.dropwizard/dropwizard-health@4.0.0-beta.4?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-health@4.0.0?classifier=sources

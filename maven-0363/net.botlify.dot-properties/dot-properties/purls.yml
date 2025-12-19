@@ -1,0 +1,2 @@
+- pkg:maven/net.botlify.dot-properties/dot-properties@1.0
+- pkg:maven/net.botlify.dot-properties/dot-properties@1.0?classifier=sources

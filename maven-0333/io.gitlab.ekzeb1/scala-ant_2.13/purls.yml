@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.ekzeb1/scala-ant_2.13@2.13.10
+- pkg:maven/io.gitlab.ekzeb1/scala-ant_2.13@2.13.10?classifier=sources

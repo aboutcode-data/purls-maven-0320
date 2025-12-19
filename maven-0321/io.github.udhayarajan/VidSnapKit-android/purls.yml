@@ -19,3 +19,7 @@
 - pkg:maven/io.github.udhayarajan/VidSnapKit-android@3.3.4?classifier=sources
 - pkg:maven/io.github.udhayarajan/VidSnapKit-android@3.3.5?classifier=sources
 - pkg:maven/io.github.udhayarajan/VidSnapKit-android@3.3.6?classifier=sources
+- pkg:maven/io.github.udhayarajan/VidSnapKit-android@4.0.0?classifier=sources
+- pkg:maven/io.github.udhayarajan/VidSnapKit-android@4.0.2?classifier=sources
+- pkg:maven/io.github.udhayarajan/VidSnapKit-android@4.0.3?classifier=sources
+- pkg:maven/io.github.udhayarajan/VidSnapKit-android@4.1.1?classifier=sources

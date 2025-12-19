@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.super-sophon/sophon-module-data-jdbc@1.0.0
+- pkg:maven/io.gitee.super-sophon/sophon-module-data-jdbc@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue-axios@3.5.2
+- pkg:maven/org.webjars.npm/vue-axios@3.5.2?classifier=sources

@@ -176,3 +176,5 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.5.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.6.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.6.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.6.1
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.process@4.6.1?classifier=sources

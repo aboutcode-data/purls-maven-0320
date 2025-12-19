@@ -1,0 +1,2 @@
+- pkg:maven/com.genexus/gxqueue-azure@3.0.0
+- pkg:maven/com.genexus/gxqueue-azure@3.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.apicurio/apicurio-registry-schema-validation-protobuf@0.0.2.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-schema-validation-protobuf@0.0.3.Final
 - pkg:maven/io.apicurio/apicurio-registry-schema-validation-protobuf@0.0.3.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-schema-validation-protobuf@0.0.4.Final
+- pkg:maven/io.apicurio/apicurio-registry-schema-validation-protobuf@0.0.4.Final?classifier=sources

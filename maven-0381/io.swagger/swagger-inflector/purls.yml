@@ -29,6 +29,8 @@
 - pkg:maven/io.swagger/swagger-inflector@1.0.21?classifier=sources
 - pkg:maven/io.swagger/swagger-inflector@1.0.22
 - pkg:maven/io.swagger/swagger-inflector@1.0.22?classifier=sources
+- pkg:maven/io.swagger/swagger-inflector@1.0.23
+- pkg:maven/io.swagger/swagger-inflector@1.0.23?classifier=sources
 - pkg:maven/io.swagger/swagger-inflector@1.0.2?classifier=sources
 - pkg:maven/io.swagger/swagger-inflector@1.0.3
 - pkg:maven/io.swagger/swagger-inflector@1.0.3?classifier=sources
@@ -70,3 +72,5 @@
 - pkg:maven/io.swagger/swagger-inflector@2.0.7?classifier=sources
 - pkg:maven/io.swagger/swagger-inflector@2.0.8
 - pkg:maven/io.swagger/swagger-inflector@2.0.8?classifier=sources
+- pkg:maven/io.swagger/swagger-inflector@2.0.9
+- pkg:maven/io.swagger/swagger-inflector@2.0.9?classifier=sources

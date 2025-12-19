@@ -16,3 +16,7 @@
 - pkg:maven/io.trino.tempto/tempto-examples@190?classifier=sources
 - pkg:maven/io.trino.tempto/tempto-examples@191
 - pkg:maven/io.trino.tempto/tempto-examples@191?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-examples@192
+- pkg:maven/io.trino.tempto/tempto-examples@192?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-examples@193
+- pkg:maven/io.trino.tempto/tempto-examples@193?classifier=sources

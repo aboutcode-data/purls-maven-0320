@@ -317,8 +317,13 @@
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.4
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.40
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.41
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.42
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.43
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.44
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.45
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.5
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.6
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.7
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.8
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.0.9
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.1.0

@@ -64,3 +64,5 @@
 - pkg:maven/io.skuber/skuber-examples_2.12@2.6.6?classifier=sources
 - pkg:maven/io.skuber/skuber-examples_2.12@2.6.7
 - pkg:maven/io.skuber/skuber-examples_2.12@2.6.7?classifier=sources
+- pkg:maven/io.skuber/skuber-examples_2.12@3.0.0-beta1
+- pkg:maven/io.skuber/skuber-examples_2.12@3.0.0-beta1?classifier=sources

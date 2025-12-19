@@ -75,6 +75,7 @@
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-maven-plugin@1.45
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-maven-plugin@1.46
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-maven-plugin@1.47.0
+- pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-maven-plugin@1.48.1
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-maven-plugin@1.4?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-maven-plugin@1.5
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-maven-plugin@1.5?classifier=sources

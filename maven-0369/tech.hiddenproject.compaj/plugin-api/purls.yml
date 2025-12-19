@@ -1,0 +1,2 @@
+- pkg:maven/tech.hiddenproject.compaj/plugin-api@0.0.3
+- pkg:maven/tech.hiddenproject.compaj/plugin-api@0.0.3?classifier=sources

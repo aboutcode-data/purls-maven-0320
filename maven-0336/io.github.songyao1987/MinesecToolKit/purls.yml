@@ -8,6 +8,8 @@
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.0.8?type=aar
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.0.9?type=aar
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.0?type=aar
+- pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.10?type=aar
+- pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.11?type=aar
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.1?type=aar
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.2?type=aar
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.3?type=aar
@@ -15,3 +17,5 @@
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.5?type=aar
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.6?type=aar
 - pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.7?type=aar
+- pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.8?type=aar
+- pkg:maven/io.github.songyao1987/MinesecToolKit@1.1.9?type=aar

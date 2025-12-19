@@ -1,0 +1,1 @@
+- pkg:maven/org.testcontainers/solace@1.18.0?classifier=sources

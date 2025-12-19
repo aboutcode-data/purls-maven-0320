@@ -1,0 +1,2 @@
+- pkg:maven/com.aisecurius/ctu-security-sdk@3.0
+- pkg:maven/com.aisecurius/ctu-security-sdk@3.0?classifier=sources

@@ -82,3 +82,5 @@
 - pkg:maven/com.helger/phoss-smp-webapp-sql@6.0.6?type=war
 - pkg:maven/com.helger/phoss-smp-webapp-sql@6.0.7?classifier=sources
 - pkg:maven/com.helger/phoss-smp-webapp-sql@6.0.7?type=war
+- pkg:maven/com.helger/phoss-smp-webapp-sql@7.0.0-rc1?classifier=sources
+- pkg:maven/com.helger/phoss-smp-webapp-sql@7.0.0-rc1?type=war

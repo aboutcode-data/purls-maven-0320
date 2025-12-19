@@ -1,0 +1,8 @@
+- pkg:maven/cloud.djet.codegen/djet-codegen-cli@0.0.1-alpha-dev.1%2B3a73726?classifier=sources
+- pkg:maven/cloud.djet.codegen/djet-codegen-cli@0.0.1-alpha-dev.1%2Bd508a29?classifier=sources
+- pkg:maven/cloud.djet.codegen/djet-codegen-cli@1.0.0?classifier=sources
+- pkg:maven/cloud.djet.codegen/djet-codegen-cli@1.0.1?classifier=sources
+- pkg:maven/cloud.djet.codegen/djet-codegen-cli@1.0.2?classifier=sources
+- pkg:maven/cloud.djet.codegen/djet-codegen-cli@1.0.3?classifier=sources
+- pkg:maven/cloud.djet.codegen/djet-codegen-cli@1.0.4?classifier=sources
+- pkg:maven/cloud.djet.codegen/djet-codegen-cli@1.0.5?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.bardframework.crud/crud-table@1.12.2
+- pkg:maven/org.bardframework.crud/crud-table@1.12.2?classifier=sources
 - pkg:maven/org.bardframework.crud/crud-table@1.4.17
 - pkg:maven/org.bardframework.crud/crud-table@1.4.17?classifier=sources
 - pkg:maven/org.bardframework.crud/crud-table@1.5.17

@@ -50,3 +50,5 @@
 - pkg:maven/travel.wink/oauth2-web-client@22.0.1?classifier=sources
 - pkg:maven/travel.wink/oauth2-web-client@23.1.0
 - pkg:maven/travel.wink/oauth2-web-client@23.1.0?classifier=sources
+- pkg:maven/travel.wink/oauth2-web-client@24.0.0
+- pkg:maven/travel.wink/oauth2-web-client@24.0.0?classifier=sources

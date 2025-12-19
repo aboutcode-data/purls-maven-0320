@@ -323,6 +323,9 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.62
 - pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.62?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.63
+- pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.63?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.63?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.lang@2.0.7

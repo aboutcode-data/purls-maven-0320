@@ -1,0 +1,2 @@
+- pkg:maven/me.yellowstrawberry/OpenNeisAPI4J@0.0.1?classifier=sources
+- pkg:maven/me.yellowstrawberry/OpenNeisAPI4J@0.0.2?classifier=sources

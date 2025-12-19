@@ -1,0 +1,6 @@
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.30.0
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.30.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.31.0
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.31.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.31.1
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.31.1?classifier=sources

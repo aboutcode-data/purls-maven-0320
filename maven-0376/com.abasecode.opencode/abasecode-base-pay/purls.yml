@@ -6,5 +6,17 @@
 - pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.3?classifier=sources
 - pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.4
 - pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.4?classifier=sources
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.1
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.1?classifier=sources
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.2
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.2?classifier=sources
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.3
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.3?classifier=sources
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.4
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.4?classifier=sources
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.5
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5.5?classifier=sources
+- pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.0.5?classifier=sources
 - pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.1.0
 - pkg:maven/com.abasecode.opencode/abasecode-base-pay@1.1.0?classifier=sources

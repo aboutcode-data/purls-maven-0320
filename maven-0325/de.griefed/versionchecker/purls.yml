@@ -7,3 +7,4 @@
 - pkg:maven/de.griefed/versionchecker@1.1.0?classifier=sources
 - pkg:maven/de.griefed/versionchecker@1.1.3?classifier=sources
 - pkg:maven/de.griefed/versionchecker@1.1.4?classifier=sources
+- pkg:maven/de.griefed/versionchecker@1.1.5?classifier=sources

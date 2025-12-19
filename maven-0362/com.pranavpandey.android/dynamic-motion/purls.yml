@@ -9,3 +9,4 @@
 - pkg:maven/com.pranavpandey.android/dynamic-motion@0.5.0?classifier=sources
 - pkg:maven/com.pranavpandey.android/dynamic-motion@1.0.0?classifier=sources
 - pkg:maven/com.pranavpandey.android/dynamic-motion@1.0.1?classifier=sources
+- pkg:maven/com.pranavpandey.android/dynamic-motion@1.0.2?classifier=sources

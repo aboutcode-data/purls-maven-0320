@@ -9,3 +9,5 @@
 - pkg:maven/com.efeichong/excel-common@1.0.5?classifier=sources
 - pkg:maven/com.efeichong/excel-common@1.0.6
 - pkg:maven/com.efeichong/excel-common@1.0.6?classifier=sources
+- pkg:maven/com.efeichong/excel-common@1.0.7
+- pkg:maven/com.efeichong/excel-common@1.0.7?classifier=sources

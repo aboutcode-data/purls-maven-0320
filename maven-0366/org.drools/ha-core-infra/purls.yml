@@ -76,3 +76,7 @@
 - pkg:maven/org.drools/ha-core-infra@7.67.0.Final?classifier=sources
 - pkg:maven/org.drools/ha-core-infra@7.68.0.Final
 - pkg:maven/org.drools/ha-core-infra@7.68.0.Final?classifier=sources
+- pkg:maven/org.drools/ha-core-infra@7.69.0.Final
+- pkg:maven/org.drools/ha-core-infra@7.69.0.Final?classifier=sources
+- pkg:maven/org.drools/ha-core-infra@7.70.0.Final
+- pkg:maven/org.drools/ha-core-infra@7.70.0.Final?classifier=sources

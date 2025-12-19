@@ -150,6 +150,10 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.33.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.34.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.34.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.35.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.35.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.36.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.36.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.4.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.4.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@4.5.0

@@ -10,6 +10,8 @@
 - pkg:maven/org.webjars.npm/type-fest@0.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/type-fest@0.5.2
 - pkg:maven/org.webjars.npm/type-fest@0.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/type-fest@0.6.0
+- pkg:maven/org.webjars.npm/type-fest@0.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/type-fest@0.7.1
 - pkg:maven/org.webjars.npm/type-fest@0.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/type-fest@0.8.1

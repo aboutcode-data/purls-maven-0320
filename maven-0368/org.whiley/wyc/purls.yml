@@ -7,6 +7,14 @@
 - pkg:maven/org.whiley/wyc@0.10.12?classifier=sources
 - pkg:maven/org.whiley/wyc@0.10.13
 - pkg:maven/org.whiley/wyc@0.10.13?classifier=sources
+- pkg:maven/org.whiley/wyc@0.10.14
+- pkg:maven/org.whiley/wyc@0.10.14?classifier=sources
+- pkg:maven/org.whiley/wyc@0.10.15
+- pkg:maven/org.whiley/wyc@0.10.15?classifier=sources
+- pkg:maven/org.whiley/wyc@0.10.16
+- pkg:maven/org.whiley/wyc@0.10.16?classifier=sources
+- pkg:maven/org.whiley/wyc@0.10.17
+- pkg:maven/org.whiley/wyc@0.10.17?classifier=sources
 - pkg:maven/org.whiley/wyc@0.10.1?classifier=sources
 - pkg:maven/org.whiley/wyc@0.10.2
 - pkg:maven/org.whiley/wyc@0.10.2?classifier=sources

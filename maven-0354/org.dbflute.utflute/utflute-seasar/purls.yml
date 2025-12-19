@@ -258,3 +258,5 @@
 - pkg:maven/org.dbflute.utflute/utflute-seasar@0.9.3?classifier=sources
 - pkg:maven/org.dbflute.utflute/utflute-seasar@0.9.4
 - pkg:maven/org.dbflute.utflute/utflute-seasar@0.9.4?classifier=sources
+- pkg:maven/org.dbflute.utflute/utflute-seasar@0.9.5
+- pkg:maven/org.dbflute.utflute/utflute-seasar@0.9.5?classifier=sources

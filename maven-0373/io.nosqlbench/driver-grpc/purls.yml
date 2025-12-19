@@ -9,3 +9,7 @@
 - pkg:maven/io.nosqlbench/driver-grpc@4.15.88
 - pkg:maven/io.nosqlbench/driver-grpc@4.15.89
 - pkg:maven/io.nosqlbench/driver-grpc@4.15.90
+- pkg:maven/io.nosqlbench/driver-grpc@4.15.93
+- pkg:maven/io.nosqlbench/driver-grpc@4.15.94
+- pkg:maven/io.nosqlbench/driver-grpc@4.15.96
+- pkg:maven/io.nosqlbench/driver-grpc@4.15.97

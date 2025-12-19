@@ -1,0 +1,2 @@
+- pkg:maven/org.gearcode/reporthelper@1.0-RELEASE
+- pkg:maven/org.gearcode/reporthelper@1.0-RELEASE?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/com.couchbase.client/kotlin-client@1.0.0
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.1
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.1?classifier=sources
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.2
@@ -12,3 +13,4 @@
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.6?classifier=sources
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.7
 - pkg:maven/com.couchbase.client/kotlin-client@1.0.0-dp.7?classifier=sources
+- pkg:maven/com.couchbase.client/kotlin-client@1.0.0?classifier=sources

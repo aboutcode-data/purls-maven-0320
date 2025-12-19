@@ -1,0 +1,2 @@
+- pkg:maven/com.meituan.cat/cat-hadoop@3.0.1
+- pkg:maven/com.meituan.cat/cat-hadoop@3.0.1?classifier=sources

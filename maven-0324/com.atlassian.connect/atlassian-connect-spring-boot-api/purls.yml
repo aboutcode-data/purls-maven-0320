@@ -77,3 +77,4 @@
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@2.3.1?classifier=sources
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@2.3.2?classifier=sources
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@2.3.3?classifier=sources
+- pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-api@2.3.4?classifier=sources

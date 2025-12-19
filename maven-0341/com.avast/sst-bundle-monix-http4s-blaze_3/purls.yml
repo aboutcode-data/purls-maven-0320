@@ -1,0 +1,2 @@
+- pkg:maven/com.avast/sst-bundle-monix-http4s-blaze_3@0.16.0
+- pkg:maven/com.avast/sst-bundle-monix-http4s-blaze_3@0.16.0?classifier=sources

@@ -7,5 +7,6 @@
 - pkg:maven/com.connectedinteractive/connecttracker@1.18.5?type=aar
 - pkg:maven/com.connectedinteractive/connecttracker@1.19.0?type=aar
 - pkg:maven/com.connectedinteractive/connecttracker@1.19.1?type=aar
+- pkg:maven/com.connectedinteractive/connecttracker@1.19.2?type=aar
 - pkg:maven/com.connectedinteractive/connecttracker@1.22.0?type=aar
 - pkg:maven/com.connectedinteractive/connecttracker@1.25.0?type=aar

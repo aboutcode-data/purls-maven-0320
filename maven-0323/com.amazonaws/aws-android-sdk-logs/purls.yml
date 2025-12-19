@@ -164,6 +164,8 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-logs@2.43.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-logs@2.44.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-logs@2.44.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-logs@2.45.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-logs@2.45.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-logs@2.6.14
 - pkg:maven/com.amazonaws/aws-android-sdk-logs@2.6.14?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-logs@2.6.15

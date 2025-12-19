@@ -1,0 +1,2 @@
+- pkg:maven/io.sreworks/nacos-client@1.1.4
+- pkg:maven/io.sreworks/nacos-client@1.1.4?classifier=sources

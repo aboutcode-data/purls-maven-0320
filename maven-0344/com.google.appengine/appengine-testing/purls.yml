@@ -132,6 +132,7 @@
 - pkg:maven/com.google.appengine/appengine-testing@1.9.94
 - pkg:maven/com.google.appengine/appengine-testing@1.9.95
 - pkg:maven/com.google.appengine/appengine-testing@1.9.96
+- pkg:maven/com.google.appengine/appengine-testing@1.9.97
 - pkg:maven/com.google.appengine/appengine-testing@2.0.0
 - pkg:maven/com.google.appengine/appengine-testing@2.0.0?classifier=sources
 - pkg:maven/com.google.appengine/appengine-testing@2.0.1
@@ -142,3 +143,5 @@
 - pkg:maven/com.google.appengine/appengine-testing@2.0.3?classifier=sources
 - pkg:maven/com.google.appengine/appengine-testing@2.0.4
 - pkg:maven/com.google.appengine/appengine-testing@2.0.4?classifier=sources
+- pkg:maven/com.google.appengine/appengine-testing@2.0.5
+- pkg:maven/com.google.appengine/appengine-testing@2.0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.rdlinux/luava-servlet@0.0.7.RELEASE
+- pkg:maven/org.rdlinux/luava-servlet@0.0.7.RELEASE?classifier=sources
+- pkg:maven/org.rdlinux/luava-servlet@0.0.8.RELEASE
+- pkg:maven/org.rdlinux/luava-servlet@0.0.8.RELEASE?classifier=sources

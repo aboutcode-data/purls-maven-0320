@@ -1,0 +1,2 @@
+- pkg:maven/org.pitest/pitest-testng-plugin@0.1
+- pkg:maven/org.pitest/pitest-testng-plugin@0.1?classifier=sources

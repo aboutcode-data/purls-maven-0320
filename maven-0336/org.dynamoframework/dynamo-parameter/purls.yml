@@ -1,3 +1,5 @@
+- pkg:maven/org.dynamoframework/dynamo-parameter@2.10
+- pkg:maven/org.dynamoframework/dynamo-parameter@2.10?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-parameter@2.4
 - pkg:maven/org.dynamoframework/dynamo-parameter@2.4?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-parameter@2.5

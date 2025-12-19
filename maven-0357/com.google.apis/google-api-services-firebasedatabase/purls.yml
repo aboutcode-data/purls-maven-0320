@@ -14,3 +14,5 @@
 - pkg:maven/com.google.apis/google-api-services-firebasedatabase@v1beta-rev20220328-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasedatabase@v1beta-rev20220330-1.32.1
 - pkg:maven/com.google.apis/google-api-services-firebasedatabase@v1beta-rev20220330-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebasedatabase@v1beta-rev20220602-1.32.1
+- pkg:maven/com.google.apis/google-api-services-firebasedatabase@v1beta-rev20220602-1.32.1?classifier=sources

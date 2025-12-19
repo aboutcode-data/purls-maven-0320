@@ -2,3 +2,5 @@
 - pkg:maven/com.starmicronics/starioextension@1.14.0?classifier=sources
 - pkg:maven/com.starmicronics/starioextension@1.15.0
 - pkg:maven/com.starmicronics/starioextension@1.15.0?classifier=sources
+- pkg:maven/com.starmicronics/starioextension@1.15.1
+- pkg:maven/com.starmicronics/starioextension@1.15.1?classifier=sources

@@ -8,8 +8,10 @@
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.35
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.36
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.37
+- pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.37.1
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.38
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.39
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.40
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.42
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.43
+- pkg:maven/net.oneandone.ioc-unit/ioc-unit-jpa-hibernate5@2.0.44

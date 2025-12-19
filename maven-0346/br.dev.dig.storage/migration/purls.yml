@@ -1,0 +1,2 @@
+- pkg:maven/br.dev.dig.storage/migration@0.1.0?classifier=sources
+- pkg:maven/br.dev.dig.storage/migration@1.0.0?classifier=sources

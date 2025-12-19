@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.arrow.orc/arrow-orc@6.0.1?classifier=sources
 - pkg:maven/org.apache.arrow.orc/arrow-orc@7.0.0
 - pkg:maven/org.apache.arrow.orc/arrow-orc@7.0.0?classifier=sources
+- pkg:maven/org.apache.arrow.orc/arrow-orc@8.0.0
+- pkg:maven/org.apache.arrow.orc/arrow-orc@8.0.0?classifier=sources

@@ -20,6 +20,8 @@
 - pkg:maven/sh.ory.hydra/hydra-client@1.11.6?classifier=sources
 - pkg:maven/sh.ory.hydra/hydra-client@1.11.7
 - pkg:maven/sh.ory.hydra/hydra-client@1.11.7?classifier=sources
+- pkg:maven/sh.ory.hydra/hydra-client@1.11.8
+- pkg:maven/sh.ory.hydra/hydra-client@1.11.8?classifier=sources
 - pkg:maven/sh.ory.hydra/hydra-client@1.2.0
 - pkg:maven/sh.ory.hydra/hydra-client@1.2.0-alpha.2
 - pkg:maven/sh.ory.hydra/hydra-client@1.2.0-alpha.2?classifier=sources

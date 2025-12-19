@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/ngx-cookie-service@14.0.0-rc.1
+- pkg:maven/org.webjars.npm/ngx-cookie-service@14.0.0-rc.1?classifier=sources
+- pkg:maven/org.webjars.npm/ngx-cookie-service@14.0.0-rc.2
+- pkg:maven/org.webjars.npm/ngx-cookie-service@14.0.0-rc.2?classifier=sources

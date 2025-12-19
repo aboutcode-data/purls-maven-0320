@@ -5,3 +5,7 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1030?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1031?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1032?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1035?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1040?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1041?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_remote@1042?classifier=sources

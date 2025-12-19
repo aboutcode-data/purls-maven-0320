@@ -12,6 +12,10 @@
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.0.3-2.4.13-jdk8?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.1.0-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.1.2-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.10.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.10.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.11.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.11.1-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.2.0-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.2.1-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.3.0-2.4.13?classifier=sources
@@ -20,3 +24,15 @@
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.4.2-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.4.3-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.5.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.6.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.7.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.8.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.8.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.8.2-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.8.3-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.8.4-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.8.5-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.8.6-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.9.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@3.9.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-char@4.0.0-2.4.13?classifier=sources

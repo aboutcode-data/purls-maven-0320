@@ -1,0 +1,2 @@
+- pkg:maven/com.playtika.openapi.rapidoc/rapidoc-spring-boot@0.0.1
+- pkg:maven/com.playtika.openapi.rapidoc/rapidoc-spring-boot@0.0.1?classifier=sources

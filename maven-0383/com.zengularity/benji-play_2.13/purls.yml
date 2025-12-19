@@ -32,3 +32,5 @@
 - pkg:maven/com.zengularity/benji-play_2.13@2.1.9-play27?classifier=sources
 - pkg:maven/com.zengularity/benji-play_2.13@2.1.9-play28
 - pkg:maven/com.zengularity/benji-play_2.13@2.1.9-play28?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.13@2.2.0-play28
+- pkg:maven/com.zengularity/benji-play_2.13@2.2.0-play28?classifier=sources

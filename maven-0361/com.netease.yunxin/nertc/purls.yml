@@ -36,6 +36,8 @@
 - pkg:maven/com.netease.yunxin/nertc@4.2.129?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.2.133?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.2.137?type=aar
+- pkg:maven/com.netease.yunxin/nertc@4.2.140?type=aar
+- pkg:maven/com.netease.yunxin/nertc@4.2.142?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.2.1?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.2.203?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.2.204?type=aar
@@ -75,10 +77,14 @@
 - pkg:maven/com.netease.yunxin/nertc@4.4.502?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.4.503?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.4.504?type=aar
+- pkg:maven/com.netease.yunxin/nertc@4.4.505?type=aar
+- pkg:maven/com.netease.yunxin/nertc@4.4.506?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.4.5?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.4.600?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.4.601?type=aar
+- pkg:maven/com.netease.yunxin/nertc@4.4.602?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.4.6?type=aar
+- pkg:maven/com.netease.yunxin/nertc@4.4.800?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.4.8?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.4.9?type=aar
 - pkg:maven/com.netease.yunxin/nertc@4.5.0?type=aar

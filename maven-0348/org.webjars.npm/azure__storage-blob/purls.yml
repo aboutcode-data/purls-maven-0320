@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/azure__storage-blob@10.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/azure__storage-blob@12.8.0
 - pkg:maven/org.webjars.npm/azure__storage-blob@12.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/azure__storage-blob@12.9.0
+- pkg:maven/org.webjars.npm/azure__storage-blob@12.9.0?classifier=sources

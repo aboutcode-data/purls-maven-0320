@@ -22,3 +22,5 @@
 - pkg:maven/org.evrete/evrete-jsr94@2.1.06?classifier=sources
 - pkg:maven/org.evrete/evrete-jsr94@2.2.00
 - pkg:maven/org.evrete/evrete-jsr94@2.2.00?classifier=sources
+- pkg:maven/org.evrete/evrete-jsr94@2.2.01
+- pkg:maven/org.evrete/evrete-jsr94@2.2.01?classifier=sources

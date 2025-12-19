@@ -1,0 +1,2 @@
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.8
+- pkg:maven/wtf.metio.yosql.models/yosql-models-configuration@2022.6.8?classifier=sources

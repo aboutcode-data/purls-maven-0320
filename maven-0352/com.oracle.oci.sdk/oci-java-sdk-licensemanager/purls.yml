@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-licensemanager@2.29.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-licensemanager@2.29.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-licensemanager@2.30.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-licensemanager@2.30.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-licensemanager@2.31.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-licensemanager@2.31.0?classifier=sources

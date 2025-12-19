@@ -1,0 +1,6 @@
+- pkg:maven/io.stargate.grpc/bridge-proto@2.0.0-ALPHA-10
+- pkg:maven/io.stargate.grpc/bridge-proto@2.0.0-ALPHA-10?classifier=sources
+- pkg:maven/io.stargate.grpc/bridge-proto@2.0.0-ALPHA-11
+- pkg:maven/io.stargate.grpc/bridge-proto@2.0.0-ALPHA-11?classifier=sources
+- pkg:maven/io.stargate.grpc/bridge-proto@2.0.0-ALPHA-9
+- pkg:maven/io.stargate.grpc/bridge-proto@2.0.0-ALPHA-9?classifier=sources

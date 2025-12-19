@@ -19,4 +19,10 @@
 - pkg:maven/com.github.swiftech/swiftboot-auth@2.0.2
 - pkg:maven/com.github.swiftech/swiftboot-auth@2.0.2?classifier=sources
 - pkg:maven/com.github.swiftech/swiftboot-auth@2.1
+- pkg:maven/com.github.swiftech/swiftboot-auth@2.1.1
+- pkg:maven/com.github.swiftech/swiftboot-auth@2.1.1?classifier=sources
 - pkg:maven/com.github.swiftech/swiftboot-auth@2.1?classifier=sources
+- pkg:maven/com.github.swiftech/swiftboot-auth@2.2
+- pkg:maven/com.github.swiftech/swiftboot-auth@2.2.1
+- pkg:maven/com.github.swiftech/swiftboot-auth@2.2.1?classifier=sources
+- pkg:maven/com.github.swiftech/swiftboot-auth@2.2?classifier=sources

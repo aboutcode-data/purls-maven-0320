@@ -30,3 +30,5 @@
 - pkg:maven/nl.grons/metrics4-akka_a24_2.11@4.2.7?classifier=sources
 - pkg:maven/nl.grons/metrics4-akka_a24_2.11@4.2.8
 - pkg:maven/nl.grons/metrics4-akka_a24_2.11@4.2.8?classifier=sources
+- pkg:maven/nl.grons/metrics4-akka_a24_2.11@4.2.9
+- pkg:maven/nl.grons/metrics4-akka_a24_2.11@4.2.9?classifier=sources

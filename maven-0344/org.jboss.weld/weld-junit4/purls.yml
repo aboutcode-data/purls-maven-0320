@@ -22,5 +22,9 @@
 - pkg:maven/org.jboss.weld/weld-junit4@2.0.2.Final?classifier=sources
 - pkg:maven/org.jboss.weld/weld-junit4@3.0.0.Final
 - pkg:maven/org.jboss.weld/weld-junit4@3.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.weld/weld-junit4@3.1.0.Final
+- pkg:maven/org.jboss.weld/weld-junit4@3.1.0.Final?classifier=sources
 - pkg:maven/org.jboss.weld/weld-junit4@4.0.0.CR1
 - pkg:maven/org.jboss.weld/weld-junit4@4.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.weld/weld-junit4@4.0.0.Final
+- pkg:maven/org.jboss.weld/weld-junit4@4.0.0.Final?classifier=sources

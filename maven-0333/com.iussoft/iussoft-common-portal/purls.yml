@@ -9,4 +9,6 @@
 - pkg:maven/com.iussoft/iussoft-common-portal@3.3.22031801?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-portal@3.3.22040810
 - pkg:maven/com.iussoft/iussoft-common-portal@3.3.22040810?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-portal@3.3.22042910
+- pkg:maven/com.iussoft/iussoft-common-portal@3.3.22042910?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-portal@3.3.2?classifier=sources

@@ -12,5 +12,9 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@2022.4.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@2022.4.1
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@2022.4.1?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@2022.5.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@2022.5.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@2022.5.1
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@2022.5.1?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@21.11.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-web@21.11.0?classifier=sources

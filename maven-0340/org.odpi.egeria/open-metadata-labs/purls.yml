@@ -26,3 +26,5 @@
 - pkg:maven/org.odpi.egeria/open-metadata-labs@3.5
 - pkg:maven/org.odpi.egeria/open-metadata-labs@3.6
 - pkg:maven/org.odpi.egeria/open-metadata-labs@3.7
+- pkg:maven/org.odpi.egeria/open-metadata-labs@3.8
+- pkg:maven/org.odpi.egeria/open-metadata-labs@3.9

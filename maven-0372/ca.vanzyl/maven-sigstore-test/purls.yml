@@ -1,0 +1,5 @@
+- pkg:maven/ca.vanzyl/maven-sigstore-test@0.0.14?classifier=sources
+- pkg:maven/ca.vanzyl/maven-sigstore-test@0.0.15?classifier=sources
+- pkg:maven/ca.vanzyl/maven-sigstore-test@0.0.20?classifier=sources
+- pkg:maven/ca.vanzyl/maven-sigstore-test@0.0.21?classifier=sources
+- pkg:maven/ca.vanzyl/maven-sigstore-test@0.0.22?classifier=sources

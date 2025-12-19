@@ -17,3 +17,5 @@
 - pkg:maven/com.semanticcms/semanticcms-core-docs@1.9.1?type=war
 - pkg:maven/com.semanticcms/semanticcms-core-docs@1.9.2?classifier=sources
 - pkg:maven/com.semanticcms/semanticcms-core-docs@1.9.2?type=war
+- pkg:maven/com.semanticcms/semanticcms-core-docs@1.9.3?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-core-docs@1.9.3?type=war

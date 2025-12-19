@@ -37,3 +37,7 @@
 - pkg:maven/com.gitee.tiamosu/beemanscommon-overseas@3.2.7?classifier=sources
 - pkg:maven/com.gitee.tiamosu/beemanscommon-overseas@3.2.8?classifier=sources
 - pkg:maven/com.gitee.tiamosu/beemanscommon-overseas@3.2.9?classifier=sources
+- pkg:maven/com.gitee.tiamosu/beemanscommon-overseas@3.3.0?classifier=sources
+- pkg:maven/com.gitee.tiamosu/beemanscommon-overseas@3.3.1?classifier=sources
+- pkg:maven/com.gitee.tiamosu/beemanscommon-overseas@3.3.2?classifier=sources
+- pkg:maven/com.gitee.tiamosu/beemanscommon-overseas@3.3.4?classifier=sources

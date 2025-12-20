@@ -7,3 +7,4 @@
 - pkg:maven/com.barrybecker4/bb4-gradle@1.6.7?classifier=sources
 - pkg:maven/com.barrybecker4/bb4-gradle@1.6.9?classifier=sources
 - pkg:maven/com.barrybecker4/bb4-gradle@1.7?classifier=sources
+- pkg:maven/com.barrybecker4/bb4-gradle@1.8?classifier=sources

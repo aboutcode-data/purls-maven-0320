@@ -47,6 +47,11 @@
 - pkg:maven/me.proton.core/observability-domain@21.0.0?classifier=sources
 - pkg:maven/me.proton.core/observability-domain@21.1.0?classifier=sources
 - pkg:maven/me.proton.core/observability-domain@21.2.0?classifier=sources
+- pkg:maven/me.proton.core/observability-domain@21.2.1?classifier=sources
+- pkg:maven/me.proton.core/observability-domain@22.0.0?classifier=sources
+- pkg:maven/me.proton.core/observability-domain@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/observability-domain@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/observability-domain@23.0.0?classifier=sources
 - pkg:maven/me.proton.core/observability-domain@9.10.0?classifier=sources
 - pkg:maven/me.proton.core/observability-domain@9.10.1?classifier=sources
 - pkg:maven/me.proton.core/observability-domain@9.11.0?classifier=sources

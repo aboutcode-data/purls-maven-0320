@@ -146,6 +146,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-blob-cloud-azure@1.6.9?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-cloud-azure@1.60.0
 - pkg:maven/org.apache.jackrabbit/oak-blob-cloud-azure@1.60.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-blob-cloud-azure@1.62.0
+- pkg:maven/org.apache.jackrabbit/oak-blob-cloud-azure@1.62.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-cloud-azure@1.7.0
 - pkg:maven/org.apache.jackrabbit/oak-blob-cloud-azure@1.7.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-cloud-azure@1.7.1

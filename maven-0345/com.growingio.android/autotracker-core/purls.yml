@@ -36,3 +36,4 @@
 - pkg:maven/com.growingio.android/autotracker-core@3.5.3?classifier=sources
 - pkg:maven/com.growingio.android/autotracker-core@4.0.0?classifier=sources
 - pkg:maven/com.growingio.android/autotracker-core@4.1.0?classifier=sources
+- pkg:maven/com.growingio.android/autotracker-core@4.2.0?classifier=sources

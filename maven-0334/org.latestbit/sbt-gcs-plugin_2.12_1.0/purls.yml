@@ -1,2 +1,6 @@
+- pkg:maven/org.latestbit/sbt-gcs-plugin_2.12_1.0@1.10.0
+- pkg:maven/org.latestbit/sbt-gcs-plugin_2.12_1.0@1.10.0?classifier=sources
+- pkg:maven/org.latestbit/sbt-gcs-plugin_2.12_1.0@1.11.0
+- pkg:maven/org.latestbit/sbt-gcs-plugin_2.12_1.0@1.11.0?classifier=sources
 - pkg:maven/org.latestbit/sbt-gcs-plugin_2.12_1.0@1.9.0
 - pkg:maven/org.latestbit/sbt-gcs-plugin_2.12_1.0@1.9.0?classifier=sources

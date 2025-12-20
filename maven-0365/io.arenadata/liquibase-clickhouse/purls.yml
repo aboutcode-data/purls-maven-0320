@@ -1,0 +1,2 @@
+- pkg:maven/io.arenadata/liquibase-clickhouse@0.7.4-arenadata
+- pkg:maven/io.arenadata/liquibase-clickhouse@0.7.4-arenadata?classifier=sources

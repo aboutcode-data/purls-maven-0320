@@ -4,6 +4,7 @@
 - pkg:maven/org.wso2.carbon.metrics/org.wso2.carbon.metrics.das.capp@2.3.17?classifier=src&type=zip
 - pkg:maven/org.wso2.carbon.metrics/org.wso2.carbon.metrics.das.capp@2.3.18?classifier=src&type=zip
 - pkg:maven/org.wso2.carbon.metrics/org.wso2.carbon.metrics.das.capp@2.3.21?classifier=src&type=zip
+- pkg:maven/org.wso2.carbon.metrics/org.wso2.carbon.metrics.das.capp@2.3.22?classifier=src&type=zip
 - pkg:maven/org.wso2.carbon.metrics/org.wso2.carbon.metrics.das.capp@2.3.3?classifier=src&type=zip
 - pkg:maven/org.wso2.carbon.metrics/org.wso2.carbon.metrics.das.capp@2.3.4?classifier=src&type=zip
 - pkg:maven/org.wso2.carbon.metrics/org.wso2.carbon.metrics.das.capp@2.3.5?classifier=src&type=zip

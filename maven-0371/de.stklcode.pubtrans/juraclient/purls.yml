@@ -32,3 +32,5 @@
 - pkg:maven/de.stklcode.pubtrans/juraclient@2.0.4?classifier=sources
 - pkg:maven/de.stklcode.pubtrans/juraclient@2.0.5
 - pkg:maven/de.stklcode.pubtrans/juraclient@2.0.5?classifier=sources
+- pkg:maven/de.stklcode.pubtrans/juraclient@2.0.6
+- pkg:maven/de.stklcode.pubtrans/juraclient@2.0.6?classifier=sources

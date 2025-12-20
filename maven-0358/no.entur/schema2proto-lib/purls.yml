@@ -169,6 +169,14 @@
 - pkg:maven/no.entur/schema2proto-lib@1.86?classifier=sources
 - pkg:maven/no.entur/schema2proto-lib@1.87
 - pkg:maven/no.entur/schema2proto-lib@1.87?classifier=sources
+- pkg:maven/no.entur/schema2proto-lib@1.88
+- pkg:maven/no.entur/schema2proto-lib@1.88?classifier=sources
+- pkg:maven/no.entur/schema2proto-lib@1.89
+- pkg:maven/no.entur/schema2proto-lib@1.89?classifier=sources
 - pkg:maven/no.entur/schema2proto-lib@1.8?classifier=sources
 - pkg:maven/no.entur/schema2proto-lib@1.9
+- pkg:maven/no.entur/schema2proto-lib@1.90
+- pkg:maven/no.entur/schema2proto-lib@1.90?classifier=sources
+- pkg:maven/no.entur/schema2proto-lib@1.92
+- pkg:maven/no.entur/schema2proto-lib@1.92?classifier=sources
 - pkg:maven/no.entur/schema2proto-lib@1.9?classifier=sources

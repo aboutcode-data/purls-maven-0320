@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/shebang-command@1.2.0?classifier=sources
 - pkg:maven/org.mvnpm/shebang-command@2.0.0?classifier=sources

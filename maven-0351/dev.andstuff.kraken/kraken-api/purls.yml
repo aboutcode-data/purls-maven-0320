@@ -1,1 +1,2 @@
 - pkg:maven/dev.andstuff.kraken/kraken-api@1.0.0?classifier=sources
+- pkg:maven/dev.andstuff.kraken/kraken-api@2.0.0?classifier=sources

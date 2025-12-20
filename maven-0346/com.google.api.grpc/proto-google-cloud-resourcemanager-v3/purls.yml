@@ -130,6 +130,14 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.39.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.4.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.4.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.40.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.40.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.41.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.41.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.42.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.42.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.43.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.43.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.5.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-resourcemanager-v3@1.5.2

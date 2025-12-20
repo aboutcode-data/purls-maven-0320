@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/make-event-props@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/make-event-props@1.6.1
 - pkg:maven/org.webjars.npm/make-event-props@1.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/make-event-props@1.6.2

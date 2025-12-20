@@ -1,0 +1,2 @@
+- pkg:maven/io.nstream/nstream-store-ignite-inner@4.7.10?classifier=sources
+- pkg:maven/io.nstream/nstream-store-ignite-inner@4.8.15?classifier=sources

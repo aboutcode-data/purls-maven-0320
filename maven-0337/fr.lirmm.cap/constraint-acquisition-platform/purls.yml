@@ -1,0 +1,2 @@
+- pkg:maven/fr.lirmm.cap/constraint-acquisition-platform@0.0.1b
+- pkg:maven/fr.lirmm.cap/constraint-acquisition-platform@0.0.1b?classifier=sources

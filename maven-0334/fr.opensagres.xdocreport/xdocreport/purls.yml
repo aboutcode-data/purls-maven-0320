@@ -16,3 +16,5 @@
 - pkg:maven/fr.opensagres.xdocreport/xdocreport@2.0.3?classifier=sources
 - pkg:maven/fr.opensagres.xdocreport/xdocreport@2.0.4
 - pkg:maven/fr.opensagres.xdocreport/xdocreport@2.0.4?classifier=sources
+- pkg:maven/fr.opensagres.xdocreport/xdocreport@2.0.6
+- pkg:maven/fr.opensagres.xdocreport/xdocreport@2.0.6?classifier=sources

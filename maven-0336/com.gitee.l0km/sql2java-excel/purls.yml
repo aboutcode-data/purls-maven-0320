@@ -140,6 +140,8 @@
 - pkg:maven/com.gitee.l0km/sql2java-excel@3.29.8?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-excel@3.29.9
 - pkg:maven/com.gitee.l0km/sql2java-excel@3.29.9?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.30.0
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.30.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-excel@4.0.0
 - pkg:maven/com.gitee.l0km/sql2java-excel@4.0.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-excel@4.1.0

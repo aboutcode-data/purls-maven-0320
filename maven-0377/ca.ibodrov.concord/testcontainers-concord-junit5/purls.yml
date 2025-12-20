@@ -2,3 +2,5 @@
 - pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit5@0.0.41?classifier=sources
 - pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit5@2.0.0
 - pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit5@2.0.0?classifier=sources
+- pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit5@2.0.1
+- pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit5@2.0.1?classifier=sources

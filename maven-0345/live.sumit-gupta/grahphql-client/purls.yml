@@ -1,0 +1,4 @@
+- pkg:maven/live.sumit-gupta/grahphql-client@2024-01-01?classifier=sources
+- pkg:maven/live.sumit-gupta/grahphql-client@2024-01-02?classifier=sources
+- pkg:maven/live.sumit-gupta/grahphql-client@2024-01-03?classifier=sources
+- pkg:maven/live.sumit-gupta/grahphql-client@2024-01?classifier=sources

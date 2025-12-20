@@ -1,2 +1,4 @@
 - pkg:maven/com.dream11/vertx-rest@1.0.0
 - pkg:maven/com.dream11/vertx-rest@1.0.0?classifier=sources
+- pkg:maven/com.dream11/vertx-rest@1.1.0
+- pkg:maven/com.dream11/vertx-rest@1.1.0?classifier=sources

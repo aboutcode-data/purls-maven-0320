@@ -6,3 +6,5 @@
 - pkg:maven/io.quarkus/quarkus-spring-security-core-api@5.3.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-security-core-api@5.4.Final
 - pkg:maven/io.quarkus/quarkus-spring-security-core-api@5.4.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-security-core-api@6.2
+- pkg:maven/io.quarkus/quarkus-spring-security-core-api@6.2?classifier=sources

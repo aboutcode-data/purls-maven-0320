@@ -14,3 +14,5 @@
 - pkg:maven/org.jvnet.jaxb/jaxb-annox@4.0.2?classifier=sources
 - pkg:maven/org.jvnet.jaxb/jaxb-annox@4.0.3
 - pkg:maven/org.jvnet.jaxb/jaxb-annox@4.0.3?classifier=sources
+- pkg:maven/org.jvnet.jaxb/jaxb-annox@4.0.6
+- pkg:maven/org.jvnet.jaxb/jaxb-annox@4.0.6?classifier=sources

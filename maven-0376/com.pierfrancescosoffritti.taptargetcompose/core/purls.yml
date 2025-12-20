@@ -2,3 +2,4 @@
 - pkg:maven/com.pierfrancescosoffritti.taptargetcompose/core@0.0.2?classifier=sources
 - pkg:maven/com.pierfrancescosoffritti.taptargetcompose/core@1.0.0?classifier=sources
 - pkg:maven/com.pierfrancescosoffritti.taptargetcompose/core@1.1.0?classifier=sources
+- pkg:maven/com.pierfrancescosoffritti.taptargetcompose/core@1.1.1?classifier=sources

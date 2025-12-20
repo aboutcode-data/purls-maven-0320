@@ -117,3 +117,4 @@
 - pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@3.1.5?classifier=sources
 - pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@3.2.1?classifier=sources
 - pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@3.2.3?classifier=sources
+- pkg:maven/com.ibm.mq/mq-jms-spring-boot-starter@3.2.4?classifier=sources

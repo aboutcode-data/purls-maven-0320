@@ -9,3 +9,17 @@
 - pkg:maven/io.github.autoparams/autoparams-lombok@3.0.2?classifier=sources
 - pkg:maven/io.github.autoparams/autoparams-lombok@3.0.3?classifier=sources
 - pkg:maven/io.github.autoparams/autoparams-lombok@3.1.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@4.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@4.1.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@4.2.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@4.3.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@4.6.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@4.6.1?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@5.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@6.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@7.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@7.1.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@8.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@8.1.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@8.2.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-lombok@8.2.1?classifier=sources

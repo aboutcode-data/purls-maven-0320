@@ -1,1 +1,2 @@
 - pkg:maven/net.sinetstream/SINETStream-iostream@1.8.1?classifier=sources
+- pkg:maven/net.sinetstream/SINETStream-iostream@1.9.0?classifier=sources

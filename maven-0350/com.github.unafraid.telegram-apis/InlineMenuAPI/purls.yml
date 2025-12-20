@@ -26,3 +26,4 @@
 - pkg:maven/com.github.unafraid.telegram-apis/InlineMenuAPI@1.0.8?classifier=sources
 - pkg:maven/com.github.unafraid.telegram-apis/InlineMenuAPI@1.0.9
 - pkg:maven/com.github.unafraid.telegram-apis/InlineMenuAPI@1.0.9?classifier=sources
+- pkg:maven/com.github.unafraid.telegram-apis/InlineMenuAPI@2.0.0?classifier=sources

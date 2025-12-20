@@ -226,6 +226,8 @@
 - pkg:maven/org.cometd/cometd-demo@5.0.16?type=war
 - pkg:maven/org.cometd/cometd-demo@5.0.17?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@5.0.17?type=war
+- pkg:maven/org.cometd/cometd-demo@5.0.18?classifier=sources
+- pkg:maven/org.cometd/cometd-demo@5.0.18?type=war
 - pkg:maven/org.cometd/cometd-demo@5.0.1?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@5.0.1?type=war
 - pkg:maven/org.cometd/cometd-demo@5.0.2?classifier=sources
@@ -252,6 +254,8 @@
 - pkg:maven/org.cometd/cometd-demo@6.0.11?type=war
 - pkg:maven/org.cometd/cometd-demo@6.0.12?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@6.0.12?type=war
+- pkg:maven/org.cometd/cometd-demo@6.0.13?classifier=sources
+- pkg:maven/org.cometd/cometd-demo@6.0.13?type=war
 - pkg:maven/org.cometd/cometd-demo@6.0.1?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@6.0.1?type=war
 - pkg:maven/org.cometd/cometd-demo@6.0.2?classifier=sources
@@ -278,6 +282,8 @@
 - pkg:maven/org.cometd/cometd-demo@7.0.11?type=war
 - pkg:maven/org.cometd/cometd-demo@7.0.12?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@7.0.12?type=war
+- pkg:maven/org.cometd/cometd-demo@7.0.13?classifier=sources
+- pkg:maven/org.cometd/cometd-demo@7.0.13?type=war
 - pkg:maven/org.cometd/cometd-demo@7.0.1?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@7.0.1?type=war
 - pkg:maven/org.cometd/cometd-demo@7.0.2?classifier=sources
@@ -300,3 +306,5 @@
 - pkg:maven/org.cometd/cometd-demo@8.0.0.beta1?type=war
 - pkg:maven/org.cometd/cometd-demo@8.0.0.beta2?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@8.0.0.beta2?type=war
+- pkg:maven/org.cometd/cometd-demo@8.0.0.beta3?classifier=sources
+- pkg:maven/org.cometd/cometd-demo@8.0.0.beta3?type=war

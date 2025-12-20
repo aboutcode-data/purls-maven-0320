@@ -101,6 +101,12 @@
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.39?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.3?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.4
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.40
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.40?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.41
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.41?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.43
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.43?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.4?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.5
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@1.2.5?classifier=sources

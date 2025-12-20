@@ -52,6 +52,10 @@
 - pkg:maven/io.piano/piano-java@16.111.0?classifier=sources
 - pkg:maven/io.piano/piano-java@16.123.2?classifier=sources
 - pkg:maven/io.piano/piano-java@16.129.0?classifier=sources
+- pkg:maven/io.piano/piano-java@16.133.1?classifier=sources
+- pkg:maven/io.piano/piano-java@16.149.1?classifier=sources
+- pkg:maven/io.piano/piano-java@16.155.0?classifier=sources
+- pkg:maven/io.piano/piano-java@16.169.0?classifier=sources
 - pkg:maven/io.piano/piano-java@16.23.0?classifier=sources
 - pkg:maven/io.piano/piano-java@16.29.0?classifier=sources
 - pkg:maven/io.piano/piano-java@16.37.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.virtuslab/besom-mongodbatlas_3@3.10.1-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-mongodbatlas_3@3.14.0-core.0.2
 - pkg:maven/org.virtuslab/besom-mongodbatlas_3@3.14.0-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-mongodbatlas_3@3.14.3-core.0.3
+- pkg:maven/org.virtuslab/besom-mongodbatlas_3@3.14.3-core.0.3?classifier=sources

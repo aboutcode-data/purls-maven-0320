@@ -18,3 +18,5 @@
 - pkg:maven/ai.djl.audio/audio@0.25.0?classifier=sources
 - pkg:maven/ai.djl.audio/audio@0.26.0
 - pkg:maven/ai.djl.audio/audio@0.26.0?classifier=sources
+- pkg:maven/ai.djl.audio/audio@0.27.0
+- pkg:maven/ai.djl.audio/audio@0.27.0?classifier=sources

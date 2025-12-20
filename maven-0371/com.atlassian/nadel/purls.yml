@@ -144,3 +144,8 @@
 - pkg:maven/com.atlassian/nadel@2024-03-12T00-34-13-2500762a?classifier=sources
 - pkg:maven/com.atlassian/nadel@2024-03-12T00-40-04-bfb4786f?classifier=sources
 - pkg:maven/com.atlassian/nadel@2024-03-13T00-35-44-968dd20a?classifier=sources
+- pkg:maven/com.atlassian/nadel@2024-03-25T09-04-54-342addeb?classifier=sources
+- pkg:maven/com.atlassian/nadel@2024-03-26T00-04-28-35f66ac5?classifier=sources
+- pkg:maven/com.atlassian/nadel@2024-03-26T04-35-16-b0573b35?classifier=sources
+- pkg:maven/com.atlassian/nadel@2024-03-28T02-40-35-cc21efeb?classifier=sources
+- pkg:maven/com.atlassian/nadel@2024-03-28T03-57-56-a20da824?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.appmetrica.analytics/analytics-ad-revenue-ironsource-v7@6.4.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-ad-revenue-ironsource-v7@6.5.0?classifier=sources

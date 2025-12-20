@@ -19,3 +19,4 @@
 - pkg:maven/top.wu2020/wu-easy-upsert-h2-sink@1.2.1-JDK17
 - pkg:maven/top.wu2020/wu-easy-upsert-h2-sink@1.2.2-JDK17
 - pkg:maven/top.wu2020/wu-easy-upsert-h2-sink@1.2.3-JDK17
+- pkg:maven/top.wu2020/wu-easy-upsert-h2-sink@1.2.5-JDK17

@@ -32,6 +32,8 @@
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@09112023.a42051b
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@09112023.bf8eaf9
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@09112023.d1e6333
+- pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@10042024.3816add
+- pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@10042024.b1887e0
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@10082023.366d334
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@10082023.eaebf9f
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@11032024.5e6618d
@@ -52,6 +54,7 @@
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@14042023.f49c841
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@15022024.faf2540
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@15052023.b28468e
+- pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@16042024.d56562f
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@16062023.1c0910c
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@17072023.3d88f54
 - pkg:maven/io.github.domstolene.esas/kjennelse-varetekt@17072023.e3799ba

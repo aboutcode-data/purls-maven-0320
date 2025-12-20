@@ -1,3 +1,5 @@
+- pkg:maven/org.camunda.community/bpmn-driven-testing-gradle-plugin@0.10.0
+- pkg:maven/org.camunda.community/bpmn-driven-testing-gradle-plugin@0.10.0?classifier=sources
 - pkg:maven/org.camunda.community/bpmn-driven-testing-gradle-plugin@0.6.0
 - pkg:maven/org.camunda.community/bpmn-driven-testing-gradle-plugin@0.6.0?classifier=sources
 - pkg:maven/org.camunda.community/bpmn-driven-testing-gradle-plugin@0.7.0

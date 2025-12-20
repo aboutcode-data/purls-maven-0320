@@ -1034,3 +1034,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-redis@3.1.967?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-redis@3.1.977
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-redis@3.1.977?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-redis@3.1.991
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-redis@3.1.991?classifier=sources

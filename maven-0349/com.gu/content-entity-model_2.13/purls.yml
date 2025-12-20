@@ -28,3 +28,15 @@
 - pkg:maven/com.gu/content-entity-model_2.13@2.2.1?classifier=sources
 - pkg:maven/com.gu/content-entity-model_2.13@2.2.2-beta.0
 - pkg:maven/com.gu/content-entity-model_2.13@2.2.2-beta.0?classifier=sources
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.0
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.0-PREVIEW.dbmanual-bump-version-sbt.2024-03-21T1528.e92e09a4
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.0-PREVIEW.dbmanual-bump-version-sbt.2024-03-21T1528.e92e09a4?classifier=sources
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.0?classifier=sources
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.1
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.1-PREVIEW.db-rtadd-nvmrc-file-for-release.2024-03-20T1430.464e7dae
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.1-PREVIEW.db-rtadd-nvmrc-file-for-release.2024-03-20T1430.464e7dae?classifier=sources
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.1?classifier=sources
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.2
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.2?classifier=sources
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.3
+- pkg:maven/com.gu/content-entity-model_2.13@3.0.3?classifier=sources

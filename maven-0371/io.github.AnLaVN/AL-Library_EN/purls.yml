@@ -3,3 +3,6 @@
 - pkg:maven/io.github.AnLaVN/AL-Library_EN@3.69.11?classifier=sources
 - pkg:maven/io.github.AnLaVN/AL-Library_EN@4.68.11?classifier=sources
 - pkg:maven/io.github.AnLaVN/AL-Library_EN@4.69.11?classifier=sources
+- pkg:maven/io.github.AnLaVN/AL-Library_EN@4.70.10?classifier=sources
+- pkg:maven/io.github.AnLaVN/AL-Library_EN@4.72.10?classifier=sources
+- pkg:maven/io.github.AnLaVN/AL-Library_EN@5.70.10?classifier=sources

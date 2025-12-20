@@ -18,3 +18,4 @@
 - pkg:maven/org.openrewrite/rewrite-javascript@0.6.4?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-javascript@0.6.5?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-javascript@0.7.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript@0.8.0?classifier=sources

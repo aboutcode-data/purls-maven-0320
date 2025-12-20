@@ -24,3 +24,7 @@
 - pkg:maven/me.zhangjh/share@2.0.5-1
 - pkg:maven/me.zhangjh/share@2.0.5-1?classifier=sources
 - pkg:maven/me.zhangjh/share@2.0.5?classifier=sources
+- pkg:maven/me.zhangjh/share@2.0.6
+- pkg:maven/me.zhangjh/share@2.0.6?classifier=sources
+- pkg:maven/me.zhangjh/share@2.0.7
+- pkg:maven/me.zhangjh/share@2.0.7?classifier=sources

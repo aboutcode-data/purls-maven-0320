@@ -1,0 +1,1 @@
+- pkg:maven/org.jreleaser/jreleaser-mavencentral-java-sdk@1.12.0?classifier=sources

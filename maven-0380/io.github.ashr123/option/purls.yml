@@ -14,3 +14,4 @@
 - pkg:maven/io.github.ashr123/option@1.0.6?classifier=sources
 - pkg:maven/io.github.ashr123/option@1.0.7?classifier=sources
 - pkg:maven/io.github.ashr123/option@1.0.8?classifier=sources
+- pkg:maven/io.github.ashr123/option@1.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.buildo/enumero_2.13@1.4.2
 - pkg:maven/io.buildo/enumero_2.13@1.4.2?classifier=sources
+- pkg:maven/io.buildo/enumero_2.13@1.4.4
+- pkg:maven/io.buildo/enumero_2.13@1.4.4?classifier=sources

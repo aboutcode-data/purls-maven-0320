@@ -12,3 +12,5 @@
 - pkg:maven/au.com.integradev.delphi/delphi-checks-testkit@1.5.0?classifier=sources
 - pkg:maven/au.com.integradev.delphi/delphi-checks-testkit@1.6.0
 - pkg:maven/au.com.integradev.delphi/delphi-checks-testkit@1.6.0?classifier=sources
+- pkg:maven/au.com.integradev.delphi/delphi-checks-testkit@1.7.0
+- pkg:maven/au.com.integradev.delphi/delphi-checks-testkit@1.7.0?classifier=sources

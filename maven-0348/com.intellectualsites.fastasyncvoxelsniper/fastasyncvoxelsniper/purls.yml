@@ -6,3 +6,4 @@
 - pkg:maven/com.intellectualsites.fastasyncvoxelsniper/fastasyncvoxelsniper@2.7.2?classifier=sources
 - pkg:maven/com.intellectualsites.fastasyncvoxelsniper/fastasyncvoxelsniper@2.8.0?classifier=sources
 - pkg:maven/com.intellectualsites.fastasyncvoxelsniper/fastasyncvoxelsniper@3.1.1?classifier=sources
+- pkg:maven/com.intellectualsites.fastasyncvoxelsniper/fastasyncvoxelsniper@3.2.0?classifier=sources

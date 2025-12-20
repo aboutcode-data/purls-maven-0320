@@ -1,0 +1,2 @@
+- pkg:maven/io.github.andr3colonel/jfrog_dummy@1.0.0
+- pkg:maven/io.github.andr3colonel/jfrog_dummy@1.0.0?classifier=sources

@@ -25,3 +25,4 @@
 - pkg:maven/com.solace.spring.cloud/spring-cloud-starter-stream-solace@4.2.0
 - pkg:maven/com.solace.spring.cloud/spring-cloud-starter-stream-solace@5.0.0
 - pkg:maven/com.solace.spring.cloud/spring-cloud-starter-stream-solace@5.1.0
+- pkg:maven/com.solace.spring.cloud/spring-cloud-starter-stream-solace@5.2.0

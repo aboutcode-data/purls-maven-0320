@@ -9,4 +9,5 @@
 - pkg:maven/net.minestom/data@1.20.5-rv3?classifier=sources
 - pkg:maven/net.minestom/data@1.21-rv1?classifier=sources
 - pkg:maven/net.minestom/data@1.21-rv2?classifier=sources
+- pkg:maven/net.minestom/data@1.21-rv3?classifier=sources
 - pkg:maven/net.minestom/data@1.21?classifier=sources

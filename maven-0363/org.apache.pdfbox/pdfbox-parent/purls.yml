@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.pdfbox/pdfbox-parent@2.0.30?classifier=source-release&type=zip
 - pkg:maven/org.apache.pdfbox/pdfbox-parent@2.0.30?classifier=src&type=zip
 - pkg:maven/org.apache.pdfbox/pdfbox-parent@2.0.31?classifier=source-release&type=zip
+- pkg:maven/org.apache.pdfbox/pdfbox-parent@2.0.32?classifier=source-release&type=zip
+- pkg:maven/org.apache.pdfbox/pdfbox-parent@2.0.32?classifier=src&type=zip
 - pkg:maven/org.apache.pdfbox/pdfbox-parent@3.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.pdfbox/pdfbox-parent@3.0.2?classifier=source-release&type=zip

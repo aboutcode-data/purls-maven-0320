@@ -90,3 +90,5 @@
 - pkg:maven/sh.ory.hydra/hydra-client@2.2.0-rc.3
 - pkg:maven/sh.ory.hydra/hydra-client@2.2.0-rc.3?classifier=sources
 - pkg:maven/sh.ory.hydra/hydra-client@2.2.0?classifier=sources
+- pkg:maven/sh.ory.hydra/hydra-client@2.2.1
+- pkg:maven/sh.ory.hydra/hydra-client@2.2.1?classifier=sources

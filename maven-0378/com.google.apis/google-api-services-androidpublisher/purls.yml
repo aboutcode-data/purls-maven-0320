@@ -4602,6 +4602,10 @@
 - pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev20240516-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev20240610-2.0.0
 - pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev20240610-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev20240624-2.0.0
+- pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev20240624-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev20240709-2.0.0
+- pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev20240709-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidpublisher@v3-rev22-1.22.0

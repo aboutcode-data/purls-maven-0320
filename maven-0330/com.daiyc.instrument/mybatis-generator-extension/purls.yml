@@ -1,0 +1,2 @@
+- pkg:maven/com.daiyc.instrument/mybatis-generator-extension@0.1.0
+- pkg:maven/com.daiyc.instrument/mybatis-generator-extension@0.1.0?classifier=sources

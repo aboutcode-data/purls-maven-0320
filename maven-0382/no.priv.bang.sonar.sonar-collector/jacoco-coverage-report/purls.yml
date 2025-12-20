@@ -32,6 +32,7 @@
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.23
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.24
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.25
+- pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.26
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.3
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.4
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.5
@@ -39,3 +40,4 @@
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.7
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.8
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.9
+- pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@2.5.27

@@ -86,3 +86,7 @@
 - pkg:maven/xyz.felh/service@4.0.2024062803?classifier=sources
 - pkg:maven/xyz.felh/service@4.0.2024062901
 - pkg:maven/xyz.felh/service@4.0.2024062901?classifier=sources
+- pkg:maven/xyz.felh/service@4.0.2024071901
+- pkg:maven/xyz.felh/service@4.0.2024071901?classifier=sources
+- pkg:maven/xyz.felh/service@4.0.2024072401
+- pkg:maven/xyz.felh/service@4.0.2024072401?classifier=sources

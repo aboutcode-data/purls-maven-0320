@@ -34,3 +34,5 @@
 - pkg:maven/us.fatehi/schemacrawler-cassandra@16.21.3?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-cassandra@16.21.4
 - pkg:maven/us.fatehi/schemacrawler-cassandra@16.21.4?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-cassandra@16.22.1
+- pkg:maven/us.fatehi/schemacrawler-cassandra@16.22.1?classifier=sources

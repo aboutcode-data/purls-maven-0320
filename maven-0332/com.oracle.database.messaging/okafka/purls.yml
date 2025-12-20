@@ -4,3 +4,5 @@
 - pkg:maven/com.oracle.database.messaging/okafka@0.9?classifier=sources
 - pkg:maven/com.oracle.database.messaging/okafka@23.2.0.0
 - pkg:maven/com.oracle.database.messaging/okafka@23.2.0.0?classifier=sources
+- pkg:maven/com.oracle.database.messaging/okafka@23.4.0.0
+- pkg:maven/com.oracle.database.messaging/okafka@23.4.0.0?classifier=sources

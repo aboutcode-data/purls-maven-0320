@@ -111,6 +111,7 @@
 - pkg:maven/org.assertj/assertj-core@3.25.2?classifier=sources
 - pkg:maven/org.assertj/assertj-core@3.25.3?classifier=sources
 - pkg:maven/org.assertj/assertj-core@3.26.0?classifier=sources
+- pkg:maven/org.assertj/assertj-core@3.26.3?classifier=sources
 - pkg:maven/org.assertj/assertj-core@3.3.0
 - pkg:maven/org.assertj/assertj-core@3.3.0?classifier=sources
 - pkg:maven/org.assertj/assertj-core@3.4.0

@@ -7,3 +7,5 @@
 - pkg:maven/com.moengage/plugin-base-inbox@3.2.0?classifier=sources
 - pkg:maven/com.moengage/plugin-base-inbox@3.3.0?classifier=sources
 - pkg:maven/com.moengage/plugin-base-inbox@4.0.0?classifier=sources
+- pkg:maven/com.moengage/plugin-base-inbox@4.0.1?classifier=sources
+- pkg:maven/com.moengage/plugin-base-inbox@4.1.0?classifier=sources

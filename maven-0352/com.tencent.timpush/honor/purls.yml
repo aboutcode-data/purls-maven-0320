@@ -6,3 +6,5 @@
 - pkg:maven/com.tencent.timpush/honor@7.9.5666?classifier=sources
 - pkg:maven/com.tencent.timpush/honor@7.9.5668?classifier=sources
 - pkg:maven/com.tencent.timpush/honor@7.9.5669?classifier=sources
+- pkg:maven/com.tencent.timpush/honor@8.0.6896?classifier=sources
+- pkg:maven/com.tencent.timpush/honor@8.0.6897?classifier=sources

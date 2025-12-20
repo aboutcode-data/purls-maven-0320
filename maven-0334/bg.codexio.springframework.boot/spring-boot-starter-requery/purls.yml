@@ -4,3 +4,5 @@
 - pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-requery@1.0.2?classifier=sources
 - pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-requery@1.0.3
 - pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-requery@1.0.3?classifier=sources
+- pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-requery@1.0.4
+- pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-requery@1.0.4?classifier=sources

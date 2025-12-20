@@ -28,6 +28,8 @@
 - pkg:maven/org.apache.drill.exec/vector@1.21.0?classifier=sources
 - pkg:maven/org.apache.drill.exec/vector@1.21.1
 - pkg:maven/org.apache.drill.exec/vector@1.21.1?classifier=sources
+- pkg:maven/org.apache.drill.exec/vector@1.21.2
+- pkg:maven/org.apache.drill.exec/vector@1.21.2?classifier=sources
 - pkg:maven/org.apache.drill.exec/vector@1.4.0
 - pkg:maven/org.apache.drill.exec/vector@1.4.0?classifier=sources
 - pkg:maven/org.apache.drill.exec/vector@1.5.0

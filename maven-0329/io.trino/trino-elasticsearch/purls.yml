@@ -97,3 +97,6 @@
 - pkg:maven/io.trino/trino-elasticsearch@448?classifier=sources
 - pkg:maven/io.trino/trino-elasticsearch@449?classifier=sources
 - pkg:maven/io.trino/trino-elasticsearch@450?classifier=sources
+- pkg:maven/io.trino/trino-elasticsearch@451?classifier=sources
+- pkg:maven/io.trino/trino-elasticsearch@452?classifier=sources
+- pkg:maven/io.trino/trino-elasticsearch@453?classifier=sources

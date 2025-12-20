@@ -1,2 +1,4 @@
 - pkg:maven/org.rcsb/rcsb-common@2.7.4
 - pkg:maven/org.rcsb/rcsb-common@2.7.4?classifier=sources
+- pkg:maven/org.rcsb/rcsb-common@2.8.0
+- pkg:maven/org.rcsb/rcsb-common@2.8.0?classifier=sources

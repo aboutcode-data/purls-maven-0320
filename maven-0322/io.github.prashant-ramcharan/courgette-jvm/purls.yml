@@ -98,6 +98,8 @@
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.13.0?classifier=sources
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.14.0
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.14.0?classifier=sources
+- pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.15.0
+- pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.15.0?classifier=sources
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.2.0
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.2.0?classifier=sources
 - pkg:maven/io.github.prashant-ramcharan/courgette-jvm@6.3.0

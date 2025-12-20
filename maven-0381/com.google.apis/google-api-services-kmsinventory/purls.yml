@@ -12,3 +12,5 @@
 - pkg:maven/com.google.apis/google-api-services-kmsinventory@v1-rev20240427-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-kmsinventory@v1-rev20240616-2.0.0
 - pkg:maven/com.google.apis/google-api-services-kmsinventory@v1-rev20240616-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-kmsinventory@v1-rev20240630-2.0.0
+- pkg:maven/com.google.apis/google-api-services-kmsinventory@v1-rev20240630-2.0.0?classifier=sources

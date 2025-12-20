@@ -22,3 +22,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-core@1.6.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-core@1.7.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-core@1.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-core@1.7.1?classifier=sources

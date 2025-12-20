@@ -47,3 +47,4 @@
 - pkg:maven/org.jetbrains.skiko/skiko-js-wasm-runtime@0.7.9?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-js-wasm-runtime@0.8.1?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-js-wasm-runtime@0.8.4?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-js-wasm-runtime@0.8.9?classifier=sources

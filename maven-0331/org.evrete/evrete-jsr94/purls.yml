@@ -53,3 +53,5 @@
 - pkg:maven/org.evrete/evrete-jsr94@3.2.00?classifier=sources
 - pkg:maven/org.evrete/evrete-jsr94@3.2.01?classifier=sources
 - pkg:maven/org.evrete/evrete-jsr94@3.2.02?classifier=sources
+- pkg:maven/org.evrete/evrete-jsr94@4.0.0?classifier=sources
+- pkg:maven/org.evrete/evrete-jsr94@4.0.1?classifier=sources

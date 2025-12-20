@@ -1,4 +1,8 @@
 - pkg:maven/io.github.linx64/mvicompose-android@1.0?classifier=sources
 - pkg:maven/io.github.linx64/mvicompose-android@1.1?classifier=sources
 - pkg:maven/io.github.linx64/mvicompose-android@1.2?classifier=sources
+- pkg:maven/io.github.linx64/mvicompose-android@1.3.1?classifier=sources
+- pkg:maven/io.github.linx64/mvicompose-android@1.3.3?classifier=sources
 - pkg:maven/io.github.linx64/mvicompose-android@1.3?classifier=sources
+- pkg:maven/io.github.linx64/mvicompose-android@1.4.2?classifier=sources
+- pkg:maven/io.github.linx64/mvicompose-android@1.5?classifier=sources

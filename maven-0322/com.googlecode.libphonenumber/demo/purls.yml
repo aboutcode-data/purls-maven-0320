@@ -378,6 +378,10 @@
 - pkg:maven/com.googlecode.libphonenumber/demo@8.13.39?type=war
 - pkg:maven/com.googlecode.libphonenumber/demo@8.13.3?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/demo@8.13.3?type=war
+- pkg:maven/com.googlecode.libphonenumber/demo@8.13.40?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/demo@8.13.40?type=war
+- pkg:maven/com.googlecode.libphonenumber/demo@8.13.41?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/demo@8.13.41?type=war
 - pkg:maven/com.googlecode.libphonenumber/demo@8.13.4?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/demo@8.13.4?type=war
 - pkg:maven/com.googlecode.libphonenumber/demo@8.13.5?classifier=sources

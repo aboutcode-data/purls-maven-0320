@@ -14,3 +14,4 @@
 - pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-annotations@1.0.0-M9?classifier=sources
 - pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-annotations@1.0.0?classifier=sources
 - pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-annotations@1.1.0?classifier=sources
+- pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-annotations@1.1.1?classifier=sources

@@ -52,6 +52,8 @@
 - pkg:maven/com.piiano.vault/openapi@1.1.26?classifier=sources
 - pkg:maven/com.piiano.vault/openapi@1.1.27
 - pkg:maven/com.piiano.vault/openapi@1.1.27?classifier=sources
+- pkg:maven/com.piiano.vault/openapi@1.1.28
+- pkg:maven/com.piiano.vault/openapi@1.1.28?classifier=sources
 - pkg:maven/com.piiano.vault/openapi@1.1.2?classifier=sources
 - pkg:maven/com.piiano.vault/openapi@1.1.3
 - pkg:maven/com.piiano.vault/openapi@1.1.3?classifier=sources
@@ -67,3 +69,5 @@
 - pkg:maven/com.piiano.vault/openapi@1.1.8?classifier=sources
 - pkg:maven/com.piiano.vault/openapi@1.1.9
 - pkg:maven/com.piiano.vault/openapi@1.1.9?classifier=sources
+- pkg:maven/com.piiano.vault/openapi@1.2.0
+- pkg:maven/com.piiano.vault/openapi@1.2.0?classifier=sources

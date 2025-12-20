@@ -1,3 +1,5 @@
 - pkg:maven/com.javaoffers/brief-router@3.6.2
 - pkg:maven/com.javaoffers/brief-router@3.6.3
 - pkg:maven/com.javaoffers/brief-router@3.6.4
+- pkg:maven/com.javaoffers/brief-router@3.6.5
+- pkg:maven/com.javaoffers/brief-router@3.6.5?classifier=sources

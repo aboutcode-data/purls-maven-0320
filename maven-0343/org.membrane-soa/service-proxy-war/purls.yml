@@ -80,3 +80,7 @@
 - pkg:maven/org.membrane-soa/service-proxy-war@5.5.1?type=war
 - pkg:maven/org.membrane-soa/service-proxy-war@5.5.2?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-war@5.5.2?type=war
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.3?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.3?type=war
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.4?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.4?type=war

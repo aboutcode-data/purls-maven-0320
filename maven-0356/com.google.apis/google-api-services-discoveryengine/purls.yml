@@ -14,6 +14,10 @@
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1-rev20240607-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1-rev20240617-2.0.0
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1-rev20240617-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1-rev20240701-2.0.0
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1-rev20240701-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1-rev20240704-2.0.0
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1-rev20240704-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20221103-2.0.0
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20221103-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20221107-2.0.0
@@ -120,6 +124,10 @@
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20240607-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20240617-2.0.0
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20240617-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20240701-2.0.0
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20240701-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20240704-2.0.0
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1alpha-rev20240704-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20221103-2.0.0
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20221103-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20221107-2.0.0
@@ -226,3 +234,7 @@
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20240607-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20240617-2.0.0
 - pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20240617-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20240701-2.0.0
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20240701-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20240704-2.0.0
+- pkg:maven/com.google.apis/google-api-services-discoveryengine@v1beta-rev20240704-2.0.0?classifier=sources

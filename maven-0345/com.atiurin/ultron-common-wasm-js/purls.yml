@@ -1,0 +1,5 @@
+- pkg:maven/com.atiurin/ultron-common-wasm-js@2.5.0-alpha06?classifier=sources
+- pkg:maven/com.atiurin/ultron-common-wasm-js@2.5.0-alpha07?classifier=sources
+- pkg:maven/com.atiurin/ultron-common-wasm-js@2.5.0-alpha08?classifier=sources
+- pkg:maven/com.atiurin/ultron-common-wasm-js@2.5.0-alpha09?classifier=sources
+- pkg:maven/com.atiurin/ultron-common-wasm-js@2.5.0-alpha10?classifier=sources

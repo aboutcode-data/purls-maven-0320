@@ -1,0 +1,2 @@
+- pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.0.0
+- pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.0.0?classifier=sources

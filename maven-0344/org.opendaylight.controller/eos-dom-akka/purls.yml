@@ -1,3 +1,6 @@
+- pkg:maven/org.opendaylight.controller/eos-dom-akka@10.0.0?classifier=sources
+- pkg:maven/org.opendaylight.controller/eos-dom-akka@10.0.1
+- pkg:maven/org.opendaylight.controller/eos-dom-akka@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/eos-dom-akka@4.0.0
 - pkg:maven/org.opendaylight.controller/eos-dom-akka@4.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/eos-dom-akka@4.0.1

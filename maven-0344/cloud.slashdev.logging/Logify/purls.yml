@@ -1,0 +1,6 @@
+- pkg:maven/cloud.slashdev.logging/Logify@0.0.1
+- pkg:maven/cloud.slashdev.logging/Logify@0.0.1?classifier=sources
+- pkg:maven/cloud.slashdev.logging/Logify@0.0.2
+- pkg:maven/cloud.slashdev.logging/Logify@0.0.2?classifier=sources
+- pkg:maven/cloud.slashdev.logging/Logify@1.0.0
+- pkg:maven/cloud.slashdev.logging/Logify@1.0.0?classifier=sources

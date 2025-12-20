@@ -35,6 +35,9 @@
 - pkg:maven/me.proton.core/contact@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/contact@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/contact@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/contact@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/contact@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/contact@17.0.0?classifier=sources
 - pkg:maven/me.proton.core/contact@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/contact@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/contact@3.0.0?classifier=sources

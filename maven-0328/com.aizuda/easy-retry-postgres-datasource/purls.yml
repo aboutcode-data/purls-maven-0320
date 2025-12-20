@@ -1,0 +1,6 @@
+- pkg:maven/com.aizuda/easy-retry-postgres-datasource@2.2.0
+- pkg:maven/com.aizuda/easy-retry-postgres-datasource@2.2.0?classifier=sources
+- pkg:maven/com.aizuda/easy-retry-postgres-datasource@2.3.0
+- pkg:maven/com.aizuda/easy-retry-postgres-datasource@2.3.0?classifier=sources
+- pkg:maven/com.aizuda/easy-retry-postgres-datasource@3.0.0
+- pkg:maven/com.aizuda/easy-retry-postgres-datasource@3.0.0?classifier=sources

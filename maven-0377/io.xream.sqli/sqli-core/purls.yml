@@ -16,3 +16,7 @@
 - pkg:maven/io.xream.sqli/sqli-core@1.7.0.RELEASE?classifier=sources
 - pkg:maven/io.xream.sqli/sqli-core@1.8.0.RELEASE
 - pkg:maven/io.xream.sqli/sqli-core@1.8.0.RELEASE?classifier=sources
+- pkg:maven/io.xream.sqli/sqli-core@2.0.0
+- pkg:maven/io.xream.sqli/sqli-core@2.0.0?classifier=sources
+- pkg:maven/io.xream.sqli/sqli-core@2.1.0
+- pkg:maven/io.xream.sqli/sqli-core@2.1.0?classifier=sources

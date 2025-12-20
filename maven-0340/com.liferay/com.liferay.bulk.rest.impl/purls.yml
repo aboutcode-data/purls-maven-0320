@@ -223,6 +223,7 @@
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.76?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.77
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@1.0.8
@@ -550,6 +551,8 @@
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.42
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bulk.rest.impl@3.0.5

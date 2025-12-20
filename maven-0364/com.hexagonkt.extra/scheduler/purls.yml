@@ -7,3 +7,6 @@
 - pkg:maven/com.hexagonkt.extra/scheduler@3.0.0-B8?classifier=sources
 - pkg:maven/com.hexagonkt.extra/scheduler@3.0.0-B9?classifier=sources
 - pkg:maven/com.hexagonkt.extra/scheduler@3.0.0?classifier=sources
+- pkg:maven/com.hexagonkt.extra/scheduler@3.0.4?classifier=sources
+- pkg:maven/com.hexagonkt.extra/scheduler@3.1.0?classifier=sources
+- pkg:maven/com.hexagonkt.extra/scheduler@3.2.0?classifier=sources

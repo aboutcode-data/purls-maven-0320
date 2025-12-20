@@ -1,2 +1,12 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.134
 - pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.134?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.137
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.137?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.140
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.140?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.142
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.142?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.143
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.143?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.144
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.144?classifier=sources

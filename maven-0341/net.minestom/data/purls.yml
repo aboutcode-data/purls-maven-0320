@@ -1,1 +1,2 @@
 - pkg:maven/net.minestom/data@1.20-rv1?classifier=sources
+- pkg:maven/net.minestom/data@1.20.2-rv1?classifier=sources

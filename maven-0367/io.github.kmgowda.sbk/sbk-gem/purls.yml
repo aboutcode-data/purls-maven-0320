@@ -21,3 +21,6 @@
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem@3.0?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem@3.1?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem@4.0?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem@4.1?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem@4.2?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem@5.0-pre?classifier=sources

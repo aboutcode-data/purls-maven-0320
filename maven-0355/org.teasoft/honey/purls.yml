@@ -33,4 +33,6 @@
 - pkg:maven/org.teasoft/honey@2.1
 - pkg:maven/org.teasoft/honey@2.1.7
 - pkg:maven/org.teasoft/honey@2.1.7?classifier=sources
+- pkg:maven/org.teasoft/honey@2.1.8
+- pkg:maven/org.teasoft/honey@2.1.8?classifier=sources
 - pkg:maven/org.teasoft/honey@2.1?classifier=sources

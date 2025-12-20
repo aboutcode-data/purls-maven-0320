@@ -1,0 +1,3 @@
+- pkg:maven/xyz.wirklich.astro/wirklich.xyz.astro@1.0.3?classifier=sources
+- pkg:maven/xyz.wirklich.astro/wirklich.xyz.astro@1.0.4?classifier=sources
+- pkg:maven/xyz.wirklich.astro/wirklich.xyz.astro@1.0.5?classifier=sources

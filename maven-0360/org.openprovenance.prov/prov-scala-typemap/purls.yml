@@ -1,0 +1,2 @@
+- pkg:maven/org.openprovenance.prov/prov-scala-typemap@2.0.2
+- pkg:maven/org.openprovenance.prov/prov-scala-typemap@2.0.2?classifier=sources

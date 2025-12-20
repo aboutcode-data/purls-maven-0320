@@ -1,0 +1,3 @@
+- pkg:maven/me.proton.core/telemetry-dagger@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/telemetry-dagger@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/telemetry-dagger@17.0.0?classifier=sources

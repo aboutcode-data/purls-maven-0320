@@ -68,3 +68,4 @@
 - pkg:maven/org.testcontainers/neo4j@1.18.2?classifier=sources
 - pkg:maven/org.testcontainers/neo4j@1.18.3?classifier=sources
 - pkg:maven/org.testcontainers/neo4j@1.19.0?classifier=sources
+- pkg:maven/org.testcontainers/neo4j@1.19.1?classifier=sources

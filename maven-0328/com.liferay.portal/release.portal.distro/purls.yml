@@ -114,3 +114,8 @@
 - pkg:maven/com.liferay.portal/release.portal.distro@7.4.3.9
 - pkg:maven/com.liferay.portal/release.portal.distro@7.4.3.90
 - pkg:maven/com.liferay.portal/release.portal.distro@7.4.3.91
+- pkg:maven/com.liferay.portal/release.portal.distro@7.4.3.92
+- pkg:maven/com.liferay.portal/release.portal.distro@7.4.3.93
+- pkg:maven/com.liferay.portal/release.portal.distro@7.4.3.94
+- pkg:maven/com.liferay.portal/release.portal.distro@7.4.3.95
+- pkg:maven/com.liferay.portal/release.portal.distro@7.4.3.96

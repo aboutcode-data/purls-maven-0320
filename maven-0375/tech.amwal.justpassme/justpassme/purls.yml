@@ -21,3 +21,4 @@
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-beta02?classifier=sources
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-beta04?classifier=sources
 - pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-beta05?classifier=sources
+- pkg:maven/tech.amwal.justpassme/justpassme@1.0.0-beta10?classifier=sources

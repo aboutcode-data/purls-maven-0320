@@ -1,0 +1,2 @@
+- pkg:maven/com.couchbase.client/tracing-micrometer-observation@1.2.11
+- pkg:maven/com.couchbase.client/tracing-micrometer-observation@1.2.11?classifier=sources

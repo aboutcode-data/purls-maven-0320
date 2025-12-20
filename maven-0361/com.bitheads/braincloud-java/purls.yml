@@ -6,3 +6,7 @@
 - pkg:maven/com.bitheads/braincloud-java@4.14.2?classifier=sources
 - pkg:maven/com.bitheads/braincloud-java@4.15.0
 - pkg:maven/com.bitheads/braincloud-java@4.15.0?classifier=sources
+- pkg:maven/com.bitheads/braincloud-java@5.0.0
+- pkg:maven/com.bitheads/braincloud-java@5.0.0?classifier=sources
+- pkg:maven/com.bitheads/braincloud-java@5.0.1
+- pkg:maven/com.bitheads/braincloud-java@5.0.1?classifier=sources

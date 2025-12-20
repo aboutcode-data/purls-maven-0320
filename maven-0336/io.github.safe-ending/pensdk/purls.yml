@@ -11,6 +11,8 @@
 - pkg:maven/io.github.safe-ending/pensdk@1.0.21?type=aar
 - pkg:maven/io.github.safe-ending/pensdk@1.0.22?type=aar
 - pkg:maven/io.github.safe-ending/pensdk@1.0.23?type=aar
+- pkg:maven/io.github.safe-ending/pensdk@1.0.24?type=aar
+- pkg:maven/io.github.safe-ending/pensdk@1.0.25?type=aar
 - pkg:maven/io.github.safe-ending/pensdk@1.0.3?type=aar
 - pkg:maven/io.github.safe-ending/pensdk@1.0.4?type=aar
 - pkg:maven/io.github.safe-ending/pensdk@1.0.5?type=aar

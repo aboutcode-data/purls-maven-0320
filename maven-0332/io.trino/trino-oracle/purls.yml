@@ -72,3 +72,5 @@
 - pkg:maven/io.trino/trino-oracle@423?classifier=sources
 - pkg:maven/io.trino/trino-oracle@424?classifier=sources
 - pkg:maven/io.trino/trino-oracle@425?classifier=sources
+- pkg:maven/io.trino/trino-oracle@426?classifier=sources
+- pkg:maven/io.trino/trino-oracle@427?classifier=sources

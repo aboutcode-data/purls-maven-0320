@@ -17,3 +17,5 @@
 - pkg:maven/co.notix/android-sdk@0.0.62?classifier=sources
 - pkg:maven/co.notix/android-sdk@0.0.63?classifier=sources
 - pkg:maven/co.notix/android-sdk@0.0.64?classifier=sources
+- pkg:maven/co.notix/android-sdk@0.1.65?classifier=sources
+- pkg:maven/co.notix/android-sdk@0.1.66?classifier=sources

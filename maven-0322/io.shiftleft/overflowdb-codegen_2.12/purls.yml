@@ -94,6 +94,8 @@
 - pkg:maven/io.shiftleft/overflowdb-codegen_2.12@2.103?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-codegen_2.12@2.104
 - pkg:maven/io.shiftleft/overflowdb-codegen_2.12@2.104?classifier=sources
+- pkg:maven/io.shiftleft/overflowdb-codegen_2.12@2.105
+- pkg:maven/io.shiftleft/overflowdb-codegen_2.12@2.105?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-codegen_2.12@2.10?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-codegen_2.12@2.11
 - pkg:maven/io.shiftleft/overflowdb-codegen_2.12@2.11?classifier=sources

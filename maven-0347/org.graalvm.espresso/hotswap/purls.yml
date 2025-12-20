@@ -44,3 +44,5 @@
 - pkg:maven/org.graalvm.espresso/hotswap@23.0.0?classifier=sources
 - pkg:maven/org.graalvm.espresso/hotswap@23.0.1
 - pkg:maven/org.graalvm.espresso/hotswap@23.0.1?classifier=sources
+- pkg:maven/org.graalvm.espresso/hotswap@23.1.0
+- pkg:maven/org.graalvm.espresso/hotswap@23.1.0?classifier=sources

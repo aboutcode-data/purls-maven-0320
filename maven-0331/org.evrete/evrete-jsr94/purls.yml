@@ -38,3 +38,7 @@
 - pkg:maven/org.evrete/evrete-jsr94@3.0.02?classifier=sources
 - pkg:maven/org.evrete/evrete-jsr94@3.0.03
 - pkg:maven/org.evrete/evrete-jsr94@3.0.03?classifier=sources
+- pkg:maven/org.evrete/evrete-jsr94@3.0.04
+- pkg:maven/org.evrete/evrete-jsr94@3.0.04?classifier=sources
+- pkg:maven/org.evrete/evrete-jsr94@3.0.05
+- pkg:maven/org.evrete/evrete-jsr94@3.0.05?classifier=sources

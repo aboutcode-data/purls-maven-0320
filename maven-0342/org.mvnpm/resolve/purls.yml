@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/resolve@1.22.4?classifier=sources
+- pkg:maven/org.mvnpm/resolve@1.22.5?classifier=sources
+- pkg:maven/org.mvnpm/resolve@1.22.6?classifier=sources
+- pkg:maven/org.mvnpm/resolve@1.22.8?classifier=sources

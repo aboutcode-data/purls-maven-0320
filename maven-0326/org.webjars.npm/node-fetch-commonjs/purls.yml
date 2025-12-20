@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/node-fetch-commonjs@3.3.2
+- pkg:maven/org.webjars.npm/node-fetch-commonjs@3.3.2?classifier=sources

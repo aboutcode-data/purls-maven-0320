@@ -43,6 +43,8 @@
 - pkg:maven/org.openmicroscopy/ome-common@6.0.19?classifier=sources
 - pkg:maven/org.openmicroscopy/ome-common@6.0.1?classifier=sources
 - pkg:maven/org.openmicroscopy/ome-common@6.0.2
+- pkg:maven/org.openmicroscopy/ome-common@6.0.20
+- pkg:maven/org.openmicroscopy/ome-common@6.0.20?classifier=sources
 - pkg:maven/org.openmicroscopy/ome-common@6.0.2?classifier=sources
 - pkg:maven/org.openmicroscopy/ome-common@6.0.3
 - pkg:maven/org.openmicroscopy/ome-common@6.0.3?classifier=sources

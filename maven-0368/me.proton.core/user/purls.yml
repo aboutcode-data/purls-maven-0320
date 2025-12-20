@@ -44,6 +44,9 @@
 - pkg:maven/me.proton.core/user@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/user@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/user@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/user@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/user@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/user@17.0.0?classifier=sources
 - pkg:maven/me.proton.core/user@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/user@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/user@3.0.0?classifier=sources

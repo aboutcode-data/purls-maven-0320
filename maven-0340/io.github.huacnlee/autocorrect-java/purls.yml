@@ -30,3 +30,5 @@
 - pkg:maven/io.github.huacnlee/autocorrect-java@2.8.0?classifier=sources
 - pkg:maven/io.github.huacnlee/autocorrect-java@2.8.4
 - pkg:maven/io.github.huacnlee/autocorrect-java@2.8.4?classifier=sources
+- pkg:maven/io.github.huacnlee/autocorrect-java@2.8.5
+- pkg:maven/io.github.huacnlee/autocorrect-java@2.8.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.password.expiry@1.8.69
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.password.expiry@1.8.69?classifier=sources

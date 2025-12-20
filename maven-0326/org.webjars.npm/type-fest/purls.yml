@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/type-fest@3.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/type-fest@4.2.0
 - pkg:maven/org.webjars.npm/type-fest@4.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/type-fest@4.3.1
+- pkg:maven/org.webjars.npm/type-fest@4.3.1?classifier=sources

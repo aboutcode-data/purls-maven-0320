@@ -38,6 +38,7 @@
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.29.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.30.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.31.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.4.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.5.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.modules/artemis-rar@2.6.0?classifier=sources

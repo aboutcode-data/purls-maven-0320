@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.emf.xpath@0.3.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.emf.xpath@0.4.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.emf.xpath@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.emf.xpath@0.4.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.emf.xpath@0.4.100?classifier=sources

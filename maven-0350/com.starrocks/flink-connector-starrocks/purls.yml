@@ -232,3 +232,17 @@
 - pkg:maven/com.starrocks/flink-connector-starrocks@1.2.7_flink-1.14_2.12?classifier=sources
 - pkg:maven/com.starrocks/flink-connector-starrocks@1.2.7_flink-1.15
 - pkg:maven/com.starrocks/flink-connector-starrocks@1.2.7_flink-1.15?classifier=sources
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.13_2.11
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.13_2.11?classifier=sources
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.13_2.12
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.13_2.12?classifier=sources
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.14_2.11
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.14_2.11?classifier=sources
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.14_2.12
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.14_2.12?classifier=sources
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.15
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.15?classifier=sources
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.16
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.16?classifier=sources
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.17
+- pkg:maven/com.starrocks/flink-connector-starrocks@1.2.8_flink-1.17?classifier=sources

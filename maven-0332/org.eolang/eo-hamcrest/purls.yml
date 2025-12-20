@@ -46,3 +46,7 @@
 - pkg:maven/org.eolang/eo-hamcrest@0.3.2?classifier=sources
 - pkg:maven/org.eolang/eo-hamcrest@0.4.0
 - pkg:maven/org.eolang/eo-hamcrest@0.4.0?classifier=sources
+- pkg:maven/org.eolang/eo-hamcrest@0.5.0
+- pkg:maven/org.eolang/eo-hamcrest@0.5.0?classifier=sources
+- pkg:maven/org.eolang/eo-hamcrest@0.5.1
+- pkg:maven/org.eolang/eo-hamcrest@0.5.1?classifier=sources

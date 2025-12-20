@@ -136,6 +136,8 @@
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.5.17?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.5.18
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.5.18?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-test-support@5.5.19
+- pkg:maven/org.springframework.integration/spring-integration-test-support@5.5.19?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.5.1?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.5.2
 - pkg:maven/org.springframework.integration/spring-integration-test-support@5.5.2?classifier=sources
@@ -175,3 +177,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-test-support@6.1.1?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-test-support@6.1.2
 - pkg:maven/org.springframework.integration/spring-integration-test-support@6.1.2?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-test-support@6.1.3
+- pkg:maven/org.springframework.integration/spring-integration-test-support@6.1.3?classifier=sources

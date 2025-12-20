@@ -1,0 +1,2 @@
+- pkg:maven/com.farao-community.farao/gridcapa-output-data-bridge@1.2.0
+- pkg:maven/com.farao-community.farao/gridcapa-output-data-bridge@1.2.0?classifier=sources

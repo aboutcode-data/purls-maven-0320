@@ -94,3 +94,7 @@
 - pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC7?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC8
 - pkg:maven/no.digipost.signature/signature-api-client-java@7.0-RC8?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0.0
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0.0?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0.1
+- pkg:maven/no.digipost.signature/signature-api-client-java@7.0.1?classifier=sources

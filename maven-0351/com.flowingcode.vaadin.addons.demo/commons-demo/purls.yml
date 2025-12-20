@@ -1,0 +1,2 @@
+- pkg:maven/com.flowingcode.vaadin.addons.demo/commons-demo@3.8.0
+- pkg:maven/com.flowingcode.vaadin.addons.demo/commons-demo@3.8.0?classifier=sources

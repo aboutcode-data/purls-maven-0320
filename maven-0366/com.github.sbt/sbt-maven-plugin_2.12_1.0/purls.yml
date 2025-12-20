@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sbt/sbt-maven-plugin_2.12_1.0@0.0.2
+- pkg:maven/com.github.sbt/sbt-maven-plugin_2.12_1.0@0.0.2?classifier=sources

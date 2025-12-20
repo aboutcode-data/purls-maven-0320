@@ -70,3 +70,7 @@
 - pkg:maven/io.trino/trino-phoenix5-patched@424?classifier=sources
 - pkg:maven/io.trino/trino-phoenix5-patched@425
 - pkg:maven/io.trino/trino-phoenix5-patched@425?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@426
+- pkg:maven/io.trino/trino-phoenix5-patched@426?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5-patched@427
+- pkg:maven/io.trino/trino-phoenix5-patched@427?classifier=sources

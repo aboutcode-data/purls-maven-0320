@@ -22,3 +22,4 @@
 - pkg:maven/com.liferay/com.liferay.translation.translator.deepl@1.0.7
 - pkg:maven/com.liferay/com.liferay.translation.translator.deepl@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.translator.deepl@1.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.translation.translator.deepl@1.0.9?classifier=sources

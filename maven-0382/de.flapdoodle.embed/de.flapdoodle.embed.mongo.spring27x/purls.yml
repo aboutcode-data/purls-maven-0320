@@ -42,3 +42,5 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.7.1?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.9.2
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.9.2?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.9.3
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring27x@4.9.3?classifier=sources

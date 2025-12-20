@@ -139,4 +139,6 @@
 - pkg:maven/io.netty/netty-testsuite-osgi@4.1.95.Final
 - pkg:maven/io.netty/netty-testsuite-osgi@4.1.96.Final
 - pkg:maven/io.netty/netty-testsuite-osgi@4.1.97.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.1.98.Final
+- pkg:maven/io.netty/netty-testsuite-osgi@4.1.99.Final
 - pkg:maven/io.netty/netty-testsuite-osgi@5.0.0.Alpha2

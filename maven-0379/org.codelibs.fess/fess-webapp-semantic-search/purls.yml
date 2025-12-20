@@ -1,5 +1,7 @@
 - pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.10.0
 - pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.10.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.10.1
+- pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.10.1?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.6.0
 - pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.6.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.7.0

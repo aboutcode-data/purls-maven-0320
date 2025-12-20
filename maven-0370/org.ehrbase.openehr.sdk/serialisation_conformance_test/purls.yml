@@ -15,3 +15,5 @@
 - pkg:maven/org.ehrbase.openehr.sdk/serialisation_conformance_test@2.0.0
 - pkg:maven/org.ehrbase.openehr.sdk/serialisation_conformance_test@2.1.0
 - pkg:maven/org.ehrbase.openehr.sdk/serialisation_conformance_test@2.2.0
+- pkg:maven/org.ehrbase.openehr.sdk/serialisation_conformance_test@2.3.0
+- pkg:maven/org.ehrbase.openehr.sdk/serialisation_conformance_test@2.4.0

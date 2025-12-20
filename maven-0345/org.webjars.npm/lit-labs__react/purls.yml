@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/lit-labs__react@1.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/lit-labs__react@2.0.1
 - pkg:maven/org.webjars.npm/lit-labs__react@2.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/lit-labs__react@2.1.1-pre.0
+- pkg:maven/org.webjars.npm/lit-labs__react@2.1.1-pre.0?classifier=sources

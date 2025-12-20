@@ -89,3 +89,4 @@
 - pkg:maven/com.atlassian/nadel@2023-07-13T00-09-49-bd1ce18b?classifier=sources
 - pkg:maven/com.atlassian/nadel@2023-07-13T03-27-23-6e10a077?classifier=sources
 - pkg:maven/com.atlassian/nadel@2023-08-04T03-39-25-73a449f2?classifier=sources
+- pkg:maven/com.atlassian/nadel@2023-09-15T05-25-21-01e3e88f?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.cucumber/cucumber-android-hilt@4.10.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-android-hilt@7.14.0?classifier=sources

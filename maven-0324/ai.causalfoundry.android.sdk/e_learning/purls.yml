@@ -15,3 +15,8 @@
 - pkg:maven/ai.causalfoundry.android.sdk/e_learning@0.1.4?classifier=sources
 - pkg:maven/ai.causalfoundry.android.sdk/e_learning@0.1.5?classifier=sources
 - pkg:maven/ai.causalfoundry.android.sdk/e_learning@0.1.6?classifier=sources
+- pkg:maven/ai.causalfoundry.android.sdk/e_learning@0.2.1?classifier=sources
+- pkg:maven/ai.causalfoundry.android.sdk/e_learning@0.2.2?classifier=sources
+- pkg:maven/ai.causalfoundry.android.sdk/e_learning@0.2.3?classifier=sources
+- pkg:maven/ai.causalfoundry.android.sdk/e_learning@0.2.4?classifier=sources
+- pkg:maven/ai.causalfoundry.android.sdk/e_learning@0.2.5?classifier=sources

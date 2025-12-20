@@ -1,3 +1,5 @@
 - pkg:maven/io.github.composegears/tiamat-iosarm64@0.1.0-alpha02?classifier=sources
 - pkg:maven/io.github.composegears/tiamat-iosarm64@0.1.0-alpha?classifier=sources
 - pkg:maven/io.github.composegears/tiamat-iosarm64@1.0.0?classifier=sources
+- pkg:maven/io.github.composegears/tiamat-iosarm64@1.0.1?classifier=sources
+- pkg:maven/io.github.composegears/tiamat-iosarm64@1.0.2?classifier=sources

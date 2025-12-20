@@ -36,3 +36,5 @@
 - pkg:maven/org.wildfly.prospero/prospero-cli@1.2.1.Final?classifier=sources
 - pkg:maven/org.wildfly.prospero/prospero-cli@1.2.2.Final
 - pkg:maven/org.wildfly.prospero/prospero-cli@1.2.2.Final?classifier=sources
+- pkg:maven/org.wildfly.prospero/prospero-cli@1.2.3.Final
+- pkg:maven/org.wildfly.prospero/prospero-cli@1.2.3.Final?classifier=sources

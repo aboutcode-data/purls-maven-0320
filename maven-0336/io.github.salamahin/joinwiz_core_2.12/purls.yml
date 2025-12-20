@@ -4,3 +4,5 @@
 - pkg:maven/io.github.salamahin/joinwiz_core_2.12@0.3.2?classifier=sources
 - pkg:maven/io.github.salamahin/joinwiz_core_2.12@0.3.4
 - pkg:maven/io.github.salamahin/joinwiz_core_2.12@0.3.4?classifier=sources
+- pkg:maven/io.github.salamahin/joinwiz_core_2.12@0.4.7
+- pkg:maven/io.github.salamahin/joinwiz_core_2.12@0.4.7?classifier=sources

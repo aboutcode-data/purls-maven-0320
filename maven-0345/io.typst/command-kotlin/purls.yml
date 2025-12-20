@@ -1,0 +1,2 @@
+- pkg:maven/io.typst/command-kotlin@2.0.0?classifier=sources
+- pkg:maven/io.typst/command-kotlin@2.0.1?classifier=sources

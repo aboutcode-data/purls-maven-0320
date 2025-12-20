@@ -1,1 +1,2 @@
 - pkg:maven/io.streamnative/native-io@4.15.4.1_arrowstreet?classifier=sources
+- pkg:maven/io.streamnative/native-io@4.16.4.1?classifier=sources

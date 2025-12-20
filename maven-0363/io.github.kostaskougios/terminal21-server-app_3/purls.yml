@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kostaskougios/terminal21-server-app_3@0.30
+- pkg:maven/io.github.kostaskougios/terminal21-server-app_3@0.30?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.github.k3nder/mclc@0.4.2?classifier=sources
 - pkg:maven/io.github.k3nder/mclc@0.4.3?classifier=sources
 - pkg:maven/io.github.k3nder/mclc@0.4.4?classifier=sources
+- pkg:maven/io.github.k3nder/mclc@0.5.4?classifier=sources
+- pkg:maven/io.github.k3nder/mclc@0.5.5?classifier=sources

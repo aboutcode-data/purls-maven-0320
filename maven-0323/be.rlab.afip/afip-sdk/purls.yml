@@ -1,0 +1,2 @@
+- pkg:maven/be.rlab.afip/afip-sdk@1.2.0
+- pkg:maven/be.rlab.afip/afip-sdk@1.2.0?classifier=sources

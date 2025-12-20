@@ -16,3 +16,4 @@
 - pkg:maven/io.github.pablichjenkov/component-toolkit-iosx64@0.5.7?classifier=sources
 - pkg:maven/io.github.pablichjenkov/component-toolkit-iosx64@0.5.8?classifier=sources
 - pkg:maven/io.github.pablichjenkov/component-toolkit-iosx64@0.5.9?classifier=sources
+- pkg:maven/io.github.pablichjenkov/component-toolkit-iosx64@0.6.0?classifier=sources

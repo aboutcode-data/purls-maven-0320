@@ -144,3 +144,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@309?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@310
 - pkg:maven/org.alluxio/alluxio-underfs-s3a@310?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-s3a@311
+- pkg:maven/org.alluxio/alluxio-underfs-s3a@311?classifier=sources

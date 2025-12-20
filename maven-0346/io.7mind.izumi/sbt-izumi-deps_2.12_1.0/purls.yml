@@ -18,3 +18,5 @@
 - pkg:maven/io.7mind.izumi/sbt-izumi-deps_2.12_1.0@1.2.4?classifier=sources
 - pkg:maven/io.7mind.izumi/sbt-izumi-deps_2.12_1.0@1.2.5
 - pkg:maven/io.7mind.izumi/sbt-izumi-deps_2.12_1.0@1.2.5?classifier=sources
+- pkg:maven/io.7mind.izumi/sbt-izumi-deps_2.12_1.0@1.2.6
+- pkg:maven/io.7mind.izumi/sbt-izumi-deps_2.12_1.0@1.2.6?classifier=sources

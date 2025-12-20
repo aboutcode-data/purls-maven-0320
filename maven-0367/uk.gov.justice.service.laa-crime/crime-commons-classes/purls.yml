@@ -1,3 +1,7 @@
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@0.1.0.0%2B108325a?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@0.1.0.0%2B52f1037?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@0.1.0.0%2B5dd873c?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@0.1.0.0%2B688e46d?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.13.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.13.1?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.13.3?classifier=sources
@@ -10,3 +14,10 @@
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.19.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.19.1?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.20.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.21.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.22.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.23.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.24.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.25.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@2.26.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@3.2.0?classifier=sources

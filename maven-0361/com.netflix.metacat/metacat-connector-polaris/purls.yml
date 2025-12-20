@@ -1,1 +1,2 @@
 - pkg:maven/com.netflix.metacat/metacat-connector-polaris@1.3.0?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-connector-polaris@1.3.1?classifier=sources

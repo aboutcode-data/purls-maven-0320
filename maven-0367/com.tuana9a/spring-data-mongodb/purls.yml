@@ -1,0 +1,2 @@
+- pkg:maven/com.tuana9a/spring-data-mongodb@2.0.0
+- pkg:maven/com.tuana9a/spring-data-mongodb@2.0.0?classifier=sources

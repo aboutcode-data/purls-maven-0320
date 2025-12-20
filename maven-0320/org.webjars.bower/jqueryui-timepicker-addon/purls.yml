@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jqueryui-timepicker-addon@1.6.3
+- pkg:maven/org.webjars.bower/jqueryui-timepicker-addon@1.6.3?classifier=sources

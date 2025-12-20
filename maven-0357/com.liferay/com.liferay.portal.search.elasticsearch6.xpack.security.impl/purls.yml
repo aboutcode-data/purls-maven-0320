@@ -43,6 +43,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@1.0.31
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@1.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@1.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@1.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@2.0.21
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@2.0.21?classifier=sources-commercial
@@ -103,6 +104,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@2.0.40
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@2.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@2.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@2.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@3.0.13
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@3.0.13?classifier=sources-commercial
@@ -160,3 +162,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@3.0.31
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@3.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@3.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.security.impl@3.0.33?classifier=sources

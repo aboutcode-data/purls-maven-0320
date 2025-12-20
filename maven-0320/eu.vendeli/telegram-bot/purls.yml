@@ -62,3 +62,12 @@
 - pkg:maven/eu.vendeli/telegram-bot@4.2.1?classifier=sources
 - pkg:maven/eu.vendeli/telegram-bot@4.3.0?classifier=sources
 - pkg:maven/eu.vendeli/telegram-bot@4.3.1?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.0-RC1?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.0-alpha~1?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.0-alpha~2?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.0?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.1?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.2?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.3?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.4-RC1?classifier=sources
+- pkg:maven/eu.vendeli/telegram-bot@5.0.4?classifier=sources

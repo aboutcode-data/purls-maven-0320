@@ -16,3 +16,4 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-meter@8.9.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-meter@9.0.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-meter@9.1.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-meter@9.2.0

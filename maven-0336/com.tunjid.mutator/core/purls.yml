@@ -11,3 +11,4 @@
 - pkg:maven/com.tunjid.mutator/core@0.0.8?classifier=sources
 - pkg:maven/com.tunjid.mutator/core@0.0.9?classifier=sources
 - pkg:maven/com.tunjid.mutator/core@1.0.0?classifier=sources
+- pkg:maven/com.tunjid.mutator/core@1.1.0?classifier=sources

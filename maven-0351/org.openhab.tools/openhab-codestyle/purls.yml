@@ -12,6 +12,8 @@
 - pkg:maven/org.openhab.tools/openhab-codestyle@0.14.0?classifier=sources
 - pkg:maven/org.openhab.tools/openhab-codestyle@0.15.0
 - pkg:maven/org.openhab.tools/openhab-codestyle@0.15.0?classifier=sources
+- pkg:maven/org.openhab.tools/openhab-codestyle@0.16.0
+- pkg:maven/org.openhab.tools/openhab-codestyle@0.16.0?classifier=sources
 - pkg:maven/org.openhab.tools/openhab-codestyle@0.8.0
 - pkg:maven/org.openhab.tools/openhab-codestyle@0.8.0?classifier=sources
 - pkg:maven/org.openhab.tools/openhab-codestyle@0.9.0

@@ -1,1 +1,2 @@
 - pkg:maven/com.tianscar.javasound/javasound-vorbis@2.0.0?classifier=sources
+- pkg:maven/com.tianscar.javasound/javasound-vorbis@2.1.0?classifier=sources

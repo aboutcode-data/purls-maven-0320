@@ -114,6 +114,9 @@
 - pkg:maven/com.pulumi/github@5.27.0-alpha.1706829033%2B87d5b75c?classifier=sources
 - pkg:maven/com.pulumi/github@5.27.0-alpha.1707285631%2B1468ac40?classifier=sources
 - pkg:maven/com.pulumi/github@5.27.0-alpha.1707544740%2Bb1f64308?classifier=sources
+- pkg:maven/com.pulumi/github@5.27.0-alpha.1707890424%2B492bf5a1?classifier=sources
+- pkg:maven/com.pulumi/github@5.27.0-alpha.1707977045%2Bce48121e?classifier=sources
+- pkg:maven/com.pulumi/github@5.27.0-alpha.1708063205%2Bf5193b6f?classifier=sources
 - pkg:maven/com.pulumi/github@5.3.0-alpha.1674068358%2B5b9ca759?classifier=sources
 - pkg:maven/com.pulumi/github@5.3.0-alpha.1674582786%2B776a009c?classifier=sources
 - pkg:maven/com.pulumi/github@5.3.0?classifier=sources
@@ -144,3 +147,17 @@
 - pkg:maven/com.pulumi/github@5.9.0-alpha.1683752304%2Bc5de6232?classifier=sources
 - pkg:maven/com.pulumi/github@5.9.0?classifier=sources
 - pkg:maven/com.pulumi/github@5.9.1?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1708444599%2B7ec2b43d?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1708668161%2B77163354?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1708726903%2B57d65e7f?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1709013633%2Bc387a738?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1709041991%2B4200e4f7?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1709100266%2Bd703468b?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1709119816%2B5e777d63?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1709363818%2B89e1c3b5?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0-alpha.1709638261%2B5fc8af39?classifier=sources
+- pkg:maven/com.pulumi/github@6.0.0?classifier=sources
+- pkg:maven/com.pulumi/github@6.1.0-alpha.1709656821%2Be5ae40b0?classifier=sources
+- pkg:maven/com.pulumi/github@6.1.0-alpha.1709748469%2B39cb3a4e?classifier=sources
+- pkg:maven/com.pulumi/github@6.1.0-alpha.1710154660%2B5ae820f0?classifier=sources
+- pkg:maven/com.pulumi/github@6.1.0?classifier=sources

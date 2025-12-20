@@ -42,3 +42,5 @@
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.8?classifier=sources
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.9
 - pkg:maven/org.bsc.maven/gitlog-jira-utils@7.9?classifier=sources
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@8.0-beta1
+- pkg:maven/org.bsc.maven/gitlog-jira-utils@8.0-beta1?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.liferay/org.mvel2@2.1.0.drools16.LIFERAY-PATCHED-2
 - pkg:maven/com.liferay/org.mvel2@2.1.0.drools16.LIFERAY-PATCHED-2?classifier=sources
 - pkg:maven/com.liferay/org.mvel2@2.1.0.drools16.LIFERAY-PATCHED-2?classifier=sources-commercial
+- pkg:maven/com.liferay/org.mvel2@2.1.0.drools16.LIFERAY-PATCHED-3?classifier=sources

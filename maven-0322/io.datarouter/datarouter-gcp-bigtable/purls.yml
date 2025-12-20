@@ -1,0 +1,2 @@
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable@0.0.124
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable@0.0.124?classifier=sources

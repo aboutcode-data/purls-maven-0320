@@ -28,3 +28,11 @@
 - pkg:maven/dev.khbd.lens4j/lens4j-processor@1.0.0_jre17?classifier=sources
 - pkg:maven/dev.khbd.lens4j/lens4j-processor@1.0.0_jre21
 - pkg:maven/dev.khbd.lens4j/lens4j-processor@1.0.0_jre21?classifier=sources
+- pkg:maven/dev.khbd.lens4j/lens4j-processor@2.0.0_jre1.8
+- pkg:maven/dev.khbd.lens4j/lens4j-processor@2.0.0_jre1.8?classifier=sources
+- pkg:maven/dev.khbd.lens4j/lens4j-processor@2.0.0_jre11
+- pkg:maven/dev.khbd.lens4j/lens4j-processor@2.0.0_jre11?classifier=sources
+- pkg:maven/dev.khbd.lens4j/lens4j-processor@2.0.0_jre17
+- pkg:maven/dev.khbd.lens4j/lens4j-processor@2.0.0_jre17?classifier=sources
+- pkg:maven/dev.khbd.lens4j/lens4j-processor@2.0.0_jre21
+- pkg:maven/dev.khbd.lens4j/lens4j-processor@2.0.0_jre21?classifier=sources

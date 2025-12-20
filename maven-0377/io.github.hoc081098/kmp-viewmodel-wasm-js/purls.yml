@@ -1,1 +1,2 @@
 - pkg:maven/io.github.hoc081098/kmp-viewmodel-wasm-js@0.7.0?classifier=sources
+- pkg:maven/io.github.hoc081098/kmp-viewmodel-wasm-js@0.7.1?classifier=sources

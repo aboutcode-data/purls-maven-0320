@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-jquery-jquery-dist@4.0.0-beta
+- pkg:maven/org.webjars.bower/github-com-jquery-jquery-dist@4.0.0-beta?classifier=sources

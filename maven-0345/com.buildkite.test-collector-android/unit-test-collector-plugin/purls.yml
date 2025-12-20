@@ -1,1 +1,2 @@
 - pkg:maven/com.buildkite.test-collector-android/unit-test-collector-plugin@0.1.0?classifier=sources
+- pkg:maven/com.buildkite.test-collector-android/unit-test-collector-plugin@0.2.0?classifier=sources

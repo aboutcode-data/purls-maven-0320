@@ -1,2 +1,4 @@
 - pkg:maven/io.iohk.atala.prism.apollo/apollo-jvm@1.2.10?classifier=sources
+- pkg:maven/io.iohk.atala.prism.apollo/apollo-jvm@1.2.11?classifier=sources
+- pkg:maven/io.iohk.atala.prism.apollo/apollo-jvm@1.2.12?classifier=sources
 - pkg:maven/io.iohk.atala.prism.apollo/apollo-jvm@1.2.9?classifier=sources

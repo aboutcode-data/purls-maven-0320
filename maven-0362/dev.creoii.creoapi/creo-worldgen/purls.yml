@@ -1,1 +1,2 @@
 - pkg:maven/dev.creoii.creoapi/creo-worldgen@0.1.2?classifier=sources
+- pkg:maven/dev.creoii.creoapi/creo-worldgen@0.1.3?classifier=sources

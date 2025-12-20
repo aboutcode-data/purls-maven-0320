@@ -790,3 +790,5 @@
 - pkg:maven/com.google.apis/google-api-services-safebrowsing@v4-rev99-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-safebrowsing@v5-rev20230923-2.0.0
 - pkg:maven/com.google.apis/google-api-services-safebrowsing@v5-rev20230923-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-safebrowsing@v5-rev20240211-2.0.0
+- pkg:maven/com.google.apis/google-api-services-safebrowsing@v5-rev20240211-2.0.0?classifier=sources

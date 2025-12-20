@@ -9,3 +9,4 @@
 - pkg:maven/org.saynotobugs/confidence-asm@0.42.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-asm@0.43.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-asm@0.44.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-asm@0.45.0?classifier=sources

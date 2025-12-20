@@ -13,3 +13,5 @@
 - pkg:maven/com.garyclayburg/upbanner-starter@2.3.2?classifier=sources
 - pkg:maven/com.garyclayburg/upbanner-starter@2.3.3
 - pkg:maven/com.garyclayburg/upbanner-starter@2.3.3?classifier=sources
+- pkg:maven/com.garyclayburg/upbanner-starter@3.0.0
+- pkg:maven/com.garyclayburg/upbanner-starter@3.0.0?classifier=sources

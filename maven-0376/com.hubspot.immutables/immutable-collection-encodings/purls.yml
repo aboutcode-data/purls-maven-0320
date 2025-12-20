@@ -2,3 +2,5 @@
 - pkg:maven/com.hubspot.immutables/immutable-collection-encodings@1.3?classifier=sources
 - pkg:maven/com.hubspot.immutables/immutable-collection-encodings@1.4
 - pkg:maven/com.hubspot.immutables/immutable-collection-encodings@1.4?classifier=sources
+- pkg:maven/com.hubspot.immutables/immutable-collection-encodings@1.5
+- pkg:maven/com.hubspot.immutables/immutable-collection-encodings@1.5?classifier=sources

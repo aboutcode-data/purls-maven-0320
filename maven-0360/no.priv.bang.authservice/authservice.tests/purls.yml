@@ -38,6 +38,8 @@
 - pkg:maven/no.priv.bang.authservice/authservice.tests@1.15.14
 - pkg:maven/no.priv.bang.authservice/authservice.tests@1.15.15
 - pkg:maven/no.priv.bang.authservice/authservice.tests@1.15.16
+- pkg:maven/no.priv.bang.authservice/authservice.tests@1.15.17
+- pkg:maven/no.priv.bang.authservice/authservice.tests@1.15.18
 - pkg:maven/no.priv.bang.authservice/authservice.tests@1.15.2
 - pkg:maven/no.priv.bang.authservice/authservice.tests@1.15.3
 - pkg:maven/no.priv.bang.authservice/authservice.tests@1.15.4

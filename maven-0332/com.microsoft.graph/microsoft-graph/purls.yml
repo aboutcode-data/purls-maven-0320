@@ -117,3 +117,7 @@
 - pkg:maven/com.microsoft.graph/microsoft-graph@5.80.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph@5.9.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph@6.1.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph@6.2.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph@6.2.1?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph@6.3.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph@6.4.0?classifier=sources

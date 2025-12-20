@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/newrelic__browser-agent@0.1.229
 - pkg:maven/org.webjars.npm/newrelic__browser-agent@0.1.229?classifier=sources
+- pkg:maven/org.webjars.npm/newrelic__browser-agent@1.254.1
+- pkg:maven/org.webjars.npm/newrelic__browser-agent@1.254.1?classifier=sources

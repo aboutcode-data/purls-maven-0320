@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-go-lang@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-go-lang@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-go-lang@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-go-lang@RELEASE230?classifier=sources

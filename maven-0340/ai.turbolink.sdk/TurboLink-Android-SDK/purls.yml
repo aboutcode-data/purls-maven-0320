@@ -21,6 +21,9 @@
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.28?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.29?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.2?type=aar
+- pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.30?type=aar
+- pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.31?type=aar
+- pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.32?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.3?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.4?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.5?type=aar
@@ -28,3 +31,5 @@
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.7?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.8?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.0.9?type=aar
+- pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.0?type=aar
+- pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.1?type=aar

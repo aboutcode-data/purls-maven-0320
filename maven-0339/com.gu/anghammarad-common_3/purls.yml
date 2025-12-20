@@ -2,3 +2,5 @@
 - pkg:maven/com.gu/anghammarad-common_3@2.0.0?classifier=sources
 - pkg:maven/com.gu/anghammarad-common_3@2.1.0
 - pkg:maven/com.gu/anghammarad-common_3@2.1.0?classifier=sources
+- pkg:maven/com.gu/anghammarad-common_3@3.0.0
+- pkg:maven/com.gu/anghammarad-common_3@3.0.0?classifier=sources

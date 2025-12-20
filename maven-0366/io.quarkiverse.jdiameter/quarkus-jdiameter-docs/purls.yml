@@ -1,3 +1,4 @@
 - pkg:maven/io.quarkiverse.jdiameter/quarkus-jdiameter-docs@2.0.0
 - pkg:maven/io.quarkiverse.jdiameter/quarkus-jdiameter-docs@2.0.1
 - pkg:maven/io.quarkiverse.jdiameter/quarkus-jdiameter-docs@2.0.2
+- pkg:maven/io.quarkiverse.jdiameter/quarkus-jdiameter-docs@2.0.3

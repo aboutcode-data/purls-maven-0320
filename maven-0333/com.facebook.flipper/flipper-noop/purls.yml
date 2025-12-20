@@ -150,6 +150,11 @@
 - pkg:maven/com.facebook.flipper/flipper-noop@0.261.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.262.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.263.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.264.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.265.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.266.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.267.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-noop@0.267.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.75.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.75.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-noop@0.76.0?classifier=sources

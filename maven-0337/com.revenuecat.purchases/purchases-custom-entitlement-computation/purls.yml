@@ -59,3 +59,6 @@
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.4.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.5.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.6.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.7.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.7.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.7.2?classifier=sources

@@ -528,3 +528,10 @@
 - pkg:maven/org.noear/solon.cloud.httputils@2.9.0?classifier=sources
 - pkg:maven/org.noear/solon.cloud.httputils@2.9.1
 - pkg:maven/org.noear/solon.cloud.httputils@2.9.1?classifier=sources
+- pkg:maven/org.noear/solon.cloud.httputils@2.9.2
+- pkg:maven/org.noear/solon.cloud.httputils@2.9.2-M1
+- pkg:maven/org.noear/solon.cloud.httputils@2.9.2-M2
+- pkg:maven/org.noear/solon.cloud.httputils@2.9.3
+- pkg:maven/org.noear/solon.cloud.httputils@2.9.4
+- pkg:maven/org.noear/solon.cloud.httputils@2.9.5-M1
+- pkg:maven/org.noear/solon.cloud.httputils@2.9.5-M2

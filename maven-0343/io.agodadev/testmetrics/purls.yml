@@ -1,0 +1,14 @@
+- pkg:maven/io.agodadev/testmetrics@0.0.1?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.108?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.111?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.144?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.160?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.163?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.167?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.173?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.176?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.178?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.180?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.182?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.184?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.6?classifier=sources

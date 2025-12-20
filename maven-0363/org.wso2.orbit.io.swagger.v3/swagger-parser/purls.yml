@@ -5,3 +5,4 @@
 - pkg:maven/org.wso2.orbit.io.swagger.v3/swagger-parser@2.1.10.wso2v1
 - pkg:maven/org.wso2.orbit.io.swagger.v3/swagger-parser@2.1.18.wso2v2
 - pkg:maven/org.wso2.orbit.io.swagger.v3/swagger-parser@2.1.20.wso2v1
+- pkg:maven/org.wso2.orbit.io.swagger.v3/swagger-parser@2.1.22.wso2v1

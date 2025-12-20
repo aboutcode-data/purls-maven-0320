@@ -8,3 +8,4 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-mongodb@2.1.1
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-mongodb@2.1.2
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-mongodb@2.2.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-mongodb@2.3.0

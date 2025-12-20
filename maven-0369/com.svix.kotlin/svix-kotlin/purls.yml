@@ -90,6 +90,8 @@
 - pkg:maven/com.svix.kotlin/svix-kotlin@1.22.0?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@1.23.0?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@1.24.0?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@1.33.0?classifier=sources
+- pkg:maven/com.svix.kotlin/svix-kotlin@1.35.0?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@1.4.12?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@1.5.0?classifier=sources
 - pkg:maven/com.svix.kotlin/svix-kotlin@1.5.1?classifier=sources

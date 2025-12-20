@@ -1,0 +1,2 @@
+- pkg:maven/net.folivo/integration-tests-jvm@4.7.0?classifier=sources
+- pkg:maven/net.folivo/integration-tests-jvm@4.7.1?classifier=sources

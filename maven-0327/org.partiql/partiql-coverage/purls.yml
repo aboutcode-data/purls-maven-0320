@@ -11,4 +11,5 @@
 - pkg:maven/org.partiql/partiql-coverage@0.14.6?classifier=sources
 - pkg:maven/org.partiql/partiql-coverage@0.14.7?classifier=sources
 - pkg:maven/org.partiql/partiql-coverage@0.14.8?classifier=sources
+- pkg:maven/org.partiql/partiql-coverage@0.14.9?classifier=sources
 - pkg:maven/org.partiql/partiql-coverage@1.0.0-perf.1?classifier=sources

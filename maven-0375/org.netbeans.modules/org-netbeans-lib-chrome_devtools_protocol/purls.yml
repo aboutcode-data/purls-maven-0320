@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-chrome_devtools_protocol@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-chrome_devtools_protocol@RELEASE230?classifier=sources

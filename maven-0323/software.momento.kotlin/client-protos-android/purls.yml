@@ -31,3 +31,7 @@
 - pkg:maven/software.momento.kotlin/client-protos-android@0.115.0?classifier=sources
 - pkg:maven/software.momento.kotlin/client-protos-android@0.116.0?classifier=sources
 - pkg:maven/software.momento.kotlin/client-protos-android@0.116.1?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-android@0.117.0?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-android@0.117.1?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-android@0.118.0?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-android@0.119.0?classifier=sources

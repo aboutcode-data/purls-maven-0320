@@ -1,0 +1,2 @@
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Plugin.ModelOM@2.4.0
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Plugin.ModelOM@2.4.0?classifier=sources

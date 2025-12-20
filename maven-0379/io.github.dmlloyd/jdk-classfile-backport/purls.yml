@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dmlloyd/jdk-classfile-backport@24.beta3
+- pkg:maven/io.github.dmlloyd/jdk-classfile-backport@24.beta3?classifier=sources

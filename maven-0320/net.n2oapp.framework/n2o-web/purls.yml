@@ -587,6 +587,8 @@
 - pkg:maven/net.n2oapp.framework/n2o-web@7.27.17?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-web@7.27.18
 - pkg:maven/net.n2oapp.framework/n2o-web@7.27.18?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-web@7.27.19
+- pkg:maven/net.n2oapp.framework/n2o-web@7.27.19?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-web@7.27.1?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-web@7.27.2
 - pkg:maven/net.n2oapp.framework/n2o-web@7.27.2?classifier=sources

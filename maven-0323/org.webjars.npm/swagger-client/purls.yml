@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/swagger-client@2.1.9?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-client@3.0.16
 - pkg:maven/org.webjars.npm/swagger-client@3.0.16?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-client@3.0.19
+- pkg:maven/org.webjars.npm/swagger-client@3.0.20
 - pkg:maven/org.webjars.npm/swagger-client@3.10.0
 - pkg:maven/org.webjars.npm/swagger-client@3.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-client@3.10.1

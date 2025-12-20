@@ -14,3 +14,4 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-maven-plugin-test@1.68
 - pkg:maven/org.testingisdocumenting.znai/znai-maven-plugin-test@1.69
 - pkg:maven/org.testingisdocumenting.znai/znai-maven-plugin-test@1.70
+- pkg:maven/org.testingisdocumenting.znai/znai-maven-plugin-test@1.71

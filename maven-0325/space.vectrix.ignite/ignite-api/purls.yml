@@ -15,3 +15,4 @@
 - pkg:maven/space.vectrix.ignite/ignite-api@0.8.1?classifier=sources
 - pkg:maven/space.vectrix.ignite/ignite-api@1.0.0?classifier=sources
 - pkg:maven/space.vectrix.ignite/ignite-api@1.0.1?classifier=sources
+- pkg:maven/space.vectrix.ignite/ignite-api@1.1.0?classifier=sources

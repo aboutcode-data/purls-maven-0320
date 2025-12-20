@@ -209,3 +209,12 @@
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1723819811?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1724477520?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1724909847?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1724996264?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1725601109?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1725687211?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1725946602?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1726032981?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1726205849?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1726482427?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0?classifier=sources
+- pkg:maven/com.pulumi/github@6.4.0-alpha.1726724248?classifier=sources

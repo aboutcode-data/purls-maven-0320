@@ -26,3 +26,7 @@
 - pkg:maven/com.aliyun/ros-cdk-edsuser@1.0.26?classifier=sources
 - pkg:maven/com.aliyun/ros-cdk-edsuser@1.0.27
 - pkg:maven/com.aliyun/ros-cdk-edsuser@1.0.27?classifier=sources
+- pkg:maven/com.aliyun/ros-cdk-edsuser@1.1.0
+- pkg:maven/com.aliyun/ros-cdk-edsuser@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/ros-cdk-edsuser@1.2.0
+- pkg:maven/com.aliyun/ros-cdk-edsuser@1.2.0?classifier=sources

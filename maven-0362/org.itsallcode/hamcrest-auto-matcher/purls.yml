@@ -2,3 +2,5 @@
 - pkg:maven/org.itsallcode/hamcrest-auto-matcher@0.5.1?classifier=sources
 - pkg:maven/org.itsallcode/hamcrest-auto-matcher@0.6.0?classifier=sources
 - pkg:maven/org.itsallcode/hamcrest-auto-matcher@0.7.0?classifier=sources
+- pkg:maven/org.itsallcode/hamcrest-auto-matcher@0.8.0?classifier=sources
+- pkg:maven/org.itsallcode/hamcrest-auto-matcher@0.8.1?classifier=sources

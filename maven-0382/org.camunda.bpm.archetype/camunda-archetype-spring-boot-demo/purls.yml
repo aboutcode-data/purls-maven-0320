@@ -10,3 +10,4 @@
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-spring-boot-demo@7.19.0?classifier=sources
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-spring-boot-demo@7.20.0?classifier=sources
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-spring-boot-demo@7.21.0?classifier=sources
+- pkg:maven/org.camunda.bpm.archetype/camunda-archetype-spring-boot-demo@7.22.0?classifier=sources

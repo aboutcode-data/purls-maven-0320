@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-engine@RELEASE90?classifier=sources

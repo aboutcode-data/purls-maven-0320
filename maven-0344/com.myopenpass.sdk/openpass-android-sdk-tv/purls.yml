@@ -4,3 +4,5 @@
 - pkg:maven/com.myopenpass.sdk/openpass-android-sdk-tv@2.1.0?classifier=sources
 - pkg:maven/com.myopenpass.sdk/openpass-android-sdk-tv@2.2.0?classifier=sources
 - pkg:maven/com.myopenpass.sdk/openpass-android-sdk-tv@2.3.0?classifier=sources
+- pkg:maven/com.myopenpass.sdk/openpass-android-sdk-tv@2.4.0?classifier=sources
+- pkg:maven/com.myopenpass.sdk/openpass-android-sdk-tv@2.4.1?classifier=sources

@@ -47,6 +47,7 @@
 - pkg:maven/org.webjars.npm/material__animation@13.0.0
 - pkg:maven/org.webjars.npm/material__animation@13.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__animation@14.0.0
+- pkg:maven/org.webjars.npm/material__animation@14.0.0-canary.261f2db59.0
 - pkg:maven/org.webjars.npm/material__animation@14.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__animation@3.1.0
 - pkg:maven/org.webjars.npm/material__animation@3.1.0?classifier=sources

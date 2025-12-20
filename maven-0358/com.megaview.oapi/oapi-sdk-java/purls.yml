@@ -1,0 +1,2 @@
+- pkg:maven/com.megaview.oapi/oapi-sdk-java@1.0.0?classifier=sources
+- pkg:maven/com.megaview.oapi/oapi-sdk-java@1.0.1?classifier=sources

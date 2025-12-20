@@ -334,6 +334,8 @@
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.12.7?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.12.8
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.12.8?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.12.9
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.12.9?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.13.0
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.13.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.14.0
@@ -370,6 +372,8 @@
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.18.2?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.18.3
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.18.3?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.18.4
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.18.4?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.19.0
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.19.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@5.2.0
@@ -410,6 +414,8 @@
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.0.5?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.0.6
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.0.6?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.0.7
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.0.7?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.1.0
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.1.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.2.0
@@ -418,3 +424,9 @@
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.3.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.4.0
 - pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.4.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.4.1
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.4.1?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.4.2
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.4.2?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.4.3
+- pkg:maven/io.gravitee.node/gravitee-node-monitoring@6.4.3?classifier=sources

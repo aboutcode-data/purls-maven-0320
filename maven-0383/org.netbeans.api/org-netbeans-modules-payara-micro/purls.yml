@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-payara-micro@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-payara-micro@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-payara-micro@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-payara-micro@RELEASE230?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.emf.model/net.opengis.gml3.model@3.2.2
+- pkg:maven/org.geckoprojects.emf.model/net.opengis.gml3.model@3.2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.resteasy.jetty/resteasy-client-jetty@1.0.0.Alpha1
+- pkg:maven/dev.resteasy.jetty/resteasy-client-jetty@1.0.0.Alpha1?classifier=sources

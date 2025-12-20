@@ -16,3 +16,5 @@
 - pkg:maven/com.cognitect.aws/omics@868.2.1599.0?classifier=sources
 - pkg:maven/com.cognitect.aws/omics@869.2.1616.0
 - pkg:maven/com.cognitect.aws/omics@869.2.1616.0?classifier=sources
+- pkg:maven/com.cognitect.aws/omics@869.2.1687.0
+- pkg:maven/com.cognitect.aws/omics@869.2.1687.0?classifier=sources

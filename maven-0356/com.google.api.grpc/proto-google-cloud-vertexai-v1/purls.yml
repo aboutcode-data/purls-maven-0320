@@ -28,3 +28,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vertexai-v1@1.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vertexai-v1@1.8.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vertexai-v1@1.8.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-vertexai-v1@1.9.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-vertexai-v1@1.9.0?classifier=sources

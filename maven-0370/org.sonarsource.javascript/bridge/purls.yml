@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.javascript/bridge@10.15.0.27423?classifier=sources
+- pkg:maven/org.sonarsource.javascript/bridge@10.16.0.27621?classifier=sources

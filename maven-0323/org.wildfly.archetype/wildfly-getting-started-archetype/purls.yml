@@ -5,3 +5,4 @@
 - pkg:maven/org.wildfly.archetype/wildfly-getting-started-archetype@32.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.archetype/wildfly-getting-started-archetype@33.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.archetype/wildfly-getting-started-archetype@33.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.archetype/wildfly-getting-started-archetype@33.0.2.Final?classifier=sources

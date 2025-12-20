@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.abn-volk/material-slider-preference@0.0.4-test?classifier=sources
+- pkg:maven/io.gitlab.abn-volk/material-slider-preference@0.0.5?classifier=sources

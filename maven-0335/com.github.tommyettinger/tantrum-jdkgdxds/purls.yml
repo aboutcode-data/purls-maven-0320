@@ -8,3 +8,4 @@
 - pkg:maven/com.github.tommyettinger/tantrum-jdkgdxds@1.6.2.0?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-jdkgdxds@1.6.2.3?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-jdkgdxds@1.6.3.3?classifier=sources
+- pkg:maven/com.github.tommyettinger/tantrum-jdkgdxds@1.6.4.4?classifier=sources

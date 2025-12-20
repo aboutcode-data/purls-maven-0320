@@ -27,6 +27,19 @@
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.13.4?classifier=sources
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.13.5?classifier=sources
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.13.6?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.13.7?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.13.8?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.0?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.10?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.1?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.2?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.3?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.4?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.5?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.6?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.7?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.8?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@0.14.9?classifier=sources
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.2.0?classifier=sources
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.2.1?classifier=sources
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.3.0?classifier=sources
@@ -39,3 +52,7 @@
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.8.1?classifier=sources
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.8.2?classifier=sources
 - pkg:maven/io.github.harryjhin/java-time-extensions@0.9.0?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@1.0.0?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@1.0.1?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@1.0.2?classifier=sources
+- pkg:maven/io.github.harryjhin/java-time-extensions@1.0.3?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.ctakes/ctakes-gui@4.0.0?classifier=sources
 - pkg:maven/org.apache.ctakes/ctakes-gui@5.1.0
 - pkg:maven/org.apache.ctakes/ctakes-gui@5.1.0?classifier=sources
+- pkg:maven/org.apache.ctakes/ctakes-gui@6.0.0
+- pkg:maven/org.apache.ctakes/ctakes-gui@6.0.0?classifier=sources

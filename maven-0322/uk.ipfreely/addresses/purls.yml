@@ -10,3 +10,5 @@
 - pkg:maven/uk.ipfreely/addresses@8.0.4-alpha?classifier=sources
 - pkg:maven/uk.ipfreely/addresses@8.0.6-alpha
 - pkg:maven/uk.ipfreely/addresses@8.0.6-alpha?classifier=sources
+- pkg:maven/uk.ipfreely/addresses@8.0.7-alpha
+- pkg:maven/uk.ipfreely/addresses@8.0.7-alpha?classifier=sources

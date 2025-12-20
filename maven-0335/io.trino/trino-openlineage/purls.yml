@@ -4,3 +4,7 @@
 - pkg:maven/io.trino/trino-openlineage@452?classifier=sources
 - pkg:maven/io.trino/trino-openlineage@453?classifier=sources
 - pkg:maven/io.trino/trino-openlineage@454?classifier=sources
+- pkg:maven/io.trino/trino-openlineage@455?classifier=sources
+- pkg:maven/io.trino/trino-openlineage@456?classifier=sources
+- pkg:maven/io.trino/trino-openlineage@457?classifier=sources
+- pkg:maven/io.trino/trino-openlineage@458?classifier=sources

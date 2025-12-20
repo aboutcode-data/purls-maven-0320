@@ -10,3 +10,11 @@
 - pkg:maven/com.statsig/serversdk-test@0.23.0?classifier=sources
 - pkg:maven/com.statsig/serversdk-test@0.24.0?classifier=sources
 - pkg:maven/com.statsig/serversdk-test@0.25.0?classifier=sources
+- pkg:maven/com.statsig/serversdk-test@0.26.0-beta?classifier=sources
+- pkg:maven/com.statsig/serversdk-test@0.26.1-beta?classifier=sources
+- pkg:maven/com.statsig/serversdk-test@0.26.2-beta?classifier=sources
+- pkg:maven/com.statsig/serversdk-test@0.26.4-beta?classifier=sources
+- pkg:maven/com.statsig/serversdk-test@0.27.0?classifier=sources
+- pkg:maven/com.statsig/serversdk-test@0.27.1?classifier=sources
+- pkg:maven/com.statsig/serversdk-test@0.27.2?classifier=sources
+- pkg:maven/com.statsig/serversdk-test@0.28.0?classifier=sources

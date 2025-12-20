@@ -8,3 +8,4 @@
 - pkg:maven/org.webjars.npm/vaadin__item@23.3.0-alpha2?classifier=sources
 - pkg:maven/org.webjars.npm/vaadin__item@24.2.0-alpha2
 - pkg:maven/org.webjars.npm/vaadin__item@24.2.0-alpha2?classifier=sources
+- pkg:maven/org.webjars.npm/vaadin__item@24.4.10

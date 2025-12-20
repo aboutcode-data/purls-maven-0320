@@ -49,3 +49,5 @@
 - pkg:maven/cn.jiguang.sdk.ad/core@3.9.0.01313?type=aar
 - pkg:maven/cn.jiguang.sdk.ad/core@3.9.1.06031?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad/core@3.9.1.06031?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.1.06032?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.1.06032?type=aar

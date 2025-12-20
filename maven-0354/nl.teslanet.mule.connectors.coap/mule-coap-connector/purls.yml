@@ -17,3 +17,4 @@
 - pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector@3.0.0-M2?classifier=sources
 - pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector@3.0.0-M3?classifier=sources
 - pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector@3.0.0-M4?classifier=sources
+- pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector@3.0.0-M5?classifier=sources

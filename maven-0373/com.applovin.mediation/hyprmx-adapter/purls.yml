@@ -25,3 +25,4 @@
 - pkg:maven/com.applovin.mediation/hyprmx-adapter@6.4.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/hyprmx-adapter@6.4.1.0?classifier=sources
 - pkg:maven/com.applovin.mediation/hyprmx-adapter@6.4.2.0?classifier=sources
+- pkg:maven/com.applovin.mediation/hyprmx-adapter@6.4.2.1?classifier=sources

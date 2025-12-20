@@ -1,0 +1,2 @@
+- pkg:maven/net.guizhanss/guizhanlib-all@2.0.0?classifier=sources
+- pkg:maven/net.guizhanss/guizhanlib-all@2.1.0?classifier=sources

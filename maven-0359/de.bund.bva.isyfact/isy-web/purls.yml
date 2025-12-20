@@ -50,3 +50,5 @@
 - pkg:maven/de.bund.bva.isyfact/isy-web@6.0.2?classifier=sources
 - pkg:maven/de.bund.bva.isyfact/isy-web@6.1.0
 - pkg:maven/de.bund.bva.isyfact/isy-web@6.1.0?classifier=sources
+- pkg:maven/de.bund.bva.isyfact/isy-web@6.2.0
+- pkg:maven/de.bund.bva.isyfact/isy-web@6.2.0?classifier=sources

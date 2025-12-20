@@ -18,3 +18,5 @@
 - pkg:maven/net.sf.okapi.connectors/okapi-connector-googleautoml@1.45.0?classifier=sources
 - pkg:maven/net.sf.okapi.connectors/okapi-connector-googleautoml@1.46.0
 - pkg:maven/net.sf.okapi.connectors/okapi-connector-googleautoml@1.46.0?classifier=sources
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-googleautoml@1.47.0
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-googleautoml@1.47.0?classifier=sources

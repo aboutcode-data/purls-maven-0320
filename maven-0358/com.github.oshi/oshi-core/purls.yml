@@ -259,3 +259,4 @@
 - pkg:maven/com.github.oshi/oshi-core@6.6.2?classifier=sources
 - pkg:maven/com.github.oshi/oshi-core@6.6.3?classifier=sources
 - pkg:maven/com.github.oshi/oshi-core@6.6.4?classifier=sources
+- pkg:maven/com.github.oshi/oshi-core@6.6.5?classifier=sources

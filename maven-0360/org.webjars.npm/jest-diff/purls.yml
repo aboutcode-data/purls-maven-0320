@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/jest-diff@24.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/jest-diff@29.3.1
 - pkg:maven/org.webjars.npm/jest-diff@29.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/jest-diff@29.7.0

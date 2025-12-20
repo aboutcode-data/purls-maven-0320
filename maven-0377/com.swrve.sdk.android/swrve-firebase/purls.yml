@@ -21,6 +21,7 @@
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@10.9.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@10.9.1?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@10.9.2?classifier=sources
+- pkg:maven/com.swrve.sdk.android/swrve-firebase@11.0.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@5.3.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@5.3.0?type=aar
 - pkg:maven/com.swrve.sdk.android/swrve-firebase@6.0.1?classifier=sources

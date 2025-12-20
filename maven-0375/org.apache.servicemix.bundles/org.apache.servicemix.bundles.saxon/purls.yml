@@ -62,6 +62,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@12.4_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@12.4_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@12.4_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@12.5_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@12.5_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@12.5_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@12.5_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@9.1.0.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@9.1.0.1_3
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.saxon@9.1.0.1_4

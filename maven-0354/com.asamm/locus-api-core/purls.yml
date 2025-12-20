@@ -44,3 +44,4 @@
 - pkg:maven/com.asamm/locus-api-core@0.9.58?classifier=sources
 - pkg:maven/com.asamm/locus-api-core@0.9.59?classifier=sources
 - pkg:maven/com.asamm/locus-api-core@0.9.60?classifier=sources
+- pkg:maven/com.asamm/locus-api-core@0.9.61?classifier=sources

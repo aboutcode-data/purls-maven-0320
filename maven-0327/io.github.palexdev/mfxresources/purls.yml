@@ -6,6 +6,7 @@
 - pkg:maven/io.github.palexdev/mfxresources@11.1.2?classifier=sources
 - pkg:maven/io.github.palexdev/mfxresources@11.10.0?classifier=sources
 - pkg:maven/io.github.palexdev/mfxresources@11.11.0?classifier=sources
+- pkg:maven/io.github.palexdev/mfxresources@11.11.1?classifier=sources
 - pkg:maven/io.github.palexdev/mfxresources@11.13.1?classifier=sources
 - pkg:maven/io.github.palexdev/mfxresources@11.2.0?classifier=sources
 - pkg:maven/io.github.palexdev/mfxresources@11.3.0?classifier=sources

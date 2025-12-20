@@ -48,3 +48,4 @@
 - pkg:maven/org.sakaiproject.common/sakai-import-util@23.0
 - pkg:maven/org.sakaiproject.common/sakai-import-util@23.1
 - pkg:maven/org.sakaiproject.common/sakai-import-util@23.2
+- pkg:maven/org.sakaiproject.common/sakai-import-util@23.3

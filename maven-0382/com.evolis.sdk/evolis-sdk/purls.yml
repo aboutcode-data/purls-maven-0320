@@ -1,0 +1,10 @@
+- pkg:maven/com.evolis.sdk/evolis-sdk@8.9.9
+- pkg:maven/com.evolis.sdk/evolis-sdk@8.9.9-5629
+- pkg:maven/com.evolis.sdk/evolis-sdk@8.9.9-5629?classifier=sources
+- pkg:maven/com.evolis.sdk/evolis-sdk@8.9.9-5637
+- pkg:maven/com.evolis.sdk/evolis-sdk@8.9.9-5637?classifier=sources
+- pkg:maven/com.evolis.sdk/evolis-sdk@8.9.9-release
+- pkg:maven/com.evolis.sdk/evolis-sdk@8.9.9-release?classifier=sources
+- pkg:maven/com.evolis.sdk/evolis-sdk@8.9.9?classifier=sources
+- pkg:maven/com.evolis.sdk/evolis-sdk@9.0.0-5707
+- pkg:maven/com.evolis.sdk/evolis-sdk@9.0.0-5707?classifier=sources

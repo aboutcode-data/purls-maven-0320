@@ -1,0 +1,2 @@
+- pkg:maven/com.lightstreamer/ls-kotlin-mini-socket@0.1.0?classifier=sources
+- pkg:maven/com.lightstreamer/ls-kotlin-mini-socket@0.2.0?classifier=sources

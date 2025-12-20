@@ -10,3 +10,5 @@
 - pkg:maven/com.greenfossil/typesafe-config-ext_3@1.0.3?classifier=sources
 - pkg:maven/com.greenfossil/typesafe-config-ext_3@1.0.4
 - pkg:maven/com.greenfossil/typesafe-config-ext_3@1.0.4?classifier=sources
+- pkg:maven/com.greenfossil/typesafe-config-ext_3@1.1.0
+- pkg:maven/com.greenfossil/typesafe-config-ext_3@1.1.0?classifier=sources

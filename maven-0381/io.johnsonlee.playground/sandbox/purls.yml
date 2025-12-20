@@ -5,3 +5,4 @@
 - pkg:maven/io.johnsonlee.playground/sandbox@1.0.0?classifier=sources
 - pkg:maven/io.johnsonlee.playground/sandbox@1.1.0?classifier=sources
 - pkg:maven/io.johnsonlee.playground/sandbox@1.2.0?classifier=sources
+- pkg:maven/io.johnsonlee.playground/sandbox@1.3.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.oracle.coherence.ce/coherence-mp-health@22.06.10
+- pkg:maven/com.oracle.coherence.ce/coherence-mp-health@22.06.10?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-health@22.06.4
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-health@22.06.4?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-health@22.06.5
@@ -24,3 +26,5 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-health@24.03.1
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-health@24.03.1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-health@24.03?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-mp-health@24.09
+- pkg:maven/com.oracle.coherence.ce/coherence-mp-health@24.09?classifier=sources

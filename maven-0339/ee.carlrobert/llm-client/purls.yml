@@ -47,7 +47,11 @@
 - pkg:maven/ee.carlrobert/llm-client@0.8.16?classifier=sources
 - pkg:maven/ee.carlrobert/llm-client@0.8.17?classifier=sources
 - pkg:maven/ee.carlrobert/llm-client@0.8.18?classifier=sources
+- pkg:maven/ee.carlrobert/llm-client@0.8.19?classifier=sources
 - pkg:maven/ee.carlrobert/llm-client@0.8.1?classifier=sources
+- pkg:maven/ee.carlrobert/llm-client@0.8.20?classifier=sources
+- pkg:maven/ee.carlrobert/llm-client@0.8.21?classifier=sources
+- pkg:maven/ee.carlrobert/llm-client@0.8.22?classifier=sources
 - pkg:maven/ee.carlrobert/llm-client@0.8.2?classifier=sources
 - pkg:maven/ee.carlrobert/llm-client@0.8.3?classifier=sources
 - pkg:maven/ee.carlrobert/llm-client@0.8.4?classifier=sources

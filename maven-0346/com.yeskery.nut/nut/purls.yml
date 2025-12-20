@@ -38,3 +38,5 @@
 - pkg:maven/com.yeskery.nut/nut@1.0.28?classifier=sources
 - pkg:maven/com.yeskery.nut/nut@1.0.29
 - pkg:maven/com.yeskery.nut/nut@1.0.29?classifier=sources
+- pkg:maven/com.yeskery.nut/nut@1.0.30
+- pkg:maven/com.yeskery.nut/nut@1.0.30?classifier=sources

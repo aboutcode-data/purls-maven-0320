@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sbt/sbt-pgp_2.12_1.0@2.3.0
+- pkg:maven/com.github.sbt/sbt-pgp_2.12_1.0@2.3.0?classifier=sources

@@ -30,3 +30,4 @@
 - pkg:maven/com.adyen.checkout/giftcard@5.4.0?classifier=sources
 - pkg:maven/com.adyen.checkout/giftcard@5.5.0?classifier=sources
 - pkg:maven/com.adyen.checkout/giftcard@5.6.0?classifier=sources
+- pkg:maven/com.adyen.checkout/giftcard@5.7.0?classifier=sources

@@ -210,3 +210,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-vfs-ext@2.22.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-vfs-ext@2.23.0-beta
 - pkg:maven/org.apache.jackrabbit/jackrabbit-vfs-ext@2.23.0-beta?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-vfs-ext@2.23.1-beta
+- pkg:maven/org.apache.jackrabbit/jackrabbit-vfs-ext@2.23.1-beta?classifier=sources

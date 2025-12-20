@@ -48,3 +48,4 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-quartz@5.3.4
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-quartz@6.1.1
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-quartz@6.1.2
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-quartz@6.1.3

@@ -9,3 +9,4 @@
 - pkg:maven/org.wso2.orbit.org.apache.solr/solr@8.11.1.wso2v6
 - pkg:maven/org.wso2.orbit.org.apache.solr/solr@8.11.1.wso2v7
 - pkg:maven/org.wso2.orbit.org.apache.solr/solr@9.5.0.wso2v4
+- pkg:maven/org.wso2.orbit.org.apache.solr/solr@9.5.0.wso2v7

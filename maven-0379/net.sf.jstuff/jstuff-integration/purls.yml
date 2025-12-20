@@ -72,3 +72,4 @@
 - pkg:maven/net.sf.jstuff/jstuff-integration@7.8.2?classifier=sources
 - pkg:maven/net.sf.jstuff/jstuff-integration@7.9.0
 - pkg:maven/net.sf.jstuff/jstuff-integration@7.9.0?classifier=sources
+- pkg:maven/net.sf.jstuff/jstuff-integration@8.0.0?classifier=sources

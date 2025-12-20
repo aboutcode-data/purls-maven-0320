@@ -11,4 +11,5 @@
 - pkg:maven/io.agodadev/testmetrics@0.1.180?classifier=sources
 - pkg:maven/io.agodadev/testmetrics@0.1.182?classifier=sources
 - pkg:maven/io.agodadev/testmetrics@0.1.184?classifier=sources
+- pkg:maven/io.agodadev/testmetrics@0.1.186?classifier=sources
 - pkg:maven/io.agodadev/testmetrics@0.1.6?classifier=sources

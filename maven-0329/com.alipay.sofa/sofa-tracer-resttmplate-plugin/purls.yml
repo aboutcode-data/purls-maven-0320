@@ -58,3 +58,5 @@
 - pkg:maven/com.alipay.sofa/sofa-tracer-resttmplate-plugin@3.1.7?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-tracer-resttmplate-plugin@4.0.0
 - pkg:maven/com.alipay.sofa/sofa-tracer-resttmplate-plugin@4.0.0?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-tracer-resttmplate-plugin@4.0.1
+- pkg:maven/com.alipay.sofa/sofa-tracer-resttmplate-plugin@4.0.1?classifier=sources

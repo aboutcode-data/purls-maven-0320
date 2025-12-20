@@ -46,6 +46,8 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.21.2?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.21.3
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.21.3?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.21.4
+- pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.21.4?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.8.0
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.8.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.8.1
@@ -54,3 +56,5 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@6.9.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@7.0.0
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@7.0.0?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@7.0.1
+- pkg:maven/net.sf.jasperreports/jasperreports-chart-themes@7.0.1?classifier=sources

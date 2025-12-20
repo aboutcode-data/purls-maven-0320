@@ -13,3 +13,4 @@
 - pkg:maven/dev.rikka.rikkax.material/material@2.4.0?classifier=sources
 - pkg:maven/dev.rikka.rikkax.material/material@2.6.0?classifier=sources
 - pkg:maven/dev.rikka.rikkax.material/material@2.7.0?classifier=sources
+- pkg:maven/dev.rikka.rikkax.material/material@2.7.2?classifier=sources

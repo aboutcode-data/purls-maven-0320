@@ -1,1 +1,2 @@
 - pkg:maven/pl.metaprogramming/codegen-maven-plugin@2.0.0-beta.2?classifier=sources
+- pkg:maven/pl.metaprogramming/codegen-maven-plugin@2.0.0?classifier=sources

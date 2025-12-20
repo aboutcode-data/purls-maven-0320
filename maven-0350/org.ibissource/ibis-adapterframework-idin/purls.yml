@@ -82,3 +82,5 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-idin@7.9.3?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-idin@7.9.4
 - pkg:maven/org.ibissource/ibis-adapterframework-idin@7.9.4?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-idin@7.9.5
+- pkg:maven/org.ibissource/ibis-adapterframework-idin@7.9.5?classifier=sources

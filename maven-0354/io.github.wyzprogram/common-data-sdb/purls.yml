@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wyzprogram/common-data-sdb@1.0.2
+- pkg:maven/io.github.wyzprogram/common-data-sdb@1.0.2?classifier=sources

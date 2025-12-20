@@ -25,6 +25,8 @@
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxrs-kotlin@3.14.4
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxrs-kotlin@3.15.0
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxrs-kotlin@3.15.0.CR1
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxrs-kotlin@3.15.1
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxrs-kotlin@3.16.0.CR1
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxrs-kotlin@3.9.0
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxrs-kotlin@3.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxrs-kotlin@3.9.0.CR2

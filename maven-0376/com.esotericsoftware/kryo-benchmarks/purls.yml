@@ -42,3 +42,7 @@
 - pkg:maven/com.esotericsoftware/kryo-benchmarks@5.5.0?classifier=sources
 - pkg:maven/com.esotericsoftware/kryo-benchmarks@5.6.0
 - pkg:maven/com.esotericsoftware/kryo-benchmarks@5.6.0?classifier=sources
+- pkg:maven/com.esotericsoftware/kryo-benchmarks@5.6.1
+- pkg:maven/com.esotericsoftware/kryo-benchmarks@5.6.1?classifier=sources
+- pkg:maven/com.esotericsoftware/kryo-benchmarks@5.6.2
+- pkg:maven/com.esotericsoftware/kryo-benchmarks@5.6.2?classifier=sources

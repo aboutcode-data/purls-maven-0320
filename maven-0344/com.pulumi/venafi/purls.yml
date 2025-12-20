@@ -24,6 +24,8 @@
 - pkg:maven/com.pulumi/venafi@1.10.0?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.10.2-alpha.1726258218?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.10.2?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.10.3-alpha.1727734674?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.10.3?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.11.0-alpha.1718261130?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.11.0-alpha.1718347671?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.11.0-alpha.1718434083?classifier=sources
@@ -39,6 +41,13 @@
 - pkg:maven/com.pulumi/venafi@1.11.0-alpha.1726207889?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.11.0-alpha.1726726337?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.11.0-alpha.1727107119?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.11.0-alpha.1727455787?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.11.0-alpha.1727762277?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.11.0-alpha.1727848921?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.11.0-alpha.1727888883?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.11.0-alpha.1728108768?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.11.0-alpha.1728367919?classifier=sources
+- pkg:maven/com.pulumi/venafi@1.11.0-alpha.1729059140?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.5.0-alpha.1675475120%2Bce7516b7?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.5.0?classifier=sources
 - pkg:maven/com.pulumi/venafi@1.6.0-alpha.1675868427%2B18ccd144?classifier=sources

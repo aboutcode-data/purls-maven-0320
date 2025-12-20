@@ -4,3 +4,4 @@
 - pkg:maven/io.appmetrica.analytics/analytics-logger@7.0.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-logger@7.1.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-logger@7.2.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-logger@7.2.1?classifier=sources

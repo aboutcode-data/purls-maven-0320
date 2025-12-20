@@ -7,6 +7,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@1.1.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@1.1.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@1.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@10.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@2.0.0?classifier=sources-commercial

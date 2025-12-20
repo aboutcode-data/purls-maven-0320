@@ -88,3 +88,5 @@
 - pkg:maven/vip.toby.rpc/simple-rpc@3.0.2?classifier=sources
 - pkg:maven/vip.toby.rpc/simple-rpc@3.1.0
 - pkg:maven/vip.toby.rpc/simple-rpc@3.1.0?classifier=sources
+- pkg:maven/vip.toby.rpc/simple-rpc@3.1.1
+- pkg:maven/vip.toby.rpc/simple-rpc@3.1.1?classifier=sources

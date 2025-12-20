@@ -1,0 +1,4 @@
+- pkg:maven/com.ing.baker/baker-recipe-dsl-kotlin_2.13@4.1.0
+- pkg:maven/com.ing.baker/baker-recipe-dsl-kotlin_2.13@4.1.0-RC3
+- pkg:maven/com.ing.baker/baker-recipe-dsl-kotlin_2.13@4.1.0-RC3?classifier=sources
+- pkg:maven/com.ing.baker/baker-recipe-dsl-kotlin_2.13@4.1.0?classifier=sources

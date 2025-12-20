@@ -77,6 +77,7 @@
 - pkg:maven/io.tiledb/tiledb-java@0.26.0?classifier=sources
 - pkg:maven/io.tiledb/tiledb-java@0.27.0?classifier=sources
 - pkg:maven/io.tiledb/tiledb-java@0.28.0?classifier=sources
+- pkg:maven/io.tiledb/tiledb-java@0.28.1?classifier=sources
 - pkg:maven/io.tiledb/tiledb-java@0.3.0-test?classifier=sources
 - pkg:maven/io.tiledb/tiledb-java@0.3.0?classifier=sources
 - pkg:maven/io.tiledb/tiledb-java@0.3.1?classifier=sources

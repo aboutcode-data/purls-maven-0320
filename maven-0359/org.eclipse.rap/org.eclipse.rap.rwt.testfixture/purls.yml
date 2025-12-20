@@ -40,3 +40,5 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.testfixture@3.29.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.testfixture@3.9.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.testfixture@3.9.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.testfixture@4.0.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.testfixture@4.0.0?classifier=sources

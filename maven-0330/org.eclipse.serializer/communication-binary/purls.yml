@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.serializer/communication-binary@1.3.2?classifier=sources
 - pkg:maven/org.eclipse.serializer/communication-binary@1.4.0
 - pkg:maven/org.eclipse.serializer/communication-binary@1.4.0?classifier=sources
+- pkg:maven/org.eclipse.serializer/communication-binary@2.0.0
+- pkg:maven/org.eclipse.serializer/communication-binary@2.0.0?classifier=sources

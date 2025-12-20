@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ragazoor/task_3@0.1.15
+- pkg:maven/io.github.ragazoor/task_3@0.1.15?classifier=sources

@@ -6,4 +6,7 @@
 - pkg:maven/com.ascentstream.pulsar/pulsar-presto-distribution@2.10.7.1?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-presto-distribution@2.10.7.2-SNAPSHOT-86382c9?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-presto-distribution@2.10.7.3?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-presto-distribution@2.10.7.4-SNAPSHOT-35e64fa?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-presto-distribution@2.10.7.4?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-presto-distribution@3.0.7.0-SNAPSHOT-a030c50?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-presto-distribution@3.0.8.0-SNAPSHOT-16a7bcc?classifier=sources

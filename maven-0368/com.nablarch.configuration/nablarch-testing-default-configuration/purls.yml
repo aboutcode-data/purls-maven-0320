@@ -10,5 +10,9 @@
 - pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@2.0.0?classifier=sources
 - pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@5u24
 - pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@5u24?classifier=sources
+- pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@5u25
+- pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@5u25?classifier=sources
 - pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@6u1
 - pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@6u1?classifier=sources
+- pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@6u2
+- pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@6u2?classifier=sources

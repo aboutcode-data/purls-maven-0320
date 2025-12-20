@@ -51,3 +51,15 @@
 - pkg:maven/cn.jiguang.sdk.ad/core@3.9.1.06031?type=aar
 - pkg:maven/cn.jiguang.sdk.ad/core@3.9.1.06032?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad/core@3.9.1.06032?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.09041?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.09041?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.09042?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.09042?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.09043?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.09043?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.10151?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.10151?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.10152?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.10152?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.10153?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@3.9.5.10153?type=aar

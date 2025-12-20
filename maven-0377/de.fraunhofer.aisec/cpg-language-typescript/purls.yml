@@ -20,3 +20,5 @@
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@7.1.1?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@7.1.2
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@7.1.2?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@8.0.0
+- pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@8.0.0?classifier=sources

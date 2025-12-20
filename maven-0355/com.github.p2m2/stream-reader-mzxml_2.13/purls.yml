@@ -1,0 +1,4 @@
+- pkg:maven/com.github.p2m2/stream-reader-mzxml_2.13@0.0.3
+- pkg:maven/com.github.p2m2/stream-reader-mzxml_2.13@0.0.3.b
+- pkg:maven/com.github.p2m2/stream-reader-mzxml_2.13@0.0.3.b?classifier=sources
+- pkg:maven/com.github.p2m2/stream-reader-mzxml_2.13@0.0.3?classifier=sources

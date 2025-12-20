@@ -1,0 +1,2 @@
+- pkg:maven/com.ucasoft.ktor/ktor-simple-memory-cache@0.0.8?classifier=sources
+- pkg:maven/com.ucasoft.ktor/ktor-simple-memory-cache@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/au.com.integradev.delphi/delphi-checks-testkit@1.0.0
+- pkg:maven/au.com.integradev.delphi/delphi-checks-testkit@1.0.0?classifier=sources

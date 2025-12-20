@@ -124,3 +124,7 @@
 - pkg:maven/com.ibm.cloud/ibm-cloud-shell@0.45.0?classifier=sources
 - pkg:maven/com.ibm.cloud/ibm-cloud-shell@0.45.1
 - pkg:maven/com.ibm.cloud/ibm-cloud-shell@0.45.1?classifier=sources
+- pkg:maven/com.ibm.cloud/ibm-cloud-shell@0.46.0
+- pkg:maven/com.ibm.cloud/ibm-cloud-shell@0.46.0?classifier=sources
+- pkg:maven/com.ibm.cloud/ibm-cloud-shell@0.46.1
+- pkg:maven/com.ibm.cloud/ibm-cloud-shell@0.46.1?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.services@4.10.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.services@4.10.100
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.services@4.10.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.services@4.10.300
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.services@4.10.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.services@4.9.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.services@4.9.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.services@4.9.100

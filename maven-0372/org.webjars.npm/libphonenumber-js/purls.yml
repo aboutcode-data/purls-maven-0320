@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.10.15?classifier=sources
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.10.24
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.10.24?classifier=sources
+- pkg:maven/org.webjars.npm/libphonenumber-js@1.10.51
+- pkg:maven/org.webjars.npm/libphonenumber-js@1.10.51?classifier=sources
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.2.15
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.2.15?classifier=sources
 - pkg:maven/org.webjars.npm/libphonenumber-js@1.4.5

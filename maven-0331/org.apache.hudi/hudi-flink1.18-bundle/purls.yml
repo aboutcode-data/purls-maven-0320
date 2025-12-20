@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hudi/hudi-flink1.18-bundle@1.0.0-beta1
+- pkg:maven/org.apache.hudi/hudi-flink1.18-bundle@1.0.0-beta1?classifier=sources

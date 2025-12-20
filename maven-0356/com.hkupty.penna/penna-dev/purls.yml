@@ -2,3 +2,4 @@
 - pkg:maven/com.hkupty.penna/penna-dev@0.7.0-alpha2?classifier=sources
 - pkg:maven/com.hkupty.penna/penna-dev@0.7.0-alpha4?classifier=sources
 - pkg:maven/com.hkupty.penna/penna-dev@0.7.0?classifier=sources
+- pkg:maven/com.hkupty.penna/penna-dev@0.7.1?classifier=sources

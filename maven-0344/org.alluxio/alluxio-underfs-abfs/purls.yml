@@ -78,3 +78,9 @@
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@303?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@304
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@304?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@305
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@305?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@306
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@306?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@307
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@307?classifier=sources

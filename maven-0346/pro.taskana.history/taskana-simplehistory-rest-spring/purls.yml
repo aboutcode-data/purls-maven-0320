@@ -90,3 +90,5 @@
 - pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@6.3.2?classifier=sources
 - pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@7.0.0
 - pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@7.0.0?classifier=sources
+- pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@8.0.0
+- pkg:maven/pro.taskana.history/taskana-simplehistory-rest-spring@8.0.0?classifier=sources

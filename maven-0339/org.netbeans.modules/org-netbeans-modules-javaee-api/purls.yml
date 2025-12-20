@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-api@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-api@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-api@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-api@RELEASE200?classifier=sources

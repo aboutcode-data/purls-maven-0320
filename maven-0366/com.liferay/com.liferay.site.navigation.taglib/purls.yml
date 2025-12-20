@@ -314,3 +314,4 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.taglib@6.1.9
 - pkg:maven/com.liferay/com.liferay.site.navigation.taglib@6.1.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.taglib@6.1.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.taglib@7.0.0?classifier=sources

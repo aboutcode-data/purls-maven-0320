@@ -1,0 +1,7 @@
+- pkg:maven/io.stigg/stigg-api-client@0.0.6?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@0.0.7?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@0.0.8?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@0.0.9?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@0.698.0?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@0.698.1?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@0.699.0?classifier=sources

@@ -8,3 +8,6 @@
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-discovery@4.0.8?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-discovery@4.1.0?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-discovery@4.1.1?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-discovery@4.2.0?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-discovery@4.3.0?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-discovery@4.3.1?classifier=sources

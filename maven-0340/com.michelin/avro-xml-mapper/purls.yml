@@ -1,0 +1,2 @@
+- pkg:maven/com.michelin/avro-xml-mapper@0.1.4
+- pkg:maven/com.michelin/avro-xml-mapper@0.1.4?classifier=sources

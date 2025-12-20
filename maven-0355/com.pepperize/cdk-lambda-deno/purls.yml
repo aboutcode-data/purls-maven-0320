@@ -756,6 +756,10 @@
 - pkg:maven/com.pepperize/cdk-lambda-deno@0.0.442?classifier=sources
 - pkg:maven/com.pepperize/cdk-lambda-deno@0.0.443
 - pkg:maven/com.pepperize/cdk-lambda-deno@0.0.443?classifier=sources
+- pkg:maven/com.pepperize/cdk-lambda-deno@0.0.444
+- pkg:maven/com.pepperize/cdk-lambda-deno@0.0.444?classifier=sources
+- pkg:maven/com.pepperize/cdk-lambda-deno@0.0.445
+- pkg:maven/com.pepperize/cdk-lambda-deno@0.0.445?classifier=sources
 - pkg:maven/com.pepperize/cdk-lambda-deno@0.0.44?classifier=sources
 - pkg:maven/com.pepperize/cdk-lambda-deno@0.0.45
 - pkg:maven/com.pepperize/cdk-lambda-deno@0.0.45?classifier=sources

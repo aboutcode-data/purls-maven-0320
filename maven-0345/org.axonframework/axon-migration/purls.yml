@@ -18,3 +18,5 @@
 - pkg:maven/org.axonframework/axon-migration@4.8.3?classifier=sources
 - pkg:maven/org.axonframework/axon-migration@4.9.0
 - pkg:maven/org.axonframework/axon-migration@4.9.0?classifier=sources
+- pkg:maven/org.axonframework/axon-migration@4.9.1
+- pkg:maven/org.axonframework/axon-migration@4.9.1?classifier=sources

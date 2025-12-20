@@ -86,3 +86,4 @@
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-anr@5.9.3?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-anr@5.9.4?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-anr@5.9.5?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-plugin-android-anr@6.0.0?classifier=sources

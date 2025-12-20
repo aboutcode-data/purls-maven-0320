@@ -1,0 +1,3 @@
+- pkg:maven/io.github.danieleperuzzi/enhanced-functions@1.0.0?classifier=sources
+- pkg:maven/io.github.danieleperuzzi/enhanced-functions@1.1.0?classifier=sources
+- pkg:maven/io.github.danieleperuzzi/enhanced-functions@1.2.0?classifier=sources

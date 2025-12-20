@@ -13,4 +13,8 @@
 - pkg:maven/net.asere.omni.mvi/mvi-queue@1.5.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-queue@1.6.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-queue@1.6.1?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-queue@1.7.0?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-queue@1.7.1?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-queue@1.7.2?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-queue@1.7.3?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-queue@unspecified?classifier=sources

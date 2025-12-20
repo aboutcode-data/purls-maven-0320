@@ -1,0 +1,2 @@
+- pkg:maven/de.ibapl.openhab/de.ibapl.openhab.fhz4j@4.0.1
+- pkg:maven/de.ibapl.openhab/de.ibapl.openhab.fhz4j@4.0.1?classifier=sources

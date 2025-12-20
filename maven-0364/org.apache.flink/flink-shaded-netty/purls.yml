@@ -15,4 +15,5 @@
 - pkg:maven/org.apache.flink/flink-shaded-netty@4.1.70.Final-15.0
 - pkg:maven/org.apache.flink/flink-shaded-netty@4.1.82.Final-16.0
 - pkg:maven/org.apache.flink/flink-shaded-netty@4.1.82.Final-16.1
+- pkg:maven/org.apache.flink/flink-shaded-netty@4.1.83.Final-16.2
 - pkg:maven/org.apache.flink/flink-shaded-netty@4.1.91.Final-17.0

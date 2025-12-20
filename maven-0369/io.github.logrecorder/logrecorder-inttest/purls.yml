@@ -3,3 +3,6 @@
 - pkg:maven/io.github.logrecorder/logrecorder-inttest@2.5.1
 - pkg:maven/io.github.logrecorder/logrecorder-inttest@2.6.0
 - pkg:maven/io.github.logrecorder/logrecorder-inttest@2.7.0
+- pkg:maven/io.github.logrecorder/logrecorder-inttest@2.7.1
+- pkg:maven/io.github.logrecorder/logrecorder-inttest@2.7.1-RC4
+- pkg:maven/io.github.logrecorder/logrecorder-inttest@2.8.0-RC1

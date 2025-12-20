@@ -8,3 +8,5 @@
 - pkg:maven/com.gitee.pulanos.pangu/pangu-spring-boot-starter@5.2.0?classifier=sources
 - pkg:maven/com.gitee.pulanos.pangu/pangu-spring-boot-starter@5.3.0
 - pkg:maven/com.gitee.pulanos.pangu/pangu-spring-boot-starter@5.3.0?classifier=sources
+- pkg:maven/com.gitee.pulanos.pangu/pangu-spring-boot-starter@6.0
+- pkg:maven/com.gitee.pulanos.pangu/pangu-spring-boot-starter@6.0?classifier=sources

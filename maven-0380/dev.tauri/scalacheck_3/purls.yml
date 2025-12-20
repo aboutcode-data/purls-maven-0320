@@ -1,0 +1,6 @@
+- pkg:maven/dev.tauri/scalacheck_3@1.17.0-236-82d3d84
+- pkg:maven/dev.tauri/scalacheck_3@1.17.0-236-82d3d84?classifier=sources
+- pkg:maven/dev.tauri/scalacheck_3@1.17.0-237-0d53276
+- pkg:maven/dev.tauri/scalacheck_3@1.17.0-237-0d53276?classifier=sources
+- pkg:maven/dev.tauri/scalacheck_3@1.17.0-238-d924659
+- pkg:maven/dev.tauri/scalacheck_3@1.17.0-238-d924659?classifier=sources

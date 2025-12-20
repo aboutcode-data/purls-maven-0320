@@ -158,3 +158,4 @@
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@9.6.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@9.7.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-backward-codecs@9.8.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-backward-codecs@9.9.0?classifier=sources

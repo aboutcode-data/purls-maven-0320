@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-kotlin-editor@RELEASE200?classifier=sources

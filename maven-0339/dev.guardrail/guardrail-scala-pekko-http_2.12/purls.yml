@@ -1,0 +1,2 @@
+- pkg:maven/dev.guardrail/guardrail-scala-pekko-http_2.12@0.1.0
+- pkg:maven/dev.guardrail/guardrail-scala-pekko-http_2.12@0.1.0?classifier=sources

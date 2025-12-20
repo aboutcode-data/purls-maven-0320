@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-wizards@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-wizards@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-wizards@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-wizards@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-wizards@RELEASE90?classifier=sources

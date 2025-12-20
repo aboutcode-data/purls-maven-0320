@@ -1136,8 +1136,10 @@
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.7.4?classifier=sources
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.7.5
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.7.5?classifier=sources
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.7.6
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.7.6-snapshot.20231101.11997.0.v3b7c9391
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.7.6-snapshot.20231101.11997.0.v3b7c9391?classifier=sources
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.7.6?classifier=sources
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20230720.11990.0.v5d026ac9
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20230720.11990.0.v5d026ac9?classifier=sources
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20230721.11992.0.v25c60bf8
@@ -1294,3 +1296,15 @@
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231106.12310.0.vae5e9fed?classifier=sources
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231107.12319.0.v03a51e65
 - pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231107.12319.0.v03a51e65?classifier=sources
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231108.12326.0.v32c66267
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231108.12326.0.v32c66267?classifier=sources
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231109.12334.0.v6ef062da
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231109.12334.0.v6ef062da?classifier=sources
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231110.12341.0.v7d1521ee
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231110.12341.0.v7d1521ee?classifier=sources
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231113.12342.0.v78cc7507
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231113.12342.0.v78cc7507?classifier=sources
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231113.12352.0.v6933514d
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231113.12352.0.v6933514d?classifier=sources
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231114.12362.0.vb81ee69a
+- pkg:maven/com.daml/test-common-1.dev_2.13@2.8.0-snapshot.20231114.12362.0.vb81ee69a?classifier=sources

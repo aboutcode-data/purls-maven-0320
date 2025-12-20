@@ -8,3 +8,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/ort-config-package-curation-provider@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/ort-config-package-curation-provider@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/ort-config-package-curation-provider@6.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/ort-config-package-curation-provider@6.1.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/ort-config-package-curation-provider@7.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/ort-config-package-curation-provider@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/ort-config-package-curation-provider@8.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/ort-config-package-curation-provider@9.0.0?classifier=sources

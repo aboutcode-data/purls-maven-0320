@@ -15,3 +15,5 @@
 - pkg:maven/eu.hansolo.fx/heatmap@17.0.7?classifier=sources
 - pkg:maven/eu.hansolo.fx/heatmap@17.0.8?classifier=sources
 - pkg:maven/eu.hansolo.fx/heatmap@17.0.9?classifier=sources
+- pkg:maven/eu.hansolo.fx/heatmap@21.0.0?classifier=sources
+- pkg:maven/eu.hansolo.fx/heatmap@21.0.1?classifier=sources

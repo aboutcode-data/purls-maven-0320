@@ -4,3 +4,5 @@
 - pkg:maven/io.github.kamilszewc/tabulator@2.3?classifier=sources
 - pkg:maven/io.github.kamilszewc/tabulator@2.4?classifier=sources
 - pkg:maven/io.github.kamilszewc/tabulator@3.0?classifier=sources
+- pkg:maven/io.github.kamilszewc/tabulator@3.3?classifier=sources
+- pkg:maven/io.github.kamilszewc/tabulator@3.4?classifier=sources

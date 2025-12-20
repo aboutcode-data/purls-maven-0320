@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore.xtext@1.6.0?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore.xtext@1.7.0
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore.xtext@1.7.0?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore.xtext@1.8.0
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore.xtext@1.8.0?classifier=sources

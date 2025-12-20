@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/formBuilder@3.17.0
+- pkg:maven/org.webjars.npm/formBuilder@3.17.0?classifier=sources
 - pkg:maven/org.webjars.npm/formBuilder@3.6.1
 - pkg:maven/org.webjars.npm/formBuilder@3.6.1?classifier=sources
 - pkg:maven/org.webjars.npm/formBuilder@3.8.3

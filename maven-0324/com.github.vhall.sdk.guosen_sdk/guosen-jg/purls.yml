@@ -1,0 +1,10 @@
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@1.0.11?classifier=sources
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@1.0.11?type=aar
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@1.0.12?classifier=sources
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@1.0.12?type=aar
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@1.0.6?classifier=sources
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@1.0.6?type=aar
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@1.0.9?classifier=sources
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@1.0.9?type=aar
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@2.0.0?classifier=sources
+- pkg:maven/com.github.vhall.sdk.guosen_sdk/guosen-jg@2.0.0?type=aar

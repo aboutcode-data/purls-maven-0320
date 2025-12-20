@@ -36,3 +36,4 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@5.17.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@5.18.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@5.18.0.1?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-mytarget@5.19.0.0?classifier=sources

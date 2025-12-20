@@ -126,4 +126,6 @@
 - pkg:maven/org.dspace/dspace-oai@7.5
 - pkg:maven/org.dspace/dspace-oai@7.5?classifier=sources
 - pkg:maven/org.dspace/dspace-oai@7.6
+- pkg:maven/org.dspace/dspace-oai@7.6.1
+- pkg:maven/org.dspace/dspace-oai@7.6.1?classifier=sources
 - pkg:maven/org.dspace/dspace-oai@7.6?classifier=sources

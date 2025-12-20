@@ -1,2 +1,4 @@
 - pkg:maven/io.github.commonground-testing/zgw-openforms-testclient@1.0.0?classifier=sources
 - pkg:maven/io.github.commonground-testing/zgw-openforms-testclient@1.1.0?classifier=sources
+- pkg:maven/io.github.commonground-testing/zgw-openforms-testclient@2.0.0?classifier=sources
+- pkg:maven/io.github.commonground-testing/zgw-openforms-testclient@2.0.1?classifier=sources

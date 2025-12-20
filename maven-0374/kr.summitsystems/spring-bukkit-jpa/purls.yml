@@ -1,0 +1,10 @@
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.2-beta1?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.2-beta2?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.2-beta3?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.2-beta4?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.2-beta5?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.2-beta6?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.3-beta1?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.3-beta2?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.3-beta3?classifier=sources
+- pkg:maven/kr.summitsystems/spring-bukkit-jpa@0.0.3-beta4?classifier=sources

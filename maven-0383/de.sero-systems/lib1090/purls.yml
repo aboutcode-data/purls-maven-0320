@@ -6,5 +6,7 @@
 - pkg:maven/de.sero-systems/lib1090@4.0.0?classifier=sources
 - pkg:maven/de.sero-systems/lib1090@4.0.1
 - pkg:maven/de.sero-systems/lib1090@4.0.1?classifier=sources
+- pkg:maven/de.sero-systems/lib1090@4.1.0
 - pkg:maven/de.sero-systems/lib1090@4.1.0-RC1
 - pkg:maven/de.sero-systems/lib1090@4.1.0-RC1?classifier=sources
+- pkg:maven/de.sero-systems/lib1090@4.1.0?classifier=sources

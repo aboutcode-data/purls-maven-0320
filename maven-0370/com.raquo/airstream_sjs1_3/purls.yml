@@ -28,3 +28,5 @@
 - pkg:maven/com.raquo/airstream_sjs1_3@15.0.0?classifier=sources
 - pkg:maven/com.raquo/airstream_sjs1_3@16.0.0
 - pkg:maven/com.raquo/airstream_sjs1_3@16.0.0?classifier=sources
+- pkg:maven/com.raquo/airstream_sjs1_3@17.0.0-M1
+- pkg:maven/com.raquo/airstream_sjs1_3@17.0.0-M1?classifier=sources

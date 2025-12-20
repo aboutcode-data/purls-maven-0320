@@ -10,3 +10,5 @@
 - pkg:maven/de.killaitis/http4s-cloud-functions_2.13@0.4.3
 - pkg:maven/de.killaitis/http4s-cloud-functions_2.13@0.4.3?classifier=sources
 - pkg:maven/de.killaitis/http4s-cloud-functions_2.13@0.4?classifier=sources
+- pkg:maven/de.killaitis/http4s-cloud-functions_2.13@v0.4.4
+- pkg:maven/de.killaitis/http4s-cloud-functions_2.13@v0.4.4?classifier=sources

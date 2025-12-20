@@ -86,3 +86,4 @@
 - pkg:maven/com.bugsnag/bugsnag-android-core@5.9.3?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-core@5.9.4?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-core@5.9.5?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-core@6.0.0?classifier=sources

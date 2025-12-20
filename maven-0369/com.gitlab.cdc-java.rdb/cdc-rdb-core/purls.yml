@@ -1,0 +1,4 @@
+- pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-core@0.23.0
+- pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-core@0.23.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-core@0.50.0
+- pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-core@0.50.0?classifier=sources

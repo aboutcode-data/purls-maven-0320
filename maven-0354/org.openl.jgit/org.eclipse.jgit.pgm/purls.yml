@@ -6,3 +6,4 @@
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.pgm@6.2.0.202206071550-openl?classifier=sources
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.pgm@6.3.0.202209071007-openl-2?classifier=sources
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.pgm@6.3.0.202209071007-openl?classifier=sources
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.pgm@6.8.0.202311291450-openl?classifier=sources

@@ -45,6 +45,9 @@
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@13.0.6?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@13.0.7
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@13.0.7?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@13.0.8?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@13.0.9
+- pkg:maven/org.opendaylight.odlparent/bundles-test-lib@13.0.9?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@2.0.0
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/bundles-test-lib@2.0.1

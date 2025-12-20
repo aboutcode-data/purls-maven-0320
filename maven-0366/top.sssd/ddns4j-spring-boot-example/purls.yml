@@ -1,0 +1,4 @@
+- pkg:maven/top.sssd/ddns4j-spring-boot-example@0.0.2
+- pkg:maven/top.sssd/ddns4j-spring-boot-example@0.0.2?classifier=sources
+- pkg:maven/top.sssd/ddns4j-spring-boot-example@0.0.3
+- pkg:maven/top.sssd/ddns4j-spring-boot-example@0.0.3?classifier=sources

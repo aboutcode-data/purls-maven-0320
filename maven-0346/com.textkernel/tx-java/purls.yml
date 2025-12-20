@@ -1,0 +1,2 @@
+- pkg:maven/com.textkernel/tx-java@1.10.1-beta
+- pkg:maven/com.textkernel/tx-java@1.10.1-beta?classifier=sources

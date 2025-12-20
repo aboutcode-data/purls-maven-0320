@@ -2,3 +2,4 @@
 - pkg:maven/io.micronaut.session/micronaut-session@4.0.0-M2?classifier=sources
 - pkg:maven/io.micronaut.session/micronaut-session@4.0.0-M3?classifier=sources
 - pkg:maven/io.micronaut.session/micronaut-session@4.0.0?classifier=sources
+- pkg:maven/io.micronaut.session/micronaut-session@4.1.0?classifier=sources

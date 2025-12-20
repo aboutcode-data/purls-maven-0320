@@ -40,3 +40,5 @@
 - pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.39?classifier=sources
 - pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.40
 - pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.40?classifier=sources
+- pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.41
+- pkg:maven/org.jpmml/pmml-sklearn-statsmodels@1.7.41?classifier=sources

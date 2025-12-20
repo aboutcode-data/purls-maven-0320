@@ -12,6 +12,8 @@
 - pkg:maven/cn.godmao/log@1.1.4?classifier=sources
 - pkg:maven/cn.godmao/log@1.1.5.1.Beat
 - pkg:maven/cn.godmao/log@1.1.5.1.Beat?classifier=sources
+- pkg:maven/cn.godmao/log@1.1.5.2.Beat
+- pkg:maven/cn.godmao/log@1.1.5.2.Beat?classifier=sources
 - pkg:maven/cn.godmao/log@1.1.5.Beat
 - pkg:maven/cn.godmao/log@1.1.5.Beat?classifier=sources
 - pkg:maven/cn.godmao/log@2.2.11
@@ -92,5 +94,7 @@
 - pkg:maven/cn.godmao/log@2.3.4.5.Beat?classifier=sources
 - pkg:maven/cn.godmao/log@2.3.4.6.Beat
 - pkg:maven/cn.godmao/log@2.3.4.6.Beat?classifier=sources
+- pkg:maven/cn.godmao/log@2.3.4.7.Beat
+- pkg:maven/cn.godmao/log@2.3.4.7.Beat?classifier=sources
 - pkg:maven/cn.godmao/log@2.3.4.Beat
 - pkg:maven/cn.godmao/log@2.3.4.Beat?classifier=sources

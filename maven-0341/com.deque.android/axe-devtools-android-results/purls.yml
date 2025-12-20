@@ -4,3 +4,4 @@
 - pkg:maven/com.deque.android/axe-devtools-android-results@2.2.0?classifier=sources
 - pkg:maven/com.deque.android/axe-devtools-android-results@4.0.0?classifier=sources
 - pkg:maven/com.deque.android/axe-devtools-android-results@4.1.0?classifier=sources
+- pkg:maven/com.deque.android/axe-devtools-android-results@4.2.0?classifier=sources

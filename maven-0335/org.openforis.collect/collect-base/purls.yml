@@ -207,4 +207,6 @@
 - pkg:maven/org.openforis.collect/collect-base@4.0.86?classifier=sources
 - pkg:maven/org.openforis.collect/collect-base@4.0.87
 - pkg:maven/org.openforis.collect/collect-base@4.0.87?classifier=sources
+- pkg:maven/org.openforis.collect/collect-base@4.0.88
+- pkg:maven/org.openforis.collect/collect-base@4.0.88?classifier=sources
 - pkg:maven/org.openforis.collect/collect-base@4.0.8?classifier=sources

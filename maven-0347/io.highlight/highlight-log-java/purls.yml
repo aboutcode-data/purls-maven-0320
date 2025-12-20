@@ -50,3 +50,7 @@
 - pkg:maven/io.highlight/highlight-log-java@-b93
 - pkg:maven/io.highlight/highlight-log-java@-b94
 - pkg:maven/io.highlight/highlight-log-java@-b95
+- pkg:maven/io.highlight/highlight-log-java@0.1.0
+- pkg:maven/io.highlight/highlight-log-java@0.1.0?classifier=sources
+- pkg:maven/io.highlight/highlight-log-java@0.1.1
+- pkg:maven/io.highlight/highlight-log-java@0.1.1?classifier=sources

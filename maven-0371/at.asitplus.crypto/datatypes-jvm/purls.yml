@@ -1,0 +1,2 @@
+- pkg:maven/at.asitplus.crypto/datatypes-jvm@1.0.0?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-jvm@2.0.0?classifier=sources

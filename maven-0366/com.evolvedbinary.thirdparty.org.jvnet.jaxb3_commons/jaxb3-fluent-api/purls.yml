@@ -1,0 +1,2 @@
+- pkg:maven/com.evolvedbinary.thirdparty.org.jvnet.jaxb3_commons/jaxb3-fluent-api@3.0.2
+- pkg:maven/com.evolvedbinary.thirdparty.org.jvnet.jaxb3_commons/jaxb3-fluent-api@3.0.2?classifier=sources

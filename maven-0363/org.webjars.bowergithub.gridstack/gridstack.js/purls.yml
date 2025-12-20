@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bowergithub.gridstack/gridstack.js@0.5.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.gridstack/gridstack.js@2.2.0
 - pkg:maven/org.webjars.bowergithub.gridstack/gridstack.js@2.2.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.gridstack/gridstack.js@9.5.0
+- pkg:maven/org.webjars.bowergithub.gridstack/gridstack.js@9.5.0?classifier=sources

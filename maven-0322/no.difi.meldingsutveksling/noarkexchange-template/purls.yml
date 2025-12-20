@@ -46,6 +46,10 @@
 - pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.22.1?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.23.0
 - pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.23.0?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.23.1
+- pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.23.1?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.24.0
+- pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.24.0?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.3.0
 - pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.3.0?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/noarkexchange-template@2.3.1

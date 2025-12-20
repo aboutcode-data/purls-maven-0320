@@ -1,2 +1,4 @@
 - pkg:maven/io.github.ludovicianul/pretty-logger@1.15
 - pkg:maven/io.github.ludovicianul/pretty-logger@1.15?classifier=sources
+- pkg:maven/io.github.ludovicianul/pretty-logger@1.16
+- pkg:maven/io.github.ludovicianul/pretty-logger@1.16?classifier=sources

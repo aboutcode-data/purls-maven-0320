@@ -1,0 +1,2 @@
+- pkg:maven/io.github.greenleafoss/green-leaf-mongo-play_3@3.0
+- pkg:maven/io.github.greenleafoss/green-leaf-mongo-play_3@3.0?classifier=sources

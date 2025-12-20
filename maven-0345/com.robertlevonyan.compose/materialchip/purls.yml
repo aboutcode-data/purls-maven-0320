@@ -17,3 +17,4 @@
 - pkg:maven/com.robertlevonyan.compose/materialchip@3.0.3?classifier=sources
 - pkg:maven/com.robertlevonyan.compose/materialchip@3.0.4?classifier=sources
 - pkg:maven/com.robertlevonyan.compose/materialchip@3.0.6?classifier=sources
+- pkg:maven/com.robertlevonyan.compose/materialchip@3.0.8?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/io.github.shawxingkwok/tracer-android-view-compiler@1.0.0-1.0.0?classifier=sources
 - pkg:maven/io.github.shawxingkwok/tracer-android-view-compiler@1.0.0?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1013_java?type=aar
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1013_javalite?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1013_javalite?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1014?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im@2.2.24_1014?type=aar

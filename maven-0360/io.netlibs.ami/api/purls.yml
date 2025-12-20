@@ -1,0 +1,2 @@
+- pkg:maven/io.netlibs.ami/api@0.10.0?classifier=sources
+- pkg:maven/io.netlibs.ami/api@0.9.0?classifier=sources

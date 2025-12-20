@@ -31,3 +31,5 @@
 - pkg:maven/org.ooni/oonimkall@2023.10.10-165336?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2023.10.11-164337?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2023.10.11-213148?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2023.10.12-183140?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2023.10.20-093834?classifier=sources

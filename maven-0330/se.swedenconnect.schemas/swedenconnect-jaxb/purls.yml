@@ -1,0 +1,4 @@
+- pkg:maven/se.swedenconnect.schemas/swedenconnect-jaxb@3.0.0
+- pkg:maven/se.swedenconnect.schemas/swedenconnect-jaxb@3.0.0?classifier=sources
+- pkg:maven/se.swedenconnect.schemas/swedenconnect-jaxb@3.0.1
+- pkg:maven/se.swedenconnect.schemas/swedenconnect-jaxb@3.0.1?classifier=sources

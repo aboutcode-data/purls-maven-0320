@@ -1,0 +1,2 @@
+- pkg:maven/org.thepalaceproject.theme/org.thepalaceproject.theme.core@1.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.theme/org.thepalaceproject.theme.core@1.1.0?classifier=sources

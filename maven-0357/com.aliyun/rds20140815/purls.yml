@@ -102,3 +102,7 @@
 - pkg:maven/com.aliyun/rds20140815@1.5.4?classifier=sources
 - pkg:maven/com.aliyun/rds20140815@1.6.0
 - pkg:maven/com.aliyun/rds20140815@1.6.0?classifier=sources
+- pkg:maven/com.aliyun/rds20140815@1.7.0
+- pkg:maven/com.aliyun/rds20140815@1.7.0?classifier=sources
+- pkg:maven/com.aliyun/rds20140815@1.8.0
+- pkg:maven/com.aliyun/rds20140815@1.8.0?classifier=sources

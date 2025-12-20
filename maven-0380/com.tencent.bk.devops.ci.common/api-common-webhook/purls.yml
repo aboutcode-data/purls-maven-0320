@@ -1,3 +1,4 @@
+- pkg:maven/com.tencent.bk.devops.ci.common/api-common-webhook@1.13.0-rc.2?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/api-common-webhook@1.7.23-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/api-common-webhook@1.7.24-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/api-common-webhook@1.7.26-RELEASE?classifier=sources

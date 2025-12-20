@@ -1,0 +1,1 @@
+- pkg:maven/com.microsoft.azure.kusto/flink-connector-kusto@1.0.0?classifier=sources

@@ -112,3 +112,7 @@
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@4.1.8-01
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@4.2.0-02
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@4.2.1-01
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@4.2.2-01
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@4.3.0-01
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@4.3.1-01
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@4.3.2-01

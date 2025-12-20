@@ -1,3 +1,8 @@
 - pkg:maven/de.muenchen.oss.digiwf/digiwf-coverage@0.18.1
 - pkg:maven/de.muenchen.oss.digiwf/digiwf-coverage@0.18.2
 - pkg:maven/de.muenchen.oss.digiwf/digiwf-coverage@0.18.3
+- pkg:maven/de.muenchen.oss.digiwf/digiwf-coverage@1.0.1
+- pkg:maven/de.muenchen.oss.digiwf/digiwf-coverage@1.1.0
+- pkg:maven/de.muenchen.oss.digiwf/digiwf-coverage@1.1.1
+- pkg:maven/de.muenchen.oss.digiwf/digiwf-coverage@1.1.2
+- pkg:maven/de.muenchen.oss.digiwf/digiwf-coverage@1.2.0

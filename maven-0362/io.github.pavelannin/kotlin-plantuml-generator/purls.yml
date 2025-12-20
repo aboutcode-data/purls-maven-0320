@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pavelannin/kotlin-plantuml-generator@1.0.0?classifier=sources
+- pkg:maven/io.github.pavelannin/kotlin-plantuml-generator@1.0.1?classifier=sources

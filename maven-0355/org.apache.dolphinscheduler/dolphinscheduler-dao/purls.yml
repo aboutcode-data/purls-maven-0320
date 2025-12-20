@@ -82,3 +82,5 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dao@3.1.7?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dao@3.1.8
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dao@3.1.8?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dao@3.2.0
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dao@3.2.0?classifier=sources

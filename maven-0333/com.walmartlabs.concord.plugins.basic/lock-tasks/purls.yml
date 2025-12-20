@@ -144,3 +144,5 @@
 - pkg:maven/com.walmartlabs.concord.plugins.basic/lock-tasks@1.99.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/lock-tasks@2.0.0
 - pkg:maven/com.walmartlabs.concord.plugins.basic/lock-tasks@2.0.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins.basic/lock-tasks@2.1.0
+- pkg:maven/com.walmartlabs.concord.plugins.basic/lock-tasks@2.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.karatelabs/karate-debugserver@0.1.0
+- pkg:maven/io.karatelabs/karate-debugserver@0.1.0?classifier=sources

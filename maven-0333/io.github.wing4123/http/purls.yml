@@ -1,0 +1,4 @@
+- pkg:maven/io.github.wing4123/http@1.0.0
+- pkg:maven/io.github.wing4123/http@1.0.0?classifier=sources
+- pkg:maven/io.github.wing4123/http@1.0.1
+- pkg:maven/io.github.wing4123/http@1.0.1?classifier=sources

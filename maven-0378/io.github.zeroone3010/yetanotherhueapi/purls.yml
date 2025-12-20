@@ -29,4 +29,8 @@
 - pkg:maven/io.github.zeroone3010/yetanotherhueapi@3.0.0-alpha
 - pkg:maven/io.github.zeroone3010/yetanotherhueapi@3.0.0-alpha?classifier=sources
 - pkg:maven/io.github.zeroone3010/yetanotherhueapi@3.0.0-beta
+- pkg:maven/io.github.zeroone3010/yetanotherhueapi@3.0.0-beta-2
+- pkg:maven/io.github.zeroone3010/yetanotherhueapi@3.0.0-beta-2?classifier=sources
 - pkg:maven/io.github.zeroone3010/yetanotherhueapi@3.0.0-beta?classifier=sources
+- pkg:maven/io.github.zeroone3010/yetanotherhueapi@3.0.0-rc
+- pkg:maven/io.github.zeroone3010/yetanotherhueapi@3.0.0-rc?classifier=sources

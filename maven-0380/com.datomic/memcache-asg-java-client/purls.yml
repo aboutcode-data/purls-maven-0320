@@ -1,1 +1,2 @@
 - pkg:maven/com.datomic/memcache-asg-java-client@1.1.0.35
+- pkg:maven/com.datomic/memcache-asg-java-client@1.1.0.36

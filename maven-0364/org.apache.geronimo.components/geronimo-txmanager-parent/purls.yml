@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.geronimo.components/geronimo-txmanager-parent@3.1.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo.components/geronimo-txmanager-parent@3.1.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo.components/geronimo-txmanager-parent@3.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.components/geronimo-txmanager-parent@4.0.0?classifier=source-release&type=zip

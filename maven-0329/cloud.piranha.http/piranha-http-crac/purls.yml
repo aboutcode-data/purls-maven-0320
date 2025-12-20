@@ -2,6 +2,8 @@
 - pkg:maven/cloud.piranha.http/piranha-http-crac@22.12.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-crac@23.1.0
 - pkg:maven/cloud.piranha.http/piranha-http-crac@23.1.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-crac@23.10.0
+- pkg:maven/cloud.piranha.http/piranha-http-crac@23.10.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-crac@23.2.0
 - pkg:maven/cloud.piranha.http/piranha-http-crac@23.2.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-crac@23.3.0

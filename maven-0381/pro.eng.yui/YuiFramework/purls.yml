@@ -8,3 +8,5 @@
 - pkg:maven/pro.eng.yui/YuiFramework@1.0.0-SNAPSHOT-006
 - pkg:maven/pro.eng.yui/YuiFramework@1.0.0-SNAPSHOT-006?classifier=sources
 - pkg:maven/pro.eng.yui/YuiFramework@1.0.0?classifier=sources
+- pkg:maven/pro.eng.yui/YuiFramework@1.1.0
+- pkg:maven/pro.eng.yui/YuiFramework@1.1.0?classifier=sources

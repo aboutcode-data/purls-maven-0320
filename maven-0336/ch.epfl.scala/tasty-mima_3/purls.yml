@@ -22,3 +22,7 @@
 - pkg:maven/ch.epfl.scala/tasty-mima_3@0.3.1?classifier=sources
 - pkg:maven/ch.epfl.scala/tasty-mima_3@0.4.0
 - pkg:maven/ch.epfl.scala/tasty-mima_3@0.4.0?classifier=sources
+- pkg:maven/ch.epfl.scala/tasty-mima_3@0.5.0
+- pkg:maven/ch.epfl.scala/tasty-mima_3@0.5.0?classifier=sources
+- pkg:maven/ch.epfl.scala/tasty-mima_3@1.0.0
+- pkg:maven/ch.epfl.scala/tasty-mima_3@1.0.0?classifier=sources

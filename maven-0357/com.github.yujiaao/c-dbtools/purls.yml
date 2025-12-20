@@ -119,6 +119,8 @@
 - pkg:maven/com.github.yujiaao/c-dbtools@1.14.8.13
 - pkg:maven/com.github.yujiaao/c-dbtools@1.14.8.13?classifier=sources
 - pkg:maven/com.github.yujiaao/c-dbtools@1.14.9
+- pkg:maven/com.github.yujiaao/c-dbtools@1.14.9.10
+- pkg:maven/com.github.yujiaao/c-dbtools@1.14.9.10?classifier=sources
 - pkg:maven/com.github.yujiaao/c-dbtools@1.14.9?classifier=sources
 - pkg:maven/com.github.yujiaao/c-dbtools@1.2.0
 - pkg:maven/com.github.yujiaao/c-dbtools@1.2.0?classifier=sources

@@ -598,6 +598,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch@8.10.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch@8.10.3
 - pkg:maven/org.elasticsearch/elasticsearch@8.10.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch@8.10.4
+- pkg:maven/org.elasticsearch/elasticsearch@8.10.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch@8.2.0
 - pkg:maven/org.elasticsearch/elasticsearch@8.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch@8.2.1

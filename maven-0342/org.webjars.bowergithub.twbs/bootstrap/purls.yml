@@ -74,3 +74,5 @@
 - pkg:maven/org.webjars.bowergithub.twbs/bootstrap@5.3.0-alpha3
 - pkg:maven/org.webjars.bowergithub.twbs/bootstrap@5.3.0-alpha3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.twbs/bootstrap@5.3.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.twbs/bootstrap@5.3.2
+- pkg:maven/org.webjars.bowergithub.twbs/bootstrap@5.3.2?classifier=sources

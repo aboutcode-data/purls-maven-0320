@@ -22,3 +22,4 @@
 - pkg:maven/com.qliro/qliroone@2.2.4?classifier=sources
 - pkg:maven/com.qliro/qliroone@2.2.5?classifier=sources
 - pkg:maven/com.qliro/qliroone@2.2.6?classifier=sources
+- pkg:maven/com.qliro/qliroone@2.2.7?classifier=sources

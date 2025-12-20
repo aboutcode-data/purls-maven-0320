@@ -1,0 +1,2 @@
+- pkg:maven/com.myopenpass.sdk/openpass-android-sdk-tv@1.1.0?classifier=sources
+- pkg:maven/com.myopenpass.sdk/openpass-android-sdk-tv@1.1.1?classifier=sources

@@ -237,3 +237,5 @@
 - pkg:maven/com.liferay/com.liferay.osgi.util@7.5.3
 - pkg:maven/com.liferay/com.liferay.osgi.util@7.5.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.osgi.util@7.5.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.osgi.util@8.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.osgi.util@8.1.0?classifier=sources

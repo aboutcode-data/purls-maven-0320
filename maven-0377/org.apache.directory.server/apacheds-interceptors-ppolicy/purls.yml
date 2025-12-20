@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.directory.server/apacheds-interceptors-ppolicy@2.0.0.AM27
+- pkg:maven/org.apache.directory.server/apacheds-interceptors-ppolicy@2.0.0.AM27?classifier=sources

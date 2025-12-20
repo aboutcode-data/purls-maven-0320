@@ -1,3 +1,4 @@
 - pkg:maven/de.fabmax.kool/kool-physics@0.11.0?classifier=sources
+- pkg:maven/de.fabmax.kool/kool-physics@0.12.1?classifier=sources
 - pkg:maven/de.fabmax.kool/kool-physics@0.7.0?classifier=sources
 - pkg:maven/de.fabmax.kool/kool-physics@0.8.0?classifier=sources

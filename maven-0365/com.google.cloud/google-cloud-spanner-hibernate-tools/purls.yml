@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud/google-cloud-spanner-hibernate-tools@2.0.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-hibernate-tools@2.0.0?classifier=sources

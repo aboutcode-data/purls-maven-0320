@@ -1,0 +1,2 @@
+- pkg:maven/io.sourceforge.github.security/ms-security@1.0.0
+- pkg:maven/io.sourceforge.github.security/ms-security@1.0.0?classifier=sources

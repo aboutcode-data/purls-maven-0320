@@ -5,3 +5,4 @@
 - pkg:maven/com.tailrocks.jambalaya/jambalaya-tenancy-junit@0.4.4?classifier=sources
 - pkg:maven/com.tailrocks.jambalaya/jambalaya-tenancy-junit@0.4.5?classifier=sources
 - pkg:maven/com.tailrocks.jambalaya/jambalaya-tenancy-junit@0.4.6?classifier=sources
+- pkg:maven/com.tailrocks.jambalaya/jambalaya-tenancy-junit@0.5.0?classifier=sources

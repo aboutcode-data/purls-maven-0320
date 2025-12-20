@@ -10,3 +10,5 @@
 - pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.4?classifier=sources
 - pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.5
 - pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.5?classifier=sources
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.6
+- pkg:maven/io.github.git-commit-id/git-commit-id-plugin-core@6.0.0-rc.6?classifier=sources

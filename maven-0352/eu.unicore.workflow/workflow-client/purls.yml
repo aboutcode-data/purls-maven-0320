@@ -1,0 +1,2 @@
+- pkg:maven/eu.unicore.workflow/workflow-client@3.7.0
+- pkg:maven/eu.unicore.workflow/workflow-client@3.7.0?classifier=sources

@@ -95,6 +95,8 @@
 - pkg:maven/org.apache.servicecomb/registry-schema-discovery@2.8.17?classifier=sources
 - pkg:maven/org.apache.servicecomb/registry-schema-discovery@2.8.18
 - pkg:maven/org.apache.servicecomb/registry-schema-discovery@2.8.18?classifier=sources
+- pkg:maven/org.apache.servicecomb/registry-schema-discovery@2.8.19
+- pkg:maven/org.apache.servicecomb/registry-schema-discovery@2.8.19?classifier=sources
 - pkg:maven/org.apache.servicecomb/registry-schema-discovery@2.8.1?classifier=sources
 - pkg:maven/org.apache.servicecomb/registry-schema-discovery@2.8.2
 - pkg:maven/org.apache.servicecomb/registry-schema-discovery@2.8.2?classifier=sources

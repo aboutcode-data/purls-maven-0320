@@ -24,3 +24,5 @@
 - pkg:maven/io.qbeast/qbeast-spark_2.12@0.6.0-rc2
 - pkg:maven/io.qbeast/qbeast-spark_2.12@0.6.0-rc2?classifier=sources
 - pkg:maven/io.qbeast/qbeast-spark_2.12@0.6.0?classifier=sources
+- pkg:maven/io.qbeast/qbeast-spark_2.12@0.7.0-rc1
+- pkg:maven/io.qbeast/qbeast-spark_2.12@0.7.0-rc1?classifier=sources

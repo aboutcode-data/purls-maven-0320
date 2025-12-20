@@ -1,0 +1,4 @@
+- pkg:maven/edu.utah.bmi.nlp/easycie-deploy@2.0.1.0-jdk11
+- pkg:maven/edu.utah.bmi.nlp/easycie-deploy@2.0.1.0-jdk11?classifier=sources
+- pkg:maven/edu.utah.bmi.nlp/easycie-deploy@2.0.1.0-jdk8
+- pkg:maven/edu.utah.bmi.nlp/easycie-deploy@2.0.1.0-jdk8?classifier=sources

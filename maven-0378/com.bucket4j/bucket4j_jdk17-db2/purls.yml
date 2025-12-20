@@ -1,0 +1,2 @@
+- pkg:maven/com.bucket4j/bucket4j_jdk17-db2@8.14.0
+- pkg:maven/com.bucket4j/bucket4j_jdk17-db2@8.14.0?classifier=sources

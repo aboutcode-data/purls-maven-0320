@@ -1,0 +1,2 @@
+- pkg:maven/eu.maveniverse.maven.mima.extensions/mmr@2.4.17
+- pkg:maven/eu.maveniverse.maven.mima.extensions/mmr@2.4.17?classifier=sources

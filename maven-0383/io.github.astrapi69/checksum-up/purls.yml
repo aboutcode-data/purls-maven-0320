@@ -4,4 +4,5 @@
 - pkg:maven/io.github.astrapi69/checksum-up@2.1?classifier=sources
 - pkg:maven/io.github.astrapi69/checksum-up@2.2?classifier=sources
 - pkg:maven/io.github.astrapi69/checksum-up@2?classifier=sources
+- pkg:maven/io.github.astrapi69/checksum-up@3.1?classifier=sources
 - pkg:maven/io.github.astrapi69/checksum-up@3?classifier=sources

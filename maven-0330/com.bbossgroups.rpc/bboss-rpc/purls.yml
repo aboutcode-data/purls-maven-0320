@@ -80,3 +80,4 @@
 - pkg:maven/com.bbossgroups.rpc/bboss-rpc@6.1.7?classifier=sources
 - pkg:maven/com.bbossgroups.rpc/bboss-rpc@6.1.8?classifier=sources
 - pkg:maven/com.bbossgroups.rpc/bboss-rpc@6.2.2?classifier=sources
+- pkg:maven/com.bbossgroups.rpc/bboss-rpc@6.2.3?classifier=sources

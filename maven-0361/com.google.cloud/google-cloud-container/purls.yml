@@ -338,6 +338,10 @@
 - pkg:maven/com.google.cloud/google-cloud-container@2.5.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-container@2.5.2
 - pkg:maven/com.google.cloud/google-cloud-container@2.5.2?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-container@2.50.0
+- pkg:maven/com.google.cloud/google-cloud-container@2.50.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-container@2.51.0
+- pkg:maven/com.google.cloud/google-cloud-container@2.51.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-container@2.6.0
 - pkg:maven/com.google.cloud/google-cloud-container@2.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-container@2.7.0

@@ -268,6 +268,7 @@
 - pkg:maven/com.liferay/com.liferay.depot.web@1.0.90?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@1.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@1.0.92?classifier=sources
+- pkg:maven/com.liferay/com.liferay.depot.web@1.0.93?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@1.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.0
@@ -284,9 +285,12 @@
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.106?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.107?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.108?classifier=sources
+- pkg:maven/com.liferay/com.liferay.depot.web@2.0.109?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.11
+- pkg:maven/com.liferay/com.liferay.depot.web@2.0.110?classifier=sources
+- pkg:maven/com.liferay/com.liferay.depot.web@2.0.111?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.depot.web@2.0.12

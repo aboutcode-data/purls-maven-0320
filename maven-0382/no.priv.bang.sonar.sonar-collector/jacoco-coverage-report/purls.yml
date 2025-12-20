@@ -41,3 +41,4 @@
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.8
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@1.5.9
 - pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@2.5.27
+- pkg:maven/no.priv.bang.sonar.sonar-collector/jacoco-coverage-report@2.5.28

@@ -1,2 +1,4 @@
 - pkg:maven/org.graceframework.plugins/admin@0.0.1?classifier=sources
 - pkg:maven/org.graceframework.plugins/admin@0.1.0?classifier=sources
+- pkg:maven/org.graceframework.plugins/admin@0.2.0?classifier=sources
+- pkg:maven/org.graceframework.plugins/admin@1.0.0-M1?classifier=sources

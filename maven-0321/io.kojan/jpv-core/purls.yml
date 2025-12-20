@@ -1,0 +1,2 @@
+- pkg:maven/io.kojan/jpv-core@ba5d4df
+- pkg:maven/io.kojan/jpv-core@ba5d4df?classifier=sources

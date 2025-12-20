@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cloak-box/greetingApi@1.7?classifier=sources
+- pkg:maven/io.github.cloak-box/greetingApi@1.8?classifier=sources

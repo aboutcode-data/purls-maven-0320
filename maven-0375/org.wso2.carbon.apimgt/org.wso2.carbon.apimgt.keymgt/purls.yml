@@ -5339,6 +5339,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.keymgt@9.29.18
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.keymgt@9.29.18?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.keymgt@9.29.19
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.keymgt@9.29.193
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.keymgt@9.29.193?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.keymgt@9.29.19?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.keymgt@9.29.20
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.keymgt@9.29.20?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/io.github.parthappm/http-server@1.1.0?classifier=sources
 - pkg:maven/io.github.parthappm/http-server@1.2.0?classifier=sources
 - pkg:maven/io.github.parthappm/http-server@1.3.0?classifier=sources
+- pkg:maven/io.github.parthappm/http-server@2.0.0?classifier=sources
+- pkg:maven/io.github.parthappm/http-server@2.0.1?classifier=sources

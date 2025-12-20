@@ -38,3 +38,5 @@
 - pkg:maven/com.github.tommyettinger/textratypist@0.9.0-a2?classifier=sources
 - pkg:maven/com.github.tommyettinger/textratypist@0.9.0-a3?classifier=sources
 - pkg:maven/com.github.tommyettinger/textratypist@0.9.0?classifier=sources
+- pkg:maven/com.github.tommyettinger/textratypist@1.0.0?classifier=sources
+- pkg:maven/com.github.tommyettinger/textratypist@1.1.0?classifier=sources

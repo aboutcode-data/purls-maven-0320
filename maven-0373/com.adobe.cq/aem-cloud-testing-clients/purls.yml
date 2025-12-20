@@ -58,3 +58,5 @@
 - pkg:maven/com.adobe.cq/aem-cloud-testing-clients@1.2.4?classifier=sources
 - pkg:maven/com.adobe.cq/aem-cloud-testing-clients@1.2.5
 - pkg:maven/com.adobe.cq/aem-cloud-testing-clients@1.2.5?classifier=sources
+- pkg:maven/com.adobe.cq/aem-cloud-testing-clients@1.2.6
+- pkg:maven/com.adobe.cq/aem-cloud-testing-clients@1.2.6?classifier=sources

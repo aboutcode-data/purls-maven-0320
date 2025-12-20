@@ -17,3 +17,5 @@
 - pkg:maven/com.apptasticsoftware/rssreader@3.5.0?classifier=sources
 - pkg:maven/com.apptasticsoftware/rssreader@3.6.0?classifier=sources
 - pkg:maven/com.apptasticsoftware/rssreader@3.7.0?classifier=sources
+- pkg:maven/com.apptasticsoftware/rssreader@3.8.0?classifier=sources
+- pkg:maven/com.apptasticsoftware/rssreader@3.8.1?classifier=sources

@@ -310,6 +310,8 @@
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.63.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.64.0
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.64.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.65.0
+- pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.65.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.7.0
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.7.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter@2.8.0

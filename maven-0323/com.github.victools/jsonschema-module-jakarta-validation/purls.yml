@@ -46,3 +46,5 @@
 - pkg:maven/com.github.victools/jsonschema-module-jakarta-validation@4.34.0?classifier=sources
 - pkg:maven/com.github.victools/jsonschema-module-jakarta-validation@4.35.0
 - pkg:maven/com.github.victools/jsonschema-module-jakarta-validation@4.35.0?classifier=sources
+- pkg:maven/com.github.victools/jsonschema-module-jakarta-validation@4.36.0
+- pkg:maven/com.github.victools/jsonschema-module-jakarta-validation@4.36.0?classifier=sources

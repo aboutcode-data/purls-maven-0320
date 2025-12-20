@@ -1,0 +1,2 @@
+- pkg:maven/top.fullj/chain@1.0.0?classifier=sources
+- pkg:maven/top.fullj/chain@1.1.0?classifier=sources

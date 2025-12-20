@@ -102,3 +102,7 @@
 - pkg:maven/in.messai/yuga@1.0.66?classifier=sources
 - pkg:maven/in.messai/yuga@1.0.67
 - pkg:maven/in.messai/yuga@1.0.67?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.68
+- pkg:maven/in.messai/yuga@1.0.68?classifier=sources
+- pkg:maven/in.messai/yuga@1.0.69
+- pkg:maven/in.messai/yuga@1.0.69?classifier=sources

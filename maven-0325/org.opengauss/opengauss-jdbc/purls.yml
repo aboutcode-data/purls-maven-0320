@@ -34,6 +34,10 @@
 - pkg:maven/org.opengauss/opengauss-jdbc@5.0.2-og
 - pkg:maven/org.opengauss/opengauss-jdbc@5.0.2-og?classifier=sources
 - pkg:maven/org.opengauss/opengauss-jdbc@5.0.2?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@5.0.3
+- pkg:maven/org.opengauss/opengauss-jdbc@5.0.3-og
+- pkg:maven/org.opengauss/opengauss-jdbc@5.0.3-og?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@5.0.3?classifier=sources
 - pkg:maven/org.opengauss/opengauss-jdbc@5.1.0
 - pkg:maven/org.opengauss/opengauss-jdbc@5.1.0-og
 - pkg:maven/org.opengauss/opengauss-jdbc@5.1.0-og?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/club.zhcs/lina-trace@3.3.1
 - pkg:maven/club.zhcs/lina-trace@3.3.1?classifier=sources
+- pkg:maven/club.zhcs/lina-trace@3.3.2
+- pkg:maven/club.zhcs/lina-trace@3.3.2?classifier=sources
+- pkg:maven/club.zhcs/lina-trace@3.3.3
+- pkg:maven/club.zhcs/lina-trace@3.3.3?classifier=sources

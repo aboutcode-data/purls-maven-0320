@@ -31,3 +31,5 @@
 - pkg:maven/com.quectel.aiot/quecloud-sdk-dev-mgr@1.8.0.RELEASE?classifier=sources
 - pkg:maven/com.quectel.aiot/quecloud-sdk-dev-mgr@1.9.0.RELEASE
 - pkg:maven/com.quectel.aiot/quecloud-sdk-dev-mgr@1.9.0.RELEASE?classifier=sources
+- pkg:maven/com.quectel.aiot/quecloud-sdk-dev-mgr@1.9.1.RELEASE
+- pkg:maven/com.quectel.aiot/quecloud-sdk-dev-mgr@1.9.1.RELEASE?classifier=sources

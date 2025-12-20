@@ -28,3 +28,6 @@
 - pkg:maven/com.renomad/minum@4.0.3?classifier=sources
 - pkg:maven/com.renomad/minum@5.0.0?classifier=sources
 - pkg:maven/com.renomad/minum@6.0.0?classifier=sources
+- pkg:maven/com.renomad/minum@7.0.0?classifier=sources
+- pkg:maven/com.renomad/minum@8.0.0?classifier=sources
+- pkg:maven/com.renomad/minum@8.0.1?classifier=sources

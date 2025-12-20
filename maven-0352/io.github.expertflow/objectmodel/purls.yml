@@ -242,6 +242,14 @@
 - pkg:maven/io.github.expertflow/objectmodel@1.17.5.2?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@1.17.5.3
 - pkg:maven/io.github.expertflow/objectmodel@1.17.5.3?classifier=sources
+- pkg:maven/io.github.expertflow/objectmodel@1.17.5.4
+- pkg:maven/io.github.expertflow/objectmodel@1.17.5.4?classifier=sources
+- pkg:maven/io.github.expertflow/objectmodel@1.17.5.5
+- pkg:maven/io.github.expertflow/objectmodel@1.17.5.5?classifier=sources
+- pkg:maven/io.github.expertflow/objectmodel@1.17.5.6
+- pkg:maven/io.github.expertflow/objectmodel@1.17.5.6?classifier=sources
+- pkg:maven/io.github.expertflow/objectmodel@1.17.5.7
+- pkg:maven/io.github.expertflow/objectmodel@1.17.5.7?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@1.17.5.9
 - pkg:maven/io.github.expertflow/objectmodel@1.17.5.9?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@1.17.6.0
@@ -262,6 +270,8 @@
 - pkg:maven/io.github.expertflow/objectmodel@1.17.9?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@1.18.0.0
 - pkg:maven/io.github.expertflow/objectmodel@1.18.0.0?classifier=sources
+- pkg:maven/io.github.expertflow/objectmodel@1.19.0
+- pkg:maven/io.github.expertflow/objectmodel@1.19.0?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@1.2.0
 - pkg:maven/io.github.expertflow/objectmodel@1.2.0?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@1.2.1

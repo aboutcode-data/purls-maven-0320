@@ -8,3 +8,5 @@
 - pkg:maven/io.github.group-robot/feishu-robot-core@1.0.4?classifier=sources
 - pkg:maven/io.github.group-robot/feishu-robot-core@1.0.5
 - pkg:maven/io.github.group-robot/feishu-robot-core@1.0.5?classifier=sources
+- pkg:maven/io.github.group-robot/feishu-robot-core@2.0.0
+- pkg:maven/io.github.group-robot/feishu-robot-core@2.0.0?classifier=sources

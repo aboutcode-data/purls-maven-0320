@@ -48,4 +48,5 @@
 - pkg:maven/live.100ms/hls-player@2.9.62?classifier=sources
 - pkg:maven/live.100ms/hls-player@2.9.63?classifier=sources
 - pkg:maven/live.100ms/hls-player@2.9.64?classifier=sources
+- pkg:maven/live.100ms/hls-player@2.9.65?classifier=sources
 - pkg:maven/live.100ms/hls-player@release-v2?classifier=sources

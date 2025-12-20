@@ -1,0 +1,2 @@
+- pkg:maven/top.caibitv.maven/ddd-scaffold-lite@2.1
+- pkg:maven/top.caibitv.maven/ddd-scaffold-lite@2.1?classifier=sources

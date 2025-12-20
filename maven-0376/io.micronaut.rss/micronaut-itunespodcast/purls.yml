@@ -19,3 +19,4 @@
 - pkg:maven/io.micronaut.rss/micronaut-itunespodcast@4.1.0?classifier=sources
 - pkg:maven/io.micronaut.rss/micronaut-itunespodcast@4.2.0?classifier=sources
 - pkg:maven/io.micronaut.rss/micronaut-itunespodcast@4.3.0?classifier=sources
+- pkg:maven/io.micronaut.rss/micronaut-itunespodcast@4.4.0?classifier=sources

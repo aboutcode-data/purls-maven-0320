@@ -1,0 +1,2 @@
+- pkg:maven/com.spearline/testrtc-watchrtc-sdk@1.40.1?classifier=sources
+- pkg:maven/com.spearline/testrtc-watchrtc-sdk@1.40.2?classifier=sources

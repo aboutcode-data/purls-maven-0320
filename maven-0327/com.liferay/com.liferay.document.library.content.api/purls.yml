@@ -226,3 +226,4 @@
 - pkg:maven/com.liferay/com.liferay.document.library.content.api@5.3.1
 - pkg:maven/com.liferay/com.liferay.document.library.content.api@5.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.content.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.content.api@7.0.0?classifier=sources

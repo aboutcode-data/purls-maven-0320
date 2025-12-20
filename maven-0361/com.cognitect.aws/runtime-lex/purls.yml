@@ -24,3 +24,5 @@
 - pkg:maven/com.cognitect.aws/runtime-lex@822.2.1109.0?classifier=sources
 - pkg:maven/com.cognitect.aws/runtime-lex@847.2.1365.0
 - pkg:maven/com.cognitect.aws/runtime-lex@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/runtime-lex@871.2.29.35
+- pkg:maven/com.cognitect.aws/runtime-lex@871.2.29.35?classifier=sources

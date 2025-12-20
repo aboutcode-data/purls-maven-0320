@@ -1,3 +1,4 @@
 - pkg:maven/org.redkale.maven.plugins/redkale-maven-plugin@1.0.0
 - pkg:maven/org.redkale.maven.plugins/redkale-maven-plugin@1.1.0
 - pkg:maven/org.redkale.maven.plugins/redkale-maven-plugin@1.1.1
+- pkg:maven/org.redkale.maven.plugins/redkale-maven-plugin@1.2.0

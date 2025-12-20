@@ -7,3 +7,4 @@
 - pkg:maven/com.google.pay.button/compose-pay-button@0.1.3?classifier=sources
 - pkg:maven/com.google.pay.button/compose-pay-button@0.1.4?classifier=sources
 - pkg:maven/com.google.pay.button/compose-pay-button@1.0.0?classifier=sources
+- pkg:maven/com.google.pay.button/compose-pay-button@1.1.0?classifier=sources

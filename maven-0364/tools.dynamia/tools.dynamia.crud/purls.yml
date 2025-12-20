@@ -62,3 +62,5 @@
 - pkg:maven/tools.dynamia/tools.dynamia.crud@5.2.1?classifier=sources
 - pkg:maven/tools.dynamia/tools.dynamia.crud@5.3.0
 - pkg:maven/tools.dynamia/tools.dynamia.crud@5.3.0?classifier=sources
+- pkg:maven/tools.dynamia/tools.dynamia.crud@5.3.1
+- pkg:maven/tools.dynamia/tools.dynamia.crud@5.3.1?classifier=sources

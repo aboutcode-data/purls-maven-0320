@@ -1,1 +1,2 @@
 - pkg:maven/org.sonarsource.python/python-custom-rules-example@4.25.0.19056?classifier=sources
+- pkg:maven/org.sonarsource.python/python-custom-rules-example@4.26.0.19456?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.leisenfels.vfslib/vfslib-core@2.8.2?classifier=sources
 - pkg:maven/com.leisenfels.vfslib/vfslib-core@2.8.3
 - pkg:maven/com.leisenfels.vfslib/vfslib-core@2.8.3?classifier=sources
+- pkg:maven/com.leisenfels.vfslib/vfslib-core@2.8.4
+- pkg:maven/com.leisenfels.vfslib/vfslib-core@2.8.4?classifier=sources

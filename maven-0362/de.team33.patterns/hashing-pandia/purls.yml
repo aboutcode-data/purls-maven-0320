@@ -1,0 +1,2 @@
+- pkg:maven/de.team33.patterns/hashing-pandia@1.22.0
+- pkg:maven/de.team33.patterns/hashing-pandia@1.22.0?classifier=sources

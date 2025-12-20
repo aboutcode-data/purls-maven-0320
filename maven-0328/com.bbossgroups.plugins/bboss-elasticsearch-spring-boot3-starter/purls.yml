@@ -11,3 +11,6 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot3-starter@7.2.7?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot3-starter@7.2.8?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot3-starter@7.2.9?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot3-starter@7.3.0?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot3-starter@7.3.1?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot3-starter@7.3.2?classifier=sources

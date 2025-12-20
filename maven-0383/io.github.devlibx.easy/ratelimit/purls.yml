@@ -88,6 +88,12 @@
 - pkg:maven/io.github.devlibx.easy/ratelimit@0.0.144?classifier=sources
 - pkg:maven/io.github.devlibx.easy/ratelimit@0.0.145
 - pkg:maven/io.github.devlibx.easy/ratelimit@0.0.145?classifier=sources
+- pkg:maven/io.github.devlibx.easy/ratelimit@0.0.146
+- pkg:maven/io.github.devlibx.easy/ratelimit@0.0.146?classifier=sources
+- pkg:maven/io.github.devlibx.easy/ratelimit@0.0.147
+- pkg:maven/io.github.devlibx.easy/ratelimit@0.0.147?classifier=sources
+- pkg:maven/io.github.devlibx.easy/ratelimit@0.0.148
+- pkg:maven/io.github.devlibx.easy/ratelimit@0.0.148?classifier=sources
 - pkg:maven/io.github.devlibx.easy/ratelimit@2.java-17.1
 - pkg:maven/io.github.devlibx.easy/ratelimit@2.java-17.1?classifier=sources
 - pkg:maven/io.github.devlibx.easy/ratelimit@3.java-17.1

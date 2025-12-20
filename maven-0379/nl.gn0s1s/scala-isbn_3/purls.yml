@@ -1,2 +1,4 @@
 - pkg:maven/nl.gn0s1s/scala-isbn_3@1.1.0
 - pkg:maven/nl.gn0s1s/scala-isbn_3@1.1.0?classifier=sources
+- pkg:maven/nl.gn0s1s/scala-isbn_3@1.1.1
+- pkg:maven/nl.gn0s1s/scala-isbn_3@1.1.1?classifier=sources

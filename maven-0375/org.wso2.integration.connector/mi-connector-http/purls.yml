@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.integration.connector/mi-connector-http@0.1.0?classifier=sources
+- pkg:maven/org.wso2.integration.connector/mi-connector-http@0.1.0?type=zip

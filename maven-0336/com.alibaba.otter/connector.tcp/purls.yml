@@ -1,2 +1,4 @@
 - pkg:maven/com.alibaba.otter/connector.tcp@1.1.7
 - pkg:maven/com.alibaba.otter/connector.tcp@1.1.7?classifier=sources
+- pkg:maven/com.alibaba.otter/connector.tcp@1.1.8
+- pkg:maven/com.alibaba.otter/connector.tcp@1.1.8?classifier=sources

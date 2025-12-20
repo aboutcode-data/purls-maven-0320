@@ -86,6 +86,8 @@
 - pkg:maven/org.liquibase.ext/liquibase-neo4j@4.3.5?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-neo4j@4.30.0
 - pkg:maven/org.liquibase.ext/liquibase-neo4j@4.30.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-neo4j@4.31.0
+- pkg:maven/org.liquibase.ext/liquibase-neo4j@4.31.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-neo4j@4.4.0
 - pkg:maven/org.liquibase.ext/liquibase-neo4j@4.4.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-neo4j@4.4.1

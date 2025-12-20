@@ -10,3 +10,9 @@
 - pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha4?classifier=sources
 - pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha5
 - pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha5?classifier=sources
+- pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha6
+- pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha6?classifier=sources
+- pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha7
+- pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha7?classifier=sources
+- pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha8
+- pkg:maven/com.github.dabasan/mechtatel-core@0.0.1-alpha8?classifier=sources

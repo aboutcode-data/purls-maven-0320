@@ -100,3 +100,5 @@
 - pkg:maven/org.membrane-soa/service-proxy-war@5.7.3?type=war
 - pkg:maven/org.membrane-soa/service-proxy-war@5.7.4?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-war@5.7.4?type=war
+- pkg:maven/org.membrane-soa/service-proxy-war@5.8.0?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-war@5.8.0?type=war

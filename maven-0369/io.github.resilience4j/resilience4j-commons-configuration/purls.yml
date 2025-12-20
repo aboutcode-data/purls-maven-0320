@@ -1,1 +1,2 @@
 - pkg:maven/io.github.resilience4j/resilience4j-commons-configuration@2.2.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-commons-configuration@2.3.0?classifier=sources

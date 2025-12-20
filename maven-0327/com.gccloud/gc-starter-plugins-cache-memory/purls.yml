@@ -6,3 +6,5 @@
 - pkg:maven/com.gccloud/gc-starter-plugins-cache-memory@1.0.0?classifier=sources
 - pkg:maven/com.gccloud/gc-starter-plugins-cache-memory@1.0.1-beta
 - pkg:maven/com.gccloud/gc-starter-plugins-cache-memory@1.0.1-beta?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-cache-memory@2.3.5.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-cache-memory@2.3.5.RELEASE?classifier=sources

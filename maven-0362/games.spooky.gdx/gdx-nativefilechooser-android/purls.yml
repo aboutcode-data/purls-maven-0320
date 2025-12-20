@@ -4,3 +4,4 @@
 - pkg:maven/games.spooky.gdx/gdx-nativefilechooser-android@2.1.0?classifier=sources
 - pkg:maven/games.spooky.gdx/gdx-nativefilechooser-android@2.2.0?classifier=sources
 - pkg:maven/games.spooky.gdx/gdx-nativefilechooser-android@2.3.0?classifier=sources
+- pkg:maven/games.spooky.gdx/gdx-nativefilechooser-android@2.4.0?classifier=sources

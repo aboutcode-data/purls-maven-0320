@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.paimon/paimon-spark3-common@1.0.0
+- pkg:maven/org.apache.paimon/paimon-spark3-common@1.0.0?classifier=sources

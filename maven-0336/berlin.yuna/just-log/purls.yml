@@ -137,6 +137,8 @@
 - pkg:maven/berlin.yuna/just-log@0.1.76?classifier=sources
 - pkg:maven/berlin.yuna/just-log@0.1.77
 - pkg:maven/berlin.yuna/just-log@0.1.77?classifier=sources
+- pkg:maven/berlin.yuna/just-log@0.1.79
+- pkg:maven/berlin.yuna/just-log@0.1.79?classifier=sources
 - pkg:maven/berlin.yuna/just-log@0.1.7?classifier=sources
 - pkg:maven/berlin.yuna/just-log@0.1.8
 - pkg:maven/berlin.yuna/just-log@0.1.8?classifier=sources

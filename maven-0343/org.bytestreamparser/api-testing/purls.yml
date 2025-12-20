@@ -1,0 +1,6 @@
+- pkg:maven/org.bytestreamparser/api-testing@0.0.1?classifier=sources
+- pkg:maven/org.bytestreamparser/api-testing@0.0.2?classifier=sources
+- pkg:maven/org.bytestreamparser/api-testing@0.02?classifier=sources
+- pkg:maven/org.bytestreamparser/api-testing@0.3.0?classifier=sources
+- pkg:maven/org.bytestreamparser/api-testing@0.3.1?classifier=sources
+- pkg:maven/org.bytestreamparser/api-testing@0.3.2?classifier=sources

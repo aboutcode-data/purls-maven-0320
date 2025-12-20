@@ -28,3 +28,5 @@
 - pkg:maven/com.github.han-yaeger/yaeger@2022.2023?classifier=sources
 - pkg:maven/com.github.han-yaeger/yaeger@2023.2024
 - pkg:maven/com.github.han-yaeger/yaeger@2023.2024?classifier=sources
+- pkg:maven/com.github.han-yaeger/yaeger@2024.2025
+- pkg:maven/com.github.han-yaeger/yaeger@2024.2025?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/com.helger.peppol/dbnalliance-xhe@9.5.1?classifier=sources
 - pkg:maven/com.helger.peppol/dbnalliance-xhe@9.6.0
 - pkg:maven/com.helger.peppol/dbnalliance-xhe@9.6.0?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-xhe@9.6.1
+- pkg:maven/com.helger.peppol/dbnalliance-xhe@9.6.1?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-xhe@9.7.1
+- pkg:maven/com.helger.peppol/dbnalliance-xhe@9.7.1?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-xhe@9.7.2
+- pkg:maven/com.helger.peppol/dbnalliance-xhe@9.7.2?classifier=sources

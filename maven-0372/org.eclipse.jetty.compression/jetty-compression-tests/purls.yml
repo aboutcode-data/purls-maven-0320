@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.jetty.compression/jetty-compression-tests@12.1.0.alpha0
+- pkg:maven/org.eclipse.jetty.compression/jetty-compression-tests@12.1.0.alpha1

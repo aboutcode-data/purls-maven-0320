@@ -3,3 +3,5 @@
 - pkg:maven/org.apache.nifi/nifi-system-test-extensions-services-api@1.28.1
 - pkg:maven/org.apache.nifi/nifi-system-test-extensions-services-api@1.28.1?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-system-test-extensions-services-api@2.0.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-system-test-extensions-services-api@2.1.0
+- pkg:maven/org.apache.nifi/nifi-system-test-extensions-services-api@2.1.0?classifier=sources

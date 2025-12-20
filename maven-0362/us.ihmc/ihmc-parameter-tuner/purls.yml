@@ -10,3 +10,4 @@
 - pkg:maven/us.ihmc/ihmc-parameter-tuner@0.14.1?classifier=sources
 - pkg:maven/us.ihmc/ihmc-parameter-tuner@0.14.2?classifier=sources
 - pkg:maven/us.ihmc/ihmc-parameter-tuner@0.15.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-parameter-tuner@0.15.1?classifier=sources

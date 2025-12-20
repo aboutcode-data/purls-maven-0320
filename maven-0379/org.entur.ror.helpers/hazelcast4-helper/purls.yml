@@ -134,3 +134,5 @@
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@4.6?classifier=sources
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@4.7
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@4.7?classifier=sources
+- pkg:maven/org.entur.ror.helpers/hazelcast4-helper@4.8
+- pkg:maven/org.entur.ror.helpers/hazelcast4-helper@4.8?classifier=sources

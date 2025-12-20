@@ -6,3 +6,4 @@
 - pkg:maven/com.factset.sdk/factsetprogrammaticenvironment@0.21.9?classifier=sources
 - pkg:maven/com.factset.sdk/factsetprogrammaticenvironment@0.22.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetprogrammaticenvironment@0.22.1?classifier=sources
+- pkg:maven/com.factset.sdk/factsetprogrammaticenvironment@0.23.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.camunda.community/bpmn-driven-testing-maven-plugin@0.8.0?classifier=sources
 - pkg:maven/org.camunda.community/bpmn-driven-testing-maven-plugin@0.9.0
 - pkg:maven/org.camunda.community/bpmn-driven-testing-maven-plugin@0.9.0?classifier=sources
+- pkg:maven/org.camunda.community/bpmn-driven-testing-maven-plugin@1.0.0
+- pkg:maven/org.camunda.community/bpmn-driven-testing-maven-plugin@1.0.0?classifier=sources

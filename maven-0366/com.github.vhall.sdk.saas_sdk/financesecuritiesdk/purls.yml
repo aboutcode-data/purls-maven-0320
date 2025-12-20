@@ -1,0 +1,4 @@
+- pkg:maven/com.github.vhall.sdk.saas_sdk/financesecuritiesdk@0.0.51?classifier=sources
+- pkg:maven/com.github.vhall.sdk.saas_sdk/financesecuritiesdk@0.0.51?type=aar
+- pkg:maven/com.github.vhall.sdk.saas_sdk/financesecuritiesdk@0.0.52?classifier=sources
+- pkg:maven/com.github.vhall.sdk.saas_sdk/financesecuritiesdk@0.0.52?type=aar

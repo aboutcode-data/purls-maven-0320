@@ -1,0 +1,1 @@
+- pkg:maven/me.gulya.sqldelight/runtime-mingwx64@2.0.2-wasm-web-worker?classifier=sources

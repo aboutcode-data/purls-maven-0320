@@ -140,3 +140,7 @@
 - pkg:maven/org.telegram/telegrambots-abilities@7.9.1?classifier=sources
 - pkg:maven/org.telegram/telegrambots-abilities@8.0.0
 - pkg:maven/org.telegram/telegrambots-abilities@8.0.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots-abilities@8.1.0
+- pkg:maven/org.telegram/telegrambots-abilities@8.1.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots-abilities@8.2.0
+- pkg:maven/org.telegram/telegrambots-abilities@8.2.0?classifier=sources

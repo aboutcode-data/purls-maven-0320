@@ -8,3 +8,5 @@
 - pkg:maven/dev.hsbrysk.kuery-client/kuery-client-spring-data-r2dbc@0.4.1?classifier=sources
 - pkg:maven/dev.hsbrysk.kuery-client/kuery-client-spring-data-r2dbc@0.5.0?classifier=sources
 - pkg:maven/dev.hsbrysk.kuery-client/kuery-client-spring-data-r2dbc@0.6.0?classifier=sources
+- pkg:maven/dev.hsbrysk.kuery-client/kuery-client-spring-data-r2dbc@0.6.1?classifier=sources
+- pkg:maven/dev.hsbrysk.kuery-client/kuery-client-spring-data-r2dbc@0.7.0?classifier=sources

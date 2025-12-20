@@ -8,3 +8,4 @@
 - pkg:maven/net.kyori/adventure-text-minimessage@4.15.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-minimessage@4.16.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-minimessage@4.17.0?classifier=sources
+- pkg:maven/net.kyori/adventure-text-minimessage@4.18.0?classifier=sources

@@ -98,3 +98,7 @@
 - pkg:maven/com.aliyun/polardb20170801@5.2.2?classifier=sources
 - pkg:maven/com.aliyun/polardb20170801@5.2.3
 - pkg:maven/com.aliyun/polardb20170801@5.2.3?classifier=sources
+- pkg:maven/com.aliyun/polardb20170801@5.3.0
+- pkg:maven/com.aliyun/polardb20170801@5.3.0?classifier=sources
+- pkg:maven/com.aliyun/polardb20170801@5.3.1
+- pkg:maven/com.aliyun/polardb20170801@5.3.1?classifier=sources

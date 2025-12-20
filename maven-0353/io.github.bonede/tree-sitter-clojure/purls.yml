@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-clojure@0.0.12?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-clojure@0.0.12a?classifier=sources

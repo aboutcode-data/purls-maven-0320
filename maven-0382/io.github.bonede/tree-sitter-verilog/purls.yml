@@ -1,1 +1,2 @@
+- pkg:maven/io.github.bonede/tree-sitter-verilog@master-a?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-verilog@master?classifier=sources

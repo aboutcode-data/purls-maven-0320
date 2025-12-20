@@ -10,3 +10,4 @@
 - pkg:maven/org.zalando/nakadi-producer-loadtest@21.1.0-RC2
 - pkg:maven/org.zalando/nakadi-producer-loadtest@21.1.0-RC3
 - pkg:maven/org.zalando/nakadi-producer-loadtest@21.1.0-RC4
+- pkg:maven/org.zalando/nakadi-producer-loadtest@30.0.0-RC1

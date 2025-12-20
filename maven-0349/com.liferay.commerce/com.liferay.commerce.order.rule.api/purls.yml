@@ -75,3 +75,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@7.3.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@7.3.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.api@9.0.0?classifier=sources

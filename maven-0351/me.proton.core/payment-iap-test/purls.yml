@@ -52,6 +52,10 @@
 - pkg:maven/me.proton.core/payment-iap-test@22.1.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-test@22.2.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-test@23.0.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-test@23.0.1?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-test@23.1.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-test@23.2.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-test@24.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-test@9.16.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-test@9.16.1?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-test@9.17.0?classifier=sources

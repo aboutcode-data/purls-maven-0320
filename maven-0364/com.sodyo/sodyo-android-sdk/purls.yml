@@ -34,3 +34,15 @@
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.60.03?type=aar
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.60.04?type=aar
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.60.05?type=aar
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.02?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.03?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.04?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.05?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.06?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.07?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.08?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.09?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.10?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.11?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.12?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.13?classifier=sources

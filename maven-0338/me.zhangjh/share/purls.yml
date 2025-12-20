@@ -13,6 +13,10 @@
 - pkg:maven/me.zhangjh/share@2.0.0
 - pkg:maven/me.zhangjh/share@2.0.0?classifier=sources
 - pkg:maven/me.zhangjh/share@2.0.1
+- pkg:maven/me.zhangjh/share@2.0.10
+- pkg:maven/me.zhangjh/share@2.0.10?classifier=sources
+- pkg:maven/me.zhangjh/share@2.0.11
+- pkg:maven/me.zhangjh/share@2.0.11?classifier=sources
 - pkg:maven/me.zhangjh/share@2.0.1?classifier=sources
 - pkg:maven/me.zhangjh/share@2.0.2
 - pkg:maven/me.zhangjh/share@2.0.2?classifier=sources
@@ -28,3 +32,5 @@
 - pkg:maven/me.zhangjh/share@2.0.6?classifier=sources
 - pkg:maven/me.zhangjh/share@2.0.7
 - pkg:maven/me.zhangjh/share@2.0.7?classifier=sources
+- pkg:maven/me.zhangjh/share@2.0.9
+- pkg:maven/me.zhangjh/share@2.0.9?classifier=sources

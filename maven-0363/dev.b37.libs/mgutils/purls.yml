@@ -8,3 +8,5 @@
 - pkg:maven/dev.b37.libs/mgutils@3.3.0?classifier=sources
 - pkg:maven/dev.b37.libs/mgutils@3.4.0
 - pkg:maven/dev.b37.libs/mgutils@3.4.0?classifier=sources
+- pkg:maven/dev.b37.libs/mgutils@3.5.0
+- pkg:maven/dev.b37.libs/mgutils@3.5.0?classifier=sources

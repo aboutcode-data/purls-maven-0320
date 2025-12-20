@@ -1,0 +1,4 @@
+- pkg:maven/io.cardell/flipt-sdk-server-it_3@0.0.1
+- pkg:maven/io.cardell/flipt-sdk-server-it_3@0.0.1-alpha2
+- pkg:maven/io.cardell/flipt-sdk-server-it_3@0.0.1-alpha2?classifier=sources
+- pkg:maven/io.cardell/flipt-sdk-server-it_3@0.0.1?classifier=sources

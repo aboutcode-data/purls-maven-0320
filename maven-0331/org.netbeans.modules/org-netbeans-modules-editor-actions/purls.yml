@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-actions@RELEASE90?classifier=sources

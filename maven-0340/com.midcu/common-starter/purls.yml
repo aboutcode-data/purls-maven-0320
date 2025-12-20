@@ -1,0 +1,4 @@
+- pkg:maven/com.midcu/common-starter@1.6.2
+- pkg:maven/com.midcu/common-starter@1.6.2?classifier=sources
+- pkg:maven/com.midcu/common-starter@1.6.3
+- pkg:maven/com.midcu/common-starter@1.6.3?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.cognitect.aws/opensearch@847.2.1398.0?classifier=sources
 - pkg:maven/com.cognitect.aws/opensearch@857.2.1574.0
 - pkg:maven/com.cognitect.aws/opensearch@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/opensearch@869.2.1616.0
+- pkg:maven/com.cognitect.aws/opensearch@869.2.1616.0?classifier=sources

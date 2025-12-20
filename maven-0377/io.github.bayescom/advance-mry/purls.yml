@@ -26,3 +26,6 @@
 - pkg:maven/io.github.bayescom/advance-mry@4.3.3_422_1?type=aar
 - pkg:maven/io.github.bayescom/advance-mry@4.3.4_422?type=aar
 - pkg:maven/io.github.bayescom/advance-mry@4.3.4_423?type=aar
+- pkg:maven/io.github.bayescom/advance-mry@4.3.5_423?type=aar
+- pkg:maven/io.github.bayescom/advance-mry@4.3.5_424?type=aar
+- pkg:maven/io.github.bayescom/advance-mry@4.3.5_425?type=aar

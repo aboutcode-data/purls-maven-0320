@@ -74,3 +74,7 @@
 - pkg:maven/org.membrane-soa/service-proxy-war@5.3.4?type=war
 - pkg:maven/org.membrane-soa/service-proxy-war@5.3.5?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-war@5.3.5?type=war
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.0?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.0?type=war
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.1?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.1?type=war

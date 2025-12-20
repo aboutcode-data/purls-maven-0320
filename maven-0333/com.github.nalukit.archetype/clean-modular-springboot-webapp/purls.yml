@@ -2,3 +2,4 @@
 - pkg:maven/com.github.nalukit.archetype/clean-modular-springboot-webapp@2023.12.28?classifier=sources
 - pkg:maven/com.github.nalukit.archetype/clean-modular-springboot-webapp@2024.1.22?classifier=sources
 - pkg:maven/com.github.nalukit.archetype/clean-modular-springboot-webapp@2024.3.4?classifier=sources
+- pkg:maven/com.github.nalukit.archetype/clean-modular-springboot-webapp@2024.5.15?classifier=sources

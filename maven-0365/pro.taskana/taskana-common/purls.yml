@@ -84,7 +84,11 @@
 - pkg:maven/pro.taskana/taskana-common@6.3.2?classifier=sources
 - pkg:maven/pro.taskana/taskana-common@7.0.0
 - pkg:maven/pro.taskana/taskana-common@7.0.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-common@7.1.0
+- pkg:maven/pro.taskana/taskana-common@7.1.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-common@8.0.0
 - pkg:maven/pro.taskana/taskana-common@8.0.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-common@8.0.1
 - pkg:maven/pro.taskana/taskana-common@8.0.1?classifier=sources
+- pkg:maven/pro.taskana/taskana-common@8.1.0
+- pkg:maven/pro.taskana/taskana-common@8.1.0?classifier=sources

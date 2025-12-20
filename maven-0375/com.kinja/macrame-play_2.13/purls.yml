@@ -10,3 +10,9 @@
 - pkg:maven/com.kinja/macrame-play_2.13@1.1.7-play-2.8.x?classifier=sources
 - pkg:maven/com.kinja/macrame-play_2.13@1.1.8-play-2.8.x
 - pkg:maven/com.kinja/macrame-play_2.13@1.1.8-play-2.8.x?classifier=sources
+- pkg:maven/com.kinja/macrame-play_2.13@2.0.0-play-2.9.x
+- pkg:maven/com.kinja/macrame-play_2.13@2.0.0-play-2.9.x?classifier=sources
+- pkg:maven/com.kinja/macrame-play_2.13@2.0.1-play-3.0.x
+- pkg:maven/com.kinja/macrame-play_2.13@2.0.1-play-3.0.x?classifier=sources
+- pkg:maven/com.kinja/macrame-play_2.13@2.0.2-play-3.0.x
+- pkg:maven/com.kinja/macrame-play_2.13@2.0.2-play-3.0.x?classifier=sources

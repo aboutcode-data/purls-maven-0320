@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-derby@RELEASE90?classifier=sources

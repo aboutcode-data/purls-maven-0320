@@ -3,6 +3,7 @@
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@5.42.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@5.42.0.1?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@5.43.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@5.43.0.1?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.0.2.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.0.3.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.0.4.0?classifier=sources
@@ -42,6 +43,14 @@
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.29.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.29.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.3.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.30.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.31.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.31.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.32.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.33.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.33.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.33.1.1?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.34.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.4.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.4.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-aws-kotlin@6.5.0.0?classifier=sources

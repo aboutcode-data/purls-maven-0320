@@ -5,3 +5,5 @@
 - pkg:maven/com.moneycollect/moneycollect-java@1.0.2
 - pkg:maven/com.moneycollect/moneycollect-java@1.0.2?classifier=sources
 - pkg:maven/com.moneycollect/moneycollect-java@1.0.3?classifier=sources
+- pkg:maven/com.moneycollect/moneycollect-java@1.0.4
+- pkg:maven/com.moneycollect/moneycollect-java@1.0.4?classifier=sources

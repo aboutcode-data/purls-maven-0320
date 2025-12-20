@@ -8,7 +8,9 @@
 - pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.2.2?classifier=sources
 - pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.2.3?classifier=sources
 - pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.2.4?classifier=sources
+- pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.2.5?classifier=sources
 - pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.3.0?classifier=sources
 - pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.3.1?classifier=sources
 - pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.3.2?classifier=sources
 - pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.3.3?classifier=sources
+- pkg:maven/com.liferay.portletmvc4spring.archetype/com.liferay.portletmvc4spring.archetype.form.thymeleaf.portlet@5.3.4?classifier=sources

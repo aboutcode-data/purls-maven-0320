@@ -12,3 +12,5 @@
 - pkg:maven/io.github.bayescom/advance-gdt@4.3.3_4562_core?type=aar
 - pkg:maven/io.github.bayescom/advance-gdt@4.3.4_4562?type=aar
 - pkg:maven/io.github.bayescom/advance-gdt@4.3.4_4562_core?type=aar
+- pkg:maven/io.github.bayescom/advance-gdt@4.3.5_4575?type=aar
+- pkg:maven/io.github.bayescom/advance-gdt@4.3.5_4575_core?type=aar

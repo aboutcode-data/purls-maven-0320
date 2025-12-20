@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-browser@RELEASE90?classifier=sources

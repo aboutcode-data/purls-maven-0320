@@ -20,3 +20,5 @@
 - pkg:maven/com.aliyun/waf_openapi20211001@3.2.0?classifier=sources
 - pkg:maven/com.aliyun/waf_openapi20211001@3.3.0
 - pkg:maven/com.aliyun/waf_openapi20211001@3.3.0?classifier=sources
+- pkg:maven/com.aliyun/waf_openapi20211001@3.4.0
+- pkg:maven/com.aliyun/waf_openapi20211001@3.4.0?classifier=sources

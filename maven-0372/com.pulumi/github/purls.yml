@@ -170,3 +170,17 @@
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1712399590%2B1c366a72?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1712468118%2Bc50e27f3?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1712727791%2Bf92d62ef?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1712986828%2B77f83362?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1713332421%2B0be4d95f?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1713561029%2B38c98c4b?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1713897837%2Bf9009ccb?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1714110070%2B9633a95c?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1714455620%2B6bc00848?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1714541722%2B7f82fbc?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1714566557%2B2a37b24?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1715060373%2B3978e3c?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1715233350%2B911702c?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1715337108%2B875174a?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1715383921%2Bc33c684?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1715757032%2B2e618bc?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1715924735?classifier=sources

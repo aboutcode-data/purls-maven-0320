@@ -136,6 +136,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.6.12?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.6.13?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.6.14?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-logback@6.6.15.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.6.15?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.6.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@6.6.2?classifier=sources
@@ -159,6 +160,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-logback@7.0.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@7.0.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@7.0.3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-logback@7.0.4.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@7.0.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@7.1.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logback@7.1.0-RC2?classifier=sources

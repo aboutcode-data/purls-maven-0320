@@ -8,3 +8,15 @@
 - pkg:maven/pl.grzeslowski.jSupla/protocol@0.14.0?classifier=sources
 - pkg:maven/pl.grzeslowski.jSupla/protocol@0.15.0
 - pkg:maven/pl.grzeslowski.jSupla/protocol@0.15.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.0.0
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.0.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.0.1
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.0.1?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.0.2
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.0.2?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.0.3
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.0.3?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.1.0
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.1.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.2.0
+- pkg:maven/pl.grzeslowski.jSupla/protocol@1.2.0?classifier=sources

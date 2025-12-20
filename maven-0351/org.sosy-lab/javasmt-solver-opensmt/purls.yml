@@ -1,1 +1,3 @@
 - pkg:maven/org.sosy-lab/javasmt-solver-opensmt@2.5.2-g7f502169?classifier=sources
+- pkg:maven/org.sosy-lab/javasmt-solver-opensmt@2.6.0-g2f72cc0e?classifier=sources
+- pkg:maven/org.sosy-lab/javasmt-solver-opensmt@2.6.0-g48b72153?classifier=sources

@@ -23,3 +23,4 @@
 - pkg:maven/org.sol4k/sol4k@0.3.4?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.4.0?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.4.1?classifier=sources
+- pkg:maven/org.sol4k/sol4k@0.4.2?classifier=sources

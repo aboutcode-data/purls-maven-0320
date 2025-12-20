@@ -7,6 +7,7 @@
 - pkg:maven/cn.featherfly.common/common-core@1.10.6?classifier=sources
 - pkg:maven/cn.featherfly.common/common-core@1.10.7?classifier=sources
 - pkg:maven/cn.featherfly.common/common-core@1.11.0?classifier=sources
+- pkg:maven/cn.featherfly.common/common-core@1.12.0?classifier=sources
 - pkg:maven/cn.featherfly.common/common-core@1.7.13
 - pkg:maven/cn.featherfly.common/common-core@1.7.13?classifier=sources
 - pkg:maven/cn.featherfly.common/common-core@1.7.14

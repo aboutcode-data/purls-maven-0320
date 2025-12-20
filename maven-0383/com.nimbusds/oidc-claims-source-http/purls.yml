@@ -14,3 +14,5 @@
 - pkg:maven/com.nimbusds/oidc-claims-source-http@2.3?classifier=sources
 - pkg:maven/com.nimbusds/oidc-claims-source-http@3.0
 - pkg:maven/com.nimbusds/oidc-claims-source-http@3.0?classifier=sources
+- pkg:maven/com.nimbusds/oidc-claims-source-http@3.1
+- pkg:maven/com.nimbusds/oidc-claims-source-http@3.1?classifier=sources

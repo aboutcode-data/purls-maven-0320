@@ -1,1 +1,2 @@
 - pkg:maven/com.pubnub/pubnub-gson-api@9.1.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson-api@9.1.1?classifier=sources

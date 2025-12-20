@@ -10,3 +10,5 @@
 - pkg:maven/com.aliyun/alibabacloud-rtc20180111@2.0.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-rtc20180111@3.0.0
 - pkg:maven/com.aliyun/alibabacloud-rtc20180111@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-rtc20180111@3.0.1
+- pkg:maven/com.aliyun/alibabacloud-rtc20180111@3.0.1?classifier=sources

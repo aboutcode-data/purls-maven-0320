@@ -1,0 +1,1 @@
+- pkg:maven/de.eitco.cide/bom-maven-plugin@4.0.0?classifier=sources

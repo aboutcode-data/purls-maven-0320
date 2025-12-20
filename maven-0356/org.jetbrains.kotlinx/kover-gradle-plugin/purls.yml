@@ -10,3 +10,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kover-gradle-plugin@0.7.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kover-gradle-plugin@0.8.0-Beta2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kover-gradle-plugin@0.8.0-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kover-gradle-plugin@0.8.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.google.apis/google-api-services-fcmdata@v1beta1-rev20220405-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-fcmdata@v1beta1-rev20220405-2.0.0
 - pkg:maven/com.google.apis/google-api-services-fcmdata@v1beta1-rev20220405-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-fcmdata@v1beta1-rev20240519-2.0.0
+- pkg:maven/com.google.apis/google-api-services-fcmdata@v1beta1-rev20240519-2.0.0?classifier=sources

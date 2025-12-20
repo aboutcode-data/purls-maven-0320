@@ -1,0 +1,2 @@
+- pkg:maven/dev.testify/dev.testify.gradle.plugin@3.0.0-preview02?classifier=sources
+- pkg:maven/dev.testify/dev.testify.gradle.plugin@3.0.0-preview03?classifier=sources

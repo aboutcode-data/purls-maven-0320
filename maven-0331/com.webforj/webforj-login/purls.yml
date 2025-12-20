@@ -1,0 +1,2 @@
+- pkg:maven/com.webforj/webforj-login@24.01
+- pkg:maven/com.webforj/webforj-login@24.01?classifier=sources

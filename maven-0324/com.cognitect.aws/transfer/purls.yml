@@ -74,3 +74,7 @@
 - pkg:maven/com.cognitect.aws/transfer@848.2.1413.0?classifier=sources
 - pkg:maven/com.cognitect.aws/transfer@857.2.1574.0
 - pkg:maven/com.cognitect.aws/transfer@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transfer@868.2.1599.0
+- pkg:maven/com.cognitect.aws/transfer@868.2.1599.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transfer@869.2.1616.0
+- pkg:maven/com.cognitect.aws/transfer@869.2.1616.0?classifier=sources

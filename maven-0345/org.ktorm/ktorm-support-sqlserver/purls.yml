@@ -11,3 +11,4 @@
 - pkg:maven/org.ktorm/ktorm-support-sqlserver@3.4.1?classifier=sources
 - pkg:maven/org.ktorm/ktorm-support-sqlserver@3.5.0?classifier=sources
 - pkg:maven/org.ktorm/ktorm-support-sqlserver@3.6.0?classifier=sources
+- pkg:maven/org.ktorm/ktorm-support-sqlserver@4.0.0?classifier=sources

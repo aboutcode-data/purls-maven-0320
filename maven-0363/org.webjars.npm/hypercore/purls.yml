@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/hypercore@10.37.4
 - pkg:maven/org.webjars.npm/hypercore@7.5.0
 - pkg:maven/org.webjars.npm/hypercore@7.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/hypercore@7.7.1
+- pkg:maven/org.webjars.npm/hypercore@8.14.0
+- pkg:maven/org.webjars.npm/hypercore@9.12.0

@@ -107,6 +107,8 @@
 - pkg:maven/in.virit/viritin@2.8.14?classifier=sources
 - pkg:maven/in.virit/viritin@2.8.15
 - pkg:maven/in.virit/viritin@2.8.15?classifier=sources
+- pkg:maven/in.virit/viritin@2.8.16
+- pkg:maven/in.virit/viritin@2.8.16?classifier=sources
 - pkg:maven/in.virit/viritin@2.8.1?classifier=sources
 - pkg:maven/in.virit/viritin@2.8.2
 - pkg:maven/in.virit/viritin@2.8.2?classifier=sources

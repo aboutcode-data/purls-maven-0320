@@ -8,6 +8,8 @@
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.15.0?classifier=sources
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.16.0
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.16.0?classifier=sources
+- pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.17.0
+- pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.17.0?classifier=sources
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.9.0
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.9.0?classifier=sources
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-demo@11.9.1

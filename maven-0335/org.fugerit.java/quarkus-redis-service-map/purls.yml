@@ -1,0 +1,2 @@
+- pkg:maven/org.fugerit.java/quarkus-redis-service-map@0.3.1
+- pkg:maven/org.fugerit.java/quarkus-redis-service-map@0.3.1?classifier=sources

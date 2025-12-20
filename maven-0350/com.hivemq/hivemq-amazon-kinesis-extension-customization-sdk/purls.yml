@@ -8,3 +8,5 @@
 - pkg:maven/com.hivemq/hivemq-amazon-kinesis-extension-customization-sdk@4.21.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-amazon-kinesis-extension-customization-sdk@4.22.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-amazon-kinesis-extension-customization-sdk@4.23.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-amazon-kinesis-extension-customization-sdk@4.24.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-amazon-kinesis-extension-customization-sdk@4.25.0?classifier=sources

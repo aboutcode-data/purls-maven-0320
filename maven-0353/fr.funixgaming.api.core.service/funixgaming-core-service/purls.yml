@@ -16,3 +16,4 @@
 - pkg:maven/fr.funixgaming.api.core.service/funixgaming-core-service@1.3.0.7
 - pkg:maven/fr.funixgaming.api.core.service/funixgaming-core-service@1.3.0.8
 - pkg:maven/fr.funixgaming.api.core.service/funixgaming-core-service@1.3.0.9
+- pkg:maven/fr.funixgaming.api.core.service/funixgaming-core-service@1.3.1

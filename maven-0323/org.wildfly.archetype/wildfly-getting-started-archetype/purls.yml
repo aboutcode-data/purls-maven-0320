@@ -1,2 +1,3 @@
 - pkg:maven/org.wildfly.archetype/wildfly-getting-started-archetype@30.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.archetype/wildfly-getting-started-archetype@30.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.archetype/wildfly-getting-started-archetype@31.0.0.Final?classifier=sources

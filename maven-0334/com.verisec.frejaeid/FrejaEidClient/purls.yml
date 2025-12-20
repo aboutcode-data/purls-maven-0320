@@ -22,6 +22,8 @@
 - pkg:maven/com.verisec.frejaeid/FrejaEidClient@2.18.0?classifier=sources
 - pkg:maven/com.verisec.frejaeid/FrejaEidClient@2.2.0
 - pkg:maven/com.verisec.frejaeid/FrejaEidClient@2.2.0?classifier=sources
+- pkg:maven/com.verisec.frejaeid/FrejaEidClient@2.20.1
+- pkg:maven/com.verisec.frejaeid/FrejaEidClient@2.20.1?classifier=sources
 - pkg:maven/com.verisec.frejaeid/FrejaEidClient@2.3.0
 - pkg:maven/com.verisec.frejaeid/FrejaEidClient@2.3.0?classifier=sources
 - pkg:maven/com.verisec.frejaeid/FrejaEidClient@2.4.1

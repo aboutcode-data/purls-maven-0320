@@ -756,3 +756,13 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.893?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.894
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.894?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.947
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.947?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.950
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.950?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.957
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.957?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.960
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.960?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.961
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-rum@3.1.961?classifier=sources

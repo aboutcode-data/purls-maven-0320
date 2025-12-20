@@ -6,6 +6,11 @@
 - pkg:maven/io.github.bayescom/advance-mry@4.3.0_404?type=aar
 - pkg:maven/io.github.bayescom/advance-mry@4.3.0_412?type=aar
 - pkg:maven/io.github.bayescom/advance-mry@4.3.0_415?type=aar
+- pkg:maven/io.github.bayescom/advance-mry@4.3.0_416?type=aar
+- pkg:maven/io.github.bayescom/advance-mry@4.3.0_417?type=aar
+- pkg:maven/io.github.bayescom/advance-mry@4.3.0_417_1?type=aar
+- pkg:maven/io.github.bayescom/advance-mry@4.3.0_417_2?type=aar
+- pkg:maven/io.github.bayescom/advance-mry@4.3.0_417_3?type=aar
 - pkg:maven/io.github.bayescom/advance-mry@4.3.0_rr1_401_2?type=aar
 - pkg:maven/io.github.bayescom/advance-mry@4.3.0_rr2_402?type=aar
 - pkg:maven/io.github.bayescom/advance-mry@4.3.0_rr3_402?type=aar

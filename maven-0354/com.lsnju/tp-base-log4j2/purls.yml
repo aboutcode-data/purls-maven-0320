@@ -2,6 +2,8 @@
 - pkg:maven/com.lsnju/tp-base-log4j2@2.7.10?classifier=sources
 - pkg:maven/com.lsnju/tp-base-log4j2@2.7.11
 - pkg:maven/com.lsnju/tp-base-log4j2@2.7.11?classifier=sources
+- pkg:maven/com.lsnju/tp-base-log4j2@2.7.12
+- pkg:maven/com.lsnju/tp-base-log4j2@2.7.12?classifier=sources
 - pkg:maven/com.lsnju/tp-base-log4j2@2.7.5
 - pkg:maven/com.lsnju/tp-base-log4j2@2.7.5?classifier=sources
 - pkg:maven/com.lsnju/tp-base-log4j2@2.7.6

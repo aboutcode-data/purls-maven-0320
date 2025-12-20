@@ -14,3 +14,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.25.11291?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.27.03271?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.27.03271?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.324.11221?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced-without@9.324.11221?type=aar

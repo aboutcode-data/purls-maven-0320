@@ -8,3 +8,5 @@
 - pkg:maven/org.bytedeco/ffmpeg-platform-gpl@5.1.2-1.5.8?classifier=sources
 - pkg:maven/org.bytedeco/ffmpeg-platform-gpl@6.0-1.5.9
 - pkg:maven/org.bytedeco/ffmpeg-platform-gpl@6.0-1.5.9?classifier=sources
+- pkg:maven/org.bytedeco/ffmpeg-platform-gpl@6.1.1-1.5.10
+- pkg:maven/org.bytedeco/ffmpeg-platform-gpl@6.1.1-1.5.10?classifier=sources

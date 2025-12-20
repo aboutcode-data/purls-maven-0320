@@ -61,3 +61,4 @@
 - pkg:maven/com.infomaximum/cluster@1.1.8p4?classifier=sources
 - pkg:maven/com.infomaximum/cluster@1.1.8p5?classifier=sources
 - pkg:maven/com.infomaximum/cluster@1.1.8p6?classifier=sources
+- pkg:maven/com.infomaximum/cluster@1.1.8p7?classifier=sources

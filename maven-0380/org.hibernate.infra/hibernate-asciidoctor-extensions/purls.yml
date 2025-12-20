@@ -8,3 +8,5 @@
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-extensions@1.0.3.Final?classifier=sources
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-extensions@2.0.0.Final
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-extensions@2.0.0.Final?classifier=sources
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-extensions@2.0.1.Final
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-extensions@2.0.1.Final?classifier=sources

@@ -5,6 +5,12 @@
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@12.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@13.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/common-utils@14.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/common-utils@15.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/common-utils@15.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/common-utils@15.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/common-utils@15.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/common-utils@16.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@4.0.0?classifier=sources

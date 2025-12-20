@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE210?classifier=sources

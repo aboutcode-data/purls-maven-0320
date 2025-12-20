@@ -7,4 +7,6 @@
 - pkg:maven/top.pulselink/bluechatglm@0.1.0
 - pkg:maven/top.pulselink/bluechatglm@0.1.0?classifier=sources
 - pkg:maven/top.pulselink/bluechatglm@0.1.1
+- pkg:maven/top.pulselink/bluechatglm@0.1.1-Beta
+- pkg:maven/top.pulselink/bluechatglm@0.1.1-Beta?classifier=sources
 - pkg:maven/top.pulselink/bluechatglm@0.1.1?classifier=sources

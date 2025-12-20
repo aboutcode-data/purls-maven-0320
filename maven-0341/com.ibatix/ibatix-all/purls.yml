@@ -29,4 +29,6 @@
 - pkg:maven/com.ibatix/ibatix-all@0.2.0.20231213?classifier=sources
 - pkg:maven/com.ibatix/ibatix-all@0.2.0.20240102
 - pkg:maven/com.ibatix/ibatix-all@0.2.0.20240102?classifier=sources
+- pkg:maven/com.ibatix/ibatix-all@0.2.0.20240115
+- pkg:maven/com.ibatix/ibatix-all@0.2.0.20240115?classifier=sources
 - pkg:maven/com.ibatix/ibatix-all@0.2.0?classifier=sources

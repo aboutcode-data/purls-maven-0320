@@ -18,3 +18,5 @@
 - pkg:maven/io.inisos.bank4j/bank4j@2.3.0?classifier=sources
 - pkg:maven/io.inisos.bank4j/bank4j@2.4.0
 - pkg:maven/io.inisos.bank4j/bank4j@2.4.0?classifier=sources
+- pkg:maven/io.inisos.bank4j/bank4j@2.5.0
+- pkg:maven/io.inisos.bank4j/bank4j@2.5.0?classifier=sources

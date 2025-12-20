@@ -20,6 +20,8 @@
 - pkg:maven/cz.pumpitup.driver8/driver8-universal@1.1.19?classifier=sources
 - pkg:maven/cz.pumpitup.driver8/driver8-universal@1.1.20
 - pkg:maven/cz.pumpitup.driver8/driver8-universal@1.1.20?classifier=sources
+- pkg:maven/cz.pumpitup.driver8/driver8-universal@1.1.21
+- pkg:maven/cz.pumpitup.driver8/driver8-universal@1.1.21?classifier=sources
 - pkg:maven/cz.pumpitup.driver8/driver8-universal@1.1.6
 - pkg:maven/cz.pumpitup.driver8/driver8-universal@1.1.6?classifier=sources
 - pkg:maven/cz.pumpitup.driver8/driver8-universal@1.1.7

@@ -16,3 +16,5 @@
 - pkg:maven/se.swedenconnect.opensaml/opensaml-swedish-eid@1.2.6?classifier=sources
 - pkg:maven/se.swedenconnect.opensaml/opensaml-swedish-eid@2.0.0
 - pkg:maven/se.swedenconnect.opensaml/opensaml-swedish-eid@2.0.0?classifier=sources
+- pkg:maven/se.swedenconnect.opensaml/opensaml-swedish-eid@2.1.0
+- pkg:maven/se.swedenconnect.opensaml/opensaml-swedish-eid@2.1.0?classifier=sources

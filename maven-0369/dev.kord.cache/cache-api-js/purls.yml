@@ -1,1 +1,2 @@
 - pkg:maven/dev.kord.cache/cache-api-js@0.4.0?classifier=sources
+- pkg:maven/dev.kord.cache/cache-api-js@unspecified?classifier=sources

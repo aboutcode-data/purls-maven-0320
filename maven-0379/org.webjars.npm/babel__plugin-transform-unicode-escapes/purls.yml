@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/babel__plugin-transform-unicode-escapes@7.16.7?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-unicode-escapes@7.18.10
 - pkg:maven/org.webjars.npm/babel__plugin-transform-unicode-escapes@7.18.10?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-unicode-escapes@8.0.0-alpha.6
+- pkg:maven/org.webjars.npm/babel__plugin-transform-unicode-escapes@8.0.0-alpha.6?classifier=sources

@@ -402,6 +402,12 @@
 - pkg:maven/com.google.cloud/google-cloud-dns@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dns@2.30.0
 - pkg:maven/com.google.cloud/google-cloud-dns@2.30.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dns@2.31.0
+- pkg:maven/com.google.cloud/google-cloud-dns@2.31.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dns@2.32.0
+- pkg:maven/com.google.cloud/google-cloud-dns@2.32.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dns@2.33.0
+- pkg:maven/com.google.cloud/google-cloud-dns@2.33.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dns@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-dns@2.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dns@2.5.0

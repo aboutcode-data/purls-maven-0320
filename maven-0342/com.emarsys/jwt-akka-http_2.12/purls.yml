@@ -121,6 +121,12 @@
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.60?classifier=sources
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.61
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.61?classifier=sources
+- pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.62
+- pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.62?classifier=sources
+- pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.63
+- pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.63?classifier=sources
+- pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.64
+- pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.64?classifier=sources
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.6?classifier=sources
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.7
 - pkg:maven/com.emarsys/jwt-akka-http_2.12@1.4.7?classifier=sources

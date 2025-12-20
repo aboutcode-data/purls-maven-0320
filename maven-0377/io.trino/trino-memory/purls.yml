@@ -83,3 +83,6 @@
 - pkg:maven/io.trino/trino-memory@434?classifier=sources
 - pkg:maven/io.trino/trino-memory@435?classifier=sources
 - pkg:maven/io.trino/trino-memory@436?classifier=sources
+- pkg:maven/io.trino/trino-memory@437?classifier=sources
+- pkg:maven/io.trino/trino-memory@438?classifier=sources
+- pkg:maven/io.trino/trino-memory@439?classifier=sources

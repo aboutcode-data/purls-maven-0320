@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-welcome@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-welcome@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-welcome@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-welcome@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-welcome@RELEASE90?classifier=sources

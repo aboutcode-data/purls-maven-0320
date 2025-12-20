@@ -4,3 +4,5 @@
 - pkg:maven/ws.schild/jave-nativebin-osxm1@3.3.1?classifier=sources
 - pkg:maven/ws.schild/jave-nativebin-osxm1@3.4.0
 - pkg:maven/ws.schild/jave-nativebin-osxm1@3.4.0?classifier=sources
+- pkg:maven/ws.schild/jave-nativebin-osxm1@3.5.0
+- pkg:maven/ws.schild/jave-nativebin-osxm1@3.5.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/de.hoomit.projects/json-db-update@1.11
 - pkg:maven/de.hoomit.projects/json-db-update@1.11?classifier=sources
+- pkg:maven/de.hoomit.projects/json-db-update@1.12
+- pkg:maven/de.hoomit.projects/json-db-update@1.12?classifier=sources
 - pkg:maven/de.hoomit.projects/json-db-update@1.4
 - pkg:maven/de.hoomit.projects/json-db-update@1.4?classifier=sources
 - pkg:maven/de.hoomit.projects/json-db-update@1.6

@@ -12,3 +12,5 @@
 - pkg:maven/com.oracle.database.graph/pgql-on-rdbms@23.3.0?classifier=sources
 - pkg:maven/com.oracle.database.graph/pgql-on-rdbms@23.4.0
 - pkg:maven/com.oracle.database.graph/pgql-on-rdbms@23.4.0?classifier=sources
+- pkg:maven/com.oracle.database.graph/pgql-on-rdbms@24.1.0
+- pkg:maven/com.oracle.database.graph/pgql-on-rdbms@24.1.0?classifier=sources

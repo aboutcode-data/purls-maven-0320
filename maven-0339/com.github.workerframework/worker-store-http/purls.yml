@@ -4,3 +4,5 @@
 - pkg:maven/com.github.workerframework/worker-store-http@6.0.0-1107?classifier=sources
 - pkg:maven/com.github.workerframework/worker-store-http@7.0.0-1167
 - pkg:maven/com.github.workerframework/worker-store-http@7.0.0-1167?classifier=sources
+- pkg:maven/com.github.workerframework/worker-store-http@8.0.0-1196
+- pkg:maven/com.github.workerframework/worker-store-http@8.0.0-1196?classifier=sources

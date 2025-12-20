@@ -12,3 +12,7 @@
 - pkg:maven/com.rapiddweller/rd-lib-format@1.1.4-jdk-11?classifier=sources
 - pkg:maven/com.rapiddweller/rd-lib-format@1.1.5-jdk-11
 - pkg:maven/com.rapiddweller/rd-lib-format@1.1.5-jdk-11?classifier=sources
+- pkg:maven/com.rapiddweller/rd-lib-format@1.1.6-jdk-11
+- pkg:maven/com.rapiddweller/rd-lib-format@1.1.6-jdk-11?classifier=sources
+- pkg:maven/com.rapiddweller/rd-lib-format@1.1.7-jdk-11
+- pkg:maven/com.rapiddweller/rd-lib-format@1.1.7-jdk-11?classifier=sources

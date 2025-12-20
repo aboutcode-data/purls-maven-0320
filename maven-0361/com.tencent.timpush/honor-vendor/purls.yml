@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.timpush/honor-vendor@6.0.4?classifier=sources
+- pkg:maven/com.tencent.timpush/honor-vendor@6.0.5?classifier=sources

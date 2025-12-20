@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-azure-justrun_3@0.2.1-core.0.2
+- pkg:maven/org.virtuslab/besom-azure-justrun_3@0.2.1-core.0.2?classifier=sources

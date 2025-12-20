@@ -1,0 +1,8 @@
+- pkg:maven/cn.sunjinxin.savior/savior-ateye@1.0.6
+- pkg:maven/cn.sunjinxin.savior/savior-ateye@1.0.6?classifier=sources
+- pkg:maven/cn.sunjinxin.savior/savior-ateye@1.0.7-savior
+- pkg:maven/cn.sunjinxin.savior/savior-ateye@1.0.7-savior?classifier=sources
+- pkg:maven/cn.sunjinxin.savior/savior-ateye@1.0.8-savior
+- pkg:maven/cn.sunjinxin.savior/savior-ateye@1.0.8-savior?classifier=sources
+- pkg:maven/cn.sunjinxin.savior/savior-ateye@1.0.9-savior
+- pkg:maven/cn.sunjinxin.savior/savior-ateye@1.0.9-savior?classifier=sources

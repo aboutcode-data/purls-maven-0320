@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mobx-state-tree@3.17.3
+- pkg:maven/org.webjars.npm/mobx-state-tree@3.17.3?classifier=sources

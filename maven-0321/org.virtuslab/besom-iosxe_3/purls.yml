@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-iosxe_3@0.0.1-core.0.2
+- pkg:maven/org.virtuslab/besom-iosxe_3@0.0.1-core.0.2?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.spring.gradle/spring-security-maven-plugin@1.0.1?classifier=sources

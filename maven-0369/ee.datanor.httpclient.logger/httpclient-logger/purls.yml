@@ -1,1 +1,2 @@
 - pkg:maven/ee.datanor.httpclient.logger/httpclient-logger@1.0.0?classifier=sources
+- pkg:maven/ee.datanor.httpclient.logger/httpclient-logger@2.0.0?classifier=sources

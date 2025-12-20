@@ -30,3 +30,5 @@
 - pkg:maven/org.hisp.dhis/json-tree@0.8.0?classifier=sources
 - pkg:maven/org.hisp.dhis/json-tree@0.9.0
 - pkg:maven/org.hisp.dhis/json-tree@0.9.0?classifier=sources
+- pkg:maven/org.hisp.dhis/json-tree@1.0
+- pkg:maven/org.hisp.dhis/json-tree@1.0?classifier=sources

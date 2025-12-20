@@ -38,3 +38,7 @@
 - pkg:maven/de.bund.bva.isyfact/isy-web@5.3.3?classifier=sources
 - pkg:maven/de.bund.bva.isyfact/isy-web@5.3.4
 - pkg:maven/de.bund.bva.isyfact/isy-web@5.3.4?classifier=sources
+- pkg:maven/de.bund.bva.isyfact/isy-web@6.0.0
+- pkg:maven/de.bund.bva.isyfact/isy-web@6.0.0?classifier=sources
+- pkg:maven/de.bund.bva.isyfact/isy-web@6.0.1
+- pkg:maven/de.bund.bva.isyfact/isy-web@6.0.1?classifier=sources

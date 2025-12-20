@@ -34,3 +34,5 @@
 - pkg:maven/com.aliyun/resourcemanager20200331@2.1.9?classifier=sources
 - pkg:maven/com.aliyun/resourcemanager20200331@2.2.0
 - pkg:maven/com.aliyun/resourcemanager20200331@2.2.0?classifier=sources
+- pkg:maven/com.aliyun/resourcemanager20200331@2.3.0
+- pkg:maven/com.aliyun/resourcemanager20200331@2.3.0?classifier=sources

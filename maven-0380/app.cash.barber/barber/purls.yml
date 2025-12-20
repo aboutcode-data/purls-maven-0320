@@ -8,3 +8,7 @@
 - pkg:maven/app.cash.barber/barber@0.3.2?classifier=sources
 - pkg:maven/app.cash.barber/barber@0.3.3
 - pkg:maven/app.cash.barber/barber@0.3.3?classifier=sources
+- pkg:maven/app.cash.barber/barber@2024.01.12.173005-933c241?classifier=sources
+- pkg:maven/app.cash.barber/barber@2024.01.12.192457-c6e606a?classifier=sources
+- pkg:maven/app.cash.barber/barber@2024.01.12.194149-b1c797d?classifier=sources
+- pkg:maven/app.cash.barber/barber@2024.01.15.180530-297cdb5?classifier=sources

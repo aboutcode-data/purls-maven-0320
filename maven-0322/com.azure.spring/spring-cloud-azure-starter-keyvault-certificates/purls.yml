@@ -4,6 +4,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@4.12.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@4.13.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@4.14.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@4.15.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@4.2.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@4.2.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@4.3.0
@@ -32,6 +33,8 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@5.6.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@5.7.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@5.8.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@5.9.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@5.9.1?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@6.0.0-beta.2
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@6.0.0-beta.2?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-keyvault-certificates@6.0.0-beta.3

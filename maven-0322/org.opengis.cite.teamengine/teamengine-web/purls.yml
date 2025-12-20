@@ -30,3 +30,5 @@
 - pkg:maven/org.opengis.cite.teamengine/teamengine-web@5.6?type=war
 - pkg:maven/org.opengis.cite.teamengine/teamengine-web@5.7?classifier=sources
 - pkg:maven/org.opengis.cite.teamengine/teamengine-web@5.7?type=war
+- pkg:maven/org.opengis.cite.teamengine/teamengine-web@6.0.0-RC1?classifier=sources
+- pkg:maven/org.opengis.cite.teamengine/teamengine-web@6.0.0-RC1?type=war

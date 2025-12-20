@@ -1,1 +1,2 @@
 - pkg:maven/com.pubscale.caterpillar/analytics@0.19?classifier=sources
+- pkg:maven/com.pubscale.caterpillar/analytics@0.20?classifier=sources

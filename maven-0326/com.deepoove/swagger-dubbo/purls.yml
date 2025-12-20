@@ -12,3 +12,5 @@
 - pkg:maven/com.deepoove/swagger-dubbo@2.0.0?classifier=sources
 - pkg:maven/com.deepoove/swagger-dubbo@2.0.1
 - pkg:maven/com.deepoove/swagger-dubbo@2.0.1?classifier=sources
+- pkg:maven/com.deepoove/swagger-dubbo@3.0.0-beta
+- pkg:maven/com.deepoove/swagger-dubbo@3.0.0-beta?classifier=sources

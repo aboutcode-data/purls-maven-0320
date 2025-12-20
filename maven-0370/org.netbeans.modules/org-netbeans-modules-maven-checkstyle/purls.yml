@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-checkstyle@RELEASE90?classifier=sources

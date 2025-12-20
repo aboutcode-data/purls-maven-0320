@@ -25,3 +25,4 @@
 - pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.1.7
 - pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.2.0
 - pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.2.2
+- pkg:maven/io.quarkiverse.asyncapi/quarkus-asyncapi-docs@0.3.0

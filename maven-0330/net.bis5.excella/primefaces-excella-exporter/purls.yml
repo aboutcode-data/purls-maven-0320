@@ -40,3 +40,5 @@
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter@3.1.0?classifier=sources
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter@3.2.0
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter@3.2.0?classifier=sources
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter@4.0.1
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter@4.0.1?classifier=sources

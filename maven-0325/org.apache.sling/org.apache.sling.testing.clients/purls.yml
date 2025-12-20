@@ -67,6 +67,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.22
 - pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.22?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.22?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.24
+- pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.24?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.24?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.4
 - pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.clients@3.0.4?classifier=sources

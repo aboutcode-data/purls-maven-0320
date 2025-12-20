@@ -234,3 +234,5 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-metric@3.1.8?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-metric@3.1.9?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-metric@3.2.0?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-metric@4.0.3?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-metric@4.0.4?classifier=sources

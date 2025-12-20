@@ -14,3 +14,5 @@
 - pkg:maven/dev.alphaserpentis/CoffeeCore@0.6.0-alpha?classifier=sources
 - pkg:maven/dev.alphaserpentis/CoffeeCore@0.6.1-alpha
 - pkg:maven/dev.alphaserpentis/CoffeeCore@0.6.1-alpha?classifier=sources
+- pkg:maven/dev.alphaserpentis/CoffeeCore@0.6.2-alpha
+- pkg:maven/dev.alphaserpentis/CoffeeCore@0.6.2-alpha?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.bndtools/bndtools.core.services@6.4.0?classifier=sources
 - pkg:maven/org.bndtools/bndtools.core.services@7.0.0
 - pkg:maven/org.bndtools/bndtools.core.services@7.0.0?classifier=sources
+- pkg:maven/org.bndtools/bndtools.core.services@7.1.0
+- pkg:maven/org.bndtools/bndtools.core.services@7.1.0?classifier=sources

@@ -201,6 +201,12 @@
 - pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.114
 - pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.114?classifier=sources
 - pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.115
+- pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.1154
+- pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.1154?classifier=sources
+- pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.1155
+- pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.1155?classifier=sources
+- pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.1156
+- pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.1156?classifier=sources
 - pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.115?classifier=sources
 - pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.116
 - pkg:maven/com.pepperize/cdk-apigateway-swagger-ui@0.0.116?classifier=sources

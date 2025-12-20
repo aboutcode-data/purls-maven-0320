@@ -86,6 +86,10 @@
 - pkg:maven/org.membrane-soa/service-proxy-war@5.5.4?type=war
 - pkg:maven/org.membrane-soa/service-proxy-war@5.5.6?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-war@5.5.6?type=war
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.8?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.8?type=war
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.9?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-war@5.5.9?type=war
 - pkg:maven/org.membrane-soa/service-proxy-war@5.6.0?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-war@5.6.0?type=war
 - pkg:maven/org.membrane-soa/service-proxy-war@5.7.0?classifier=sources

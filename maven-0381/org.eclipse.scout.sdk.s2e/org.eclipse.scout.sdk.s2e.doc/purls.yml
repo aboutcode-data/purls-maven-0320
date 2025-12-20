@@ -193,6 +193,8 @@
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.doc@13.0.44?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.doc@13.0.45
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.doc@13.0.45?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.doc@13.0.46
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.doc@13.0.46?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.doc@13.0.4?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.doc@13.0.5
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.doc@13.0.5?classifier=sources

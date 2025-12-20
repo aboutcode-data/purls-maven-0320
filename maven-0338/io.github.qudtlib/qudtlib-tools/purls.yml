@@ -24,3 +24,5 @@
 - pkg:maven/io.github.qudtlib/qudtlib-tools@6.5.0?classifier=sources
 - pkg:maven/io.github.qudtlib/qudtlib-tools@6.7.0
 - pkg:maven/io.github.qudtlib/qudtlib-tools@6.7.0?classifier=sources
+- pkg:maven/io.github.qudtlib/qudtlib-tools@6.8.0
+- pkg:maven/io.github.qudtlib/qudtlib-tools@6.8.0?classifier=sources

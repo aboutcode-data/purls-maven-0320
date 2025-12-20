@@ -6,6 +6,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/scroller@23.3.7?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/scroller@23.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/scroller@23.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/scroller@23.5.11?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/scroller@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/scroller@24.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/scroller@24.0.5?classifier=sources
@@ -56,4 +57,6 @@
 - pkg:maven/org.mvnpm.at.vaadin/scroller@24.5.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/scroller@24.5.3?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/scroller@24.5.4?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/scroller@24.5.5?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/scroller@24.6.0-alpha7?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/scroller@24.6.0?classifier=sources

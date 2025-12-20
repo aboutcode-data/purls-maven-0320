@@ -159,6 +159,12 @@
 - pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.28?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.29?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.2?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.30?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.31?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.32?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.33?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.34?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.35?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.4?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.5?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64@12.1.6?classifier=sources

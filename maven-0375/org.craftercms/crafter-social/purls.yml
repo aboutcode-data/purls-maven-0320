@@ -269,6 +269,7 @@
 - pkg:maven/org.craftercms/crafter-social@4.1.7?type=war
 - pkg:maven/org.craftercms/crafter-social@4.1.8?classifier=sources
 - pkg:maven/org.craftercms/crafter-social@4.1.8?type=war
+- pkg:maven/org.craftercms/crafter-social@4.1.9?type=war
 - pkg:maven/org.craftercms/crafter-social@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-social@v2.5.0-Beta4?type=war
 - pkg:maven/org.craftercms/crafter-social@v2.5.0-Beta5?classifier=sources

@@ -6,3 +6,6 @@
 - pkg:maven/com.brihaspathee.artemis/artemis-library@1.0.2?classifier=sources
 - pkg:maven/com.brihaspathee.artemis/artemis-library@1.0.3
 - pkg:maven/com.brihaspathee.artemis/artemis-library@1.0.3?classifier=sources
+- pkg:maven/com.brihaspathee.artemis/artemis-library@1.0.4
+- pkg:maven/com.brihaspathee.artemis/artemis-library@1.0.4?classifier=sources
+- pkg:maven/com.brihaspathee.artemis/artemis-library@1.0.7?classifier=sources

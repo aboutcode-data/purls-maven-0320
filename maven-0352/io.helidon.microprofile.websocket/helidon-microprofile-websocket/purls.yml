@@ -174,3 +174,5 @@
 - pkg:maven/io.helidon.microprofile.websocket/helidon-microprofile-websocket@4.1.3?classifier=sources
 - pkg:maven/io.helidon.microprofile.websocket/helidon-microprofile-websocket@4.1.4
 - pkg:maven/io.helidon.microprofile.websocket/helidon-microprofile-websocket@4.1.4?classifier=sources
+- pkg:maven/io.helidon.microprofile.websocket/helidon-microprofile-websocket@4.1.5
+- pkg:maven/io.helidon.microprofile.websocket/helidon-microprofile-websocket@4.1.5?classifier=sources

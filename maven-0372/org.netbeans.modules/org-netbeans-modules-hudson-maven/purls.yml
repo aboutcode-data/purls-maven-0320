@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-maven@RELEASE90?classifier=sources

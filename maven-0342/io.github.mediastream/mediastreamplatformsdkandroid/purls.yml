@@ -40,6 +40,9 @@
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@9.2.4?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@9.2.5?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@9.2.6?classifier=sources
+- pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@9.2.7?classifier=sources
+- pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@9.2.8?classifier=sources
+- pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@a7.2.0?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@a8.0.0?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b1-7.0.4?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b2-7.0.4?classifier=sources
@@ -47,6 +50,8 @@
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b4-7.0.4?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b4-7.0.5?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b4-7.0.6?classifier=sources
+- pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b4-7.2.0-amazon?classifier=sources
+- pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b4-7.2.0-google?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b7.0.4?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b8.0.0?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b9.0.0?classifier=sources
@@ -59,3 +64,4 @@
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b9.0.7?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b9.0.8?classifier=sources
 - pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@b9.1.0?classifier=sources
+- pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid@g7.2.0?classifier=sources

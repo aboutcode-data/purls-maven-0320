@@ -18,3 +18,5 @@
 - pkg:maven/com.vaadin/appsec-kit-starter@3.2.2?classifier=sources
 - pkg:maven/com.vaadin/appsec-kit-starter@3.2.3
 - pkg:maven/com.vaadin/appsec-kit-starter@3.2.3?classifier=sources
+- pkg:maven/com.vaadin/appsec-kit-starter@3.3.0
+- pkg:maven/com.vaadin/appsec-kit-starter@3.3.0?classifier=sources

@@ -28,6 +28,8 @@
 - pkg:maven/com.pepperize/cdk-vpc@0.0.1013?classifier=sources
 - pkg:maven/com.pepperize/cdk-vpc@0.0.1014
 - pkg:maven/com.pepperize/cdk-vpc@0.0.1014?classifier=sources
+- pkg:maven/com.pepperize/cdk-vpc@0.0.1081
+- pkg:maven/com.pepperize/cdk-vpc@0.0.1081?classifier=sources
 - pkg:maven/com.pepperize/cdk-vpc@0.0.174
 - pkg:maven/com.pepperize/cdk-vpc@0.0.174?classifier=sources
 - pkg:maven/com.pepperize/cdk-vpc@0.0.175

@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/connector-document@8.7.0-alpha2.1
+- pkg:maven/io.camunda.connector/connector-document@8.7.0-alpha2.1?classifier=sources

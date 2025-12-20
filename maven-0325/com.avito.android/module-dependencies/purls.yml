@@ -8,3 +8,4 @@
 - pkg:maven/com.avito.android/module-dependencies@2023.20?classifier=sources
 - pkg:maven/com.avito.android/module-dependencies@2023.22?classifier=sources
 - pkg:maven/com.avito.android/module-dependencies@2023.2?classifier=sources
+- pkg:maven/com.avito.android/module-dependencies@2024.32?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.siom79.jopenapicmp/jopenapicmp-maven-plugin@0.0.4
+- pkg:maven/io.github.siom79.jopenapicmp/jopenapicmp-maven-plugin@0.0.4?classifier=sources

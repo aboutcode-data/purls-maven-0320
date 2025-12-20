@@ -90,6 +90,8 @@
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.24.2?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.25.1
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.25.1?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-processor@5.26.0
+- pkg:maven/org.neo4j.procedure/apoc-processor@5.26.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.3.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.4.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-processor@5.4.1?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/org.opennms/opennms-model@33.0.8?classifier=sources
 - pkg:maven/org.opennms/opennms-model@33.0.9
 - pkg:maven/org.opennms/opennms-model@33.0.9?classifier=sources
+- pkg:maven/org.opennms/opennms-model@33.1.1
+- pkg:maven/org.opennms/opennms-model@33.1.1?classifier=sources

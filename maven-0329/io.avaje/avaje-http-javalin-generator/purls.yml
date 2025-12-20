@@ -158,3 +158,17 @@
 - pkg:maven/io.avaje/avaje-http-javalin-generator@2.8-RC4
 - pkg:maven/io.avaje/avaje-http-javalin-generator@2.8-RC4?classifier=sources
 - pkg:maven/io.avaje/avaje-http-javalin-generator@2.8?classifier=sources
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC1
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC1?classifier=sources
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC2
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC2?classifier=sources
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC3
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC4
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC5
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC5?classifier=sources
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC6
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC6?classifier=sources
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC7
+- pkg:maven/io.avaje/avaje-http-javalin-generator@2.9-RC7?classifier=sources

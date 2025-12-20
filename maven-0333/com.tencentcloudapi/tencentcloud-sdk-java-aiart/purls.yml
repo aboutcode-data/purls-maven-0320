@@ -40,6 +40,10 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.1102?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.1113
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.1113?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.1158
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.1158?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.1159
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.1159?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.711
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.711?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-aiart@3.1.712

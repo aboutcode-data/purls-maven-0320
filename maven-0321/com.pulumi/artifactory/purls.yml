@@ -337,3 +337,14 @@
 - pkg:maven/com.pulumi/artifactory@8.4.0-alpha.1731129340?classifier=sources
 - pkg:maven/com.pulumi/artifactory@8.4.0-alpha.1731388517?classifier=sources
 - pkg:maven/com.pulumi/artifactory@8.4.0-alpha.1731647793?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.4.0-alpha.1731931653?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.4.0-alpha.1732013063?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.4.0?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.4.1-alpha.1732559886?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.4.1?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.5.0-alpha.1732598116?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.5.0-alpha.1732684460?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.5.0-alpha.1732770858?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.5.0?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.6.0?classifier=sources
+- pkg:maven/com.pulumi/artifactory@8.6.1?classifier=sources

@@ -39,3 +39,4 @@
 - pkg:maven/org.ooni/oonimkall@2024.03.27-124004?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2024.05.22-092559?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2024.08.08-091959?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2024.11.26-053000?classifier=sources

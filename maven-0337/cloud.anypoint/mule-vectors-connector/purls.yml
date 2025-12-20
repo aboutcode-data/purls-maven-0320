@@ -1,1 +1,2 @@
 - pkg:maven/cloud.anypoint/mule-vectors-connector@0.1.25?classifier=sources
+- pkg:maven/cloud.anypoint/mule-vectors-connector@0.2.0?classifier=sources

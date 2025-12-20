@@ -2,6 +2,7 @@
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-HY-2?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-HY-3?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-HY-4?classifier=sources
+- pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-HY-5?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-PG-1?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-PG-2?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-PG-3?classifier=sources
@@ -15,6 +16,7 @@
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-ST-5?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-ST-6?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-ST-7?classifier=sources
+- pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-ST-8?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-YD-1?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-YD-2?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-core@2.4.5-YZ-1?classifier=sources

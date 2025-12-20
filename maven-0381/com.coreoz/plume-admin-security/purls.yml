@@ -32,3 +32,5 @@
 - pkg:maven/com.coreoz/plume-admin-security@4.2.0?classifier=sources
 - pkg:maven/com.coreoz/plume-admin-security@4.3.0
 - pkg:maven/com.coreoz/plume-admin-security@4.3.0?classifier=sources
+- pkg:maven/com.coreoz/plume-admin-security@5.0.0-beta1
+- pkg:maven/com.coreoz/plume-admin-security@5.0.0-beta1?classifier=sources

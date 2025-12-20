@@ -1,6 +1,17 @@
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.0?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.10?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.11?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.12?classifier=sources
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.1?classifier=sources
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.2?classifier=sources
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.3?classifier=sources
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.4?classifier=sources
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.5?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.7?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.8?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@1.0.9?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@4.3.0?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@4.3.1?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@4.3.2?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@4.3.3?classifier=sources
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nutriscale@4.3.5?classifier=sources

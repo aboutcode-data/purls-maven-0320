@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-properties@RELEASE90?classifier=sources

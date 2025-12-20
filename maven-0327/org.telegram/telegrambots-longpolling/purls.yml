@@ -38,3 +38,5 @@
 - pkg:maven/org.telegram/telegrambots-longpolling@7.9.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-longpolling@7.9.1
 - pkg:maven/org.telegram/telegrambots-longpolling@7.9.1?classifier=sources
+- pkg:maven/org.telegram/telegrambots-longpolling@8.0.0
+- pkg:maven/org.telegram/telegrambots-longpolling@8.0.0?classifier=sources

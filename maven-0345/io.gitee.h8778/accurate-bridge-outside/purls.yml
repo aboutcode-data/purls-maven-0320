@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.h8778/accurate-bridge-outside@1.5.8?classifier=sources
+- pkg:maven/io.gitee.h8778/accurate-bridge-outside@1.6.4?classifier=sources
+- pkg:maven/io.gitee.h8778/accurate-bridge-outside@1.6.5.1?classifier=sources
+- pkg:maven/io.gitee.h8778/accurate-bridge-outside@1.6.5?classifier=sources

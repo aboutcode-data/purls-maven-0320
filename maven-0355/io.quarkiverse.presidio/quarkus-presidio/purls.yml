@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.presidio/quarkus-presidio@0.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.presidio/quarkus-presidio@0.3.0?classifier=sources

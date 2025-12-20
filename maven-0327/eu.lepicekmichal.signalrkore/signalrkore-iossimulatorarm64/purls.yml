@@ -12,3 +12,4 @@
 - pkg:maven/eu.lepicekmichal.signalrkore/signalrkore-iossimulatorarm64@0.8.6?classifier=sources
 - pkg:maven/eu.lepicekmichal.signalrkore/signalrkore-iossimulatorarm64@0.8.7?classifier=sources
 - pkg:maven/eu.lepicekmichal.signalrkore/signalrkore-iossimulatorarm64@0.9.0?classifier=sources
+- pkg:maven/eu.lepicekmichal.signalrkore/signalrkore-iossimulatorarm64@0.9.1?classifier=sources

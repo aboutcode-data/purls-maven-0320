@@ -1,0 +1,6 @@
+- pkg:maven/com.darkrockstudios/fdic@3.0.0?classifier=sources
+- pkg:maven/com.darkrockstudios/fdic@3.0.2?classifier=sources
+- pkg:maven/com.darkrockstudios/fdic@3.0.4?classifier=sources
+- pkg:maven/com.darkrockstudios/fdic@3.0.7?classifier=sources
+- pkg:maven/com.darkrockstudios/fdic@3.0.9?classifier=sources
+- pkg:maven/com.darkrockstudios/fdic@3.1.0?classifier=sources

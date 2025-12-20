@@ -20,3 +20,4 @@
 - pkg:maven/org.spdx/licenseListPublisher@2.2.7?classifier=sources
 - pkg:maven/org.spdx/licenseListPublisher@2.2.8?classifier=sources
 - pkg:maven/org.spdx/licenseListPublisher@2.2.9?classifier=sources
+- pkg:maven/org.spdx/licenseListPublisher@3.0.0?classifier=sources

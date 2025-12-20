@@ -19,3 +19,4 @@
 - pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.2.0.1-B1
 - pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.2.0.1-B2
 - pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.2.0.2
+- pkg:maven/io.mosip.preregistration/pre-registration-booking-service@1.3.0-beta.1

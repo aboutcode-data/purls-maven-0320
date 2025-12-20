@@ -61,3 +61,4 @@
 - pkg:maven/com.yhyzgn.http/pigeon@1.5.7?classifier=sources
 - pkg:maven/com.yhyzgn.http/pigeon@1.5.8?classifier=sources
 - pkg:maven/com.yhyzgn.http/pigeon@1.6.0?classifier=sources
+- pkg:maven/com.yhyzgn.http/pigeon@2.0.0?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/org.pageseeder.bridge/pso-bridge@0.11.36?classifier=sources
 - pkg:maven/org.pageseeder.bridge/pso-bridge@0.11.37?classifier=sources
 - pkg:maven/org.pageseeder.bridge/pso-bridge@0.11.38?classifier=sources
+- pkg:maven/org.pageseeder.bridge/pso-bridge@0.11.39?classifier=sources

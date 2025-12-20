@@ -218,5 +218,13 @@
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20241011162508?type=aar
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20241011174508?classifier=sources
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20241011174508?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20241118182022?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20241118182022?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.2024112351508?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.2024112351508?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.2024120251508?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.2024120251508?type=aar
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20241205182022?classifier=sources
+- pkg:maven/com.immomo.momomedia/media@momo5.1f.mediaext.20241205182022?type=aar
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.medialive.20210427105401?classifier=sources
 - pkg:maven/com.immomo.momomedia/media@momo5.1f.medialive.20210427105401?type=aar

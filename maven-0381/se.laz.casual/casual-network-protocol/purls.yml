@@ -40,3 +40,7 @@
 - pkg:maven/se.laz.casual/casual-network-protocol@3.2.45?classifier=sources
 - pkg:maven/se.laz.casual/casual-network-protocol@3.2.46?classifier=sources
 - pkg:maven/se.laz.casual/casual-network-protocol@3.2.47?classifier=sources
+- pkg:maven/se.laz.casual/casual-network-protocol@3.2.48?classifier=sources
+- pkg:maven/se.laz.casual/casual-network-protocol@3.2.49?classifier=sources
+- pkg:maven/se.laz.casual/casual-network-protocol@3.2.50?classifier=sources
+- pkg:maven/se.laz.casual/casual-network-protocol@3.3.0?classifier=sources

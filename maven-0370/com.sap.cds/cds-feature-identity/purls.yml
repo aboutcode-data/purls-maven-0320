@@ -90,6 +90,10 @@
 - pkg:maven/com.sap.cds/cds-feature-identity@2.10.3?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-identity@2.10.4
 - pkg:maven/com.sap.cds/cds-feature-identity@2.10.4?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-identity@2.10.5
+- pkg:maven/com.sap.cds/cds-feature-identity@2.10.5?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-identity@2.10.6
+- pkg:maven/com.sap.cds/cds-feature-identity@2.10.6?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-identity@2.2.0
 - pkg:maven/com.sap.cds/cds-feature-identity@2.2.0?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-identity@2.3.0
@@ -138,3 +142,9 @@
 - pkg:maven/com.sap.cds/cds-feature-identity@3.3.1?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-identity@3.4.0
 - pkg:maven/com.sap.cds/cds-feature-identity@3.4.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-identity@3.4.1
+- pkg:maven/com.sap.cds/cds-feature-identity@3.4.1?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-identity@3.5.0
+- pkg:maven/com.sap.cds/cds-feature-identity@3.5.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-identity@3.6.0
+- pkg:maven/com.sap.cds/cds-feature-identity@3.6.0?classifier=sources

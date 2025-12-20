@@ -24,6 +24,10 @@
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.26.0?classifier=sources
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.28.0
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.28.0?classifier=sources
+- pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.30.0
+- pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.30.0?classifier=sources
+- pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.32.0
+- pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.32.0?classifier=sources
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.4.0
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.4.0?classifier=sources
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@13.6.0

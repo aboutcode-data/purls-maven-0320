@@ -1,0 +1,2 @@
+- pkg:maven/org.huiche/huiche1-sql-spring-boot-starter@3.0.16
+- pkg:maven/org.huiche/huiche1-sql-spring-boot-starter@3.0.16?classifier=sources

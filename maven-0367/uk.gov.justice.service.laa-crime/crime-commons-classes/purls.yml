@@ -49,3 +49,6 @@
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@3.33.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@3.4.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@3.5.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@4.0.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@4.1.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-classes@4.2.1?classifier=sources

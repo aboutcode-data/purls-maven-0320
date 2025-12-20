@@ -86,6 +86,11 @@
 - pkg:maven/me.proton.core/auth-test@29.1.3?classifier=sources
 - pkg:maven/me.proton.core/auth-test@29.1.4?classifier=sources
 - pkg:maven/me.proton.core/auth-test@29.2.0?classifier=sources
+- pkg:maven/me.proton.core/auth-test@29.3.0?classifier=sources
+- pkg:maven/me.proton.core/auth-test@29.3.1?classifier=sources
+- pkg:maven/me.proton.core/auth-test@29.3.2?classifier=sources
+- pkg:maven/me.proton.core/auth-test@30.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth-test@30.1.0?classifier=sources
 - pkg:maven/me.proton.core/auth-test@9.16.0?classifier=sources
 - pkg:maven/me.proton.core/auth-test@9.16.1?classifier=sources
 - pkg:maven/me.proton.core/auth-test@9.17.0?classifier=sources

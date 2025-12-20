@@ -8,3 +8,4 @@
 - pkg:maven/com.contentmunch/mail-api@3.0.1.RELEASE?classifier=sources
 - pkg:maven/com.contentmunch/mail-api@4.0.0.RELEASE?classifier=sources
 - pkg:maven/com.contentmunch/mail-api@5.0.1.RELEASE?classifier=sources
+- pkg:maven/com.contentmunch/mail-api@5.0.2.RELEASE?classifier=sources

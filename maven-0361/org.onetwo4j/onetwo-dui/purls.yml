@@ -1,0 +1,2 @@
+- pkg:maven/org.onetwo4j/onetwo-dui@5.2.7
+- pkg:maven/org.onetwo4j/onetwo-dui@5.2.7?classifier=sources

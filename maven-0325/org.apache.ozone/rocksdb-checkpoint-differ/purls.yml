@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.ozone/rocksdb-checkpoint-differ@1.4.0
+- pkg:maven/org.apache.ozone/rocksdb-checkpoint-differ@1.4.1

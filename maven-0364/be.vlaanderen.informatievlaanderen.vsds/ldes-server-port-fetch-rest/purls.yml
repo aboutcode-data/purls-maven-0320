@@ -10,3 +10,5 @@
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-fetch-rest@2.14.0?classifier=sources
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-fetch-rest@2.3.0
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-fetch-rest@2.3.0?classifier=sources
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-fetch-rest@3.0.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-fetch-rest@3.0.0?classifier=sources

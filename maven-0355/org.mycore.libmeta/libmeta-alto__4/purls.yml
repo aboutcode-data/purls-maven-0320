@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore.libmeta/libmeta-alto__4@0.9.0
+- pkg:maven/org.mycore.libmeta/libmeta-alto__4@0.9.0?classifier=sources

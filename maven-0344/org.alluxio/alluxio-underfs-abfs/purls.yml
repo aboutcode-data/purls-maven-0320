@@ -60,6 +60,8 @@
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@2.9.3?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@2.9.4
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@2.9.4?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@2.9.5
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@2.9.5?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@291-alpha
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@291-alpha?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@291-beta
@@ -96,3 +98,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@311?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@312
 - pkg:maven/org.alluxio/alluxio-underfs-abfs@312?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@313
+- pkg:maven/org.alluxio/alluxio-underfs-abfs@313?classifier=sources

@@ -34,6 +34,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.14
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.14?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.14?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.16
+- pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.16?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.16?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.2
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.engine@2.15.2?classifier=sources

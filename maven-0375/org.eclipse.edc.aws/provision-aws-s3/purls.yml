@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc.aws/provision-aws-s3@0.0.1-dontuse?classifier=sources

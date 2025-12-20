@@ -1,0 +1,2 @@
+- pkg:maven/group.springframework.ai/spring-ai-spring-boot-docker-compose@1.1.0
+- pkg:maven/group.springframework.ai/spring-ai-spring-boot-docker-compose@1.1.0?classifier=sources

@@ -104,6 +104,14 @@
 - pkg:maven/org.icij.datashare/datashare-api@13.8.0?classifier=sources
 - pkg:maven/org.icij.datashare/datashare-api@13.8.1
 - pkg:maven/org.icij.datashare/datashare-api@13.8.1?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-api@13.8.2
+- pkg:maven/org.icij.datashare/datashare-api@13.8.2?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-api@13.8.3
+- pkg:maven/org.icij.datashare/datashare-api@13.8.3?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-api@14.0.0
+- pkg:maven/org.icij.datashare/datashare-api@14.0.0?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-api@14.1.1
+- pkg:maven/org.icij.datashare/datashare-api@14.1.1?classifier=sources
 - pkg:maven/org.icij.datashare/datashare-api@6.1.0
 - pkg:maven/org.icij.datashare/datashare-api@6.1.0?classifier=sources
 - pkg:maven/org.icij.datashare/datashare-api@6.1.6

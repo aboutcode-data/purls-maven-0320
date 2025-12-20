@@ -96,3 +96,4 @@
 - pkg:maven/com.github.leeonky/bean-util@0.6.4?classifier=sources
 - pkg:maven/com.github.leeonky/bean-util@0.6.5?classifier=sources
 - pkg:maven/com.github.leeonky/bean-util@0.6.6?classifier=sources
+- pkg:maven/com.github.leeonky/bean-util@beta-ci-0.0.1?classifier=sources

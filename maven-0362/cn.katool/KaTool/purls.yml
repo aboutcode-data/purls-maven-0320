@@ -32,3 +32,5 @@
 - pkg:maven/cn.katool/KaTool@1.9.6.BETA?classifier=sources
 - pkg:maven/cn.katool/KaTool@1.9.6.GAMA
 - pkg:maven/cn.katool/KaTool@1.9.6.GAMA?classifier=sources
+- pkg:maven/cn.katool/KaTool@1.9.6.RELEASE
+- pkg:maven/cn.katool/KaTool@1.9.6.RELEASE?classifier=sources

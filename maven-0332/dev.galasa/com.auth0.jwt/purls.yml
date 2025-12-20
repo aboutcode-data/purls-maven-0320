@@ -1,1 +1,2 @@
 - pkg:maven/dev.galasa/com.auth0.jwt@3.8.1
+- pkg:maven/dev.galasa/com.auth0.jwt@4.4.0

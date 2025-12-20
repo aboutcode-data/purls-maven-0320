@@ -31,6 +31,8 @@
 - pkg:maven/org.babyfish.jimmer/jimmer-client-swagger@0.8.130?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-client-swagger@0.8.131?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-client-swagger@0.8.132?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-client-swagger@0.8.133?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-client-swagger@0.8.134?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-client-swagger@0.8.82?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-client-swagger@0.8.83?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-client-swagger@0.8.84?classifier=sources

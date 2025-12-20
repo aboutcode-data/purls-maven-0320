@@ -1,0 +1,2 @@
+- pkg:maven/com.rapatao.ruleset/jackson@1.0.0?classifier=sources
+- pkg:maven/com.rapatao.ruleset/jackson@1.1.0?classifier=sources

@@ -24,6 +24,7 @@
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@13022024.dbaaf79
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@15022024.faf2540
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@16042024.d56562f
+- pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@20062024.78f779c
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@20122023.35f1ccf
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@21112023.261c569
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@22012024.35a6312
@@ -37,7 +38,9 @@
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@24012024.6c43596
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@24102023.c0a697a
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@29012024.c41ed69
+- pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@29052024.70b5a6a
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@29112023.5d51bfa
+- pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@30052024.4e5ae30
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@30112023.85a0f5d
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@30112023.d5aedab
 - pkg:maven/io.github.domstolene.esas/overfoeresakkonfliktraad@31012024.5b86c13

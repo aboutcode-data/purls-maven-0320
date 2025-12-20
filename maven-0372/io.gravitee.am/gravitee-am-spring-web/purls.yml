@@ -29,6 +29,10 @@
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.24?classifier=sources
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.25
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.25?classifier=sources
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.26
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.26?classifier=sources
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.27
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.27?classifier=sources
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.2?classifier=sources
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.4
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@3.21.4?classifier=sources
@@ -58,7 +62,11 @@
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.17?classifier=sources
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.18
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.18?classifier=sources
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.19
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.19?classifier=sources
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.2
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.20
+- pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.20?classifier=sources
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.2?classifier=sources
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.3
 - pkg:maven/io.gravitee.am/gravitee-am-spring-web@4.0.3?classifier=sources

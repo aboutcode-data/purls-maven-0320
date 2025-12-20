@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-baggage-processor@1.36.0-alpha?classifier=sources

@@ -29,6 +29,8 @@
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@22.5.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@22.6.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@22.7.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/common-utils@22.8.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/common-utils@23.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/common-utils@5.0.0?classifier=sources

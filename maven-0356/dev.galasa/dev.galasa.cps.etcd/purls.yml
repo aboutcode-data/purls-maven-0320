@@ -17,6 +17,8 @@
 - pkg:maven/dev.galasa/dev.galasa.cps.etcd@0.3.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cps.etcd@0.31.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cps.etcd@0.33.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.cps.etcd@0.34.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.cps.etcd@0.34.1?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cps.etcd@0.4.0
 - pkg:maven/dev.galasa/dev.galasa.cps.etcd@0.4.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cps.etcd@0.5.0

@@ -7,3 +7,4 @@
 - pkg:maven/es.blackleg.nb.notifications/quote@1.2.3?classifier=sources
 - pkg:maven/es.blackleg.nb.notifications/quote@2.0.0?classifier=sources
 - pkg:maven/es.blackleg.nb.notifications/quote@2.1.0?classifier=sources
+- pkg:maven/es.blackleg.nb.notifications/quote@2.1.1?classifier=sources

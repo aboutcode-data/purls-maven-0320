@@ -5,3 +5,4 @@
 - pkg:maven/com.joetr.compose.guard/test-kit@0.0.7?classifier=sources
 - pkg:maven/com.joetr.compose.guard/test-kit@1.0.0?classifier=sources
 - pkg:maven/com.joetr.compose.guard/test-kit@1.1.0?classifier=sources
+- pkg:maven/com.joetr.compose.guard/test-kit@2.0.0?classifier=sources

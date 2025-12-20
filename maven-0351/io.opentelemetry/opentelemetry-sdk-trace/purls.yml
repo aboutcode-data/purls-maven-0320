@@ -53,6 +53,7 @@
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-trace@1.36.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-trace@1.37.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-trace@1.38.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-trace@1.39.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-trace@1.4.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-trace@1.4.1?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-trace@1.5.0?classifier=sources

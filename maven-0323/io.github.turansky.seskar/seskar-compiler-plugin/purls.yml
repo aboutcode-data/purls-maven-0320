@@ -119,3 +119,7 @@
 - pkg:maven/io.github.turansky.seskar/seskar-compiler-plugin@2.70.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-compiler-plugin@2.71.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-compiler-plugin@2.72.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-compiler-plugin@2.75.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-compiler-plugin@2.77.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-compiler-plugin@2.80.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-compiler-plugin@3.0.0?classifier=sources

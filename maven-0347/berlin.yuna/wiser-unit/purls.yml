@@ -145,6 +145,8 @@
 - pkg:maven/berlin.yuna/wiser-unit@0.0.8
 - pkg:maven/berlin.yuna/wiser-unit@0.0.80
 - pkg:maven/berlin.yuna/wiser-unit@0.0.80?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@0.0.81
+- pkg:maven/berlin.yuna/wiser-unit@0.0.81?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@0.0.8?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@0.0.9
 - pkg:maven/berlin.yuna/wiser-unit@0.0.9?classifier=sources

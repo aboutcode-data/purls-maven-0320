@@ -10,3 +10,4 @@
 - pkg:maven/io.github.hoc081098/FlowExt-macosarm64@0.8.0?classifier=sources
 - pkg:maven/io.github.hoc081098/FlowExt-macosarm64@0.8.1-Beta?classifier=sources
 - pkg:maven/io.github.hoc081098/FlowExt-macosarm64@0.8.1?classifier=sources
+- pkg:maven/io.github.hoc081098/FlowExt-macosarm64@1.0.0-RC?classifier=sources

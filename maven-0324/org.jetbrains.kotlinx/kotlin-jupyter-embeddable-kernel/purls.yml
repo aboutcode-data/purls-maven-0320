@@ -59,3 +59,10 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-222?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-225?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-226?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-227?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-228?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-229?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-230?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-232?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-235?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-embeddable-kernel@0.12.0-236?classifier=sources

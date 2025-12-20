@@ -52,3 +52,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.17.200?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.18.0
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.18.0?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.18.100
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.core@3.18.100?classifier=sources

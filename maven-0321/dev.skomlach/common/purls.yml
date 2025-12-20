@@ -215,6 +215,7 @@
 - pkg:maven/dev.skomlach/common@2.2.2?classifier=sources
 - pkg:maven/dev.skomlach/common@2.2.30?classifier=sources
 - pkg:maven/dev.skomlach/common@2.2.31?classifier=sources
+- pkg:maven/dev.skomlach/common@2.2.32?classifier=sources
 - pkg:maven/dev.skomlach/common@2.2.3?classifier=sources
 - pkg:maven/dev.skomlach/common@2.2.4?classifier=sources
 - pkg:maven/dev.skomlach/common@2.2.5?classifier=sources

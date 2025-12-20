@@ -1,1 +1,2 @@
 - pkg:maven/org.pkl-lang/pkl-spring@0.15.0?classifier=sources
+- pkg:maven/org.pkl-lang/pkl-spring@0.16.0?classifier=sources

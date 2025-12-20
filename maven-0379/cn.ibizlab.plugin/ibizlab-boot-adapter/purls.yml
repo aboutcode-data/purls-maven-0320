@@ -15,6 +15,10 @@
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.16?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.17
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.17?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.18
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.18?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.19
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.19?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.2
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.2?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-adapter@2.6.1.3

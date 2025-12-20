@@ -1,4 +1,5 @@
 - pkg:maven/com.clouway.kcqrs/kcqrs-client@v1.2.7
 - pkg:maven/com.clouway.kcqrs/kcqrs-client@v1.2.7?classifier=sources
+- pkg:maven/com.clouway.kcqrs/kcqrs-client@v1.2.8?classifier=sources
 - pkg:maven/com.clouway.kcqrs/kcqrs-client@v1.3.0
 - pkg:maven/com.clouway.kcqrs/kcqrs-client@v1.3.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.mui/core-downloads-tracker@5.15.17?classifier=sources
+- pkg:maven/org.mvnpm.at.mui/core-downloads-tracker@5.15.19?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.event@1.1.200?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.event@1.1.300
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.event@1.1.300?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.event@1.1.400
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.event@1.1.400?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.here.platform.artifact.gradle/gradle-resolver@0.0.12?classifier=sources

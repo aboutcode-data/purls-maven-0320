@@ -522,6 +522,10 @@
 - pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.350?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.351?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.352?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.353?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.354?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.355?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.tools.rest.builder@1.0.36?classifier=sources

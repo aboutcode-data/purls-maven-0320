@@ -46,3 +46,7 @@
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.65.11?classifier=sources
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.65.12?classifier=sources
 - pkg:maven/com.sodyo/sodyo-android-sdk@3.65.13?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.14?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.15?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.16?classifier=sources
+- pkg:maven/com.sodyo/sodyo-android-sdk@3.65.18?classifier=sources

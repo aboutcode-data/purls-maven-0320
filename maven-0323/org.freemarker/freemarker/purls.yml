@@ -44,5 +44,6 @@
 - pkg:maven/org.freemarker/freemarker@2.3.31?classifier=sources
 - pkg:maven/org.freemarker/freemarker@2.3.32
 - pkg:maven/org.freemarker/freemarker@2.3.32?classifier=sources
+- pkg:maven/org.freemarker/freemarker@2.3.33?classifier=sources
 - pkg:maven/org.freemarker/freemarker@2.3.9
 - pkg:maven/org.freemarker/freemarker@2.3.9?classifier=sources

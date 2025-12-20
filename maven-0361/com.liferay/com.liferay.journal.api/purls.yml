@@ -388,6 +388,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.api@34.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.api@34.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.api@35.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.api@35.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.journal.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.api@4.0.0?classifier=sources-commercial

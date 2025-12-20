@@ -10,3 +10,4 @@
 - pkg:maven/party.iroiro.luajava/luajit@3.4.0?classifier=sources
 - pkg:maven/party.iroiro.luajava/luajit@3.5.0?classifier=sources
 - pkg:maven/party.iroiro.luajava/luajit@4.0.0?classifier=sources
+- pkg:maven/party.iroiro.luajava/luajit@4.0.1?classifier=sources

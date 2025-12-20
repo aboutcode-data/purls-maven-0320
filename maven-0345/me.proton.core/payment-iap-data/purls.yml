@@ -56,6 +56,10 @@
 - pkg:maven/me.proton.core/payment-iap-data@23.1.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-data@23.2.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-data@24.0.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-data@24.0.1?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-data@24.0.2?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-data@24.1.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-data@25.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-data@9.1.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-data@9.1.1?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-data@9.1.2?classifier=sources

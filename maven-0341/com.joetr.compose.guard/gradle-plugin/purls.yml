@@ -4,3 +4,4 @@
 - pkg:maven/com.joetr.compose.guard/gradle-plugin@0.0.7?classifier=sources
 - pkg:maven/com.joetr.compose.guard/gradle-plugin@1.0.0?classifier=sources
 - pkg:maven/com.joetr.compose.guard/gradle-plugin@1.1.0?classifier=sources
+- pkg:maven/com.joetr.compose.guard/gradle-plugin@2.0.0?classifier=sources

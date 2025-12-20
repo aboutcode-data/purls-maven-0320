@@ -1,3 +1,4 @@
+- pkg:maven/com.pulumi/github@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/github@4.15.0-alpha.1659603026%2B321172cc?classifier=sources
 - pkg:maven/com.pulumi/github@4.15.0?classifier=sources
 - pkg:maven/com.pulumi/github@4.15.1?classifier=sources
@@ -165,6 +166,9 @@
 - pkg:maven/com.pulumi/github@6.2.0-alpha.1711027199%2B531a9cfb?classifier=sources
 - pkg:maven/com.pulumi/github@6.2.0-alpha.1711446210%2B632c46d9?classifier=sources
 - pkg:maven/com.pulumi/github@6.2.0?classifier=sources
+- pkg:maven/com.pulumi/github@6.2.1?classifier=sources
+- pkg:maven/com.pulumi/github@6.2.2-alpha.1718750571?classifier=sources
+- pkg:maven/com.pulumi/github@6.2.2?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1711518329%2B5c540c4f?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1711735204%2Bbb931f9e?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1712399590%2B1c366a72?classifier=sources
@@ -184,3 +188,15 @@
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1715383921%2Bc33c684?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1715757032%2B2e618bc?classifier=sources
 - pkg:maven/com.pulumi/github@6.3.0-alpha.1715924735?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1716508083?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1716961035?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1717134012?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1717479561?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1717540869?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1717723513?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1717786240?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1718084413?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1718170724?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1718257058?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1718343156?classifier=sources
+- pkg:maven/com.pulumi/github@6.3.0-alpha.1718429810?classifier=sources

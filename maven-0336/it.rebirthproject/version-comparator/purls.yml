@@ -1,0 +1,2 @@
+- pkg:maven/it.rebirthproject/version-comparator@1.0.0?classifier=sources
+- pkg:maven/it.rebirthproject/version-comparator@1.0.1?classifier=sources

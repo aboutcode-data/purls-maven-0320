@@ -1008,6 +1008,14 @@
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20240926-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241010-2.0.0
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241010-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241022-2.0.0
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241022-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241030-2.0.0
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241030-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241031-2.0.0
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241031-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241105-2.0.0
+- pkg:maven/com.google.apis/google-api-services-youtube@v3-rev20241105-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev204-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev204-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtube@v3-rev204-1.21.0

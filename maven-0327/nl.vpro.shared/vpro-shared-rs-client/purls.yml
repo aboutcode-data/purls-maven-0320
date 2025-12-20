@@ -168,3 +168,5 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-rs-client@5.3.1?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-rs-client@5.3.2
 - pkg:maven/nl.vpro.shared/vpro-shared-rs-client@5.3.2?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-rs-client@5.3.3
+- pkg:maven/nl.vpro.shared/vpro-shared-rs-client@5.3.3?classifier=sources

@@ -322,6 +322,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@15.10.12?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@15.10.13
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@15.10.13?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@15.10.14
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@15.10.14?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@15.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@15.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@15.10.2?classifier=sources
@@ -391,6 +393,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.1.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.1.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.1.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.10.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.10.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.2.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.2.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.2.0-rc-1?classifier=sources
@@ -413,6 +417,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.4.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.4.4
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.4.4?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.4.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.4.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.5.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.5.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-diff-xml@16.5.0-rc-1?classifier=sources

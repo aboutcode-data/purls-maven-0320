@@ -177,3 +177,4 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-example-content@3.71.0-06
 - pkg:maven/org.sonatype.nexus.plugins/nexus-example-content@3.71.0-06?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-example-content@3.72.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-example-content@3.74.0-05?classifier=sources

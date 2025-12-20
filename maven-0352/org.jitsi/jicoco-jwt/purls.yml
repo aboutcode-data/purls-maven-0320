@@ -1,0 +1,4 @@
+- pkg:maven/org.jitsi/jicoco-jwt@1.1-145-g9a3479a
+- pkg:maven/org.jitsi/jicoco-jwt@1.1-145-g9a3479a?classifier=sources
+- pkg:maven/org.jitsi/jicoco-jwt@1.1-146-g96ed31f
+- pkg:maven/org.jitsi/jicoco-jwt@1.1-146-g96ed31f?classifier=sources

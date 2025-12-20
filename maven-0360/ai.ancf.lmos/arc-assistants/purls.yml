@@ -1,0 +1,11 @@
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.100.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.101.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.102.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.103.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.104.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.91.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.92.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.93.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.98.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.99.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-assistants@0.99.1?classifier=sources

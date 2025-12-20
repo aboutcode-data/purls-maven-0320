@@ -46,6 +46,8 @@
 - pkg:maven/io.lighty.models/openconfig-models@19.2.0?classifier=sources
 - pkg:maven/io.lighty.models/openconfig-models@19.3.0
 - pkg:maven/io.lighty.models/openconfig-models@19.3.0?classifier=sources
+- pkg:maven/io.lighty.models/openconfig-models@19.4.0
+- pkg:maven/io.lighty.models/openconfig-models@19.4.0?classifier=sources
 - pkg:maven/io.lighty.models/openconfig-models@20.0.0
 - pkg:maven/io.lighty.models/openconfig-models@20.0.0?classifier=sources
 - pkg:maven/io.lighty.models/openconfig-models@20.1.0
@@ -54,3 +56,5 @@
 - pkg:maven/io.lighty.models/openconfig-models@20.2.0?classifier=sources
 - pkg:maven/io.lighty.models/openconfig-models@21.0.0
 - pkg:maven/io.lighty.models/openconfig-models@21.0.0?classifier=sources
+- pkg:maven/io.lighty.models/openconfig-models@21.1.0
+- pkg:maven/io.lighty.models/openconfig-models@21.1.0?classifier=sources

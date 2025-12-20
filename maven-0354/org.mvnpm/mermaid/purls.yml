@@ -9,3 +9,4 @@
 - pkg:maven/org.mvnpm/mermaid@11.1.1?classifier=sources
 - pkg:maven/org.mvnpm/mermaid@11.2.0?classifier=sources
 - pkg:maven/org.mvnpm/mermaid@11.2.1?classifier=sources
+- pkg:maven/org.mvnpm/mermaid@11.4.0?classifier=sources

@@ -19,3 +19,4 @@
 - pkg:maven/com.bloxbean.cardano/yaci-store-staking@0.1.0-rc5?classifier=sources
 - pkg:maven/com.bloxbean.cardano/yaci-store-staking@0.1.0-rc6?classifier=sources
 - pkg:maven/com.bloxbean.cardano/yaci-store-staking@0.1.0-rc7?classifier=sources
+- pkg:maven/com.bloxbean.cardano/yaci-store-staking@0.1.0?classifier=sources

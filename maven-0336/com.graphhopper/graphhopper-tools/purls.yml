@@ -238,6 +238,8 @@
 - pkg:maven/com.graphhopper/graphhopper-tools@1.0-prelmfix
 - pkg:maven/com.graphhopper/graphhopper-tools@1.0-prelmfix?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-tools@1.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-tools@10.0
+- pkg:maven/com.graphhopper/graphhopper-tools@10.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-tools@2.0
 - pkg:maven/com.graphhopper/graphhopper-tools@2.0-pre2
 - pkg:maven/com.graphhopper/graphhopper-tools@2.0-pre2?classifier=sources

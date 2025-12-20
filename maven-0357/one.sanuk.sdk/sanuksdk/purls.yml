@@ -1,0 +1,2 @@
+- pkg:maven/one.sanuk.sdk/sanuksdk@0.0.1?classifier=sources
+- pkg:maven/one.sanuk.sdk/sanuksdk@0.0.2?classifier=sources

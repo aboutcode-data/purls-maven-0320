@@ -52,6 +52,9 @@
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@7.9.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.0.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.1.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.10.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.10.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.10.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.2.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.2.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.3.0?classifier=sources
@@ -64,3 +67,6 @@
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.7.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.8.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.8.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.8.2?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.9.0-ANONYMOUS-REDEMPTION-SNAPSHOT.01?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-custom-entitlement-computation@8.9.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.notification.template.v1@1.2.250
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.notification.template.v1@1.2.250?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.notification.template.v1@1.2.251
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.notification.template.v1@1.2.251?classifier=sources

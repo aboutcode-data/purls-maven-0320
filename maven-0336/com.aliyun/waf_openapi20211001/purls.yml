@@ -38,3 +38,5 @@
 - pkg:maven/com.aliyun/waf_openapi20211001@3.8.0?classifier=sources
 - pkg:maven/com.aliyun/waf_openapi20211001@3.9.0
 - pkg:maven/com.aliyun/waf_openapi20211001@3.9.0?classifier=sources
+- pkg:maven/com.aliyun/waf_openapi20211001@4.0.0
+- pkg:maven/com.aliyun/waf_openapi20211001@4.0.0?classifier=sources

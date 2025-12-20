@@ -1,2 +1,4 @@
 - pkg:maven/net.dreamlu/mica-mqttx-server-jfinal-plugin@3.1.6
 - pkg:maven/net.dreamlu/mica-mqttx-server-jfinal-plugin@3.1.6?classifier=sources
+- pkg:maven/net.dreamlu/mica-mqttx-server-jfinal-plugin@3.1.7
+- pkg:maven/net.dreamlu/mica-mqttx-server-jfinal-plugin@3.1.7?classifier=sources

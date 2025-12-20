@@ -48,3 +48,9 @@
 - pkg:maven/io.github.neodix42/emulator@0.6.0?classifier=sources
 - pkg:maven/io.github.neodix42/emulator@0.7.0
 - pkg:maven/io.github.neodix42/emulator@0.7.0?classifier=sources
+- pkg:maven/io.github.neodix42/emulator@0.7.1
+- pkg:maven/io.github.neodix42/emulator@0.7.1?classifier=sources
+- pkg:maven/io.github.neodix42/emulator@0.8.0
+- pkg:maven/io.github.neodix42/emulator@0.8.0?classifier=sources
+- pkg:maven/io.github.neodix42/emulator@0.8.1
+- pkg:maven/io.github.neodix42/emulator@0.8.1?classifier=sources

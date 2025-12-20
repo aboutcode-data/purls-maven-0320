@@ -1,1 +1,2 @@
 - pkg:maven/com.netease.yunxin.kit.call/call@2.5.0?classifier=sources
+- pkg:maven/com.netease.yunxin.kit.call/call@3.0.0?classifier=sources

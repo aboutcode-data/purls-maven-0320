@@ -40,3 +40,5 @@
 - pkg:maven/io.github.davidchild/bitter@2.1.6-RELEASE?classifier=sources
 - pkg:maven/io.github.davidchild/bitter@2.1.7-BETA
 - pkg:maven/io.github.davidchild/bitter@2.1.7-BETA?classifier=sources
+- pkg:maven/io.github.davidchild/bitter@2.1.8-RELEASE
+- pkg:maven/io.github.davidchild/bitter@2.1.8-RELEASE?classifier=sources

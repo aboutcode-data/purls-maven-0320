@@ -2,3 +2,4 @@
 - pkg:maven/games.rednblack.miniaudio/miniaudio@0.2?classifier=sources
 - pkg:maven/games.rednblack.miniaudio/miniaudio@0.3?classifier=sources
 - pkg:maven/games.rednblack.miniaudio/miniaudio@0.4?classifier=sources
+- pkg:maven/games.rednblack.miniaudio/miniaudio@0.5?classifier=sources

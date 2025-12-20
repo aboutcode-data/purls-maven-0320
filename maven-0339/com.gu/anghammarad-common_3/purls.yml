@@ -4,3 +4,5 @@
 - pkg:maven/com.gu/anghammarad-common_3@2.1.0?classifier=sources
 - pkg:maven/com.gu/anghammarad-common_3@3.0.0
 - pkg:maven/com.gu/anghammarad-common_3@3.0.0?classifier=sources
+- pkg:maven/com.gu/anghammarad-common_3@3.0.1-PREVIEW.updatenonaws.2024-10-31T1303.d153b966
+- pkg:maven/com.gu/anghammarad-common_3@3.0.1-PREVIEW.updatenonaws.2024-10-31T1303.d153b966?classifier=sources

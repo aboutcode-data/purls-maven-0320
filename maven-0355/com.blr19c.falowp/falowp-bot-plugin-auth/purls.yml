@@ -14,3 +14,4 @@
 - pkg:maven/com.blr19c.falowp/falowp-bot-plugin-auth@1.4.3?classifier=sources
 - pkg:maven/com.blr19c.falowp/falowp-bot-plugin-auth@2.0.0-RC1?classifier=sources
 - pkg:maven/com.blr19c.falowp/falowp-bot-plugin-auth@2.0.0-RC2?classifier=sources
+- pkg:maven/com.blr19c.falowp/falowp-bot-plugin-auth@2.0.0-RC4?classifier=sources

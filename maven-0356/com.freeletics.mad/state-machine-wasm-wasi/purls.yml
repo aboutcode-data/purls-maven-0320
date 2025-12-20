@@ -1,0 +1,2 @@
+- pkg:maven/com.freeletics.mad/state-machine-wasm-wasi@0.29.0?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-wasm-wasi@0.29.1?classifier=sources

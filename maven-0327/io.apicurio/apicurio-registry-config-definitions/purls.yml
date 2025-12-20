@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-registry-config-definitions@3.0.4
+- pkg:maven/io.apicurio/apicurio-registry-config-definitions@3.0.4?classifier=sources

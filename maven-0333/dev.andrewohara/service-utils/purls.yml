@@ -3,3 +3,4 @@
 - pkg:maven/dev.andrewohara/service-utils@1.20.2?classifier=sources
 - pkg:maven/dev.andrewohara/service-utils@1.20.3?classifier=sources
 - pkg:maven/dev.andrewohara/service-utils@1.20.4?classifier=sources
+- pkg:maven/dev.andrewohara/service-utils@1.21.0?classifier=sources

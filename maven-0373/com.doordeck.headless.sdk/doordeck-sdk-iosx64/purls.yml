@@ -1,0 +1,2 @@
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosx64@0.38.0-dev.18%2Bd9d9475?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosx64@0.38.0?classifier=sources

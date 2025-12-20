@@ -1,2 +1,8 @@
 - pkg:maven/com.tunjix/poplaroot-api@0.0.12-beta?classifier=sources
 - pkg:maven/com.tunjix/poplaroot-api@0.0.13-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-api@0.0.14-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-api@0.0.14.1-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-api@0.0.14.2-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-api@0.0.16-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-api@0.0.17-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-api@0.0.19-beta?classifier=sources

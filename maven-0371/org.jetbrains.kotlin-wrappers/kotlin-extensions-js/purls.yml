@@ -353,3 +353,4 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-extensions-js@1.0.1-pre.820?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-extensions-js@1.0.1-pre.821?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-extensions-js@1.0.1-pre.822?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-extensions-js@1.0.1-pre.823?classifier=sources

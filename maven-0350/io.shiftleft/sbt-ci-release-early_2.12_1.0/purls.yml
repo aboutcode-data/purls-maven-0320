@@ -2,3 +2,5 @@
 - pkg:maven/io.shiftleft/sbt-ci-release-early_2.12_1.0@2.0.45?classifier=sources
 - pkg:maven/io.shiftleft/sbt-ci-release-early_2.12_1.0@2.0.46
 - pkg:maven/io.shiftleft/sbt-ci-release-early_2.12_1.0@2.0.46?classifier=sources
+- pkg:maven/io.shiftleft/sbt-ci-release-early_2.12_1.0@2.0.48
+- pkg:maven/io.shiftleft/sbt-ci-release-early_2.12_1.0@2.0.48?classifier=sources

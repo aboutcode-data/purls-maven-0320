@@ -218,6 +218,7 @@
 - pkg:maven/com.palantir.atlasdb/atlasdb-jepsen-tests@0.1169.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jepsen-tests@0.1170.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jepsen-tests@0.1171.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-jepsen-tests@0.1172.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jepsen-tests@0.311.7?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jepsen-tests@0.312.2-rc2?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jepsen-tests@0.314.0?classifier=sources

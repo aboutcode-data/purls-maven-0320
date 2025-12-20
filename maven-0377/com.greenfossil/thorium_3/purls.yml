@@ -63,6 +63,8 @@
 - pkg:maven/com.greenfossil/thorium_3@0.7.26?classifier=sources
 - pkg:maven/com.greenfossil/thorium_3@0.7.27
 - pkg:maven/com.greenfossil/thorium_3@0.7.27?classifier=sources
+- pkg:maven/com.greenfossil/thorium_3@0.7.28
+- pkg:maven/com.greenfossil/thorium_3@0.7.28?classifier=sources
 - pkg:maven/com.greenfossil/thorium_3@0.7.2?classifier=sources
 - pkg:maven/com.greenfossil/thorium_3@0.7.3
 - pkg:maven/com.greenfossil/thorium_3@0.7.3?classifier=sources
@@ -80,3 +82,5 @@
 - pkg:maven/com.greenfossil/thorium_3@0.7.9?classifier=sources
 - pkg:maven/com.greenfossil/thorium_3@0.8.0
 - pkg:maven/com.greenfossil/thorium_3@0.8.0?classifier=sources
+- pkg:maven/com.greenfossil/thorium_3@0.8.1
+- pkg:maven/com.greenfossil/thorium_3@0.8.1?classifier=sources

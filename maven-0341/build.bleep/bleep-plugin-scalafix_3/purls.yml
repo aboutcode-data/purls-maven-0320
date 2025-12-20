@@ -1,3 +1,5 @@
+- pkg:maven/build.bleep/bleep-plugin-scalafix_3@0.0.10
+- pkg:maven/build.bleep/bleep-plugin-scalafix_3@0.0.10?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-scalafix_3@0.0.8
 - pkg:maven/build.bleep/bleep-plugin-scalafix_3@0.0.8?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-scalafix_3@0.0.9

@@ -5,3 +5,4 @@
 - pkg:maven/com.pierfrancescosoffritti.taptargetcompose/core@1.1.1?classifier=sources
 - pkg:maven/com.pierfrancescosoffritti.taptargetcompose/core@1.1.2?classifier=sources
 - pkg:maven/com.pierfrancescosoffritti.taptargetcompose/core@1.2.0?classifier=sources
+- pkg:maven/com.pierfrancescosoffritti.taptargetcompose/core@1.2.1?classifier=sources

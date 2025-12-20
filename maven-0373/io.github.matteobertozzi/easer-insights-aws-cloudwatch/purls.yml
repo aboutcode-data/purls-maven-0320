@@ -4,3 +4,11 @@
 - pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@0.1.2?classifier=sources
 - pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@0.1.5
 - pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@0.1.5?classifier=sources
+- pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@1.0.0
+- pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@1.0.0?classifier=sources
+- pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@1.0.1
+- pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@1.0.1?classifier=sources
+- pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@1.0.2
+- pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@1.0.2?classifier=sources
+- pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@1.0.3
+- pkg:maven/io.github.matteobertozzi/easer-insights-aws-cloudwatch@1.0.3?classifier=sources

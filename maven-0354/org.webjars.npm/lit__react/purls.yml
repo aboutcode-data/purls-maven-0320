@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/lit__react@1.0.4
 - pkg:maven/org.webjars.npm/lit__react@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/lit__react@1.0.5
+- pkg:maven/org.webjars.npm/lit__react@1.0.6

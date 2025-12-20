@@ -38,3 +38,7 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-scancode-client@0.122.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-scancode-client@0.123.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-scancode-client@0.123.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-scancode-client@0.124.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-scancode-client@0.124.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-scancode-client@0.125.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-scancode-client@0.125.0?classifier=sources

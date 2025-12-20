@@ -1,0 +1,4 @@
+- pkg:maven/com.ossuminc/riddl-lib_3@0.54.0
+- pkg:maven/com.ossuminc/riddl-lib_3@0.54.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-lib_3@0.54.1
+- pkg:maven/com.ossuminc/riddl-lib_3@0.54.1?classifier=sources

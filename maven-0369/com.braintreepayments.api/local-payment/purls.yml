@@ -72,3 +72,4 @@
 - pkg:maven/com.braintreepayments.api/local-payment@5.0.0-beta2?classifier=sources
 - pkg:maven/com.braintreepayments.api/local-payment@5.0.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/local-payment@5.1.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/local-payment@5.2.0?classifier=sources

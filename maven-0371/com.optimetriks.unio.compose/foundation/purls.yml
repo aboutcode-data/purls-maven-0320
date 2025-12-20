@@ -1,5 +1,8 @@
 - pkg:maven/com.optimetriks.unio.compose/foundation@0.0.2?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/foundation@0.0.3?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/foundation@12?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/foundation@17?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/foundation@18?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/foundation@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/foundation@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/foundation@7?classifier=sources

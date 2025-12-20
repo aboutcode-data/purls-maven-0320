@@ -51,6 +51,10 @@
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-b022-snapshot-og
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-b022-snapshot-og?classifier=sources
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-b022-snapshot?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-b041
+- pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-b041-og
+- pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-b041-og?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-b041?classifier=sources
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-og
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-og?classifier=sources
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0?classifier=sources

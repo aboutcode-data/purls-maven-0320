@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/alpinejs__persist@3.13.1?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs__persist@3.13.2
 - pkg:maven/org.webjars.npm/alpinejs__persist@3.13.2?classifier=sources
+- pkg:maven/org.webjars.npm/alpinejs__persist@3.13.3
+- pkg:maven/org.webjars.npm/alpinejs__persist@3.13.3?classifier=sources

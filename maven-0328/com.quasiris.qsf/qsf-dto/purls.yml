@@ -50,3 +50,5 @@
 - pkg:maven/com.quasiris.qsf/qsf-dto@3.0.0?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-dto@3.1.0
 - pkg:maven/com.quasiris.qsf/qsf-dto@3.1.0?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-dto@3.2.0
+- pkg:maven/com.quasiris.qsf/qsf-dto@3.2.0?classifier=sources

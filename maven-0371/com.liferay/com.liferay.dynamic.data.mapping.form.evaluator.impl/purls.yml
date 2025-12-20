@@ -77,6 +77,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@1.0.32
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@1.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@1.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@1.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@1.0.4
@@ -200,6 +201,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@2.0.4
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@2.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@2.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.evaluator.impl@2.0.5

@@ -90,3 +90,7 @@
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.6.1?type=aar
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.6?classifier=sources
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.6?type=aar
+- pkg:maven/io.github.ezviz-open/ezviz-sdk@5.7?classifier=sources
+- pkg:maven/io.github.ezviz-open/ezviz-sdk@5.7?type=aar
+- pkg:maven/io.github.ezviz-open/ezviz-sdk@5.8?classifier=sources
+- pkg:maven/io.github.ezviz-open/ezviz-sdk@5.8?type=aar

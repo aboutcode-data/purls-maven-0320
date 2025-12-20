@@ -1,3 +1,5 @@
+- pkg:maven/cc.uncarbon.framework/helio-starter-i18n@1.10.0
+- pkg:maven/cc.uncarbon.framework/helio-starter-i18n@1.10.0?classifier=sources
 - pkg:maven/cc.uncarbon.framework/helio-starter-i18n@1.7.2
 - pkg:maven/cc.uncarbon.framework/helio-starter-i18n@1.7.2?classifier=sources
 - pkg:maven/cc.uncarbon.framework/helio-starter-i18n@1.7.3

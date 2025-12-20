@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.okapi.lib/okapi-lib-serialization@1.44.0?classifier=sources
 - pkg:maven/net.sf.okapi.lib/okapi-lib-serialization@1.45.0
 - pkg:maven/net.sf.okapi.lib/okapi-lib-serialization@1.45.0?classifier=sources
+- pkg:maven/net.sf.okapi.lib/okapi-lib-serialization@1.46.0
+- pkg:maven/net.sf.okapi.lib/okapi-lib-serialization@1.46.0?classifier=sources

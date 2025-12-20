@@ -37,3 +37,6 @@
 - pkg:maven/io.quarkus.security/quarkus-security@2.0.2.Final
 - pkg:maven/io.quarkus.security/quarkus-security@2.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/io.quarkus.security/quarkus-security@2.0.2.Final?classifier=sources
+- pkg:maven/io.quarkus.security/quarkus-security@2.0.3.Final
+- pkg:maven/io.quarkus.security/quarkus-security@2.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.security/quarkus-security@2.0.3.Final?classifier=sources

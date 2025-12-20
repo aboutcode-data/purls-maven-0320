@@ -1,1 +1,2 @@
 - pkg:maven/io.github.aliyun-sls/sls-android-core@1.0.8?classifier=sources
+- pkg:maven/io.github.aliyun-sls/sls-android-core@1.0.9?classifier=sources

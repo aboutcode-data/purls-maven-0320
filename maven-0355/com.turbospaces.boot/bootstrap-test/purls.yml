@@ -42,3 +42,7 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.165?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.167
 - pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.167?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.168
+- pkg:maven/com.turbospaces.boot/bootstrap-test@1.0.168?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-test@2.0.1
+- pkg:maven/com.turbospaces.boot/bootstrap-test@2.0.1?classifier=sources

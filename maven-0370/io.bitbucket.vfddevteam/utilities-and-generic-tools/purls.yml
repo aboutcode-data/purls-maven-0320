@@ -54,3 +54,5 @@
 - pkg:maven/io.bitbucket.vfddevteam/utilities-and-generic-tools@0.2.7?classifier=sources
 - pkg:maven/io.bitbucket.vfddevteam/utilities-and-generic-tools@0.2.8
 - pkg:maven/io.bitbucket.vfddevteam/utilities-and-generic-tools@0.2.8?classifier=sources
+- pkg:maven/io.bitbucket.vfddevteam/utilities-and-generic-tools@0.2.9
+- pkg:maven/io.bitbucket.vfddevteam/utilities-and-generic-tools@0.2.9?classifier=sources

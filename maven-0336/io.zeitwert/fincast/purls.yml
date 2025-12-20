@@ -60,7 +60,11 @@
 - pkg:maven/io.zeitwert/fincast@0.0.37?classifier=sources
 - pkg:maven/io.zeitwert/fincast@0.0.38
 - pkg:maven/io.zeitwert/fincast@0.0.38?classifier=sources
+- pkg:maven/io.zeitwert/fincast@0.0.39
+- pkg:maven/io.zeitwert/fincast@0.0.39?classifier=sources
 - pkg:maven/io.zeitwert/fincast@0.0.4
+- pkg:maven/io.zeitwert/fincast@0.0.40
+- pkg:maven/io.zeitwert/fincast@0.0.40?classifier=sources
 - pkg:maven/io.zeitwert/fincast@0.0.4?classifier=sources
 - pkg:maven/io.zeitwert/fincast@0.0.5
 - pkg:maven/io.zeitwert/fincast@0.0.5?classifier=sources

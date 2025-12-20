@@ -40,6 +40,8 @@
 - pkg:maven/com.vaadin/vaadin-icons-flow@14.10.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@14.10.9
 - pkg:maven/com.vaadin/vaadin-icons-flow@14.10.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-flow@14.11.0
+- pkg:maven/com.vaadin/vaadin-icons-flow@14.11.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@14.5.0
 - pkg:maven/com.vaadin/vaadin-icons-flow@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@14.5.1
@@ -310,6 +312,8 @@
 - pkg:maven/com.vaadin/vaadin-icons-flow@22.1.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@22.1.6
 - pkg:maven/com.vaadin/vaadin-icons-flow@22.1.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-flow@22.2.0
+- pkg:maven/com.vaadin/vaadin-icons-flow@22.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@23.0.0
 - pkg:maven/com.vaadin/vaadin-icons-flow@23.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@23.0.1
@@ -558,8 +562,14 @@
 - pkg:maven/com.vaadin/vaadin-icons-flow@24.2.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@24.2.7
 - pkg:maven/com.vaadin/vaadin-icons-flow@24.2.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-flow@24.2.8
+- pkg:maven/com.vaadin/vaadin-icons-flow@24.2.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@24.3.0
 - pkg:maven/com.vaadin/vaadin-icons-flow@24.3.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-flow@24.3.1
+- pkg:maven/com.vaadin/vaadin-icons-flow@24.3.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-flow@24.3.2
+- pkg:maven/com.vaadin/vaadin-icons-flow@24.3.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@3.0.0
 - pkg:maven/com.vaadin/vaadin-icons-flow@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-flow@3.1.0

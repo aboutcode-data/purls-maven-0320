@@ -14,3 +14,7 @@
 - pkg:maven/io.github.jarlah/testcontainers-ceph@1.2.0?classifier=sources
 - pkg:maven/io.github.jarlah/testcontainers-ceph@1.2.2
 - pkg:maven/io.github.jarlah/testcontainers-ceph@1.2.2?classifier=sources
+- pkg:maven/io.github.jarlah/testcontainers-ceph@1.2.5
+- pkg:maven/io.github.jarlah/testcontainers-ceph@1.2.5?classifier=sources
+- pkg:maven/io.github.jarlah/testcontainers-ceph@2.0.0
+- pkg:maven/io.github.jarlah/testcontainers-ceph@2.0.0?classifier=sources

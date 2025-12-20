@@ -8,3 +8,4 @@
 - pkg:maven/io.github.hoangchungk53qx1/mqtt-manager@1.1.2?classifier=sources
 - pkg:maven/io.github.hoangchungk53qx1/mqtt-manager@1.1.3?classifier=sources
 - pkg:maven/io.github.hoangchungk53qx1/mqtt-manager@1.1.4?classifier=sources
+- pkg:maven/io.github.hoangchungk53qx1/mqtt-manager@1.1.6?classifier=sources

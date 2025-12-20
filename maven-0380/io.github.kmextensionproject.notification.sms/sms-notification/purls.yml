@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kmextensionproject.notification.sms/sms-notification@1.2?classifier=sources
+- pkg:maven/io.github.kmextensionproject.notification.sms/sms-notification@2.0?classifier=sources

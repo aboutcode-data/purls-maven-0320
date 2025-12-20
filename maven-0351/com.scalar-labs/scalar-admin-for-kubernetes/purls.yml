@@ -1,0 +1,2 @@
+- pkg:maven/com.scalar-labs/scalar-admin-for-kubernetes@1.1.2?classifier=sources
+- pkg:maven/com.scalar-labs/scalar-admin-for-kubernetes@1.2.0?classifier=sources

@@ -9,4 +9,8 @@
 - pkg:maven/io.github.osinn/druid-multi-tenant-starter@1.4
 - pkg:maven/io.github.osinn/druid-multi-tenant-starter@1.4.2
 - pkg:maven/io.github.osinn/druid-multi-tenant-starter@1.4.2?classifier=sources
+- pkg:maven/io.github.osinn/druid-multi-tenant-starter@1.4.3
+- pkg:maven/io.github.osinn/druid-multi-tenant-starter@1.4.3?classifier=sources
+- pkg:maven/io.github.osinn/druid-multi-tenant-starter@1.4.4
+- pkg:maven/io.github.osinn/druid-multi-tenant-starter@1.4.4?classifier=sources
 - pkg:maven/io.github.osinn/druid-multi-tenant-starter@1.4?classifier=sources

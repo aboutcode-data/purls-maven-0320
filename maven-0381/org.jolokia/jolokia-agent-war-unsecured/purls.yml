@@ -1,1 +1,2 @@
 - pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.0.0-M4?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.0.0?type=war

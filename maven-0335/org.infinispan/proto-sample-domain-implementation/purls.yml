@@ -14,6 +14,8 @@
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@14.0.20.Final?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@14.0.21.Final
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@14.0.21.Final?classifier=sources
+- pkg:maven/org.infinispan/proto-sample-domain-implementation@14.0.22.Final
+- pkg:maven/org.infinispan/proto-sample-domain-implementation@14.0.22.Final?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@15.0.0.Dev03
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@15.0.0.Dev03?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@15.0.0.Dev04
@@ -22,3 +24,5 @@
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@15.0.0.Dev05?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@15.0.0.Dev06
 - pkg:maven/org.infinispan/proto-sample-domain-implementation@15.0.0.Dev06?classifier=sources
+- pkg:maven/org.infinispan/proto-sample-domain-implementation@15.0.0.Dev07
+- pkg:maven/org.infinispan/proto-sample-domain-implementation@15.0.0.Dev07?classifier=sources

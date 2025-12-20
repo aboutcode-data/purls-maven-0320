@@ -1,3 +1,5 @@
+- pkg:maven/io.cdap.cdap/cdap-securestore-ext-gcp-secretstore@6.10.0
+- pkg:maven/io.cdap.cdap/cdap-securestore-ext-gcp-secretstore@6.10.0?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-securestore-ext-gcp-secretstore@6.9.0
 - pkg:maven/io.cdap.cdap/cdap-securestore-ext-gcp-secretstore@6.9.0?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-securestore-ext-gcp-secretstore@6.9.1

@@ -3,6 +3,12 @@
 - pkg:maven/com.ibatix/ibatix-all@0.1.17.20231128?classifier=sources
 - pkg:maven/com.ibatix/ibatix-all@0.1.17.20231129
 - pkg:maven/com.ibatix/ibatix-all@0.1.17.20231129?classifier=sources
+- pkg:maven/com.ibatix/ibatix-all@0.1.17.20231202
+- pkg:maven/com.ibatix/ibatix-all@0.1.17.20231202.1
+- pkg:maven/com.ibatix/ibatix-all@0.1.17.20231202.1?classifier=sources
+- pkg:maven/com.ibatix/ibatix-all@0.1.17.20231202?classifier=sources
+- pkg:maven/com.ibatix/ibatix-all@0.1.17.20231203
+- pkg:maven/com.ibatix/ibatix-all@0.1.17.20231203?classifier=sources
 - pkg:maven/com.ibatix/ibatix-all@0.1.1?classifier=sources
 - pkg:maven/com.ibatix/ibatix-all@0.1.2
 - pkg:maven/com.ibatix/ibatix-all@0.1.2?classifier=sources
@@ -16,3 +22,11 @@
 - pkg:maven/com.ibatix/ibatix-all@0.1.5?classifier=sources
 - pkg:maven/com.ibatix/ibatix-all@0.1.6
 - pkg:maven/com.ibatix/ibatix-all@0.1.6?classifier=sources
+- pkg:maven/com.ibatix/ibatix-all@0.2.0
+- pkg:maven/com.ibatix/ibatix-all@0.2.0.20231212
+- pkg:maven/com.ibatix/ibatix-all@0.2.0.20231212?classifier=sources
+- pkg:maven/com.ibatix/ibatix-all@0.2.0.20231213
+- pkg:maven/com.ibatix/ibatix-all@0.2.0.20231213?classifier=sources
+- pkg:maven/com.ibatix/ibatix-all@0.2.0.20240102
+- pkg:maven/com.ibatix/ibatix-all@0.2.0.20240102?classifier=sources
+- pkg:maven/com.ibatix/ibatix-all@0.2.0?classifier=sources

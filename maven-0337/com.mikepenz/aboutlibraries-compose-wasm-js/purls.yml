@@ -1,1 +1,4 @@
+- pkg:maven/com.mikepenz/aboutlibraries-compose-wasm-js@10.10.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-wasm-js@10.10.0-rc02?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-wasm-js@10.10.0?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-wasm-js@10.9.2-wasm1?classifier=sources

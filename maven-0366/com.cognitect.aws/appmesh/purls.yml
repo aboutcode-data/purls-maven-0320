@@ -46,3 +46,5 @@
 - pkg:maven/com.cognitect.aws/appmesh@822.2.1205.0?classifier=sources
 - pkg:maven/com.cognitect.aws/appmesh@847.2.1365.0
 - pkg:maven/com.cognitect.aws/appmesh@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appmesh@852.2.1525.0
+- pkg:maven/com.cognitect.aws/appmesh@852.2.1525.0?classifier=sources

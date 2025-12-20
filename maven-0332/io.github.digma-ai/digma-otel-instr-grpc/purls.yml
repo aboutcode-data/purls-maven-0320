@@ -7,3 +7,4 @@
 - pkg:maven/io.github.digma-ai/digma-otel-instr-grpc@0.7.2?classifier=sources
 - pkg:maven/io.github.digma-ai/digma-otel-instr-grpc@0.7.4?classifier=sources
 - pkg:maven/io.github.digma-ai/digma-otel-instr-grpc@0.7.7?classifier=sources
+- pkg:maven/io.github.digma-ai/digma-otel-instr-grpc@0.8.1?classifier=sources

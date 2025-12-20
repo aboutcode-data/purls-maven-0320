@@ -8,3 +8,4 @@
 - pkg:maven/org.openrewrite/cobol-cli@2.12.3?classifier=sources
 - pkg:maven/org.openrewrite/cobol-cli@2.12.4?classifier=sources
 - pkg:maven/org.openrewrite/cobol-cli@2.12.5?classifier=sources
+- pkg:maven/org.openrewrite/cobol-cli@2.13.0?classifier=sources

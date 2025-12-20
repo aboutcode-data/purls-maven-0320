@@ -53,3 +53,10 @@
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.269.23?classifier=sources
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.270.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.271.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.273.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.275.39?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.276.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.277.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.279.6?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.281.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.282.24?classifier=sources

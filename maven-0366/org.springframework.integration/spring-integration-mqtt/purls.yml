@@ -304,3 +304,4 @@
 - pkg:maven/org.springframework.integration/spring-integration-mqtt@6.1.5
 - pkg:maven/org.springframework.integration/spring-integration-mqtt@6.1.5?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-mqtt@6.2.0?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-mqtt@6.2.1?classifier=sources

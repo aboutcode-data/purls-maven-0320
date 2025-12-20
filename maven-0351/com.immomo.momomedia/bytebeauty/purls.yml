@@ -2,3 +2,9 @@
 - pkg:maven/com.immomo.momomedia/bytebeauty@1.0.0-20210207144603?type=aar
 - pkg:maven/com.immomo.momomedia/bytebeauty@1.0.0-202307191426?classifier=sources
 - pkg:maven/com.immomo.momomedia/bytebeauty@1.0.0-202307191426?type=aar
+- pkg:maven/com.immomo.momomedia/bytebeauty@1.0.1-20231204160403?classifier=sources
+- pkg:maven/com.immomo.momomedia/bytebeauty@1.0.1-20231204160403?type=aar
+- pkg:maven/com.immomo.momomedia/bytebeauty@1.0.1-20231204163003?classifier=sources
+- pkg:maven/com.immomo.momomedia/bytebeauty@1.0.1-20231204163003?type=aar
+- pkg:maven/com.immomo.momomedia/bytebeauty@1.0.1-20231204164848?classifier=sources
+- pkg:maven/com.immomo.momomedia/bytebeauty@1.0.1-20231204164848?type=aar

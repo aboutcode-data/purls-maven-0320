@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.fontsource/open-sans@5.0.17?classifier=sources
 - pkg:maven/org.mvnpm.at.fontsource/open-sans@5.0.18?classifier=sources
+- pkg:maven/org.mvnpm.at.fontsource/open-sans@5.0.19?classifier=sources
+- pkg:maven/org.mvnpm.at.fontsource/open-sans@5.0.20?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-streams_2.12@4.0.0?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-streams_2.12@4.1.0
 - pkg:maven/org.scalikejdbc/scalikejdbc-streams_2.12@4.1.0?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-streams_2.12@4.2.0
+- pkg:maven/org.scalikejdbc/scalikejdbc-streams_2.12@4.2.0?classifier=sources

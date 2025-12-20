@@ -6,3 +6,5 @@
 - pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@1.2.0?classifier=sources
 - pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@1.2.1
 - pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@1.2.1?classifier=sources
+- pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@2.0.0
+- pkg:maven/com.nablarch.configuration/nablarch-testing-default-configuration@2.0.0?classifier=sources

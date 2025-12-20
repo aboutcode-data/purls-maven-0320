@@ -25,3 +25,6 @@
 - pkg:maven/com.zegreatrob.tools/digger-model-js@1.0.68?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-model-js@1.0.69?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-model-js@1.0.70?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-model-js@1.0.71?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-model-js@1.0.72?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-model-js@1.0.73?classifier=sources

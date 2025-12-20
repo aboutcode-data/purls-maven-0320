@@ -50,3 +50,7 @@
 - pkg:maven/net.openhft/jlbh@1.24ea4?classifier=sources
 - pkg:maven/net.openhft/jlbh@1.24ea5
 - pkg:maven/net.openhft/jlbh@1.24ea5?classifier=sources
+- pkg:maven/net.openhft/jlbh@1.24ea6
+- pkg:maven/net.openhft/jlbh@1.24ea6?classifier=sources
+- pkg:maven/net.openhft/jlbh@1.25ea7
+- pkg:maven/net.openhft/jlbh@1.25ea7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/run.mone/spring-context-support@1.0.10-mone
+- pkg:maven/run.mone/spring-context-support@1.0.10-mone?classifier=sources

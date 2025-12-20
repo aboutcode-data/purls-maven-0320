@@ -18,3 +18,5 @@
 - pkg:maven/org.gridkit.jvmtool/sjk-json@0.20?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-json@0.21
 - pkg:maven/org.gridkit.jvmtool/sjk-json@0.21?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/sjk-json@0.22
+- pkg:maven/org.gridkit.jvmtool/sjk-json@0.22?classifier=sources

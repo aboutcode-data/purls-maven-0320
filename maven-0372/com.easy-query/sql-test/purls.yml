@@ -8,3 +8,5 @@
 - pkg:maven/com.easy-query/sql-test@0.8.12?classifier=sources
 - pkg:maven/com.easy-query/sql-test@0.9.58
 - pkg:maven/com.easy-query/sql-test@0.9.58?classifier=sources
+- pkg:maven/com.easy-query/sql-test@1.9.6
+- pkg:maven/com.easy-query/sql-test@1.9.6?classifier=sources

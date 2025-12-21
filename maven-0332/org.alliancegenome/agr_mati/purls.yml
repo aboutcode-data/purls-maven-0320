@@ -50,6 +50,10 @@
 - pkg:maven/org.alliancegenome/agr_mati@v0.20.0-rc1
 - pkg:maven/org.alliancegenome/agr_mati@v0.20.0-rc1?classifier=sources
 - pkg:maven/org.alliancegenome/agr_mati@v0.20.0?classifier=sources
+- pkg:maven/org.alliancegenome/agr_mati@v0.21.0
+- pkg:maven/org.alliancegenome/agr_mati@v0.21.0-rc1
+- pkg:maven/org.alliancegenome/agr_mati@v0.21.0-rc1?classifier=sources
+- pkg:maven/org.alliancegenome/agr_mati@v0.21.0?classifier=sources
 - pkg:maven/org.alliancegenome/agr_mati@v0.3.0
 - pkg:maven/org.alliancegenome/agr_mati@v0.3.0-rc1
 - pkg:maven/org.alliancegenome/agr_mati@v0.3.0-rc1?classifier=sources

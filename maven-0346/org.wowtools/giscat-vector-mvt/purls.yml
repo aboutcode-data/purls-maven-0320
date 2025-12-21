@@ -12,3 +12,4 @@
 - pkg:maven/org.wowtools/giscat-vector-mvt@g1.6.1?classifier=sources
 - pkg:maven/org.wowtools/giscat-vector-mvt@g1.7.0
 - pkg:maven/org.wowtools/giscat-vector-mvt@g1.7.0?classifier=sources
+- pkg:maven/org.wowtools/giscat-vector-mvt@g1.7.2?classifier=sources

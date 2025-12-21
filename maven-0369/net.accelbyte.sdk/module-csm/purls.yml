@@ -1,1 +1,2 @@
 - pkg:maven/net.accelbyte.sdk/module-csm@0.2.0?classifier=sources
+- pkg:maven/net.accelbyte.sdk/module-csm@0.3.0?classifier=sources

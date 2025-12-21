@@ -1,0 +1,2 @@
+- pkg:maven/com.koverse/kdp-api-client-internal@4.160.0-78dea014
+- pkg:maven/com.koverse/kdp-api-client-internal@4.160.0-78dea014?classifier=sources

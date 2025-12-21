@@ -10,3 +10,5 @@
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.2?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.3
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.3?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.4
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-etcd@4.4?classifier=sources

@@ -31,3 +31,5 @@
 - pkg:maven/me.magicall/game@2.7.0?classifier=sources
 - pkg:maven/me.magicall/game@2.8.0
 - pkg:maven/me.magicall/game@2.8.0?classifier=sources
+- pkg:maven/me.magicall/game@3.0.0?classifier=sources
+- pkg:maven/me.magicall/game@3.0.1?classifier=sources

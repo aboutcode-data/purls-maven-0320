@@ -9,3 +9,5 @@
 - pkg:maven/dev.testify/dev.testify.gradle.plugin@3.1.0?classifier=sources
 - pkg:maven/dev.testify/dev.testify.gradle.plugin@3.2.0-alpha05?classifier=sources
 - pkg:maven/dev.testify/dev.testify.gradle.plugin@3.2.0?classifier=sources
+- pkg:maven/dev.testify/dev.testify.gradle.plugin@3.2.1?classifier=sources
+- pkg:maven/dev.testify/dev.testify.gradle.plugin@3.2.2-alpha01?classifier=sources

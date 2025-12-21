@@ -39,6 +39,10 @@
 - pkg:maven/io.github.t3wv/correios@1.0.32?classifier=sources
 - pkg:maven/io.github.t3wv/correios@1.0.33
 - pkg:maven/io.github.t3wv/correios@1.0.33?classifier=sources
+- pkg:maven/io.github.t3wv/correios@1.0.37
+- pkg:maven/io.github.t3wv/correios@1.0.37?classifier=sources
+- pkg:maven/io.github.t3wv/correios@1.0.38
+- pkg:maven/io.github.t3wv/correios@1.0.38?classifier=sources
 - pkg:maven/io.github.t3wv/correios@1.0.3?classifier=sources
 - pkg:maven/io.github.t3wv/correios@1.0.5
 - pkg:maven/io.github.t3wv/correios@1.0.5?classifier=sources

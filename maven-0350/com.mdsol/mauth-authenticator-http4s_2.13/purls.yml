@@ -30,5 +30,7 @@
 - pkg:maven/com.mdsol/mauth-authenticator-http4s_2.13@17.1.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-authenticator-http4s_2.13@18.0.0
 - pkg:maven/com.mdsol/mauth-authenticator-http4s_2.13@18.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-authenticator-http4s_2.13@18.1.0
+- pkg:maven/com.mdsol/mauth-authenticator-http4s_2.13@18.1.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-authenticator-http4s_2.13@9.0.0
 - pkg:maven/com.mdsol/mauth-authenticator-http4s_2.13@9.0.0?classifier=sources

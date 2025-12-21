@@ -1,1 +1,2 @@
 - pkg:maven/org.jobrunr/jobrunr-kotlin-2.1-support@7.4.0?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr-kotlin-2.1-support@7.4.1?classifier=sources

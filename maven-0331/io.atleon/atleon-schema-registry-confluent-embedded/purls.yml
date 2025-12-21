@@ -68,3 +68,5 @@
 - pkg:maven/io.atleon/atleon-schema-registry-confluent-embedded@0.28.3?classifier=sources
 - pkg:maven/io.atleon/atleon-schema-registry-confluent-embedded@0.28.4
 - pkg:maven/io.atleon/atleon-schema-registry-confluent-embedded@0.28.4?classifier=sources
+- pkg:maven/io.atleon/atleon-schema-registry-confluent-embedded@0.29.0
+- pkg:maven/io.atleon/atleon-schema-registry-confluent-embedded@0.29.0?classifier=sources

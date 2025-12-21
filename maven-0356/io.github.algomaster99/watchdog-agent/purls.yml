@@ -4,6 +4,7 @@
 - pkg:maven/io.github.algomaster99/watchdog-agent@0.12.2?classifier=sources
 - pkg:maven/io.github.algomaster99/watchdog-agent@0.13.0?classifier=sources
 - pkg:maven/io.github.algomaster99/watchdog-agent@0.14.0?classifier=sources
+- pkg:maven/io.github.algomaster99/watchdog-agent@0.14.1?classifier=sources
 - pkg:maven/io.github.algomaster99/watchdog-agent@0.3.0?classifier=sources
 - pkg:maven/io.github.algomaster99/watchdog-agent@0.4.0?classifier=sources
 - pkg:maven/io.github.algomaster99/watchdog-agent@0.5.0?classifier=sources

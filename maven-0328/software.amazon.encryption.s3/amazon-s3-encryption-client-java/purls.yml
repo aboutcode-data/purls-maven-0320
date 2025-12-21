@@ -18,3 +18,5 @@
 - pkg:maven/software.amazon.encryption.s3/amazon-s3-encryption-client-java@3.2.3?classifier=sources
 - pkg:maven/software.amazon.encryption.s3/amazon-s3-encryption-client-java@3.3.0
 - pkg:maven/software.amazon.encryption.s3/amazon-s3-encryption-client-java@3.3.0?classifier=sources
+- pkg:maven/software.amazon.encryption.s3/amazon-s3-encryption-client-java@3.3.1
+- pkg:maven/software.amazon.encryption.s3/amazon-s3-encryption-client-java@3.3.1?classifier=sources

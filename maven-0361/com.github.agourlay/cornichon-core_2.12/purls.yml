@@ -102,3 +102,5 @@
 - pkg:maven/com.github.agourlay/cornichon-core_2.12@0.21.3?classifier=sources
 - pkg:maven/com.github.agourlay/cornichon-core_2.12@0.21.4
 - pkg:maven/com.github.agourlay/cornichon-core_2.12@0.21.4?classifier=sources
+- pkg:maven/com.github.agourlay/cornichon-core_2.12@0.22.0
+- pkg:maven/com.github.agourlay/cornichon-core_2.12@0.22.0?classifier=sources

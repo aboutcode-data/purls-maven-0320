@@ -6,3 +6,5 @@
 - pkg:maven/software.xdev/spring-security-advanced-authentication-ui@1.0.2?classifier=sources
 - pkg:maven/software.xdev/spring-security-advanced-authentication-ui@1.0.3
 - pkg:maven/software.xdev/spring-security-advanced-authentication-ui@1.0.3?classifier=sources
+- pkg:maven/software.xdev/spring-security-advanced-authentication-ui@2.0.0
+- pkg:maven/software.xdev/spring-security-advanced-authentication-ui@2.0.0?classifier=sources

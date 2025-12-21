@@ -2,3 +2,5 @@
 - pkg:maven/io.growthbook.sdk/GrowthBook-iossimulatorarm64@1.1.62?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBook-iossimulatorarm64@1.1.63?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBook-iossimulatorarm64@1.1.64?classifier=sources
+- pkg:maven/io.growthbook.sdk/GrowthBook-iossimulatorarm64@2.0.0-alpha?classifier=sources
+- pkg:maven/io.growthbook.sdk/GrowthBook-iossimulatorarm64@2.0.0?classifier=sources

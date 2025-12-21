@@ -174,3 +174,9 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.179.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.180.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.180.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.181.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.181.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.182.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.182.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.183.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-server-fs@0.183.0?classifier=sources

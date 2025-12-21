@@ -12,4 +12,5 @@
 - pkg:maven/dev.programadorthi.routing/android@0.0.4?classifier=sources
 - pkg:maven/dev.programadorthi.routing/android@2.0.0-alpha01?classifier=sources
 - pkg:maven/dev.programadorthi.routing/android@2.0.0-alpha02?classifier=sources
+- pkg:maven/dev.programadorthi.routing/android@2.0.0-alpha03?classifier=sources
 - pkg:maven/dev.programadorthi.routing/android@v0.0.1?classifier=sources

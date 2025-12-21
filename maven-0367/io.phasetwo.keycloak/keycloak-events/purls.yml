@@ -65,6 +65,16 @@
 - pkg:maven/io.phasetwo.keycloak/keycloak-events@0.39?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-events@0.3?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-events@0.4
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.40
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.40?classifier=sources
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.41
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.41?classifier=sources
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.42
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.42?classifier=sources
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.43
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.43?classifier=sources
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.44
+- pkg:maven/io.phasetwo.keycloak/keycloak-events@0.44?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-events@0.4?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-events@0.6
 - pkg:maven/io.phasetwo.keycloak/keycloak-events@0.6?classifier=sources

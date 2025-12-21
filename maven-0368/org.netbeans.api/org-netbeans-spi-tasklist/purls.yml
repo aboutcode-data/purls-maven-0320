@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-tasklist@RELEASE90?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdk@4.8.0?type=aar
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdk@4.9.0?classifier=sources
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdk@4.9.0?type=aar
+- pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdk@4.9.10?classifier=sources
+- pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdk@4.9.10?type=aar
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdk@4.9.2?classifier=sources
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdk@4.9.2?type=aar
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdk@4.9.3?classifier=sources

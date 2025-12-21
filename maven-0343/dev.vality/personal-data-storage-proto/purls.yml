@@ -1,5 +1,7 @@
 - pkg:maven/dev.vality/personal-data-storage-proto@1.10-6ebde69
 - pkg:maven/dev.vality/personal-data-storage-proto@1.10-6ebde69?classifier=sources
+- pkg:maven/dev.vality/personal-data-storage-proto@1.11-157020d
+- pkg:maven/dev.vality/personal-data-storage-proto@1.11-157020d?classifier=sources
 - pkg:maven/dev.vality/personal-data-storage-proto@1.2-6a1b229
 - pkg:maven/dev.vality/personal-data-storage-proto@1.2-6a1b229?classifier=sources
 - pkg:maven/dev.vality/personal-data-storage-proto@1.3-e426702

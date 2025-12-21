@@ -45,3 +45,5 @@
 - pkg:maven/vip.justlive/easy-boot-core@1.2.4.3
 - pkg:maven/vip.justlive/easy-boot-core@1.2.4.3?classifier=sources
 - pkg:maven/vip.justlive/easy-boot-core@1.2.4?classifier=sources
+- pkg:maven/vip.justlive/easy-boot-core@1.2.5
+- pkg:maven/vip.justlive/easy-boot-core@1.2.5?classifier=sources

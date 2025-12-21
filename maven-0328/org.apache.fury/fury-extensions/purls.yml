@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.fury/fury-extensions@0.10.0
+- pkg:maven/org.apache.fury/fury-extensions@0.10.0?classifier=sources

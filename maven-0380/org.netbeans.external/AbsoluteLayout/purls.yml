@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE220
 - pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE230
 - pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE240
+- pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE250
 - pkg:maven/org.netbeans.external/AbsoluteLayout@RELEASE90

@@ -6,3 +6,15 @@
 - pkg:maven/com.minlessika.erp/user-security-integration@0.3.1
 - pkg:maven/com.minlessika.erp/user-security-integration@0.3.1?classifier=sources
 - pkg:maven/com.minlessika.erp/user-security-integration@0.3?classifier=sources
+- pkg:maven/com.minlessika.erp/user-security-integration@0.4
+- pkg:maven/com.minlessika.erp/user-security-integration@0.4?classifier=sources
+- pkg:maven/com.minlessika.erp/user-security-integration@0.5
+- pkg:maven/com.minlessika.erp/user-security-integration@0.5.1
+- pkg:maven/com.minlessika.erp/user-security-integration@0.5.1?classifier=sources
+- pkg:maven/com.minlessika.erp/user-security-integration@0.5?classifier=sources
+- pkg:maven/com.minlessika.erp/user-security-integration@0.6
+- pkg:maven/com.minlessika.erp/user-security-integration@0.6?classifier=sources
+- pkg:maven/com.minlessika.erp/user-security-integration@0.7
+- pkg:maven/com.minlessika.erp/user-security-integration@0.7.1
+- pkg:maven/com.minlessika.erp/user-security-integration@0.7.1?classifier=sources
+- pkg:maven/com.minlessika.erp/user-security-integration@0.7?classifier=sources

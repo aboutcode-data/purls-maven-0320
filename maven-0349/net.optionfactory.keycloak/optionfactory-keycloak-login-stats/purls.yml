@@ -113,8 +113,14 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.17?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.18
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.18?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.19
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.19?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.1?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.2
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.20
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.20?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.21
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.21?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.2?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.3
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-login-stats@6.3?classifier=sources

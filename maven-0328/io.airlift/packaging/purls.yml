@@ -422,3 +422,15 @@
 - pkg:maven/io.airlift/packaging@295?classifier=sources
 - pkg:maven/io.airlift/packaging@296?classifier=sources
 - pkg:maven/io.airlift/packaging@297?classifier=sources
+- pkg:maven/io.airlift/packaging@298?classifier=sources
+- pkg:maven/io.airlift/packaging@299?classifier=sources
+- pkg:maven/io.airlift/packaging@300?classifier=sources
+- pkg:maven/io.airlift/packaging@301?classifier=sources
+- pkg:maven/io.airlift/packaging@302?classifier=sources
+- pkg:maven/io.airlift/packaging@303?classifier=sources
+- pkg:maven/io.airlift/packaging@304?classifier=sources
+- pkg:maven/io.airlift/packaging@305?classifier=sources
+- pkg:maven/io.airlift/packaging@306?classifier=sources
+- pkg:maven/io.airlift/packaging@307?classifier=sources
+- pkg:maven/io.airlift/packaging@308?classifier=sources
+- pkg:maven/io.airlift/packaging@309?classifier=sources

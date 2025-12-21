@@ -56,3 +56,5 @@
 - pkg:maven/com.volcengine/ve-tos-android-sdk@2.8.7?classifier=sources
 - pkg:maven/com.volcengine/ve-tos-android-sdk@2.8.8
 - pkg:maven/com.volcengine/ve-tos-android-sdk@2.8.8?classifier=sources
+- pkg:maven/com.volcengine/ve-tos-android-sdk@2.8.9
+- pkg:maven/com.volcengine/ve-tos-android-sdk@2.8.9?classifier=sources

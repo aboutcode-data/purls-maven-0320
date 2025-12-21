@@ -63,4 +63,6 @@
 - pkg:maven/com.iussoft/iussoft-common-portal@3.3.24030303?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-portal@3.3.25010101
 - pkg:maven/com.iussoft/iussoft-common-portal@3.3.25010101?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-portal@3.3.25012108
+- pkg:maven/com.iussoft/iussoft-common-portal@3.3.25012108?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-portal@3.3.2?classifier=sources

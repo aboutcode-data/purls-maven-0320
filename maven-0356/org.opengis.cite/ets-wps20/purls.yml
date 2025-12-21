@@ -8,3 +8,5 @@
 - pkg:maven/org.opengis.cite/ets-wps20@0.4?classifier=sources
 - pkg:maven/org.opengis.cite/ets-wps20@1.0
 - pkg:maven/org.opengis.cite/ets-wps20@1.0?classifier=sources
+- pkg:maven/org.opengis.cite/ets-wps20@1.1
+- pkg:maven/org.opengis.cite/ets-wps20@1.1?classifier=sources

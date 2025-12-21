@@ -64,6 +64,8 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-pangulargemodels@3.1.131?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-pangulargemodels@3.1.132
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-pangulargemodels@3.1.132?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-pangulargemodels@3.1.133
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-pangulargemodels@3.1.133?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-pangulargemodels@3.1.50
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-pangulargemodels@3.1.50?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-pangulargemodels@3.1.51

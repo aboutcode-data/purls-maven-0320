@@ -1,3 +1,4 @@
 - pkg:maven/io.spinnaker.halyard/halyard-integration@1.65.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-integration@1.66.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-integration@1.67.0?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-integration@1.68.0?classifier=sources

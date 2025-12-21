@@ -4,3 +4,4 @@
 - pkg:maven/net.codetreats/sevdesk-kotlin@0.0.4?classifier=sources
 - pkg:maven/net.codetreats/sevdesk-kotlin@0.0.6?classifier=sources
 - pkg:maven/net.codetreats/sevdesk-kotlin@0.0.8?classifier=sources
+- pkg:maven/net.codetreats/sevdesk-kotlin@0.1.0?classifier=sources

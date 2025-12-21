@@ -254,3 +254,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@6.1.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@6.2.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@6.2.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@6.3.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc@6.3.0?classifier=sources

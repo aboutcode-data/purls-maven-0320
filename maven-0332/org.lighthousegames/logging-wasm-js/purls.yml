@@ -1,0 +1,2 @@
+- pkg:maven/org.lighthousegames/logging-wasm-js@2.0.2?classifier=sources
+- pkg:maven/org.lighthousegames/logging-wasm-js@2.0.3?classifier=sources

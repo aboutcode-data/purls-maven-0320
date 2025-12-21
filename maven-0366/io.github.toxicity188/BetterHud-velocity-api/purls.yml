@@ -6,3 +6,4 @@
 - pkg:maven/io.github.toxicity188/BetterHud-velocity-api@1.11.2?classifier=sources
 - pkg:maven/io.github.toxicity188/BetterHud-velocity-api@1.11.3?classifier=sources
 - pkg:maven/io.github.toxicity188/BetterHud-velocity-api@1.11.4?classifier=sources
+- pkg:maven/io.github.toxicity188/BetterHud-velocity-api@1.12?classifier=sources

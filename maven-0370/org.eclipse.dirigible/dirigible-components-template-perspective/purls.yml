@@ -166,9 +166,13 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.61.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.62.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.62.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.66.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.67.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.7.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.7.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.8.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.8.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.9.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@11.9.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@12.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-perspective@12.1.0?classifier=sources

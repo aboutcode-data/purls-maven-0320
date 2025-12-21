@@ -16,6 +16,7 @@
 - pkg:maven/com.transferwise.common/tw-entrypoints@2.16.4?classifier=sources
 - pkg:maven/com.transferwise.common/tw-entrypoints@2.16.5?classifier=sources
 - pkg:maven/com.transferwise.common/tw-entrypoints@2.16.6?classifier=sources
+- pkg:maven/com.transferwise.common/tw-entrypoints@2.16.7?classifier=sources
 - pkg:maven/com.transferwise.common/tw-entrypoints@2.5.0?classifier=sources
 - pkg:maven/com.transferwise.common/tw-entrypoints@2.6.0?classifier=sources
 - pkg:maven/com.transferwise.common/tw-entrypoints@2.7.0?classifier=sources

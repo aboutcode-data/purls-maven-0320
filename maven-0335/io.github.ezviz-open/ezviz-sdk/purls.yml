@@ -132,6 +132,8 @@
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.20?type=aar
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.21?classifier=sources
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.21?type=aar
+- pkg:maven/io.github.ezviz-open/ezviz-sdk@5.22?classifier=sources
+- pkg:maven/io.github.ezviz-open/ezviz-sdk@5.22?type=aar
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.2?classifier=sources
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.2?type=aar
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.3.1?classifier=sources

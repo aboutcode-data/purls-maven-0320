@@ -3,3 +3,5 @@
 - pkg:maven/com.liferay/com.liferay.headless.asset.library.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.asset.library.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.asset.library.api@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.asset.library.api@4.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.asset.library.api@4.1.1?classifier=sources

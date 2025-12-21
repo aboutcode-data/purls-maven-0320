@@ -1,0 +1,4 @@
+- pkg:maven/com.linecorp.planetkit/planetkit@1.0.1?classifier=sources
+- pkg:maven/com.linecorp.planetkit/planetkit@5.1.21?classifier=sources
+- pkg:maven/com.linecorp.planetkit/planetkit@5.5.6?classifier=sources
+- pkg:maven/com.linecorp.planetkit/planetkit@6.0.3?classifier=sources

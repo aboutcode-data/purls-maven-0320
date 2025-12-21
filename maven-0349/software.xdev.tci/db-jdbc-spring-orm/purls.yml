@@ -1,0 +1,2 @@
+- pkg:maven/software.xdev.tci/db-jdbc-spring-orm@2.3.0?classifier=sources
+- pkg:maven/software.xdev.tci/db-jdbc-spring-orm@2.4.0?classifier=sources

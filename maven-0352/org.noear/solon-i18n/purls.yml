@@ -186,3 +186,7 @@
 - pkg:maven/org.noear/solon-i18n@3.3.3-M2?classifier=sources
 - pkg:maven/org.noear/solon-i18n@3.3.3-M3?classifier=sources
 - pkg:maven/org.noear/solon-i18n@3.3.3?classifier=sources
+- pkg:maven/org.noear/solon-i18n@3.4.0-M1?classifier=sources
+- pkg:maven/org.noear/solon-i18n@3.4.0-M2?classifier=sources
+- pkg:maven/org.noear/solon-i18n@3.4.0?classifier=sources
+- pkg:maven/org.noear/solon-i18n@3.4.1-M1?classifier=sources

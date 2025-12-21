@@ -34,6 +34,12 @@
 - pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.2.0?classifier=sources
 - pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.22.0
 - pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.22.0?classifier=sources
+- pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.23.0
+- pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.23.0?classifier=sources
+- pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.24.0
+- pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.24.0?classifier=sources
+- pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.24.1
+- pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.24.1?classifier=sources
 - pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.3.0
 - pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.3.0?classifier=sources
 - pkg:maven/org.scalamolecule/molecule-base_sjs1_3@0.4.0

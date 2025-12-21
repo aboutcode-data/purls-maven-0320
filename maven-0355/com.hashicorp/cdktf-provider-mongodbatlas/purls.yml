@@ -116,3 +116,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-mongodbatlas@8.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-mongodbatlas@8.1.0
 - pkg:maven/com.hashicorp/cdktf-provider-mongodbatlas@8.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-mongodbatlas@8.2.0
+- pkg:maven/com.hashicorp/cdktf-provider-mongodbatlas@8.2.0?classifier=sources

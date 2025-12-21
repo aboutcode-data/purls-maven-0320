@@ -1,2 +1,3 @@
 - pkg:maven/com.acooly/acooly-component-security@5.2.0?classifier=sources
+- pkg:maven/com.acooly/acooly-component-security@5.2.1.1.i18n?classifier=sources
 - pkg:maven/com.acooly/acooly-component-security@5.2.1?classifier=sources

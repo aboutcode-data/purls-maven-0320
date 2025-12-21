@@ -5,3 +5,6 @@
 - pkg:maven/io.digiexpress/thena-batch-client@5.1.81?classifier=sources
 - pkg:maven/io.digiexpress/thena-batch-client@5.1.82?classifier=sources
 - pkg:maven/io.digiexpress/thena-batch-client@5.1.83?classifier=sources
+- pkg:maven/io.digiexpress/thena-batch-client@5.1.84?classifier=sources
+- pkg:maven/io.digiexpress/thena-batch-client@5.1.85?classifier=sources
+- pkg:maven/io.digiexpress/thena-batch-client@5.1.86?classifier=sources

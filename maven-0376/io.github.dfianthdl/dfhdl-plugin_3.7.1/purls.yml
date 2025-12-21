@@ -8,3 +8,5 @@
 - pkg:maven/io.github.dfianthdl/dfhdl-plugin_3.7.1@0.11.3?classifier=sources
 - pkg:maven/io.github.dfianthdl/dfhdl-plugin_3.7.1@0.11.4
 - pkg:maven/io.github.dfianthdl/dfhdl-plugin_3.7.1@0.11.4?classifier=sources
+- pkg:maven/io.github.dfianthdl/dfhdl-plugin_3.7.1@0.12.0
+- pkg:maven/io.github.dfianthdl/dfhdl-plugin_3.7.1@0.12.0?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/pl.mareklangiewicz/uwidgets@0.0.33?classifier=sources
 - pkg:maven/pl.mareklangiewicz/uwidgets@0.0.38?classifier=sources
 - pkg:maven/pl.mareklangiewicz/uwidgets@0.0.39?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets@0.0.41?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets@0.0.42?classifier=sources

@@ -155,6 +155,10 @@
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.20.7
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.20.7?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.20.8?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/testutils@0.20.9
+- pkg:maven/org.opendaylight.aaa.web/testutils@0.20.9?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/testutils@0.21.0
+- pkg:maven/org.opendaylight.aaa.web/testutils@0.21.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.9.0
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.9.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/testutils@0.9.1

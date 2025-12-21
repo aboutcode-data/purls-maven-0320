@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.atlaskit/visually-hidden@3.0.3
+- pkg:maven/org.mvnpm.at.atlaskit/visually-hidden@3.0.3?classifier=sources

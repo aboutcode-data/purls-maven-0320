@@ -6,3 +6,4 @@
 - pkg:maven/org.jreleaser/jreleaser-mavencentral-java-sdk@1.16.0?classifier=sources
 - pkg:maven/org.jreleaser/jreleaser-mavencentral-java-sdk@1.17.0?classifier=sources
 - pkg:maven/org.jreleaser/jreleaser-mavencentral-java-sdk@1.18.0?classifier=sources
+- pkg:maven/org.jreleaser/jreleaser-mavencentral-java-sdk@1.19.0?classifier=sources

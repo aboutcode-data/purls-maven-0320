@@ -14,3 +14,4 @@
 - pkg:maven/org.meeuw.i18n/i18n-formerly-assigned@0.7?classifier=sources
 - pkg:maven/org.meeuw.i18n/i18n-formerly-assigned@0.8
 - pkg:maven/org.meeuw.i18n/i18n-formerly-assigned@0.8?classifier=sources
+- pkg:maven/org.meeuw.i18n/i18n-formerly-assigned@0.9?classifier=sources

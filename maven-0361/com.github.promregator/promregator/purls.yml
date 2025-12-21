@@ -102,3 +102,4 @@
 - pkg:maven/com.github.promregator/promregator@1.1.4-rc2?classifier=sources
 - pkg:maven/com.github.promregator/promregator@1.1.4-rc3?classifier=sources
 - pkg:maven/com.github.promregator/promregator@1.1.4?classifier=sources
+- pkg:maven/com.github.promregator/promregator@1.1.5-rc1?classifier=sources

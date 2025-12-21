@@ -1,0 +1,8 @@
+- pkg:maven/io.github.cponfick/komp-geom-wasm-js@0.1.0-rc31?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom-wasm-js@0.1.0-rc32?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom-wasm-js@0.1.0-rc33?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom-wasm-js@0.1.0?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom-wasm-js@0.2.0-rc0?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom-wasm-js@0.2.0-rc1?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom-wasm-js@0.2.0?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom-wasm-js@0.3.0-rc0?classifier=sources

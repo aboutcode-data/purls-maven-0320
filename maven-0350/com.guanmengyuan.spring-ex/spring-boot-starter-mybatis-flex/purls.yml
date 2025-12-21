@@ -183,3 +183,5 @@
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@3.4.5.2?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@3.5.0.1?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@3.5.0.2?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@3.5.3.1?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-mybatis-flex@3.5.3.2?classifier=sources

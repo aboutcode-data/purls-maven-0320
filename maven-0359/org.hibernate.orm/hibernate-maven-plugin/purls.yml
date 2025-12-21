@@ -7,3 +7,5 @@
 - pkg:maven/org.hibernate.orm/hibernate-maven-plugin@7.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-maven-plugin@7.0.3.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-maven-plugin@7.0.4.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-maven-plugin@7.0.5.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-maven-plugin@7.0.6.Final?classifier=sources

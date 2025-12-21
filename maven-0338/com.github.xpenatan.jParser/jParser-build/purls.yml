@@ -1,3 +1,4 @@
+- pkg:maven/com.github.xpenatan.jParser/jParser-build@1.0.0-b10?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-build@1.0.0-b5?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-build@1.0.0-b6?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-build@1.0.0-b7?classifier=sources

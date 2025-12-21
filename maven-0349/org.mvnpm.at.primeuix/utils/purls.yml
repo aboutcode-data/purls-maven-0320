@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.primeuix/utils@0.5.3?classifier=sources
 - pkg:maven/org.mvnpm.at.primeuix/utils@0.5.4
 - pkg:maven/org.mvnpm.at.primeuix/utils@0.5.4?classifier=sources
+- pkg:maven/org.mvnpm.at.primeuix/utils@0.6.0
+- pkg:maven/org.mvnpm.at.primeuix/utils@0.6.0?classifier=sources

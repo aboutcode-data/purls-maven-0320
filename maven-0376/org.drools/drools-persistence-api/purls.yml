@@ -1,5 +1,7 @@
 - pkg:maven/org.drools/drools-persistence-api@10.0.0
 - pkg:maven/org.drools/drools-persistence-api@10.0.0?classifier=sources
+- pkg:maven/org.drools/drools-persistence-api@10.1.0
+- pkg:maven/org.drools/drools-persistence-api@10.1.0?classifier=sources
 - pkg:maven/org.drools/drools-persistence-api@7.0.0.Beta8
 - pkg:maven/org.drools/drools-persistence-api@7.0.0.Beta8?classifier=sources
 - pkg:maven/org.drools/drools-persistence-api@7.0.0.CR1

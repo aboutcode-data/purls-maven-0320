@@ -94,3 +94,6 @@
 - pkg:maven/io.github.fanyong920/jvppeteer@3.3.8?classifier=sources
 - pkg:maven/io.github.fanyong920/jvppeteer@3.3.9
 - pkg:maven/io.github.fanyong920/jvppeteer@3.3.9?classifier=sources
+- pkg:maven/io.github.fanyong920/jvppeteer@3.4.0
+- pkg:maven/io.github.fanyong920/jvppeteer@3.4.0?classifier=sources
+- pkg:maven/io.github.fanyong920/jvppeteer@3.4.1?classifier=sources

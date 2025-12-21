@@ -166,3 +166,7 @@
 - pkg:maven/berlin.yuna/just-log@0.1.9?classifier=sources
 - pkg:maven/berlin.yuna/just-log@2025.06.1521201?classifier=sources
 - pkg:maven/berlin.yuna/just-log@2025.06.1590714?classifier=sources
+- pkg:maven/berlin.yuna/just-log@2025.06.1760717?classifier=sources
+- pkg:maven/berlin.yuna/just-log@2025.07.1860714?classifier=sources
+- pkg:maven/berlin.yuna/just-log@2025.07.2020724?classifier=sources
+- pkg:maven/berlin.yuna/just-log@2025.07.2030720?classifier=sources

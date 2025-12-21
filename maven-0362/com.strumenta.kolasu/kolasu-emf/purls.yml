@@ -104,6 +104,10 @@
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.81?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.82?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.83?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.85-pub2?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.85-pub3?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.85?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.86?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.8?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@1.5.9?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-emf@2.experimental.3?classifier=sources

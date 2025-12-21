@@ -32,3 +32,4 @@
 - pkg:maven/org.fugerit.java/quarkus-redis-service-map@1.4.4?classifier=sources
 - pkg:maven/org.fugerit.java/quarkus-redis-service-map@1.4.5
 - pkg:maven/org.fugerit.java/quarkus-redis-service-map@1.4.5?classifier=sources
+- pkg:maven/org.fugerit.java/quarkus-redis-service-map@1.5.0?classifier=sources

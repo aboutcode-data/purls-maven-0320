@@ -1,3 +1,5 @@
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@0.111.112?classifier=sources
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@0.111.113?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.30.0
 - pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.30.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven/iac-assembly@2.31.0
@@ -62,3 +64,4 @@
 - pkg:maven/com.vmware.pscoe.maven/iac-assembly@4.5.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven/iac-assembly@4.6.0
 - pkg:maven/com.vmware.pscoe.maven/iac-assembly@4.6.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.maven/iac-assembly@4.7.0?classifier=sources

@@ -484,6 +484,10 @@
 - pkg:maven/com.google.cloud/google-cloud-trace@2.64.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@2.66.0
 - pkg:maven/com.google.cloud/google-cloud-trace@2.66.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-trace@2.67.0
+- pkg:maven/com.google.cloud/google-cloud-trace@2.67.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-trace@2.68.0
+- pkg:maven/com.google.cloud/google-cloud-trace@2.68.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@2.7.0
 - pkg:maven/com.google.cloud/google-cloud-trace@2.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-trace@2.8.0

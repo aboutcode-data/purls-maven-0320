@@ -1,0 +1,3 @@
+- pkg:maven/io.github.thierrysquirrel/alipay@1.5.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.thierrysquirrel/alipay@1.5.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.thierrysquirrel/alipay@1.5.0.2-RELEASE?classifier=sources

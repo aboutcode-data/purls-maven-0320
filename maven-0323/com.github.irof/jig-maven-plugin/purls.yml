@@ -80,3 +80,5 @@
 - pkg:maven/com.github.irof/jig-maven-plugin@2025.2.3?classifier=sources
 - pkg:maven/com.github.irof/jig-maven-plugin@2025.2.4
 - pkg:maven/com.github.irof/jig-maven-plugin@2025.2.4?classifier=sources
+- pkg:maven/com.github.irof/jig-maven-plugin@2025.6.1
+- pkg:maven/com.github.irof/jig-maven-plugin@2025.6.1?classifier=sources

@@ -37,6 +37,7 @@
 - pkg:maven/ch.exense.step.library/step-library-kw-http@1.0.25?classifier=sources
 - pkg:maven/ch.exense.step.library/step-library-kw-http@1.0.27
 - pkg:maven/ch.exense.step.library/step-library-kw-http@1.0.27?classifier=sources
+- pkg:maven/ch.exense.step.library/step-library-kw-http@1.0.28?classifier=sources
 - pkg:maven/ch.exense.step.library/step-library-kw-http@1.0.2?classifier=sources
 - pkg:maven/ch.exense.step.library/step-library-kw-http@1.0.3
 - pkg:maven/ch.exense.step.library/step-library-kw-http@1.0.3?classifier=sources

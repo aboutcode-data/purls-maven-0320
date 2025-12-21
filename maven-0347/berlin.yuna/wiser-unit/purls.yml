@@ -215,3 +215,7 @@
 - pkg:maven/berlin.yuna/wiser-unit@2025.06.1521156?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@2025.06.1590256?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@2025.06.1650244?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@2025.06.1760252?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@2025.07.1860245?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@2025.07.2000253?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@2025.07.2030301?classifier=sources

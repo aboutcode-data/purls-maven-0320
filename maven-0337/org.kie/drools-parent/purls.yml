@@ -1,1 +1,2 @@
 - pkg:maven/org.kie/drools-parent@10.0.0?classifier=source-release&type=zip
+- pkg:maven/org.kie/drools-parent@10.1.0?classifier=source-release&type=zip

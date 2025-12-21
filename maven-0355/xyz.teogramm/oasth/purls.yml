@@ -1,1 +1,2 @@
 - pkg:maven/xyz.teogramm/oasth@0.9.0?classifier=sources
+- pkg:maven/xyz.teogramm/oasth@0.9.1?classifier=sources

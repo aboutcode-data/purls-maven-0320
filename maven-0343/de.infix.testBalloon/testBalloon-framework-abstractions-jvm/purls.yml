@@ -14,3 +14,4 @@
 - pkg:maven/de.infix.testBalloon/testBalloon-framework-abstractions-jvm@0.3.3-K2.1.0?classifier=sources
 - pkg:maven/de.infix.testBalloon/testBalloon-framework-abstractions-jvm@0.3.3-K2.1.21?classifier=sources
 - pkg:maven/de.infix.testBalloon/testBalloon-framework-abstractions-jvm@0.3.3-K2.2.0-RC?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-framework-abstractions-jvm@0.3.3-K2.2.0?classifier=sources

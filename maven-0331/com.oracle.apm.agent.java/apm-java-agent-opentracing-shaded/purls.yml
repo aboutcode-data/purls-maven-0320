@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-opentracing-shaded@1.17.1.2
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-opentracing-shaded@1.17.1.2?classifier=sources

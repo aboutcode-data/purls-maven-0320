@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/sbt-tasty-mima_2.12_1.0@1.4.0
+- pkg:maven/ch.epfl.scala/sbt-tasty-mima_2.12_1.0@1.4.0?classifier=sources

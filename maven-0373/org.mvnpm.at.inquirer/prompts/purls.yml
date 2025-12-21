@@ -9,3 +9,7 @@
 - pkg:maven/org.mvnpm.at.inquirer/prompts@7.5.2?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/prompts@7.5.3
 - pkg:maven/org.mvnpm.at.inquirer/prompts@7.5.3?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/prompts@7.6.0
+- pkg:maven/org.mvnpm.at.inquirer/prompts@7.6.0?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/prompts@7.7.0
+- pkg:maven/org.mvnpm.at.inquirer/prompts@7.7.0?classifier=sources

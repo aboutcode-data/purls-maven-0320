@@ -87,6 +87,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@61.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@61.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@61.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@62.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@62.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@62.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@63.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/mercurial-version-control-system@8.0.0?classifier=sources

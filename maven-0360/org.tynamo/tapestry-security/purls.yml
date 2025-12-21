@@ -49,3 +49,4 @@
 - pkg:maven/org.tynamo/tapestry-security@0.8.0?classifier=sources
 - pkg:maven/org.tynamo/tapestry-security@0.9.0
 - pkg:maven/org.tynamo/tapestry-security@0.9.0?classifier=sources
+- pkg:maven/org.tynamo/tapestry-security@1.0.0?classifier=sources

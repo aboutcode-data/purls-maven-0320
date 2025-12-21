@@ -2,3 +2,5 @@
 - pkg:maven/ch.reportingsoft.birt/eclipse-core-resources@3.22.0?classifier=sources
 - pkg:maven/ch.reportingsoft.birt/eclipse-core-resources@3.22.100
 - pkg:maven/ch.reportingsoft.birt/eclipse-core-resources@3.22.100?classifier=sources
+- pkg:maven/ch.reportingsoft.birt/eclipse-core-resources@3.22.200
+- pkg:maven/ch.reportingsoft.birt/eclipse-core-resources@3.22.200?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.timecho.ratis/ratis-proto@3.2.0?classifier=sources
+- pkg:maven/com.timecho.ratis/ratis-proto@3.2.1?classifier=sources

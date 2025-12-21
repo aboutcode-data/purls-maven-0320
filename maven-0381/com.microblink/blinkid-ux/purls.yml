@@ -2,3 +2,5 @@
 - pkg:maven/com.microblink/blinkid-ux@7.1.0?type=aar
 - pkg:maven/com.microblink/blinkid-ux@7.2.0?type=aar
 - pkg:maven/com.microblink/blinkid-ux@7.2.1?type=aar
+- pkg:maven/com.microblink/blinkid-ux@7.3.0?type=aar
+- pkg:maven/com.microblink/blinkid-ux@7.4.0?type=aar

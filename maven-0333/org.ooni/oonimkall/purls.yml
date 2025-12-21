@@ -43,3 +43,4 @@
 - pkg:maven/org.ooni/oonimkall@2025.03.19-100447?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2025.04.08-045113?classifier=sources
 - pkg:maven/org.ooni/oonimkall@2025.06.13-091228?classifier=sources
+- pkg:maven/org.ooni/oonimkall@2025.07.01-140014-desktop?classifier=sources

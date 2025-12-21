@@ -318,12 +318,16 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.61.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.62.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.62.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.66.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.67.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.7.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.7.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.8.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.8.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.9.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@11.9.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@12.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@12.1.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@6.3.28
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@6.3.28?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-sources@6.3.29

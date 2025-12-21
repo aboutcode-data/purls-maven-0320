@@ -20,3 +20,4 @@
 - pkg:maven/com.webforj/webforj-applayout@25.00?classifier=sources
 - pkg:maven/com.webforj/webforj-applayout@25.01
 - pkg:maven/com.webforj/webforj-applayout@25.01?classifier=sources
+- pkg:maven/com.webforj/webforj-applayout@25.02?classifier=sources

@@ -86,3 +86,4 @@
 - pkg:maven/io.github.tempo-platform/tempo-android-ironsource-adapter@1.8.0-rc.3?classifier=sources
 - pkg:maven/io.github.tempo-platform/tempo-android-ironsource-adapter@1.8.0-rc.4?classifier=sources
 - pkg:maven/io.github.tempo-platform/tempo-android-ironsource-adapter@1.8.0?classifier=sources
+- pkg:maven/io.github.tempo-platform/tempo-android-ironsource-adapter@1.8.1-rc.0?classifier=sources

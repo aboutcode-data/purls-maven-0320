@@ -1,0 +1,2 @@
+- pkg:maven/org.scalamolecule/molecule-db-postgresql_3@0.24.1
+- pkg:maven/org.scalamolecule/molecule-db-postgresql_3@0.24.1?classifier=sources

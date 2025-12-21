@@ -180,3 +180,5 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe-csv@1.0.0-dev-7510?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-csv@1.0.0-dev-7568?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-csv@1.0.0-dev-7570?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-csv@1.0.0-dev-7782?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-csv@1.0.0-dev-7791?classifier=sources

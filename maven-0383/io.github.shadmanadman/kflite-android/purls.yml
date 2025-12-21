@@ -1,1 +1,2 @@
 - pkg:maven/io.github.shadmanadman/kflite-android@0.62.10?classifier=sources
+- pkg:maven/io.github.shadmanadman/kflite-android@0.70.0?classifier=sources

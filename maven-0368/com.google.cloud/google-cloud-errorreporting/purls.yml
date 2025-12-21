@@ -332,6 +332,10 @@
 - pkg:maven/com.google.cloud/google-cloud-errorreporting@0.185.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-errorreporting@0.187.0-beta
 - pkg:maven/com.google.cloud/google-cloud-errorreporting@0.187.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-errorreporting@0.188.0-beta
+- pkg:maven/com.google.cloud/google-cloud-errorreporting@0.188.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-errorreporting@0.189.0-beta
+- pkg:maven/com.google.cloud/google-cloud-errorreporting@0.189.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-errorreporting@0.19.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-errorreporting@0.19.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-errorreporting@0.20.0-alpha

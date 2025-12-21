@@ -33,6 +33,8 @@
 - pkg:maven/com.ritense.valtimo/process-link@12.12.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link@12.13.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link@12.13.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-link@12.14.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-link@12.14.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link@12.3.0.RELEASE?classifier=sources
@@ -50,3 +52,5 @@
 - pkg:maven/com.ritense.valtimo/process-link@12.7.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link@12.8.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link@12.9.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-link@13.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-link@13.0.1.RELEASE?classifier=sources

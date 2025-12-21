@@ -14,6 +14,10 @@
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.12.1-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.12.2-preview
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.12.2-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.12.3-preview
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.12.3-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.13.0-preview
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.13.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.5.0-preview
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.5.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@5.5.1-preview
@@ -42,3 +46,9 @@
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@6.2.1-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@6.2.2-preview
 - pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@6.2.2-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@6.2.3-preview
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@6.2.3-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@6.3.0-preview
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@6.3.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@7.0.0-preview
+- pkg:maven/com.google.cloud/google-cloud-discoveryengine-spring-starter@7.0.0-preview?classifier=sources

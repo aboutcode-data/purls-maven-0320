@@ -3,3 +3,4 @@
 - pkg:maven/li.strolch/strolch-model@2.5.1?classifier=sources
 - pkg:maven/li.strolch/strolch-model@2.5.2?classifier=sources
 - pkg:maven/li.strolch/strolch-model@2.5.3?classifier=sources
+- pkg:maven/li.strolch/strolch-model@2.5.4?classifier=sources

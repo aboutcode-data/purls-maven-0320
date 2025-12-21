@@ -165,8 +165,12 @@
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.30.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.32.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.34.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.36.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.38.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.3?classifier=sources
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.4
+- pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.40.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.42.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.4?classifier=sources
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.5
 - pkg:maven/org.entur.ror.helpers/hazelcast4-helper@5.5?classifier=sources

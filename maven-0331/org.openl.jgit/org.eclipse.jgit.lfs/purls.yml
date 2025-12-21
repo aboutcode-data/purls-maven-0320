@@ -20,3 +20,4 @@
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.lfs@6.9.0.202403050737-openl?classifier=sources
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.lfs@7.2.0.202503040940-openl
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.lfs@7.2.0.202503040940-openl?classifier=sources
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.lfs@7.3.0.202506031305-openl?classifier=sources

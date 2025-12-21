@@ -1,0 +1,6 @@
+- pkg:maven/com.lihaoyi/mill-runner-eclipse_3@1.0.2-23-d3f2ba
+- pkg:maven/com.lihaoyi/mill-runner-eclipse_3@1.0.2-23-d3f2ba?classifier=sources
+- pkg:maven/com.lihaoyi/mill-runner-eclipse_3@1.0.2-24-4cc427
+- pkg:maven/com.lihaoyi/mill-runner-eclipse_3@1.0.2-24-4cc427?classifier=sources
+- pkg:maven/com.lihaoyi/mill-runner-eclipse_3@1.0.3
+- pkg:maven/com.lihaoyi/mill-runner-eclipse_3@1.0.3?classifier=sources

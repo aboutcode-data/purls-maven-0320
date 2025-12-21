@@ -93,3 +93,7 @@
 - pkg:maven/cn.jiguang.sdk.ad/core@3.9.9.12257?type=aar
 - pkg:maven/cn.jiguang.sdk.ad/core@4.0.1.06031?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad/core@4.0.1.06031?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@4.0.1.06032?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@4.0.1.06032?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/core@4.0.1.06033?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/core@4.0.1.06033?type=aar

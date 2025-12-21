@@ -1,0 +1,2 @@
+- pkg:maven/top.mrxiaom.pluginbase/library@1.6.0?classifier=sources
+- pkg:maven/top.mrxiaom.pluginbase/library@1.6.1?classifier=sources

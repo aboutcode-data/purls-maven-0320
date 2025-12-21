@@ -1,2 +1,5 @@
 - pkg:maven/dev.vality/swag-anapi-v2-client@1.101-adc5097
 - pkg:maven/dev.vality/swag-anapi-v2-client@1.101-adc5097?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2-client@1.102-4c69a2f?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2-client@1.106-4c22563-epic-1?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2-client@1.108-32900a4-epic-1?classifier=sources

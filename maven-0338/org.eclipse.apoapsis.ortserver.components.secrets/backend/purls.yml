@@ -4,3 +4,9 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.17.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.18.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.19.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.20.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.21.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.22.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.23.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.24.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/backend@0.25.0?classifier=sources

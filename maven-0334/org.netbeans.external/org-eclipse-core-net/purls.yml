@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-core-net@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-core-net@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-core-net@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-core-net@RELEASE270?classifier=sources

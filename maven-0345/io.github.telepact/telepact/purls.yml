@@ -2,3 +2,4 @@
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.11?classifier=sources
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.17?classifier=sources
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.35?classifier=sources
+- pkg:maven/io.github.telepact/telepact@1.0.0-alpha.95?classifier=sources

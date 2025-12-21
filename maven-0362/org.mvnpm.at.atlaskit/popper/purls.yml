@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.atlaskit/popper@7.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.atlaskit/popper@7.1.0
 - pkg:maven/org.mvnpm.at.atlaskit/popper@7.1.0?classifier=sources
+- pkg:maven/org.mvnpm.at.atlaskit/popper@7.1.1
+- pkg:maven/org.mvnpm.at.atlaskit/popper@7.1.1?classifier=sources

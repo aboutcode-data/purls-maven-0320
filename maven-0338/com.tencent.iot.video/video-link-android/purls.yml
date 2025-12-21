@@ -35,4 +35,6 @@
 - pkg:maven/com.tencent.iot.video/video-link-android@2.4.44?classifier=sources
 - pkg:maven/com.tencent.iot.video/video-link-android@2.4.45.3?classifier=sources
 - pkg:maven/com.tencent.iot.video/video-link-android@2.4.45?classifier=sources
+- pkg:maven/com.tencent.iot.video/video-link-android@2.4.46?classifier=sources
+- pkg:maven/com.tencent.iot.video/video-link-android@2.4.47?classifier=sources
 - pkg:maven/com.tencent.iot.video/video-link-android@2.4.4?classifier=sources

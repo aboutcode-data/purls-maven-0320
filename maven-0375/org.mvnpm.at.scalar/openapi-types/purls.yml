@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.scalar/openapi-types@0.2.0?classifier=sources
 - pkg:maven/org.mvnpm.at.scalar/openapi-types@0.3.2
 - pkg:maven/org.mvnpm.at.scalar/openapi-types@0.3.2?classifier=sources
+- pkg:maven/org.mvnpm.at.scalar/openapi-types@0.3.7
+- pkg:maven/org.mvnpm.at.scalar/openapi-types@0.3.7?classifier=sources

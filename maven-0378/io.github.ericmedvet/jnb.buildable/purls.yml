@@ -1,2 +1,3 @@
 - pkg:maven/io.github.ericmedvet/jnb.buildable@1.4.0
 - pkg:maven/io.github.ericmedvet/jnb.buildable@1.4.0?classifier=sources
+- pkg:maven/io.github.ericmedvet/jnb.buildable@1.5.0-rc?classifier=sources

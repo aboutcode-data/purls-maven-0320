@@ -6,3 +6,9 @@
 - pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.17?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.18?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.19?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.20?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.21?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.22?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.23?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.24?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/callstats-iossimulatorarm64@1.7.25?classifier=sources

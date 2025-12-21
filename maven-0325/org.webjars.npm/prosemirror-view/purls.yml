@@ -30,5 +30,6 @@
 - pkg:maven/org.webjars.npm/prosemirror-view@1.31.7?classifier=sources
 - pkg:maven/org.webjars.npm/prosemirror-view@1.37.2
 - pkg:maven/org.webjars.npm/prosemirror-view@1.38.0
+- pkg:maven/org.webjars.npm/prosemirror-view@1.40.1
 - pkg:maven/org.webjars.npm/prosemirror-view@1.9.14-prerelease6
 - pkg:maven/org.webjars.npm/prosemirror-view@1.9.14-prerelease6?classifier=sources

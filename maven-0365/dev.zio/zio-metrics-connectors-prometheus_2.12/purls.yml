@@ -10,3 +10,5 @@
 - pkg:maven/dev.zio/zio-metrics-connectors-prometheus_2.12@2.3.1?classifier=sources
 - pkg:maven/dev.zio/zio-metrics-connectors-prometheus_2.12@2.4.0
 - pkg:maven/dev.zio/zio-metrics-connectors-prometheus_2.12@2.4.0?classifier=sources
+- pkg:maven/dev.zio/zio-metrics-connectors-prometheus_2.12@2.4.1
+- pkg:maven/dev.zio/zio-metrics-connectors-prometheus_2.12@2.4.1?classifier=sources

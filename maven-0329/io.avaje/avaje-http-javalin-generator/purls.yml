@@ -195,3 +195,4 @@
 - pkg:maven/io.avaje/avaje-http-javalin-generator@3.4-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-http-javalin-generator@3.4-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-http-javalin-generator@3.4-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-http-javalin-generator@3.4?classifier=sources

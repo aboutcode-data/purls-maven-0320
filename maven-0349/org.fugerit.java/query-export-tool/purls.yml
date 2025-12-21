@@ -36,3 +36,4 @@
 - pkg:maven/org.fugerit.java/query-export-tool@1.0.0?classifier=sources
 - pkg:maven/org.fugerit.java/query-export-tool@1.1.0
 - pkg:maven/org.fugerit.java/query-export-tool@1.1.0?classifier=sources
+- pkg:maven/org.fugerit.java/query-export-tool@1.2.0?classifier=sources

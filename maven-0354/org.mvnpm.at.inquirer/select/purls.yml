@@ -12,3 +12,5 @@
 - pkg:maven/org.mvnpm.at.inquirer/select@4.2.4?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/select@4.3.0
 - pkg:maven/org.mvnpm.at.inquirer/select@4.3.0?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/select@4.3.1
+- pkg:maven/org.mvnpm.at.inquirer/select@4.3.1?classifier=sources

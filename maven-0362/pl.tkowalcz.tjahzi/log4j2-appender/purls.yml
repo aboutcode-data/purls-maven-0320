@@ -38,6 +38,9 @@
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.31?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.32
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.32?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.37?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.38?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.39?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.4
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.4?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/log4j2-appender@0.9.5

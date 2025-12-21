@@ -459,6 +459,10 @@
 - pkg:maven/io.shiftleft/schema2json_3@1.7.43?classifier=sources
 - pkg:maven/io.shiftleft/schema2json_3@1.7.44
 - pkg:maven/io.shiftleft/schema2json_3@1.7.44?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_3@1.7.45
+- pkg:maven/io.shiftleft/schema2json_3@1.7.45?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_3@1.7.46
+- pkg:maven/io.shiftleft/schema2json_3@1.7.46?classifier=sources
 - pkg:maven/io.shiftleft/schema2json_3@1.7.4?classifier=sources
 - pkg:maven/io.shiftleft/schema2json_3@1.7.5
 - pkg:maven/io.shiftleft/schema2json_3@1.7.5?classifier=sources

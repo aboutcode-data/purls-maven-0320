@@ -288,3 +288,6 @@
 - pkg:maven/com.palantir.dialogue/dialogue-futures@6.0.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@6.1.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-futures@6.2.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@6.3.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@6.4.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-futures@6.5.0?classifier=sources

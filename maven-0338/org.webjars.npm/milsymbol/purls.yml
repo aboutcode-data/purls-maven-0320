@@ -8,3 +8,4 @@
 - pkg:maven/org.webjars.npm/milsymbol@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/milsymbol@3.0.0
 - pkg:maven/org.webjars.npm/milsymbol@3.0.2
+- pkg:maven/org.webjars.npm/milsymbol@3.0.3

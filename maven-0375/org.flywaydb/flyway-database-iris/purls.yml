@@ -1,2 +1,3 @@
 - pkg:maven/org.flywaydb/flyway-database-iris@10.21.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-iris@10.22.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-iris@10.24.0?classifier=sources

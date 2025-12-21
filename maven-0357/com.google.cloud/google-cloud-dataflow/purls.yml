@@ -158,6 +158,12 @@
 - pkg:maven/com.google.cloud/google-cloud-dataflow@0.71.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataflow@0.72.0
 - pkg:maven/com.google.cloud/google-cloud-dataflow@0.72.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataflow@0.74.0
+- pkg:maven/com.google.cloud/google-cloud-dataflow@0.74.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataflow@0.75.0
+- pkg:maven/com.google.cloud/google-cloud-dataflow@0.75.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataflow@0.76.0
+- pkg:maven/com.google.cloud/google-cloud-dataflow@0.76.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataflow@0.8.0
 - pkg:maven/com.google.cloud/google-cloud-dataflow@0.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataflow@0.9.0

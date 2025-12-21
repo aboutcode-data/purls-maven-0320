@@ -54,3 +54,4 @@
 - pkg:maven/pl.wrzasq.parent/parent-detekt@3.0.6?classifier=sources
 - pkg:maven/pl.wrzasq.parent/parent-detekt@3.0.7
 - pkg:maven/pl.wrzasq.parent/parent-detekt@3.0.7?classifier=sources
+- pkg:maven/pl.wrzasq.parent/parent-detekt@3.0.8?classifier=sources

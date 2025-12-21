@@ -44,6 +44,7 @@
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@2.19.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@2.19.1?classifier=sources
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@2.19.2?classifier=sources
+- pkg:maven/org.opensearch.plugin/analysis-phonetic@2.19.3?classifier=sources
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@2.2.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@2.2.1?classifier=sources
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@2.3.0?classifier=sources
@@ -58,3 +59,4 @@
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@3.0.0-beta1?classifier=sources
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@3.0.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/analysis-phonetic@3.1.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/analysis-phonetic@3.2.0?classifier=sources

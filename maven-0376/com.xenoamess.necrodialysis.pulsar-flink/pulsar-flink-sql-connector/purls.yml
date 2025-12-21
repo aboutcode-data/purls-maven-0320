@@ -1,0 +1,3 @@
+- pkg:maven/com.xenoamess.necrodialysis.pulsar-flink/pulsar-flink-sql-connector@1.18.1-beta1?classifier=sources
+- pkg:maven/com.xenoamess.necrodialysis.pulsar-flink/pulsar-flink-sql-connector@1.18.1-beta2?classifier=sources
+- pkg:maven/com.xenoamess.necrodialysis.pulsar-flink/pulsar-flink-sql-connector@2.1.0.1-beta1?classifier=sources

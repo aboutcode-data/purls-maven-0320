@@ -45,3 +45,4 @@
 - pkg:maven/edu.cornell.weill.reciter/reciter-article-model@2.0.9
 - pkg:maven/edu.cornell.weill.reciter/reciter-article-model@2.0.9?classifier=sources
 - pkg:maven/edu.cornell.weill.reciter/reciter-article-model@2.2.29?classifier=sources
+- pkg:maven/edu.cornell.weill.reciter/reciter-article-model@3.0.0?classifier=sources

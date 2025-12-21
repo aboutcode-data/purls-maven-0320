@@ -24,4 +24,5 @@
 - pkg:maven/ru.astrainteractive.klibs/kstorage-iosarm64@4.1.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-iosarm64@4.2.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-iosarm64@4.2.1?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/kstorage-iosarm64@4.2.2?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-iosarm64@unspecified?classifier=sources

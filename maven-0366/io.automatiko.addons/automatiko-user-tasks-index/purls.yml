@@ -33,3 +33,5 @@
 - pkg:maven/io.automatiko.addons/automatiko-user-tasks-index@0.43.0
 - pkg:maven/io.automatiko.addons/automatiko-user-tasks-index@0.43.0?classifier=sources
 - pkg:maven/io.automatiko.addons/automatiko-user-tasks-index@0.44.0?classifier=sources
+- pkg:maven/io.automatiko.addons/automatiko-user-tasks-index@0.45.0?classifier=sources
+- pkg:maven/io.automatiko.addons/automatiko-user-tasks-index@0.45.1?classifier=sources

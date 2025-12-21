@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-go-lang@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-go-lang@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-go-lang@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-go-lang@RELEASE270?classifier=sources

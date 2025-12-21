@@ -4,3 +4,4 @@
 - pkg:maven/info.scce/addlib-sylvan@3.0.1?classifier=sources
 - pkg:maven/info.scce/addlib-sylvan@3.1.0
 - pkg:maven/info.scce/addlib-sylvan@3.1.0?classifier=sources
+- pkg:maven/info.scce/addlib-sylvan@4.0.0?classifier=sources

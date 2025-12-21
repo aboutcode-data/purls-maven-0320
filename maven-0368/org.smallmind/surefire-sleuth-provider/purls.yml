@@ -172,3 +172,4 @@
 - pkg:maven/org.smallmind/surefire-sleuth-provider@6.5.0?classifier=sources
 - pkg:maven/org.smallmind/surefire-sleuth-provider@6.6.0?classifier=sources
 - pkg:maven/org.smallmind/surefire-sleuth-provider@6.7.0?classifier=sources
+- pkg:maven/org.smallmind/surefire-sleuth-provider@6.7.1?classifier=sources

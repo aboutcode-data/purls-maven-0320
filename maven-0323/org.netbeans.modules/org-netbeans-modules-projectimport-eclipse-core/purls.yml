@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-core@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-core@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-core@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-core@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-core@RELEASE90?classifier=sources

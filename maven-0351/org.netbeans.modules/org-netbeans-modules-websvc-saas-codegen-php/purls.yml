@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen-php@RELEASE270?classifier=sources

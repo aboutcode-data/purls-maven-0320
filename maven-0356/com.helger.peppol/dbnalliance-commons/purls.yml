@@ -19,3 +19,5 @@
 - pkg:maven/com.helger.peppol/dbnalliance-commons@11.0.2?classifier=sources
 - pkg:maven/com.helger.peppol/dbnalliance-commons@11.0.3?classifier=sources
 - pkg:maven/com.helger.peppol/dbnalliance-commons@11.0.4?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-commons@11.0.5?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-commons@11.0.6?classifier=sources

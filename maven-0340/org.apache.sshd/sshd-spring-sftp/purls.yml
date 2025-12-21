@@ -23,6 +23,8 @@
 - pkg:maven/org.apache.sshd/sshd-spring-sftp@2.14.0?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-spring-sftp@2.15.0
 - pkg:maven/org.apache.sshd/sshd-spring-sftp@2.15.0?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-spring-sftp@2.16.0
+- pkg:maven/org.apache.sshd/sshd-spring-sftp@2.16.0?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-spring-sftp@2.2.0
 - pkg:maven/org.apache.sshd/sshd-spring-sftp@2.2.0?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-spring-sftp@2.3.0

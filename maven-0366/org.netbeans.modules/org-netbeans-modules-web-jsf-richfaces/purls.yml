@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-richfaces@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-richfaces@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-richfaces@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-richfaces@RELEASE270?classifier=sources

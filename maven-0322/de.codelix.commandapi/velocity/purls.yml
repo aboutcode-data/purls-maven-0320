@@ -1,2 +1,5 @@
 - pkg:maven/de.codelix.commandapi/velocity@1.0.0?classifier=sources
 - pkg:maven/de.codelix.commandapi/velocity@4.0.0?classifier=sources
+- pkg:maven/de.codelix.commandapi/velocity@4.1.0?classifier=sources
+- pkg:maven/de.codelix.commandapi/velocity@4.2.0?classifier=sources
+- pkg:maven/de.codelix.commandapi/velocity@4.3.0?classifier=sources

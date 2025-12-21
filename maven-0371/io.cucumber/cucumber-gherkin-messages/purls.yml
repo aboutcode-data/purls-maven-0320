@@ -147,6 +147,7 @@
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@7.24.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@7.25.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@7.26.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-gherkin-messages@7.27.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@7.3.0
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@7.3.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-gherkin-messages@7.3.1

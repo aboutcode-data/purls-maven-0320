@@ -1,0 +1,1 @@
+- pkg:maven/io.sapl/sapl-spring-data-mongo-reactive@3.0.0?classifier=sources

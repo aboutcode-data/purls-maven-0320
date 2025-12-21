@@ -20,3 +20,9 @@
 - pkg:maven/org.mvnpm/react-hook-form@7.59.0?classifier=sources
 - pkg:maven/org.mvnpm/react-hook-form@7.60.0
 - pkg:maven/org.mvnpm/react-hook-form@7.60.0?classifier=sources
+- pkg:maven/org.mvnpm/react-hook-form@7.61.0
+- pkg:maven/org.mvnpm/react-hook-form@7.61.0?classifier=sources
+- pkg:maven/org.mvnpm/react-hook-form@7.61.1
+- pkg:maven/org.mvnpm/react-hook-form@7.61.1?classifier=sources
+- pkg:maven/org.mvnpm/react-hook-form@7.62.0
+- pkg:maven/org.mvnpm/react-hook-form@7.62.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.coodex/coodex-jaxrs-util@0.5.2-RC2?classifier=sources
 - pkg:maven/org.coodex/coodex-jaxrs-util@0.5.3-RC1
 - pkg:maven/org.coodex/coodex-jaxrs-util@0.5.3-RC1?classifier=sources
+- pkg:maven/org.coodex/coodex-jaxrs-util@0.6.1?classifier=sources
+- pkg:maven/org.coodex/coodex-jaxrs-util@0.6.2?classifier=sources

@@ -37,8 +37,10 @@
 - pkg:maven/io.alapierre.ksef/ksef-fop@1.0.27?classifier=sources
 - pkg:maven/io.alapierre.ksef/ksef-fop@1.0.28
 - pkg:maven/io.alapierre.ksef/ksef-fop@1.0.28?classifier=sources
+- pkg:maven/io.alapierre.ksef/ksef-fop@1.0.29?classifier=sources
 - pkg:maven/io.alapierre.ksef/ksef-fop@1.0.2?classifier=sources
 - pkg:maven/io.alapierre.ksef/ksef-fop@1.0.3
+- pkg:maven/io.alapierre.ksef/ksef-fop@1.0.30?classifier=sources
 - pkg:maven/io.alapierre.ksef/ksef-fop@1.0.3?classifier=sources
 - pkg:maven/io.alapierre.ksef/ksef-fop@1.0.5
 - pkg:maven/io.alapierre.ksef/ksef-fop@1.0.5?classifier=sources

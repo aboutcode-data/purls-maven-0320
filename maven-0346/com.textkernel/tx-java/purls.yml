@@ -18,3 +18,5 @@
 - pkg:maven/com.textkernel/tx-java@2.3.3?classifier=sources
 - pkg:maven/com.textkernel/tx-java@2.3.4
 - pkg:maven/com.textkernel/tx-java@2.3.4?classifier=sources
+- pkg:maven/com.textkernel/tx-java@3.0.2
+- pkg:maven/com.textkernel/tx-java@3.0.2?classifier=sources

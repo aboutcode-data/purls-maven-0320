@@ -72,3 +72,5 @@
 - pkg:maven/com.quasiris.qsf/qsf-dto@7.0.0?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-dto@7.1.0
 - pkg:maven/com.quasiris.qsf/qsf-dto@7.1.0?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-dto@7.2.0
+- pkg:maven/com.quasiris.qsf/qsf-dto@7.2.0?classifier=sources

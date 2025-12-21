@@ -54,6 +54,7 @@
 - pkg:maven/com.hyperwallet/sdk@1.9.5?classifier=sources
 - pkg:maven/com.hyperwallet/sdk@1.9.6
 - pkg:maven/com.hyperwallet/sdk@1.9.6?classifier=sources
+- pkg:maven/com.hyperwallet/sdk@1.9.7?classifier=sources
 - pkg:maven/com.hyperwallet/sdk@2.0.0
 - pkg:maven/com.hyperwallet/sdk@2.0.0?classifier=sources
 - pkg:maven/com.hyperwallet/sdk@2.1.0
@@ -94,3 +95,4 @@
 - pkg:maven/com.hyperwallet/sdk@2.4.8?classifier=sources
 - pkg:maven/com.hyperwallet/sdk@2.4.9
 - pkg:maven/com.hyperwallet/sdk@2.4.9?classifier=sources
+- pkg:maven/com.hyperwallet/sdk@3.0.0?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/io.gitee.dananhai1512/mybatis-plus-query-helper@3.0.0-RELEASE?classifier=sources
 - pkg:maven/io.gitee.dananhai1512/mybatis-plus-query-helper@3.0.1-RELEASE?classifier=sources
 - pkg:maven/io.gitee.dananhai1512/mybatis-plus-query-helper@3.0.2-RELEASE?classifier=sources
+- pkg:maven/io.gitee.dananhai1512/mybatis-plus-query-helper@3.0.3-RELEASE?classifier=sources

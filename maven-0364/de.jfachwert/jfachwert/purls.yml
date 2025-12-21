@@ -97,3 +97,4 @@
 - pkg:maven/de.jfachwert/jfachwert@6.0.2?classifier=sources
 - pkg:maven/de.jfachwert/jfachwert@6.1.0?classifier=sources
 - pkg:maven/de.jfachwert/jfachwert@6.1.1?classifier=sources
+- pkg:maven/de.jfachwert/jfachwert@6.2.0?classifier=sources

@@ -461,3 +461,7 @@
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.5.8
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.5.9
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.6.0
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.7.0
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.7.1
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.7.2
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-utils@5.7.3

@@ -5,3 +5,6 @@
 - pkg:maven/com.dayanruben/encrypted-datastore@1.1.4-0.1?classifier=sources
 - pkg:maven/com.dayanruben/encrypted-datastore@1.1.4-0.2?classifier=sources
 - pkg:maven/com.dayanruben/encrypted-datastore@1.1.5-0.2?classifier=sources
+- pkg:maven/com.dayanruben/encrypted-datastore@1.1.6-0.2?classifier=sources
+- pkg:maven/com.dayanruben/encrypted-datastore@1.1.6-0.3?classifier=sources
+- pkg:maven/com.dayanruben/encrypted-datastore@1.1.7-0.3?classifier=sources

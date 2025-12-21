@@ -35,6 +35,7 @@
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.1.2?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.10.0?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.10.1?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.10.2?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.2.0?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.3.0?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.4.0?classifier=sources
@@ -49,3 +50,4 @@
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.9.3?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.9.4?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.9.5?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-annotation@5.9.6?classifier=sources

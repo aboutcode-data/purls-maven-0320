@@ -24,3 +24,4 @@
 - pkg:maven/org.webjars.npm/braintree__sanitize-url@6.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/braintree__sanitize-url@7.0.4
 - pkg:maven/org.webjars.npm/braintree__sanitize-url@7.1.0
+- pkg:maven/org.webjars.npm/braintree__sanitize-url@7.1.1

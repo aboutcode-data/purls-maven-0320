@@ -48,6 +48,8 @@
 - pkg:maven/org.apache.arrow.orc/arrow-orc@18.1.0?classifier=sources
 - pkg:maven/org.apache.arrow.orc/arrow-orc@18.2.0
 - pkg:maven/org.apache.arrow.orc/arrow-orc@18.2.0?classifier=sources
+- pkg:maven/org.apache.arrow.orc/arrow-orc@18.3.0
+- pkg:maven/org.apache.arrow.orc/arrow-orc@18.3.0?classifier=sources
 - pkg:maven/org.apache.arrow.orc/arrow-orc@2.0.0
 - pkg:maven/org.apache.arrow.orc/arrow-orc@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow.orc/arrow-orc@3.0.0

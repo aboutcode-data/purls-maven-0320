@@ -3,3 +3,5 @@
 - pkg:maven/org.rust-nostr/nostr-sdk-jvm@0.40.0?classifier=sources
 - pkg:maven/org.rust-nostr/nostr-sdk-jvm@0.40.1?classifier=sources
 - pkg:maven/org.rust-nostr/nostr-sdk-jvm@0.41.0?classifier=sources
+- pkg:maven/org.rust-nostr/nostr-sdk-jvm@0.42.0?classifier=sources
+- pkg:maven/org.rust-nostr/nostr-sdk-jvm@0.42.1?classifier=sources

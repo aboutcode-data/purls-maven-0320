@@ -3,4 +3,5 @@
 - pkg:maven/org.jfree/org.jfree.chart3d.fx@2.1
 - pkg:maven/org.jfree/org.jfree.chart3d.fx@2.1.1
 - pkg:maven/org.jfree/org.jfree.chart3d.fx@2.1.1?classifier=sources
+- pkg:maven/org.jfree/org.jfree.chart3d.fx@2.1.2?classifier=sources
 - pkg:maven/org.jfree/org.jfree.chart3d.fx@2.1?classifier=sources

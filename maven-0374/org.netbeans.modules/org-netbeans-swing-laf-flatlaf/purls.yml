@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-flatlaf@RELEASE260?classifier=sources

@@ -27,3 +27,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-idempotence@8.34.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-idempotence@8.35.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-idempotence@8.36.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-idempotence@8.37.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-idempotence@8.38.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-idempotence@8.38.1?classifier=sources

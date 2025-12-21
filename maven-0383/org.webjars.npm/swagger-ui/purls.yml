@@ -155,6 +155,7 @@
 - pkg:maven/org.webjars.npm/swagger-ui@5.17.14
 - pkg:maven/org.webjars.npm/swagger-ui@5.20.2
 - pkg:maven/org.webjars.npm/swagger-ui@5.20.3
+- pkg:maven/org.webjars.npm/swagger-ui@5.22.0
 - pkg:maven/org.webjars.npm/swagger-ui@5.4.2
 - pkg:maven/org.webjars.npm/swagger-ui@5.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui@5.5.0

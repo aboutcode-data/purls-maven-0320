@@ -64,6 +64,9 @@
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.41?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.42?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.43?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.44?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.45?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.46?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.6
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.6?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.gantt-scheduling/ospf-kotlin-framework-gantt-scheduling-domain-bunch-compilation-context@1.0.7

@@ -94,6 +94,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@5.3.39_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@5.3.39_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@5.3.39_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@5.3.39_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@5.3.39_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@5.3.39_2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@5.3.39_2?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.10_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.10_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.10_1?classifier=src&type=tar.gz
@@ -122,6 +126,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.23_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.23_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.23_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.23_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.23_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.23_2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.23_2?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.2_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.0.2_1?classifier=src&type=tar.gz
@@ -154,6 +162,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.14_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.14_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.14_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.19_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.19_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.19_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.19_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.2_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.2_1?classifier=src&type=tar.gz
@@ -166,3 +178,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.6_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.6_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.1.6_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.2.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.2.6_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.2.6_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-webflux@6.2.6_1?classifier=src&type=zip

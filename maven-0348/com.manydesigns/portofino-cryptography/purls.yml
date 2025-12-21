@@ -4,6 +4,7 @@
 - pkg:maven/com.manydesigns/portofino-cryptography@4.2.11?classifier=sources
 - pkg:maven/com.manydesigns/portofino-cryptography@4.2.12
 - pkg:maven/com.manydesigns/portofino-cryptography@4.2.12?classifier=sources
+- pkg:maven/com.manydesigns/portofino-cryptography@4.2.13?classifier=sources
 - pkg:maven/com.manydesigns/portofino-cryptography@4.2.4
 - pkg:maven/com.manydesigns/portofino-cryptography@4.2.4?classifier=sources
 - pkg:maven/com.manydesigns/portofino-cryptography@4.2.5

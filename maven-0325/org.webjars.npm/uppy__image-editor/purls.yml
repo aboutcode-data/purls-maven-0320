@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/uppy__image-editor@3.0.0-beta
 - pkg:maven/org.webjars.npm/uppy__image-editor@3.0.0-beta?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__image-editor@3.2.0
+- pkg:maven/org.webjars.npm/uppy__image-editor@3.3.3

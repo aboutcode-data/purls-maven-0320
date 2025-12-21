@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/spice-client-netty_3@0.10.0
+- pkg:maven/com.outr/spice-client-netty_3@0.10.0?classifier=sources

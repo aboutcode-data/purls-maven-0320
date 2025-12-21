@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-json_simple@RELEASE90?classifier=sources

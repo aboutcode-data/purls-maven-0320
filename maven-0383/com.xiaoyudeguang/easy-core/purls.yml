@@ -4,3 +4,4 @@
 - pkg:maven/com.xiaoyudeguang/easy-core@0.0.2?classifier=sources
 - pkg:maven/com.xiaoyudeguang/easy-core@0.0.3
 - pkg:maven/com.xiaoyudeguang/easy-core@0.0.3?classifier=sources
+- pkg:maven/com.xiaoyudeguang/easy-core@4.5.1.1?classifier=sources

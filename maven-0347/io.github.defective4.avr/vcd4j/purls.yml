@@ -1,0 +1,2 @@
+- pkg:maven/io.github.defective4.avr/vcd4j@0.1
+- pkg:maven/io.github.defective4.avr/vcd4j@0.1?classifier=sources

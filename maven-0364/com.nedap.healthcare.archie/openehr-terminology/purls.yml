@@ -38,6 +38,7 @@
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@3.12.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@3.13.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@3.13.1?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/openehr-terminology@3.14.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@3.2.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@3.3.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/openehr-terminology@3.4.0?classifier=sources

@@ -218,6 +218,9 @@
 - pkg:maven/io.stigg/stigg-api-client@2.367.0?classifier=sources
 - pkg:maven/io.stigg/stigg-api-client@2.374.0?classifier=sources
 - pkg:maven/io.stigg/stigg-api-client@2.379.1?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@2.386.0?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@2.390.0?classifier=sources
+- pkg:maven/io.stigg/stigg-api-client@2.412.2?classifier=sources
 - pkg:maven/io.stigg/stigg-api-client@2.49.0?classifier=sources
 - pkg:maven/io.stigg/stigg-api-client@2.62.0?classifier=sources
 - pkg:maven/io.stigg/stigg-api-client@2.71.1?classifier=sources

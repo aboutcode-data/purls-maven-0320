@@ -1,5 +1,7 @@
 - pkg:maven/dev.jorel/commandapi-preprocessor@10.0.0
 - pkg:maven/dev.jorel/commandapi-preprocessor@10.0.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-preprocessor@10.0.1
+- pkg:maven/dev.jorel/commandapi-preprocessor@10.0.1?classifier=sources
 - pkg:maven/dev.jorel/commandapi-preprocessor@7.0.0
 - pkg:maven/dev.jorel/commandapi-preprocessor@7.0.0?classifier=sources
 - pkg:maven/dev.jorel/commandapi-preprocessor@8.0.0

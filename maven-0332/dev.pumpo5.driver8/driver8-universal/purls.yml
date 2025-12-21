@@ -34,3 +34,5 @@
 - pkg:maven/dev.pumpo5.driver8/driver8-universal@1.1.46?classifier=sources
 - pkg:maven/dev.pumpo5.driver8/driver8-universal@1.1.47
 - pkg:maven/dev.pumpo5.driver8/driver8-universal@1.1.47?classifier=sources
+- pkg:maven/dev.pumpo5.driver8/driver8-universal@1.1.48
+- pkg:maven/dev.pumpo5.driver8/driver8-universal@1.1.48?classifier=sources

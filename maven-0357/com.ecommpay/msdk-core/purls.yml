@@ -1,1 +1,2 @@
 - pkg:maven/com.ecommpay/msdk-core@0.12.2?classifier=sources
+- pkg:maven/com.ecommpay/msdk-core@0.12.4?classifier=sources

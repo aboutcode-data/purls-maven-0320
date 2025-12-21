@@ -82,3 +82,6 @@
 - pkg:maven/com.lrenyi/template-service@2.3.2?classifier=sources
 - pkg:maven/com.lrenyi/template-service@2.3.3
 - pkg:maven/com.lrenyi/template-service@2.3.3?classifier=sources
+- pkg:maven/com.lrenyi/template-service@2.3.4
+- pkg:maven/com.lrenyi/template-service@2.3.4?classifier=sources
+- pkg:maven/com.lrenyi/template-service@2.3.6?classifier=sources

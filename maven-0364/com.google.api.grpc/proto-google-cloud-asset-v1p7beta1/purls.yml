@@ -164,6 +164,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.64.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.65.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.65.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.66.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.66.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.67.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.67.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.7.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-asset-v1p7beta1@3.7.1

@@ -13,6 +13,10 @@
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@10.0.0-beta7?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@10.0.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@10.1.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@10.2.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@10.3.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@10.3.1?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@10.3.2?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@5.0.0
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@5.0.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-typescript@5.1.0

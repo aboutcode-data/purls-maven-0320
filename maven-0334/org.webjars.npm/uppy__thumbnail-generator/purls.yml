@@ -28,3 +28,4 @@
 - pkg:maven/org.webjars.npm/uppy__thumbnail-generator@3.0.6
 - pkg:maven/org.webjars.npm/uppy__thumbnail-generator@3.0.6?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__thumbnail-generator@4.0.1
+- pkg:maven/org.webjars.npm/uppy__thumbnail-generator@4.1.1

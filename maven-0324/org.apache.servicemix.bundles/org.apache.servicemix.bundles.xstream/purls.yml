@@ -51,6 +51,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.20_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.20_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.20_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.21_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.21_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.21_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.21_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.2_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.2_2
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xstream@1.4.2_2?classifier=sources

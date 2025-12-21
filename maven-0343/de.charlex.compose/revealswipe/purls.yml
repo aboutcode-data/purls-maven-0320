@@ -12,3 +12,4 @@
 - pkg:maven/de.charlex.compose/revealswipe@2.1.0-alpha02?classifier=sources
 - pkg:maven/de.charlex.compose/revealswipe@2.1.0-alpha03?classifier=sources
 - pkg:maven/de.charlex.compose/revealswipe@2.2.0?classifier=sources
+- pkg:maven/de.charlex.compose/revealswipe@3.0.0?classifier=sources

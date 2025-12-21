@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zestxx/auto-uikit-preview@0.1.4?classifier=sources
+- pkg:maven/io.github.zestxx/auto-uikit-preview@0.1.5?classifier=sources

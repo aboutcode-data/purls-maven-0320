@@ -32,6 +32,8 @@
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-post-processing-app@1.15.1?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-post-processing-app@1.16.0
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-post-processing-app@1.16.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-core-cc-post-processing-app@1.17.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-core-cc-post-processing-app@1.18.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-post-processing-app@1.2.0
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-post-processing-app@1.2.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-post-processing-app@1.2.1

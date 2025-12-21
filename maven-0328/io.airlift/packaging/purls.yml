@@ -458,3 +458,5 @@
 - pkg:maven/io.airlift/packaging@331?classifier=sources
 - pkg:maven/io.airlift/packaging@332?classifier=sources
 - pkg:maven/io.airlift/packaging@333?classifier=sources
+- pkg:maven/io.airlift/packaging@334?classifier=sources
+- pkg:maven/io.airlift/packaging@335?classifier=sources

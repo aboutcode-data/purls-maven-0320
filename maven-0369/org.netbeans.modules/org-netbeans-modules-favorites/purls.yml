@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-favorites@RELEASE90?classifier=sources

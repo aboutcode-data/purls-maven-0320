@@ -1,0 +1,2 @@
+- pkg:maven/io.vanillabp.blueprint/workflowmodule-springboot-standalone-businesscockpit-archetype@1.0.1-mongodb?classifier=sources
+- pkg:maven/io.vanillabp.blueprint/workflowmodule-springboot-standalone-businesscockpit-archetype@1.0.1?classifier=sources

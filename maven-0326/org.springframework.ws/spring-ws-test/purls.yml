@@ -124,3 +124,5 @@
 - pkg:maven/org.springframework.ws/spring-ws-test@4.0.8?classifier=sources
 - pkg:maven/org.springframework.ws/spring-ws-test@4.0.9
 - pkg:maven/org.springframework.ws/spring-ws-test@4.0.9?classifier=sources
+- pkg:maven/org.springframework.ws/spring-ws-test@4.1.0
+- pkg:maven/org.springframework.ws/spring-ws-test@4.1.0?classifier=sources

@@ -255,3 +255,13 @@
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.512.63?classifier=sources
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.513.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.514.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.515.40?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.516.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.517.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.518.4?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.519.55?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.520.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.521.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.522.41?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.523.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.524.25?classifier=sources

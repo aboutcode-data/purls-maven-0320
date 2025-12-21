@@ -22,3 +22,4 @@
 - pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@3.1.1
 - pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@3.2.1
 - pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@3.3.0
+- pkg:maven/org.apache.bigtop.itest/smoke-tests-conf@3.4.0

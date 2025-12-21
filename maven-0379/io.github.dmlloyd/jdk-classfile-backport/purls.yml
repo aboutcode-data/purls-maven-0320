@@ -16,3 +16,4 @@
 - pkg:maven/io.github.dmlloyd/jdk-classfile-backport@24.cr2?classifier=sources
 - pkg:maven/io.github.dmlloyd/jdk-classfile-backport@24.cr3
 - pkg:maven/io.github.dmlloyd/jdk-classfile-backport@24.cr3?classifier=sources
+- pkg:maven/io.github.dmlloyd/jdk-classfile-backport@25.beta1?classifier=sources

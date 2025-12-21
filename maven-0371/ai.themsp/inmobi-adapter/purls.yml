@@ -1,1 +1,2 @@
 - pkg:maven/ai.themsp/inmobi-adapter@0.1.0?classifier=sources
+- pkg:maven/ai.themsp/inmobi-adapter@2.0.0?classifier=sources

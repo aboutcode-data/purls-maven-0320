@@ -3,3 +3,5 @@
 - pkg:maven/org.mitre/commons@0.0.56?classifier=sources
 - pkg:maven/org.mitre/commons@0.0.57?classifier=sources
 - pkg:maven/org.mitre/commons@0.0.58?classifier=sources
+- pkg:maven/org.mitre/commons@0.0.59
+- pkg:maven/org.mitre/commons@0.0.59?classifier=sources

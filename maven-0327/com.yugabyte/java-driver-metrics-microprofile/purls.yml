@@ -14,3 +14,5 @@
 - pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.15.0-yb-2?classifier=sources
 - pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.15.0-yb-3
 - pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.15.0-yb-3?classifier=sources
+- pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.19.0-yb-1
+- pkg:maven/com.yugabyte/java-driver-metrics-microprofile@4.19.0-yb-1?classifier=sources

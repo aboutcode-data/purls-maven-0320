@@ -7,3 +7,6 @@
 - pkg:maven/org.keycloak.tests/keycloak-tests-base@26.2.0
 - pkg:maven/org.keycloak.tests/keycloak-tests-base@26.2.1
 - pkg:maven/org.keycloak.tests/keycloak-tests-base@26.2.2
+- pkg:maven/org.keycloak.tests/keycloak-tests-base@26.2.3
+- pkg:maven/org.keycloak.tests/keycloak-tests-base@26.2.4
+- pkg:maven/org.keycloak.tests/keycloak-tests-base@26.2.5

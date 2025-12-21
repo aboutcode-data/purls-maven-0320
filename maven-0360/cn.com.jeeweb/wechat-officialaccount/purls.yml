@@ -28,3 +28,5 @@
 - pkg:maven/cn.com.jeeweb/wechat-officialaccount@1.1.3?classifier=sources
 - pkg:maven/cn.com.jeeweb/wechat-officialaccount@1.1.4
 - pkg:maven/cn.com.jeeweb/wechat-officialaccount@1.1.4?classifier=sources
+- pkg:maven/cn.com.jeeweb/wechat-officialaccount@3.1.0
+- pkg:maven/cn.com.jeeweb/wechat-officialaccount@3.1.0?classifier=sources

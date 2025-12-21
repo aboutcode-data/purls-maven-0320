@@ -240,3 +240,6 @@
 - pkg:maven/com.atlassian/nadel@2025-01-20T05-22-53-bea6252d?classifier=sources
 - pkg:maven/com.atlassian/nadel@2025-01-20T07-14-28-602de383?classifier=sources
 - pkg:maven/com.atlassian/nadel@2025-01-21T00-43-49-efee18ff?classifier=sources
+- pkg:maven/com.atlassian/nadel@2025-01-29T02-57-38-6ddeee83?classifier=sources
+- pkg:maven/com.atlassian/nadel@2025-02-11T01-50-53-da8ac0d5?classifier=sources
+- pkg:maven/com.atlassian/nadel@2025-02-11T01-59-02-14efcc81?classifier=sources

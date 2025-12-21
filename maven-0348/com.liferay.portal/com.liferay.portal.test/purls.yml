@@ -180,6 +180,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@25.1.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@25.1.1
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@25.1.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@26.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.test@26.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@3.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@3.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.test@3.1.0

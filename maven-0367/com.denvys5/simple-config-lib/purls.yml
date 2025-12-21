@@ -1,0 +1,2 @@
+- pkg:maven/com.denvys5/simple-config-lib@4.0.1?classifier=sources
+- pkg:maven/com.denvys5/simple-config-lib@4.0.2?classifier=sources

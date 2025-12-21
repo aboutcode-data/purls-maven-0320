@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/ccount@1.0.5
 - pkg:maven/org.webjars.npm/ccount@1.0.5?classifier=sources
 - pkg:maven/org.webjars.npm/ccount@1.1.0
+- pkg:maven/org.webjars.npm/ccount@2.0.1

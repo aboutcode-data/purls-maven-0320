@@ -80,3 +80,5 @@
 - pkg:maven/org.summerboot/jexpress@2.4.9?classifier=sources
 - pkg:maven/org.summerboot/jexpress@2.5.0
 - pkg:maven/org.summerboot/jexpress@2.5.0?classifier=sources
+- pkg:maven/org.summerboot/jexpress@2.5.1
+- pkg:maven/org.summerboot/jexpress@2.5.1?classifier=sources

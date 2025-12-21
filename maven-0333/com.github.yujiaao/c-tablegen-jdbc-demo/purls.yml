@@ -99,6 +99,12 @@
 - pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9
 - pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9.2
 - pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9.2?classifier=sources
+- pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9.3
+- pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9.3?classifier=sources
+- pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9.5
+- pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9.5?classifier=sources
+- pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9.9
+- pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9.9?classifier=sources
 - pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.15.9?classifier=sources
 - pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.7.0
 - pkg:maven/com.github.yujiaao/c-tablegen-jdbc-demo@1.7.0.5

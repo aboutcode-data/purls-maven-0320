@@ -42,3 +42,7 @@
 - pkg:maven/com.facebook.drift/drift-client@1.39?classifier=sources
 - pkg:maven/com.facebook.drift/drift-client@1.40
 - pkg:maven/com.facebook.drift/drift-client@1.40?classifier=sources
+- pkg:maven/com.facebook.drift/drift-client@1.41
+- pkg:maven/com.facebook.drift/drift-client@1.41?classifier=sources
+- pkg:maven/com.facebook.drift/drift-client@1.42
+- pkg:maven/com.facebook.drift/drift-client@1.42?classifier=sources

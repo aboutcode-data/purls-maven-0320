@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/babylon@5.8.38?classifier=sources
 - pkg:maven/org.mvnpm/babylon@6.18.0?classifier=sources

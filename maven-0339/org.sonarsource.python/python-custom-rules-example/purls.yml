@@ -1,2 +1,6 @@
 - pkg:maven/org.sonarsource.python/python-custom-rules-example@4.25.0.19056?classifier=sources
 - pkg:maven/org.sonarsource.python/python-custom-rules-example@4.26.0.19456?classifier=sources
+- pkg:maven/org.sonarsource.python/python-custom-rules-example@4.26.1.20337?classifier=sources
+- pkg:maven/org.sonarsource.python/python-custom-rules-example@5.0.0.20426?classifier=sources
+- pkg:maven/org.sonarsource.python/python-custom-rules-example@5.1.0.20567?classifier=sources
+- pkg:maven/org.sonarsource.python/python-custom-rules-example@5.2.0.20808?classifier=sources

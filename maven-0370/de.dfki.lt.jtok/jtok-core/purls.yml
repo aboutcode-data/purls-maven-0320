@@ -1,1 +1,3 @@
 - pkg:maven/de.dfki.lt.jtok/jtok-core@1.9.4?classifier=sources
+- pkg:maven/de.dfki.lt.jtok/jtok-core@2.1.23
+- pkg:maven/de.dfki.lt.jtok/jtok-core@2.1.23?classifier=sources

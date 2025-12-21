@@ -244,3 +244,4 @@
 - pkg:maven/com.pulumi/github@6.5.0-alpha.1732772425?classifier=sources
 - pkg:maven/com.pulumi/github@6.5.0?classifier=sources
 - pkg:maven/com.pulumi/github@6.6.0?classifier=sources
+- pkg:maven/com.pulumi/github@6.7.0?classifier=sources

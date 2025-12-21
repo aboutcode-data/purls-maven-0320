@@ -5,3 +5,4 @@
 - pkg:maven/software.visionary/strings@2024.11.30?classifier=sources
 - pkg:maven/software.visionary/strings@2025.01.02?classifier=sources
 - pkg:maven/software.visionary/strings@2025.02.07?classifier=sources
+- pkg:maven/software.visionary/strings@2025.03.28?classifier=sources

@@ -92,3 +92,4 @@
 - pkg:maven/org.cryptomator/fuse-nio-adapter@5.0.1?classifier=sources
 - pkg:maven/org.cryptomator/fuse-nio-adapter@5.0.2
 - pkg:maven/org.cryptomator/fuse-nio-adapter@5.0.2?classifier=sources
+- pkg:maven/org.cryptomator/fuse-nio-adapter@5.0.3?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.clouway.kcqrs.example/kcqrs-example@0.0.1?classifier=sources
 - pkg:maven/com.clouway.kcqrs.example/kcqrs-example@0.0.1?type=war
+- pkg:maven/com.clouway.kcqrs.example/kcqrs-example@v1.2.10?classifier=sources
+- pkg:maven/com.clouway.kcqrs.example/kcqrs-example@v1.2.11?classifier=sources
 - pkg:maven/com.clouway.kcqrs.example/kcqrs-example@v1.2.7?classifier=sources
 - pkg:maven/com.clouway.kcqrs.example/kcqrs-example@v1.2.7?type=war
 - pkg:maven/com.clouway.kcqrs.example/kcqrs-example@v1.2.8?classifier=sources

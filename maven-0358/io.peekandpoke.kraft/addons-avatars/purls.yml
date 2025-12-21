@@ -111,3 +111,7 @@
 - pkg:maven/io.peekandpoke.kraft/addons-avatars@0.50.4?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-avatars@0.50.5?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-avatars@0.51.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-avatars@0.60.0-kotlin2.1?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-avatars@0.60.0.1-kotlin2.1?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-avatars@0.61.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-avatars@0.62.0?classifier=sources

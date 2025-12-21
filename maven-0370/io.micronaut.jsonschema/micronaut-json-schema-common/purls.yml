@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.jsonschema/micronaut-json-schema-common@1.4.0?classifier=sources
+- pkg:maven/io.micronaut.jsonschema/micronaut-json-schema-common@1.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.gematik.demis/fhir-parser-library@2.4.1
+- pkg:maven/de.gematik.demis/fhir-parser-library@2.4.1?classifier=sources

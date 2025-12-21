@@ -1,1 +1,2 @@
 - pkg:maven/com.factset.sdk/assetcashflowprojections@0.10.1?classifier=sources
+- pkg:maven/com.factset.sdk/assetcashflowprojections@0.10.2?classifier=sources

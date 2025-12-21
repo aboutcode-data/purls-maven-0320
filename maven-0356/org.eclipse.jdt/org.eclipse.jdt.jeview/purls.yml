@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.5.300?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.5.400
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.5.400?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.6.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.jeview@1.6.0?classifier=sources

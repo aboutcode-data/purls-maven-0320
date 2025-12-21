@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sbt/sbt-github-actions_sbt2.0.0-M3_3@0.25.0
+- pkg:maven/com.github.sbt/sbt-github-actions_sbt2.0.0-M3_3@0.25.0?classifier=sources

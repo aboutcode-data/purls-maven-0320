@@ -3,3 +3,7 @@
 - pkg:maven/com.adobe.marketing.mobile/optimize@3.0.2?classifier=sources
 - pkg:maven/com.adobe.marketing.mobile/optimize@3.1.0?classifier=sources
 - pkg:maven/com.adobe.marketing.mobile/optimize@3.2.2?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/optimize@3.2.3?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/optimize@3.2.4?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/optimize@3.3.0?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/optimize@3.3.1?classifier=sources

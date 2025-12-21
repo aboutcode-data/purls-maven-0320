@@ -1,1 +1,2 @@
 - pkg:maven/io.trino/trino-ai-functions@471?classifier=sources
+- pkg:maven/io.trino/trino-ai-functions@472?classifier=sources

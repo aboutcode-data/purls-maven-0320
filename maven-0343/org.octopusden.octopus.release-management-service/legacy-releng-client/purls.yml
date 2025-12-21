@@ -1,3 +1,5 @@
 - pkg:maven/org.octopusden.octopus.release-management-service/legacy-releng-client@2.0.17?classifier=sources
 - pkg:maven/org.octopusden.octopus.release-management-service/legacy-releng-client@2.0.18?classifier=sources
 - pkg:maven/org.octopusden.octopus.release-management-service/legacy-releng-client@2.0.19?classifier=sources
+- pkg:maven/org.octopusden.octopus.release-management-service/legacy-releng-client@2.0.20?classifier=sources
+- pkg:maven/org.octopusden.octopus.release-management-service/legacy-releng-client@2.0.21?classifier=sources

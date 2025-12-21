@@ -10,3 +10,4 @@
 - pkg:maven/dev.ikm.elk/elk-owl-parent@0.36.0?classifier=sources
 - pkg:maven/dev.ikm.elk/elk-owl-parent@0.37.3?classifier=sources
 - pkg:maven/dev.ikm.elk/elk-owl-parent@0.37.4?classifier=sources
+- pkg:maven/dev.ikm.elk/elk-owl-parent@0.37.5?classifier=sources

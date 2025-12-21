@@ -149,6 +149,8 @@
 - pkg:maven/com.walmartlabs.concord.it.tasks/serialization-test@2.21.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/serialization-test@2.22.0
 - pkg:maven/com.walmartlabs.concord.it.tasks/serialization-test@2.22.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/serialization-test@2.23.0
+- pkg:maven/com.walmartlabs.concord.it.tasks/serialization-test@2.23.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/serialization-test@2.3.0
 - pkg:maven/com.walmartlabs.concord.it.tasks/serialization-test@2.3.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/serialization-test@2.4.0

@@ -124,6 +124,12 @@
 - pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.6.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.6.2
 - pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.6.2?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.60.0
+- pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.60.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.61.0
+- pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.61.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.62.0
+- pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.62.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerymigration@0.8.0

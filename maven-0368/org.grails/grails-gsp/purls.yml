@@ -133,3 +133,4 @@
 - pkg:maven/org.grails/grails-gsp@6.2.3?classifier=sources
 - pkg:maven/org.grails/grails-gsp@6.2.4?classifier=sources
 - pkg:maven/org.grails/grails-gsp@7.0.0-M1?classifier=sources
+- pkg:maven/org.grails/grails-gsp@7.0.0-M3?classifier=sources

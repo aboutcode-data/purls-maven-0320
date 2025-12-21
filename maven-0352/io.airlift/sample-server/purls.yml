@@ -243,3 +243,10 @@
 - pkg:maven/io.airlift/sample-server@307?classifier=sources
 - pkg:maven/io.airlift/sample-server@308?classifier=sources
 - pkg:maven/io.airlift/sample-server@309?classifier=sources
+- pkg:maven/io.airlift/sample-server@310?classifier=sources
+- pkg:maven/io.airlift/sample-server@311?classifier=sources
+- pkg:maven/io.airlift/sample-server@312?classifier=sources
+- pkg:maven/io.airlift/sample-server@313?classifier=sources
+- pkg:maven/io.airlift/sample-server@314?classifier=sources
+- pkg:maven/io.airlift/sample-server@315?classifier=sources
+- pkg:maven/io.airlift/sample-server@316?classifier=sources

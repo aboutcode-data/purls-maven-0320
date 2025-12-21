@@ -13,3 +13,12 @@
 - pkg:maven/io.github.azagniotov/language-detection@3.5.0?classifier=sources
 - pkg:maven/io.github.azagniotov/language-detection@3.5.1?classifier=sources
 - pkg:maven/io.github.azagniotov/language-detection@4.0.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@5.0.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@5.1.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@6.0.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@7.0.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@7.1.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@7.2.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@8.0.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@8.1.0?classifier=sources
+- pkg:maven/io.github.azagniotov/language-detection@8.2.0?classifier=sources

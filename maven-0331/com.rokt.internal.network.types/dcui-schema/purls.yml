@@ -3,3 +3,4 @@
 - pkg:maven/com.rokt.internal.network.types/dcui-schema@2.1.0?classifier=sources
 - pkg:maven/com.rokt.internal.network.types/dcui-schema@2.2.0-alpha1?classifier=sources
 - pkg:maven/com.rokt.internal.network.types/dcui-schema@2.2.0-alpha2?classifier=sources
+- pkg:maven/com.rokt.internal.network.types/dcui-schema@2.2.0-alpha3?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/dev.ikm.elk/elk-owl-model@0.37.3?classifier=sources
 - pkg:maven/dev.ikm.elk/elk-owl-model@0.37.4
 - pkg:maven/dev.ikm.elk/elk-owl-model@0.37.4?classifier=sources
+- pkg:maven/dev.ikm.elk/elk-owl-model@0.37.5
+- pkg:maven/dev.ikm.elk/elk-owl-model@0.37.5?classifier=sources

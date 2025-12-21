@@ -156,6 +156,12 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.181.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.182.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.183.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.184.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.184.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.184.2
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.184.3
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.184.4
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.184.5
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.39.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.40.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-extensions-collection-entity-serializer@0.41.0

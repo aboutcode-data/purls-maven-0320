@@ -9,3 +9,7 @@
 - pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.2.0?type=war
 - pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.2.1?type=war
 - pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.2.2?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.2.3?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.2.4?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.2.5?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war-unsecured@2.2.6?type=war

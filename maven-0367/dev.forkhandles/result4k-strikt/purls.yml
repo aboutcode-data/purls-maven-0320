@@ -1,1 +1,4 @@
 - pkg:maven/dev.forkhandles/result4k-strikt@2.20.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k-strikt@2.22.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k-strikt@2.22.1.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k-strikt@2.22.2.0?classifier=sources

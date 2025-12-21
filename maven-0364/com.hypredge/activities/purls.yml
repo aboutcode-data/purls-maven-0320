@@ -1,5 +1,7 @@
 - pkg:maven/com.hypredge/activities@1.0.0-m?classifier=sources
 - pkg:maven/com.hypredge/activities@1.0.0?classifier=sources
+- pkg:maven/com.hypredge/activities@1.0.10?classifier=sources
+- pkg:maven/com.hypredge/activities@1.0.11?classifier=sources
 - pkg:maven/com.hypredge/activities@1.0.1?classifier=sources
 - pkg:maven/com.hypredge/activities@1.0.3?classifier=sources
 - pkg:maven/com.hypredge/activities@1.0.4?classifier=sources

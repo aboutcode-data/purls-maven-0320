@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-mssqlserver@0.15.0?classifier=sources
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-mssqlserver@0.16.0
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-mssqlserver@0.16.0?classifier=sources
+- pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-mssqlserver@0.17.0
+- pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-mssqlserver@0.17.0?classifier=sources
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-mssqlserver@0.5.0
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-mssqlserver@0.5.0?classifier=sources
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-mssqlserver@0.5.1

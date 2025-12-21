@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/parse-entities@1.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/parse-entities@2.0.0
 - pkg:maven/org.webjars.npm/parse-entities@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/parse-entities@4.0.2

@@ -1,0 +1,2 @@
+- pkg:maven/com.denvys5/multi-agent-system-core@1.6.12?classifier=sources
+- pkg:maven/com.denvys5/multi-agent-system-core@1.6.13?classifier=sources

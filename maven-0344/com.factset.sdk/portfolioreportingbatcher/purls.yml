@@ -9,3 +9,6 @@
 - pkg:maven/com.factset.sdk/portfolioreportingbatcher@0.24.0?classifier=sources
 - pkg:maven/com.factset.sdk/portfolioreportingbatcher@0.24.2?classifier=sources
 - pkg:maven/com.factset.sdk/portfolioreportingbatcher@0.24.3?classifier=sources
+- pkg:maven/com.factset.sdk/portfolioreportingbatcher@0.25.0?classifier=sources
+- pkg:maven/com.factset.sdk/portfolioreportingbatcher@1.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/portfolioreportingbatcher@1.0.1?classifier=sources

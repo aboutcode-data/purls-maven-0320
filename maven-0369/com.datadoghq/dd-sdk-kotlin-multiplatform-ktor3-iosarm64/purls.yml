@@ -1,0 +1,2 @@
+- pkg:maven/com.datadoghq/dd-sdk-kotlin-multiplatform-ktor3-iosarm64@0.5.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-kotlin-multiplatform-ktor3-iosarm64@1.0.0?classifier=sources

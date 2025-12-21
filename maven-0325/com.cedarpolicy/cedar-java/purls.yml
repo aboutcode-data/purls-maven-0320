@@ -12,3 +12,6 @@
 - pkg:maven/com.cedarpolicy/cedar-java@4.2.1?classifier=sources
 - pkg:maven/com.cedarpolicy/cedar-java@4.2.2?classifier=sources
 - pkg:maven/com.cedarpolicy/cedar-java@4.2.3?classifier=sources
+- pkg:maven/com.cedarpolicy/cedar-java@4.2.4?classifier=sources
+- pkg:maven/com.cedarpolicy/cedar-java@4.3.0?classifier=sources
+- pkg:maven/com.cedarpolicy/cedar-java@4.3.1?classifier=sources

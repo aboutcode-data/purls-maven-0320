@@ -344,3 +344,5 @@
 - pkg:maven/org.cometd/cometd-demo@8.0.5?type=war
 - pkg:maven/org.cometd/cometd-demo@8.0.6?classifier=sources
 - pkg:maven/org.cometd/cometd-demo@8.0.6?type=war
+- pkg:maven/org.cometd/cometd-demo@8.0.7?classifier=sources
+- pkg:maven/org.cometd/cometd-demo@8.0.7?type=war

@@ -54,3 +54,5 @@
 - pkg:maven/com.bakdata.fluent-kafka-streams-tests/fluent-kafka-streams-tests@2.8.2?classifier=sources
 - pkg:maven/com.bakdata.fluent-kafka-streams-tests/fluent-kafka-streams-tests@2.9.0?classifier=sources
 - pkg:maven/com.bakdata.fluent-kafka-streams-tests/fluent-kafka-streams-tests@3.0.0?classifier=sources
+- pkg:maven/com.bakdata.fluent-kafka-streams-tests/fluent-kafka-streams-tests@3.1.0?classifier=sources
+- pkg:maven/com.bakdata.fluent-kafka-streams-tests/fluent-kafka-streams-tests@3.2.0?classifier=sources

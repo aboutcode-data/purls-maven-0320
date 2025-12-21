@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkus.qe/quarkus-test-service-grafana@1.6.0
+- pkg:maven/io.quarkus.qe/quarkus-test-service-grafana@1.6.0?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-grafana@1.7.0.Beta0
+- pkg:maven/io.quarkus.qe/quarkus-test-service-grafana@1.7.0.Beta0?classifier=sources

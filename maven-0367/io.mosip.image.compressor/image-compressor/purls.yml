@@ -1,2 +1,4 @@
+- pkg:maven/io.mosip.image.compressor/image-compressor@0.0.9
+- pkg:maven/io.mosip.image.compressor/image-compressor@0.0.9?classifier=sources
 - pkg:maven/io.mosip.image.compressor/image-compressor@0.1.0-beta.1
 - pkg:maven/io.mosip.image.compressor/image-compressor@0.1.0-beta.1?classifier=sources

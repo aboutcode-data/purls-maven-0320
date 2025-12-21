@@ -40,5 +40,13 @@
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.29?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.30
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.30?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.31
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.31?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.32
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.32?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.33
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.33?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.34
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.34?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.9
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-scheduling@2.4.9?classifier=sources

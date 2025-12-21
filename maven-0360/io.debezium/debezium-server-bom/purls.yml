@@ -119,5 +119,7 @@
 - pkg:maven/io.debezium/debezium-server-bom@3.0.5.Final
 - pkg:maven/io.debezium/debezium-server-bom@3.0.6.Final
 - pkg:maven/io.debezium/debezium-server-bom@3.0.7.Final
+- pkg:maven/io.debezium/debezium-server-bom@3.0.8.Final
 - pkg:maven/io.debezium/debezium-server-bom@3.1.0.Alpha1
 - pkg:maven/io.debezium/debezium-server-bom@3.1.0.Alpha2
+- pkg:maven/io.debezium/debezium-server-bom@3.1.0.Beta1

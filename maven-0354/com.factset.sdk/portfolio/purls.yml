@@ -15,3 +15,4 @@
 - pkg:maven/com.factset.sdk/portfolio@0.22.0?classifier=sources
 - pkg:maven/com.factset.sdk/portfolio@0.22.1?classifier=sources
 - pkg:maven/com.factset.sdk/portfolio@1.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/portfolio@1.0.1?classifier=sources

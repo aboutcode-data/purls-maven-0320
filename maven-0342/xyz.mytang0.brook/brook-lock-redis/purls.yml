@@ -1,3 +1,4 @@
 - pkg:maven/xyz.mytang0.brook/brook-lock-redis@1.0.0-alpha?classifier=sources
 - pkg:maven/xyz.mytang0.brook/brook-lock-redis@1.0.0-beta?classifier=sources
 - pkg:maven/xyz.mytang0.brook/brook-lock-redis@1.0.0?classifier=sources
+- pkg:maven/xyz.mytang0.brook/brook-lock-redis@1.0.1?classifier=sources

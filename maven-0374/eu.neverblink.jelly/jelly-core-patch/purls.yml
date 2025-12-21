@@ -26,3 +26,7 @@
 - pkg:maven/eu.neverblink.jelly/jelly-core-patch@3.5.0?classifier=sources
 - pkg:maven/eu.neverblink.jelly/jelly-core-patch@3.5.1
 - pkg:maven/eu.neverblink.jelly/jelly-core-patch@3.5.1?classifier=sources
+- pkg:maven/eu.neverblink.jelly/jelly-core-patch@3.5.2
+- pkg:maven/eu.neverblink.jelly/jelly-core-patch@3.5.2?classifier=sources
+- pkg:maven/eu.neverblink.jelly/jelly-core-patch@3.6.0
+- pkg:maven/eu.neverblink.jelly/jelly-core-patch@3.6.0?classifier=sources

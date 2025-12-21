@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/intrinsic-functions@8.8.0-alpha8
+- pkg:maven/io.camunda.connector/intrinsic-functions@8.8.0-alpha8?classifier=sources

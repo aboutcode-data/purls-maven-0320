@@ -350,6 +350,9 @@
 - pkg:maven/it.unibo.alchemist/alchemist-grid@37.42.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-grid@37.42.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-grid@37.43.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-grid@37.44.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-grid@37.45.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-grid@37.46.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-grid@37.5.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-grid@37.6.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-grid@37.7.0?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-og
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0-og?classifier=sources
 - pkg:maven/org.opengauss/opengauss-jdbc@6.0.0?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@6.0.1-og?classifier=sources
+- pkg:maven/org.opengauss/opengauss-jdbc@6.0.1?classifier=sources

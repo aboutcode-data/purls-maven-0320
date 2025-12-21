@@ -23,3 +23,4 @@
 - pkg:maven/com.ithit.webdav.integration/javax-integration@7.3.10701?classifier=sources
 - pkg:maven/com.ithit.webdav.integration/javax-integration@7.3.10722?classifier=sources
 - pkg:maven/com.ithit.webdav.integration/javax-integration@7.3.10725?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/javax-integration@7.3.10843?classifier=sources

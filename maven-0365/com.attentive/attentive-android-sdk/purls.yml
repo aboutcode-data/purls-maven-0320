@@ -47,3 +47,5 @@
 - pkg:maven/com.attentive/attentive-android-sdk@2.0.1-beta.9?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@2.0.2-beta.1?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@2.0.2-beta.2?classifier=sources
+- pkg:maven/com.attentive/attentive-android-sdk@2.0.2-beta.3?classifier=sources
+- pkg:maven/com.attentive/attentive-android-sdk@2.0.2?classifier=sources

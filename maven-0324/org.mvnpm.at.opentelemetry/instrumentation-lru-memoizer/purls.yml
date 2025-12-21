@@ -11,3 +11,5 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-lru-memoizer@0.49.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-lru-memoizer@0.50.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-lru-memoizer@0.50.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-lru-memoizer@0.50.3
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-lru-memoizer@0.50.3?classifier=sources

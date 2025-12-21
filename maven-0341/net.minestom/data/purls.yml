@@ -21,4 +21,5 @@
 - pkg:maven/net.minestom/data@1.21.6-rv1?classifier=sources
 - pkg:maven/net.minestom/data@1.21.7-rv1?classifier=sources
 - pkg:maven/net.minestom/data@1.21.8-rv1?classifier=sources
+- pkg:maven/net.minestom/data@1.21.9-rv1?classifier=sources
 - pkg:maven/net.minestom/data@1.21?classifier=sources

@@ -17,3 +17,5 @@
 - pkg:maven/org.mvnpm.at.carbon/themes@11.59.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/themes@11.60.0
 - pkg:maven/org.mvnpm.at.carbon/themes@11.60.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/themes@11.61.0
+- pkg:maven/org.mvnpm.at.carbon/themes@11.61.0?classifier=sources

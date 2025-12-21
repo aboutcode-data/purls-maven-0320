@@ -9,3 +9,5 @@
 - pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@23.0.0.5
 - pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@24.0.0.2
 - pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@25.0.0.2
+- pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@25.0.0.2.1
+- pkg:maven/com.ibm.websphere.appmod.tools/binary-app-scanner@25.0.0.2.1?classifier=sources

@@ -306,3 +306,10 @@
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.577.16?classifier=sources
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.578.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.579.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.582.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.583.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.584.45?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.585.41?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.586.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.587.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.588.8?classifier=sources

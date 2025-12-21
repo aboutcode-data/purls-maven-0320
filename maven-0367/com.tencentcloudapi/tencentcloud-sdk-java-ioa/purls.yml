@@ -32,6 +32,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ioa@3.1.1335?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ioa@3.1.1336?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ioa@3.1.1337?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ioa@3.1.1347?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ioa@3.1.926
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ioa@3.1.926?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ioa@3.1.977

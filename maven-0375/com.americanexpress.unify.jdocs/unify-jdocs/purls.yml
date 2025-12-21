@@ -52,3 +52,4 @@
 - pkg:maven/com.americanexpress.unify.jdocs/unify-jdocs@1.7.0
 - pkg:maven/com.americanexpress.unify.jdocs/unify-jdocs@1.7.1
 - pkg:maven/com.americanexpress.unify.jdocs/unify-jdocs@1.8.0
+- pkg:maven/com.americanexpress.unify.jdocs/unify-jdocs@1.9.1?classifier=sources

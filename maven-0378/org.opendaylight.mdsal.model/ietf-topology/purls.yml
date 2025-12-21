@@ -305,6 +305,8 @@
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.16?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.17
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.17?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.18
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.18?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.2?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.3
@@ -313,6 +315,7 @@
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.26.9?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.27.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.8-Beryllium
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.8-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology@2013.10.21.8.1-Beryllium-SR1

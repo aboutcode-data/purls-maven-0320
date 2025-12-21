@@ -47,7 +47,11 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@2025.1.3?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@2025.1.4?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@2025.2-0?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@2025.2-1?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@2025.2-2?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@2025.2.0?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@2025.2.1?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@2025.2.2?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@5.74.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@5.74.2?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@5.74.3?classifier=sources
@@ -202,5 +206,12 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-78?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-79?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-7?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-80?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-81?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-84?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-85?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-86?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-87?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-88?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-8?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-titus@main-9?classifier=sources

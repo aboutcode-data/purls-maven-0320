@@ -290,6 +290,10 @@
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.8.4?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.80.0
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.80.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog@1.81.0
+- pkg:maven/com.google.cloud/google-cloud-datacatalog@1.81.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog@1.82.0
+- pkg:maven/com.google.cloud/google-cloud-datacatalog@1.82.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.9.0
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.9.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog@1.9.1

@@ -7,3 +7,5 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-prometheus@1.29.1?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-prometheus@1.29?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-prometheus@1.30?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-prometheus@2.0?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-prometheus@2.1?classifier=sources

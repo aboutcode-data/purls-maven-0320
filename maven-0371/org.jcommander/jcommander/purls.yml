@@ -2,3 +2,4 @@
 - pkg:maven/org.jcommander/jcommander@1.84?classifier=sources
 - pkg:maven/org.jcommander/jcommander@1.85?classifier=sources
 - pkg:maven/org.jcommander/jcommander@2.0?classifier=sources
+- pkg:maven/org.jcommander/jcommander@3.0?classifier=sources

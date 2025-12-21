@@ -1,0 +1,2 @@
+- pkg:maven/dev.moshalan/easy-analytics-compose@1.0.0?classifier=sources
+- pkg:maven/dev.moshalan/easy-analytics-compose@1.0.1?classifier=sources

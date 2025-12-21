@@ -23,3 +23,4 @@
 - pkg:maven/cc.uncarbon.framework/helio-starter-i18n@2.4.0
 - pkg:maven/cc.uncarbon.framework/helio-starter-i18n@2.4.0?classifier=sources
 - pkg:maven/cc.uncarbon.framework/helio-starter-i18n@2.4.1?classifier=sources
+- pkg:maven/cc.uncarbon.framework/helio-starter-i18n@2.5.0?classifier=sources

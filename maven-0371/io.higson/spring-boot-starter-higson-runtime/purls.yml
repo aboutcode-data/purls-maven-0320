@@ -18,6 +18,8 @@
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.0.24?classifier=sources
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.0.25
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.0.25?classifier=sources
+- pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.0.26
+- pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.0.26?classifier=sources
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.0.2?classifier=sources
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.0.3?classifier=sources
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.0.4?classifier=sources
@@ -37,3 +39,5 @@
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.1.7?classifier=sources
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.1.8
 - pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.1.8?classifier=sources
+- pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.1.9
+- pkg:maven/io.higson/spring-boot-starter-higson-runtime@4.1.9?classifier=sources

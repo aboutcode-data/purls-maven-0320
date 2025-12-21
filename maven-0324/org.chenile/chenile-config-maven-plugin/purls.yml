@@ -17,3 +17,5 @@
 - pkg:maven/org.chenile/chenile-config-maven-plugin@2.0.17?classifier=sources
 - pkg:maven/org.chenile/chenile-config-maven-plugin@2.0.1?classifier=sources
 - pkg:maven/org.chenile/chenile-config-maven-plugin@2.0.3?classifier=sources
+- pkg:maven/org.chenile/chenile-config-maven-plugin@2.1.1?classifier=sources
+- pkg:maven/org.chenile/chenile-config-maven-plugin@2.1.2?classifier=sources

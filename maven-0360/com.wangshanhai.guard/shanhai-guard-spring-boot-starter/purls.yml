@@ -45,3 +45,4 @@
 - pkg:maven/com.wangshanhai.guard/shanhai-guard-spring-boot-starter@1.2.6?classifier=sources
 - pkg:maven/com.wangshanhai.guard/shanhai-guard-spring-boot-starter@1.2.7?classifier=sources
 - pkg:maven/com.wangshanhai.guard/shanhai-guard-spring-boot-starter@1.2.8?classifier=sources
+- pkg:maven/com.wangshanhai.guard/shanhai-guard-spring-boot-starter@1.2.9?classifier=sources

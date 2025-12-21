@@ -6,6 +6,7 @@
 - pkg:maven/com.hibegin/zrlog-admin-web@3.2.114?classifier=sources
 - pkg:maven/com.hibegin/zrlog-admin-web@3.2.115?classifier=sources
 - pkg:maven/com.hibegin/zrlog-admin-web@3.2.116?classifier=sources
+- pkg:maven/com.hibegin/zrlog-admin-web@3.2.117?classifier=sources
 - pkg:maven/com.hibegin/zrlog-admin-web@3.2.14?classifier=sources
 - pkg:maven/com.hibegin/zrlog-admin-web@3.2.15?classifier=sources
 - pkg:maven/com.hibegin/zrlog-admin-web@3.2.16?classifier=sources

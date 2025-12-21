@@ -21,8 +21,16 @@
 - pkg:maven/net.xdob.ratly/ratly-jdbc@2.9.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-jdbc@3.0.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-jdbc@3.1.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-jdbc@3.10.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-jdbc@3.11.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-jdbc@3.12.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-jdbc@3.13.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-jdbc@3.14.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-jdbc@3.2.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-jdbc@3.3.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-jdbc@3.4.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-jdbc@3.5.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-jdbc@3.6.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-jdbc@3.7.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-jdbc@3.8.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-jdbc@3.9.0?classifier=sources

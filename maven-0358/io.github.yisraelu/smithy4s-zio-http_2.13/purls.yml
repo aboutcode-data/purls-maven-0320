@@ -8,5 +8,7 @@
 - pkg:maven/io.github.yisraelu/smithy4s-zio-http_2.13@0.0.4?classifier=sources
 - pkg:maven/io.github.yisraelu/smithy4s-zio-http_2.13@0.0.5
 - pkg:maven/io.github.yisraelu/smithy4s-zio-http_2.13@0.0.5?classifier=sources
+- pkg:maven/io.github.yisraelu/smithy4s-zio-http_2.13@0.0.7
+- pkg:maven/io.github.yisraelu/smithy4s-zio-http_2.13@0.0.7?classifier=sources
 - pkg:maven/io.github.yisraelu/smithy4s-zio-http_2.13@0.2
 - pkg:maven/io.github.yisraelu/smithy4s-zio-http_2.13@0.2?classifier=sources

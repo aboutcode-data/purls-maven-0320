@@ -28,3 +28,4 @@
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.5.1?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.5.2?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.5.3?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@4.0.0-M1?classifier=sources

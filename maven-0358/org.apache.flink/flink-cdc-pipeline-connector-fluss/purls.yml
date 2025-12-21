@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flink/flink-cdc-pipeline-connector-fluss@3.5.0
+- pkg:maven/org.apache.flink/flink-cdc-pipeline-connector-fluss@3.5.0?classifier=sources

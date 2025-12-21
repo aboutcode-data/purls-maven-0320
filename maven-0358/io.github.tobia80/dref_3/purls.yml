@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tobia80/dref_3@0.2.5
+- pkg:maven/io.github.tobia80/dref_3@0.2.5?classifier=sources

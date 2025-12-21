@@ -1,3 +1,7 @@
 - pkg:maven/com.xmlcalabash/basex@3.0.14?classifier=sources
 - pkg:maven/com.xmlcalabash/basex@3.0.15?classifier=sources
 - pkg:maven/com.xmlcalabash/basex@3.0.16?classifier=sources
+- pkg:maven/com.xmlcalabash/basex@3.0.17?classifier=sources
+- pkg:maven/com.xmlcalabash/basex@3.0.18?classifier=sources
+- pkg:maven/com.xmlcalabash/basex@3.0.19?classifier=sources
+- pkg:maven/com.xmlcalabash/basex@3.0.20?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/com.vendasta/vax.v1@0.3.0?classifier=sources
 - pkg:maven/com.vendasta/vax.v1@1.0.0-rc1?classifier=sources
 - pkg:maven/com.vendasta/vax.v1@1.0.0-rc2?classifier=sources
+- pkg:maven/com.vendasta/vax.v1@1.0.0?classifier=sources

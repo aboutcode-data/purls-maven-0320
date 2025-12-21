@@ -2,3 +2,5 @@
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ui-menu-help@3.18.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ui-menu-help@3.19.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ui-menu-help@3.20.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ui-menu-help@3.21.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ui-menu-help@3.22.0?classifier=sources

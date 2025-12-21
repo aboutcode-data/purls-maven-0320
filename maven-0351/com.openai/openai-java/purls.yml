@@ -128,3 +128,11 @@
 - pkg:maven/com.openai/openai-java@3.5.0?classifier=sources
 - pkg:maven/com.openai/openai-java@3.5.1?classifier=sources
 - pkg:maven/com.openai/openai-java@3.5.2?classifier=sources
+- pkg:maven/com.openai/openai-java@3.5.3?classifier=sources
+- pkg:maven/com.openai/openai-java@3.6.0?classifier=sources
+- pkg:maven/com.openai/openai-java@3.6.1?classifier=sources
+- pkg:maven/com.openai/openai-java@3.7.1?classifier=sources
+- pkg:maven/com.openai/openai-java@4.0.0?classifier=sources
+- pkg:maven/com.openai/openai-java@4.0.1?classifier=sources
+- pkg:maven/com.openai/openai-java@4.1.0?classifier=sources
+- pkg:maven/com.openai/openai-java@4.2.0?classifier=sources

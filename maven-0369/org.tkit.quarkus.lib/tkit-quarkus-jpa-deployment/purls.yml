@@ -143,3 +143,4 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-jpa-deployment@3.4.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-jpa-deployment@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-jpa-deployment@3.6.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-jpa-deployment@4.0.0?classifier=sources

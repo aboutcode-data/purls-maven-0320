@@ -7,3 +7,4 @@
 - pkg:maven/li.strolch/strolch-model@2.5.5?classifier=sources
 - pkg:maven/li.strolch/strolch-model@2.5.6?classifier=sources
 - pkg:maven/li.strolch/strolch-model@2.5.8?classifier=sources
+- pkg:maven/li.strolch/strolch-model@2.6.0?classifier=sources

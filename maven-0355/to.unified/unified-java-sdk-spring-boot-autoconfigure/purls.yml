@@ -1,0 +1,7 @@
+- pkg:maven/to.unified/unified-java-sdk-spring-boot-autoconfigure@0.39.0?classifier=sources
+- pkg:maven/to.unified/unified-java-sdk-spring-boot-autoconfigure@0.39.1?classifier=sources
+- pkg:maven/to.unified/unified-java-sdk-spring-boot-autoconfigure@0.39.2?classifier=sources
+- pkg:maven/to.unified/unified-java-sdk-spring-boot-autoconfigure@0.40.0?classifier=sources
+- pkg:maven/to.unified/unified-java-sdk-spring-boot-autoconfigure@0.40.1?classifier=sources
+- pkg:maven/to.unified/unified-java-sdk-spring-boot-autoconfigure@0.40.2?classifier=sources
+- pkg:maven/to.unified/unified-java-sdk-spring-boot-autoconfigure@0.40.3?classifier=sources

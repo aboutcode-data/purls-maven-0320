@@ -1,1 +1,2 @@
 - pkg:maven/org.fugerit.java/openapi-doc-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/org.fugerit.java/openapi-doc-maven-plugin@2.1.1?classifier=sources

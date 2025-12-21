@@ -1,2 +1,4 @@
+- pkg:maven/org.mvnpm/node@22.19.0
+- pkg:maven/org.mvnpm/node@22.19.0?classifier=sources
 - pkg:maven/org.mvnpm/node@24.1.0
 - pkg:maven/org.mvnpm/node@24.1.0?classifier=sources

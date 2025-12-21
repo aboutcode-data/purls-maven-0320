@@ -103,7 +103,11 @@
 - pkg:maven/io.spinnaker.front50/front50-migrations@2025.1.3?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@2025.1.4?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@2025.2-0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@2025.2-1?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@2025.2-2?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@2025.2.0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@2025.2.1?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@2025.2.2?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@main-10?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@main-11?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@main-12?classifier=sources
@@ -172,6 +176,13 @@
 - pkg:maven/io.spinnaker.front50/front50-migrations@main-78?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@main-79?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@main-7?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@main-80?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@main-81?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@main-84?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@main-85?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@main-86?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@main-87?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-migrations@main-88?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@main-8?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@main-9?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-migrations@version-0.27.1?classifier=sources

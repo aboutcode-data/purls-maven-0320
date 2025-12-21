@@ -6,3 +6,6 @@
 - pkg:maven/io.moderne.recipe/rewrite-program-analysis@0.4.1?classifier=sources
 - pkg:maven/io.moderne.recipe/rewrite-program-analysis@0.5.0?classifier=sources
 - pkg:maven/io.moderne.recipe/rewrite-program-analysis@0.5.1?classifier=sources
+- pkg:maven/io.moderne.recipe/rewrite-program-analysis@0.5.2?classifier=sources
+- pkg:maven/io.moderne.recipe/rewrite-program-analysis@0.5.3?classifier=sources
+- pkg:maven/io.moderne.recipe/rewrite-program-analysis@0.5.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/atomico@1.79.2
+- pkg:maven/org.mvnpm/atomico@1.79.2?classifier=sources

@@ -40,3 +40,4 @@
 - pkg:maven/io.quarkiverse.loggingsentry/quarkus-logging-sentry@2.1.6?classifier=sources
 - pkg:maven/io.quarkiverse.loggingsentry/quarkus-logging-sentry@2.1.7?classifier=sources
 - pkg:maven/io.quarkiverse.loggingsentry/quarkus-logging-sentry@2.1.8?classifier=sources
+- pkg:maven/io.quarkiverse.loggingsentry/quarkus-logging-sentry@2.1.9?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/net.wicp.tams/common-tracer@3.5.0?classifier=sources
 - pkg:maven/net.wicp.tams/common-tracer@3.6.0
 - pkg:maven/net.wicp.tams/common-tracer@3.6.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-tracer@7.0.2?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/net.saltando/java-rate-limit@1.4.4
 - pkg:maven/net.saltando/java-rate-limit@1.4.4?classifier=sources
 - pkg:maven/net.saltando/java-rate-limit@1.7.0?classifier=sources
+- pkg:maven/net.saltando/java-rate-limit@1.8.0?classifier=sources

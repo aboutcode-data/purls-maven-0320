@@ -18,6 +18,7 @@
 - pkg:maven/com.ticketmaster.accounts/authentication@3.13.1?classifier=sources
 - pkg:maven/com.ticketmaster.accounts/authentication@3.13.2?classifier=sources
 - pkg:maven/com.ticketmaster.accounts/authentication@3.13.3?classifier=sources
+- pkg:maven/com.ticketmaster.accounts/authentication@3.14.0-RC1?classifier=sources
 - pkg:maven/com.ticketmaster.accounts/authentication@3.2.0?classifier=sources
 - pkg:maven/com.ticketmaster.accounts/authentication@3.2.1?classifier=sources
 - pkg:maven/com.ticketmaster.accounts/authentication@3.2.2?classifier=sources

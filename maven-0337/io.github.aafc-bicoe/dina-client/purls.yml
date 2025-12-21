@@ -62,3 +62,7 @@
 - pkg:maven/io.github.aafc-bicoe/dina-client@0.147?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-client@0.148?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-client@0.149?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-client@0.150?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-client@0.151?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-client@0.152?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-client@0.153?classifier=sources

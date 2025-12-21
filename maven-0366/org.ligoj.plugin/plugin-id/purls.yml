@@ -114,3 +114,4 @@
 - pkg:maven/org.ligoj.plugin/plugin-id@2.2.7?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-id@2.2.8
 - pkg:maven/org.ligoj.plugin/plugin-id@2.2.8?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-id@2.2.9?classifier=sources

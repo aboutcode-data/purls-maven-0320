@@ -18,3 +18,5 @@
 - pkg:maven/com.osohq/oso-cloud@1.1.0-alpha.1?classifier=sources
 - pkg:maven/com.osohq/oso-cloud@1.1.0-alpha.2?classifier=sources
 - pkg:maven/com.osohq/oso-cloud@1.1.0?classifier=sources
+- pkg:maven/com.osohq/oso-cloud@1.2.0?classifier=sources
+- pkg:maven/com.osohq/oso-cloud@1.2.1?classifier=sources

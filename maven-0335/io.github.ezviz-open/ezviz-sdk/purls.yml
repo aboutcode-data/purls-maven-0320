@@ -120,6 +120,8 @@
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.17.6?type=aar
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.17.7?classifier=sources
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.17.7?type=aar
+- pkg:maven/io.github.ezviz-open/ezviz-sdk@5.17.8?classifier=sources
+- pkg:maven/io.github.ezviz-open/ezviz-sdk@5.17.8?type=aar
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.17?classifier=sources
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.17?type=aar
 - pkg:maven/io.github.ezviz-open/ezviz-sdk@5.18.1?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/io.github.palexdev/mfxeffects@11.5.0?classifier=sources
 - pkg:maven/io.github.palexdev/mfxeffects@24.1.0?classifier=sources
 - pkg:maven/io.github.palexdev/mfxeffects@24.2.0?classifier=sources
+- pkg:maven/io.github.palexdev/mfxeffects@24.2.1?classifier=sources

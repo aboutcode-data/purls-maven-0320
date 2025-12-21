@@ -60,3 +60,8 @@
 - pkg:maven/org.eclipse.lmos/arc-api@0.152.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-api@0.153.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-api@0.154.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-api@0.155.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-api@0.156.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-api@0.157.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-api@0.158.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-api@0.159.0?classifier=sources

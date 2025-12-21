@@ -48,3 +48,6 @@
 - pkg:maven/dev.pumpo5/reporting-testflo@0.8.63?classifier=sources
 - pkg:maven/dev.pumpo5/reporting-testflo@0.8.64?classifier=sources
 - pkg:maven/dev.pumpo5/reporting-testflo@0.8.65?classifier=sources
+- pkg:maven/dev.pumpo5/reporting-testflo@0.8.66?classifier=sources
+- pkg:maven/dev.pumpo5/reporting-testflo@0.8.67?classifier=sources
+- pkg:maven/dev.pumpo5/reporting-testflo@0.8.68?classifier=sources

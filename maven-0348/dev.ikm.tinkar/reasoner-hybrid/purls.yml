@@ -28,6 +28,9 @@
 - pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.118.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.119.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.120.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.121.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.122.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.123.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.73.0
 - pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.73.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/reasoner-hybrid@1.74.0

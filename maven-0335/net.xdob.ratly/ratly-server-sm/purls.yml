@@ -13,3 +13,10 @@
 - pkg:maven/net.xdob.ratly/ratly-server-sm@2.7.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-server-sm@2.8.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-server-sm@2.9.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-server-sm@3.0.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-server-sm@3.1.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-server-sm@3.2.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-server-sm@3.3.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-server-sm@3.4.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-server-sm@3.5.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-server-sm@3.6.0?classifier=sources

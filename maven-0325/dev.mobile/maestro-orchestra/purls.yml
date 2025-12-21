@@ -87,3 +87,6 @@
 - pkg:maven/dev.mobile/maestro-orchestra@1.8.1?classifier=sources
 - pkg:maven/dev.mobile/maestro-orchestra@1.8.2?classifier=sources
 - pkg:maven/dev.mobile/maestro-orchestra@1.8.3?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@2.0.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@2.0.2?classifier=sources
+- pkg:maven/dev.mobile/maestro-orchestra@2.0.3?classifier=sources

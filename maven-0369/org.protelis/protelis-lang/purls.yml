@@ -209,3 +209,6 @@
 - pkg:maven/org.protelis/protelis-lang@18.2.0?classifier=sources
 - pkg:maven/org.protelis/protelis-lang@18.2.1?classifier=sources
 - pkg:maven/org.protelis/protelis-lang@18.2.2?classifier=sources
+- pkg:maven/org.protelis/protelis-lang@18.3.0?classifier=sources
+- pkg:maven/org.protelis/protelis-lang@18.4.0?classifier=sources
+- pkg:maven/org.protelis/protelis-lang@18.4.1?classifier=sources

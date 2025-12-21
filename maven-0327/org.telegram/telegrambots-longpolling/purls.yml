@@ -48,3 +48,4 @@
 - pkg:maven/org.telegram/telegrambots-longpolling@8.3.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-longpolling@9.0.0
 - pkg:maven/org.telegram/telegrambots-longpolling@9.0.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots-longpolling@9.1.0?classifier=sources

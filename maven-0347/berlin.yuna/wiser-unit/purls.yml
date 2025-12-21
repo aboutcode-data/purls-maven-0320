@@ -220,3 +220,6 @@
 - pkg:maven/berlin.yuna/wiser-unit@2025.07.2000253?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@2025.07.2030301?classifier=sources
 - pkg:maven/berlin.yuna/wiser-unit@2025.08.2170308?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@2025.08.2410236?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@2025.09.2560216?classifier=sources
+- pkg:maven/berlin.yuna/wiser-unit@2025.09.2570237?classifier=sources

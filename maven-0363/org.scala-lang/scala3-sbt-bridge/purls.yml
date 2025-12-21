@@ -1680,6 +1680,7 @@
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.6-RC3
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.6-RC3?classifier=sources
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.6?classifier=sources
+- pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.7-RC1
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.7-RC1-bin-20250402-71aca20-NIGHTLY
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.7-RC1-bin-20250402-71aca20-NIGHTLY?classifier=sources
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.7-RC1-bin-20250403-3c1ff9a-NIGHTLY
@@ -1738,6 +1739,7 @@
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.7-RC1-bin-20250808-18bc208-NIGHTLY?classifier=sources
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.7-RC1-bin-20250813-7e360b9-NIGHTLY
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.7-RC1-bin-20250813-7e360b9-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-sbt-bridge@3.3.7-RC1?classifier=sources
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.4.0
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.4.0-RC1
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY
@@ -2726,6 +2728,7 @@
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.2-RC2
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.2-RC2?classifier=sources
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.2?classifier=sources
+- pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3-RC1
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3-RC1-bin-20250619-b1da8fc-NIGHTLY
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3-RC1-bin-20250619-b1da8fc-NIGHTLY?classifier=sources
@@ -2796,6 +2799,9 @@
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3-RC1?classifier=sources
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3-RC2
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3-RC2?classifier=sources
+- pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3-RC3
+- pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3-RC3?classifier=sources
+- pkg:maven/org.scala-lang/scala3-sbt-bridge@3.7.3?classifier=sources
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.8.0-RC1-bin-20250729-a834dff-NIGHTLY
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.8.0-RC1-bin-20250729-a834dff-NIGHTLY?classifier=sources
 - pkg:maven/org.scala-lang/scala3-sbt-bridge@3.8.0-RC1-bin-20250731-1f148a1-NIGHTLY

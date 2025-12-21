@@ -12,5 +12,6 @@
 - pkg:maven/org.webjars.npm/init-package-json@2.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/init-package-json@2.0.3
 - pkg:maven/org.webjars.npm/init-package-json@2.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/init-package-json@3.0.2
 - pkg:maven/org.webjars.npm/init-package-json@6.0.3
 - pkg:maven/org.webjars.npm/init-package-json@7.0.2

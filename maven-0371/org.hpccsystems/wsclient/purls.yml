@@ -1152,8 +1152,11 @@
 - pkg:maven/org.hpccsystems/wsclient@9.10.52-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.10.54-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.10.56-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.10.58-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.10.6-1
 - pkg:maven/org.hpccsystems/wsclient@9.10.6-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.10.60-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.10.62-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.10.8-1
 - pkg:maven/org.hpccsystems/wsclient@9.10.8-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.12.0-1
@@ -1170,6 +1173,9 @@
 - pkg:maven/org.hpccsystems/wsclient@9.12.26-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.12.28-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.12.30-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.12.32-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.12.34-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.12.36-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.12.4-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.12.6-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.12.6-2?classifier=sources
@@ -1178,6 +1184,9 @@
 - pkg:maven/org.hpccsystems/wsclient@9.14.0-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.14.10-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.14.12-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.14.14-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.14.16-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.14.18-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.14.2-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.14.4-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.14.6-1?classifier=sources
@@ -1621,6 +1630,9 @@
 - pkg:maven/org.hpccsystems/wsclient@9.8.106-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.8.108-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.8.110-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.8.112-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.8.114-1?classifier=sources
+- pkg:maven/org.hpccsystems/wsclient@9.8.116-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.8.12-1
 - pkg:maven/org.hpccsystems/wsclient@9.8.12-1?classifier=sources
 - pkg:maven/org.hpccsystems/wsclient@9.8.14-1

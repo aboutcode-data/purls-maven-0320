@@ -1,0 +1,2 @@
+- pkg:maven/com.minkasu/minkasu-2fa@5.0.0?classifier=sources
+- pkg:maven/com.minkasu/minkasu-2fa@5.0.0?type=aar

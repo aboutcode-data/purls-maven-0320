@@ -95,3 +95,8 @@
 - pkg:maven/org.openrewrite/rewrite-javascript@8.60.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-javascript@8.60.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-javascript@8.60.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript@8.61.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript@8.61.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript@8.61.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript@8.61.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript@8.62.0?classifier=sources

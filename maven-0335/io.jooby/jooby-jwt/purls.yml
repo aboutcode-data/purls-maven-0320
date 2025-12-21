@@ -211,3 +211,4 @@
 - pkg:maven/io.jooby/jooby-jwt@4.0.4?classifier=sources
 - pkg:maven/io.jooby/jooby-jwt@4.0.5?classifier=sources
 - pkg:maven/io.jooby/jooby-jwt@4.0.6?classifier=sources
+- pkg:maven/io.jooby/jooby-jwt@4.0.7?classifier=sources

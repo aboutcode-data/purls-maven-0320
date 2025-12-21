@@ -41,3 +41,4 @@
 - pkg:maven/io.growthbook.sdk/GrowthBook-jvm@5.0.0?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBook-jvm@5.0.1?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBook-jvm@6.0.0-alpha?classifier=sources
+- pkg:maven/io.growthbook.sdk/GrowthBook-jvm@6.1.0?classifier=sources

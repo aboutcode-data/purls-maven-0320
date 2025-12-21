@@ -1,0 +1,6 @@
+- pkg:maven/io.h8.sbt/sbt-dependencies_2.12_1.0@1.0.2
+- pkg:maven/io.h8.sbt/sbt-dependencies_2.12_1.0@1.0.2?classifier=sources
+- pkg:maven/io.h8.sbt/sbt-dependencies_2.12_1.0@1.0.4
+- pkg:maven/io.h8.sbt/sbt-dependencies_2.12_1.0@1.0.4?classifier=sources
+- pkg:maven/io.h8.sbt/sbt-dependencies_2.12_1.0@1.0.5
+- pkg:maven/io.h8.sbt/sbt-dependencies_2.12_1.0@1.0.5?classifier=sources

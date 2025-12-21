@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/leven@1.0.2?classifier=sources
 - pkg:maven/org.mvnpm/leven@3.1.0?classifier=sources
 - pkg:maven/org.mvnpm/leven@4.0.0?classifier=sources
+- pkg:maven/org.mvnpm/leven@4.1.0
+- pkg:maven/org.mvnpm/leven@4.1.0?classifier=sources

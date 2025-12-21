@@ -30,3 +30,6 @@
 - pkg:maven/io.github.open-coap/kotlin-mbedtls-metrics@1.29.0?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls-metrics@1.29.1?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls-metrics@1.30.0?classifier=sources
+- pkg:maven/io.github.open-coap/kotlin-mbedtls-metrics@1.31.1-BETA2?classifier=sources
+- pkg:maven/io.github.open-coap/kotlin-mbedtls-metrics@1.31.1-BETA?classifier=sources
+- pkg:maven/io.github.open-coap/kotlin-mbedtls-metrics@1.31.1?classifier=sources

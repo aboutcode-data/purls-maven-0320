@@ -41,7 +41,17 @@
 - pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.140?classifier=sources
 - pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.141?classifier=sources
 - pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.142?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.143?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.144?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.145?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.146?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.147?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.148?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.149?classifier=sources
 - pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.14?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.150?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.151?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.152?classifier=sources
 - pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.15?classifier=sources
 - pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.16?classifier=sources
 - pkg:maven/com.authme/authme-sdk-liveness-ui@2.8.0-rc.17?classifier=sources

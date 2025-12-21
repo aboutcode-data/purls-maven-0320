@@ -1,2 +1,3 @@
 - pkg:maven/org.sonarsource.rust/sonar-rust-plugin@1.0.2.734?classifier=sources
 - pkg:maven/org.sonarsource.rust/sonar-rust-plugin@1.0.3.786?classifier=sources
+- pkg:maven/org.sonarsource.rust/sonar-rust-plugin@1.1.0.1088?classifier=sources

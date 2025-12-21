@@ -30,6 +30,8 @@
 - pkg:maven/com.gu.source/source-android@0.10.2?classifier=sources
 - pkg:maven/com.gu.source/source-android@0.10.3?classifier=sources
 - pkg:maven/com.gu.source/source-android@0.11.0?classifier=sources
+- pkg:maven/com.gu.source/source-android@0.12.0-PREVIEW.dependabotgradleandroidandroidxcompose-compose-bom-20250800.2025-08-26T1005.9a07ca1c?classifier=sources
+- pkg:maven/com.gu.source/source-android@0.12.0?classifier=sources
 - pkg:maven/com.gu.source/source-android@0.2.1?classifier=sources
 - pkg:maven/com.gu.source/source-android@0.2.2?classifier=sources
 - pkg:maven/com.gu.source/source-android@0.3.0?classifier=sources
@@ -61,3 +63,6 @@
 - pkg:maven/com.gu.source/source-android@1.0.0-PREVIEW.abhealthuse-gradle-release-app.2025-07-11T1614.591e7043?classifier=sources
 - pkg:maven/com.gu.source/source-android@1.0.0-PREVIEW.dependabotgradleandroidkotlin-767d57ed2b.2025-07-16T0914.af87e5b7?classifier=sources
 - pkg:maven/com.gu.source/source-android@1.0.0-PREVIEW.dependabotgradleandroidkotlin-767d57ed2b.2025-07-28T0756.20880ebb?classifier=sources
+- pkg:maven/com.gu.source/source-android@1.0.0-PREVIEW.mgalert-banner-dismiss-icon.2025-08-28T1559.edb63dea?classifier=sources
+- pkg:maven/com.gu.source/source-android@1.0.0?classifier=sources
+- pkg:maven/com.gu.source/source-android@2.0.0?classifier=sources

@@ -89,3 +89,4 @@
 - pkg:maven/com.couchbase.client/kotlin-client@1.5.2?classifier=sources
 - pkg:maven/com.couchbase.client/kotlin-client@1.5.3?classifier=sources
 - pkg:maven/com.couchbase.client/kotlin-client@3.9.0?classifier=sources
+- pkg:maven/com.couchbase.client/kotlin-client@3.9.1?classifier=sources

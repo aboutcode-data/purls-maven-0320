@@ -7,3 +7,4 @@
 - pkg:maven/org.eclipse.jetty.compression/jetty-compression-common@12.1.0.beta2?classifier=sources
 - pkg:maven/org.eclipse.jetty.compression/jetty-compression-common@12.1.0.beta3?classifier=sources
 - pkg:maven/org.eclipse.jetty.compression/jetty-compression-common@12.1.0?classifier=sources
+- pkg:maven/org.eclipse.jetty.compression/jetty-compression-common@12.1.1?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/org.webjars.npm/node-gyp-build@4.6.0
 - pkg:maven/org.webjars.npm/node-gyp-build@4.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/node-gyp-build@4.8.1
+- pkg:maven/org.webjars.npm/node-gyp-build@4.8.4

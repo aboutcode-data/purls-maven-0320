@@ -515,6 +515,8 @@
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.10?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.11?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.12?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/demo@9.0.13?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/demo@9.0.14?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.1?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.1?type=war
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.2?classifier=sources

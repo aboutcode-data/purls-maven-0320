@@ -26,3 +26,4 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-tls-starter-it-webflux@17.36.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-tls-starter-it-webflux@17.37.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-tls-starter-it-webflux@17.38.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-tls-starter-it-webflux@17.39.0?classifier=sources

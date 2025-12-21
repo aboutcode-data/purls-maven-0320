@@ -20,3 +20,5 @@
 - pkg:maven/com.sap.cloud.security.ams.dcl/rt.opa.test@0.31.0?classifier=sources
 - pkg:maven/com.sap.cloud.security.ams.dcl/rt.opa.test@0.35.0
 - pkg:maven/com.sap.cloud.security.ams.dcl/rt.opa.test@0.35.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.ams.dcl/rt.opa.test@0.38.0
+- pkg:maven/com.sap.cloud.security.ams.dcl/rt.opa.test@0.38.0?classifier=sources

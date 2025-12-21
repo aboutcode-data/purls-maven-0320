@@ -5,6 +5,10 @@
 - pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b14?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b15?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b16?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b17?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b18?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b19?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b20?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b3?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b5?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-base@1.0.0-b6?classifier=sources

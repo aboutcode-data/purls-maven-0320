@@ -97,6 +97,7 @@
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.20.0
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.20.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.20.10?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.20.11?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.20.1?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.20.2
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.20.2?classifier=sources

@@ -7,3 +7,8 @@
 - pkg:maven/com.codestepfish/vline-core@0.0.7?classifier=sources
 - pkg:maven/com.codestepfish/vline-core@0.0.8?classifier=sources
 - pkg:maven/com.codestepfish/vline-core@0.1.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-core@0.1.2?classifier=sources
+- pkg:maven/com.codestepfish/vline-core@1.0.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-core@1.2.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-core@1.5.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-core@2.0.0?classifier=sources

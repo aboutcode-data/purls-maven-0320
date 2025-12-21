@@ -1,3 +1,4 @@
 - pkg:maven/com.fiscalapi/fiscalapi@4.0.124?classifier=sources
 - pkg:maven/com.fiscalapi/fiscalapi@4.0.125?classifier=sources
 - pkg:maven/com.fiscalapi/fiscalapi@4.0.141?classifier=sources
+- pkg:maven/com.fiscalapi/fiscalapi@4.0.272?classifier=sources

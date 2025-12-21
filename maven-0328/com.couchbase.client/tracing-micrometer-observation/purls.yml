@@ -43,3 +43,4 @@
 - pkg:maven/com.couchbase.client/tracing-micrometer-observation@1.6.2?classifier=sources
 - pkg:maven/com.couchbase.client/tracing-micrometer-observation@1.6.3?classifier=sources
 - pkg:maven/com.couchbase.client/tracing-micrometer-observation@3.9.0?classifier=sources
+- pkg:maven/com.couchbase.client/tracing-micrometer-observation@3.9.1?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/eu.maveniverse.maven.mima.extensions/mmr@2.4.31?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mima.extensions/mmr@2.4.32?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mima.extensions/mmr@2.4.33?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mima.extensions/mmr@2.4.34?classifier=sources

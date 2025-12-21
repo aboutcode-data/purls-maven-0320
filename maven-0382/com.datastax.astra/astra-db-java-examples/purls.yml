@@ -6,3 +6,4 @@
 - pkg:maven/com.datastax.astra/astra-db-java-examples@1.5.2?classifier=sources
 - pkg:maven/com.datastax.astra/astra-db-java-examples@2.0.0-PREVIEW3?classifier=sources
 - pkg:maven/com.datastax.astra/astra-db-java-examples@2.0.0?classifier=sources
+- pkg:maven/com.datastax.astra/astra-db-java-examples@2.1.0-rc2?classifier=sources

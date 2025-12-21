@@ -1,0 +1,6 @@
+- pkg:maven/io.github.mosesox/guava@33.4.6-jre
+- pkg:maven/io.github.mosesox/guava@33.4.6-jre?classifier=sources
+- pkg:maven/io.github.mosesox/guava@33.4.7-jre
+- pkg:maven/io.github.mosesox/guava@33.4.7-jre?classifier=sources
+- pkg:maven/io.github.mosesox/guava@33.4.8-jre
+- pkg:maven/io.github.mosesox/guava@33.4.8-jre?classifier=sources

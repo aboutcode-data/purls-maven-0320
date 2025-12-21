@@ -1,0 +1,7 @@
+- pkg:maven/io.typeflows/typeflows-bom@0.12.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-bom@0.13.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-bom@0.14.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-bom@0.15.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-bom@0.16.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-bom@0.17.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-bom@0.18.0-beta?classifier=sources

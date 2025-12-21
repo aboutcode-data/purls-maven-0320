@@ -26,6 +26,7 @@
 - pkg:maven/space.x9x.radp/radp-spring-framework@2.22?classifier=sources
 - pkg:maven/space.x9x.radp/radp-spring-framework@2.23.1?classifier=sources
 - pkg:maven/space.x9x.radp/radp-spring-framework@2.23?classifier=sources
+- pkg:maven/space.x9x.radp/radp-spring-framework@2.24?classifier=sources
 - pkg:maven/space.x9x.radp/radp-spring-framework@3.12?classifier=sources
 - pkg:maven/space.x9x.radp/radp-spring-framework@3.13?classifier=sources
 - pkg:maven/space.x9x.radp/radp-spring-framework@3.14?classifier=sources
@@ -44,4 +45,5 @@
 - pkg:maven/space.x9x.radp/radp-spring-framework@3.22?classifier=sources
 - pkg:maven/space.x9x.radp/radp-spring-framework@3.23.1?classifier=sources
 - pkg:maven/space.x9x.radp/radp-spring-framework@3.23?classifier=sources
+- pkg:maven/space.x9x.radp/radp-spring-framework@3.24?classifier=sources
 - pkg:maven/space.x9x.radp/radp-spring-framework@v2.22?classifier=sources

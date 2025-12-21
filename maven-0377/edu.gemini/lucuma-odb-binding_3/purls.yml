@@ -40,3 +40,11 @@
 - pkg:maven/edu.gemini/lucuma-odb-binding_3@0.26.1?classifier=sources
 - pkg:maven/edu.gemini/lucuma-odb-binding_3@0.26.3
 - pkg:maven/edu.gemini/lucuma-odb-binding_3@0.26.3?classifier=sources
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.27.0
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.27.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.28.0
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.28.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.28.1
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.28.1?classifier=sources
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.28.2
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.28.2?classifier=sources

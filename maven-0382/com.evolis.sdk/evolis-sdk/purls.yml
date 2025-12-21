@@ -14,3 +14,5 @@
 - pkg:maven/com.evolis.sdk/evolis-sdk@9.0.3-6596?classifier=sources
 - pkg:maven/com.evolis.sdk/evolis-sdk@9.1.0-7194
 - pkg:maven/com.evolis.sdk/evolis-sdk@9.1.0-7194?classifier=sources
+- pkg:maven/com.evolis.sdk/evolis-sdk@9.2.0-7970
+- pkg:maven/com.evolis.sdk/evolis-sdk@9.2.0-7970?classifier=sources

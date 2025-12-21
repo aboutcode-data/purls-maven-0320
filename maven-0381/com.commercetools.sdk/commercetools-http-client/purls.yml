@@ -80,6 +80,9 @@
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@18.3.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@19.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@19.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-http-client@19.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-http-client@19.3.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-http-client@19.4.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@2.0.0
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@2.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-http-client@2.0.1

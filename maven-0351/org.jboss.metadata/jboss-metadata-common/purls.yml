@@ -72,6 +72,7 @@
 - pkg:maven/org.jboss.metadata/jboss-metadata-common@16.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-common@16.1.0.Final
 - pkg:maven/org.jboss.metadata/jboss-metadata-common@16.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.metadata/jboss-metadata-common@17.0.0.Beta1?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-common@2.0.0-Alpha6
 - pkg:maven/org.jboss.metadata/jboss-metadata-common@2.0.0-Alpha6?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-common@2.0.0-alpha-10

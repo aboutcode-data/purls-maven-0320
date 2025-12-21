@@ -468,6 +468,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.70.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.70.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.71.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.71.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.72.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.72.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.8.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.8.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-vision-v1@3.9.0

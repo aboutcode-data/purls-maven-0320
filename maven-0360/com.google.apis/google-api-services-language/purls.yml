@@ -160,6 +160,8 @@
 - pkg:maven/com.google.apis/google-api-services-language@v1-rev20250511-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-language@v1-rev20250518-2.0.0
 - pkg:maven/com.google.apis/google-api-services-language@v1-rev20250518-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-language@v1-rev20250824-2.0.0
+- pkg:maven/com.google.apis/google-api-services-language@v1-rev20250824-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-language@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-language@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-language@v1-rev3-1.20.0
@@ -2278,6 +2280,8 @@
 - pkg:maven/com.google.apis/google-api-services-language@v1beta2-rev20250511-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-language@v1beta2-rev20250518-2.0.0
 - pkg:maven/com.google.apis/google-api-services-language@v1beta2-rev20250518-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-language@v1beta2-rev20250824-2.0.0
+- pkg:maven/com.google.apis/google-api-services-language@v1beta2-rev20250824-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-language@v1beta2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-language@v1beta2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-language@v1beta2-rev21-1.21.0
@@ -2904,3 +2908,5 @@
 - pkg:maven/com.google.apis/google-api-services-language@v2-rev20250511-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-language@v2-rev20250518-2.0.0
 - pkg:maven/com.google.apis/google-api-services-language@v2-rev20250518-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-language@v2-rev20250824-2.0.0
+- pkg:maven/com.google.apis/google-api-services-language@v2-rev20250824-2.0.0?classifier=sources

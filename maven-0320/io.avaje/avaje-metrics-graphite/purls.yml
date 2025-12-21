@@ -24,3 +24,10 @@
 - pkg:maven/io.avaje/avaje-metrics-graphite@9.4-RC3
 - pkg:maven/io.avaje/avaje-metrics-graphite@9.4-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-metrics-graphite@9.4?classifier=sources
+- pkg:maven/io.avaje/avaje-metrics-graphite@9.5?classifier=sources
+- pkg:maven/io.avaje/avaje-metrics-graphite@9.6-RC1?classifier=sources
+- pkg:maven/io.avaje/avaje-metrics-graphite@9.6-RC2?classifier=sources
+- pkg:maven/io.avaje/avaje-metrics-graphite@9.6-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-metrics-graphite@9.6-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-metrics-graphite@9.6-RC5?classifier=sources
+- pkg:maven/io.avaje/avaje-metrics-graphite@9.6-RC6?classifier=sources

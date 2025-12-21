@@ -28,3 +28,7 @@
 - pkg:maven/com.baidubce/appbuilder@1.0.3?classifier=sources
 - pkg:maven/com.baidubce/appbuilder@1.0.4
 - pkg:maven/com.baidubce/appbuilder@1.0.4?classifier=sources
+- pkg:maven/com.baidubce/appbuilder@1.0.6.0428
+- pkg:maven/com.baidubce/appbuilder@1.0.6.0428?classifier=sources
+- pkg:maven/com.baidubce/appbuilder@1.0.6.1
+- pkg:maven/com.baidubce/appbuilder@1.0.6.1?classifier=sources

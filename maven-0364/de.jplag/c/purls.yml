@@ -4,3 +4,5 @@
 - pkg:maven/de.jplag/c@5.1.0?classifier=sources
 - pkg:maven/de.jplag/c@6.0.0
 - pkg:maven/de.jplag/c@6.0.0?classifier=sources
+- pkg:maven/de.jplag/c@6.1.0
+- pkg:maven/de.jplag/c@6.1.0?classifier=sources

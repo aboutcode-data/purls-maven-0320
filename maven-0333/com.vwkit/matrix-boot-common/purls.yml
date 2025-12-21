@@ -134,3 +134,5 @@
 - pkg:maven/com.vwkit/matrix-boot-common@2.1.9?classifier=sources
 - pkg:maven/com.vwkit/matrix-boot-common@2.2.0
 - pkg:maven/com.vwkit/matrix-boot-common@2.2.0?classifier=sources
+- pkg:maven/com.vwkit/matrix-boot-common@2.3.0
+- pkg:maven/com.vwkit/matrix-boot-common@2.3.0?classifier=sources

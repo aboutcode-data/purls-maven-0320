@@ -1,1 +1,2 @@
 - pkg:maven/io.github.z4kn4fein/semver-wasm-wasi@2.0.0?classifier=sources
+- pkg:maven/io.github.z4kn4fein/semver-wasm-wasi@3.0.0?classifier=sources

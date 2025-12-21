@@ -1,6 +1,10 @@
 - pkg:maven/org.mvnpm/undici@5.28.2?classifier=sources
 - pkg:maven/org.mvnpm/undici@5.28.3?classifier=sources
 - pkg:maven/org.mvnpm/undici@6.21.2?classifier=sources
+- pkg:maven/org.mvnpm/undici@6.21.3
+- pkg:maven/org.mvnpm/undici@6.21.3?classifier=sources
 - pkg:maven/org.mvnpm/undici@7.6.0?classifier=sources
 - pkg:maven/org.mvnpm/undici@7.7.0?classifier=sources
 - pkg:maven/org.mvnpm/undici@7.8.0?classifier=sources
+- pkg:maven/org.mvnpm/undici@7.9.0
+- pkg:maven/org.mvnpm/undici@7.9.0?classifier=sources

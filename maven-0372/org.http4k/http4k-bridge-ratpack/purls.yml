@@ -14,5 +14,9 @@
 - pkg:maven/org.http4k/http4k-bridge-ratpack@6.5.5.1?classifier=sources
 - pkg:maven/org.http4k/http4k-bridge-ratpack@6.5.6.0?classifier=sources
 - pkg:maven/org.http4k/http4k-bridge-ratpack@6.5.6.1?classifier=sources
+- pkg:maven/org.http4k/http4k-bridge-ratpack@6.6.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-bridge-ratpack@6.6.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-bridge-ratpack@6.6.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-bridge-ratpack@6.7.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-bridge-ratpack@v6.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-bridge-ratpack@v6.4.1.0?classifier=sources

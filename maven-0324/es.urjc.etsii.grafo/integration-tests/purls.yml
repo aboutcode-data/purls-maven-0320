@@ -9,3 +9,5 @@
 - pkg:maven/es.urjc.etsii.grafo/integration-tests@0.19?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/integration-tests@0.20
 - pkg:maven/es.urjc.etsii.grafo/integration-tests@0.20?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/integration-tests@0.21
+- pkg:maven/es.urjc.etsii.grafo/integration-tests@0.21?classifier=sources

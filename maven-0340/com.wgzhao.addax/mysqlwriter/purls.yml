@@ -22,3 +22,5 @@
 - pkg:maven/com.wgzhao.addax/mysqlwriter@4.3.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/mysqlwriter@5.0.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/mysqlwriter@5.1.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/mysqlwriter@5.1.1?classifier=sources
+- pkg:maven/com.wgzhao.addax/mysqlwriter@5.1.2?classifier=sources

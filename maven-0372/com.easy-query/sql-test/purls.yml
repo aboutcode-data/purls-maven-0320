@@ -16,3 +16,5 @@
 - pkg:maven/com.easy-query/sql-test@2.2.0?classifier=sources
 - pkg:maven/com.easy-query/sql-test@2.7.4
 - pkg:maven/com.easy-query/sql-test@2.7.4?classifier=sources
+- pkg:maven/com.easy-query/sql-test@2.8.11
+- pkg:maven/com.easy-query/sql-test@2.8.11?classifier=sources

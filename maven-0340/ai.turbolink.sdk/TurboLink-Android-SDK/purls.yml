@@ -35,6 +35,7 @@
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.10?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.11?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.12?type=aar
+- pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.13?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.1?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.2?type=aar
 - pkg:maven/ai.turbolink.sdk/TurboLink-Android-SDK@1.1.3?type=aar

@@ -15,3 +15,5 @@
 - pkg:maven/io.github.smyrgeorge/sqlx4k-codegen-jvm@0.44.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-codegen-jvm@0.46.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-codegen-jvm@0.47.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-codegen-jvm@0.50.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-codegen-jvm@0.51.0?classifier=sources

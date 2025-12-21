@@ -30,3 +30,4 @@
 - pkg:maven/dev.inmo/micro_utils.ksp.classcasts-linuxx64@0.25.2?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.ksp.classcasts-linuxx64@0.25.3?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.ksp.classcasts-linuxx64@0.25.4?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.ksp.classcasts-linuxx64@0.25.5?classifier=sources

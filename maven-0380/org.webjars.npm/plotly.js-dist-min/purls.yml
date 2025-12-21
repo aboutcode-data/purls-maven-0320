@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/plotly.js-dist-min@1.58.5
 - pkg:maven/org.webjars.npm/plotly.js-dist-min@2.11.1
 - pkg:maven/org.webjars.npm/plotly.js-dist-min@2.11.1?classifier=sources
 - pkg:maven/org.webjars.npm/plotly.js-dist-min@2.12.1
@@ -18,3 +19,4 @@
 - pkg:maven/org.webjars.npm/plotly.js-dist-min@2.9.0
 - pkg:maven/org.webjars.npm/plotly.js-dist-min@2.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/plotly.js-dist-min@3.0.0
+- pkg:maven/org.webjars.npm/plotly.js-dist-min@3.0.1

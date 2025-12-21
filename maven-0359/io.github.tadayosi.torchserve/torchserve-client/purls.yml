@@ -1,1 +1,2 @@
 - pkg:maven/io.github.tadayosi.torchserve/torchserve-client@0.4.0?classifier=sources
+- pkg:maven/io.github.tadayosi.torchserve/torchserve-client@0.4.1?classifier=sources

@@ -16,3 +16,9 @@
 - pkg:maven/cn.com.kingbase/kingbase8@9.0.0.jre7
 - pkg:maven/cn.com.kingbase/kingbase8@9.0.0.jre7?classifier=sources
 - pkg:maven/cn.com.kingbase/kingbase8@9.0.0?classifier=sources
+- pkg:maven/cn.com.kingbase/kingbase8@9.0.1
+- pkg:maven/cn.com.kingbase/kingbase8@9.0.1.jre6
+- pkg:maven/cn.com.kingbase/kingbase8@9.0.1.jre6?classifier=sources
+- pkg:maven/cn.com.kingbase/kingbase8@9.0.1.jre7
+- pkg:maven/cn.com.kingbase/kingbase8@9.0.1.jre7?classifier=sources
+- pkg:maven/cn.com.kingbase/kingbase8@9.0.1?classifier=sources

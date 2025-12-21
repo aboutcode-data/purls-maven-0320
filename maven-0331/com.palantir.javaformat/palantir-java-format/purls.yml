@@ -122,6 +122,7 @@
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.60.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.61.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.62.0?classifier=sources
+- pkg:maven/com.palantir.javaformat/palantir-java-format@2.63.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.7.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.8.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.9.0?classifier=sources

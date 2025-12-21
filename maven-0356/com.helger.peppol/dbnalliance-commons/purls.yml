@@ -1,0 +1,10 @@
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.2.0
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.2.0?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.2.1
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.2.1?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.3.0
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.3.0?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.3.1
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.3.1?classifier=sources
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.3.2
+- pkg:maven/com.helger.peppol/dbnalliance-commons@10.3.2?classifier=sources

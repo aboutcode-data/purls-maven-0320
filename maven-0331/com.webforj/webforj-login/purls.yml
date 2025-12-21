@@ -14,3 +14,5 @@
 - pkg:maven/com.webforj/webforj-login@24.21?classifier=sources
 - pkg:maven/com.webforj/webforj-login@24.22
 - pkg:maven/com.webforj/webforj-login@24.22?classifier=sources
+- pkg:maven/com.webforj/webforj-login@25.00
+- pkg:maven/com.webforj/webforj-login@25.00?classifier=sources

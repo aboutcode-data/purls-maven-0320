@@ -67,6 +67,8 @@
 - pkg:maven/io.github.ardoco/docker@0.31.21?classifier=sources
 - pkg:maven/io.github.ardoco/docker@0.31.22
 - pkg:maven/io.github.ardoco/docker@0.31.22?classifier=sources
+- pkg:maven/io.github.ardoco/docker@0.31.23
+- pkg:maven/io.github.ardoco/docker@0.31.23?classifier=sources
 - pkg:maven/io.github.ardoco/docker@0.31.2?classifier=sources
 - pkg:maven/io.github.ardoco/docker@0.31.3
 - pkg:maven/io.github.ardoco/docker@0.31.3?classifier=sources

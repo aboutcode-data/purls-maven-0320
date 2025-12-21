@@ -52,6 +52,7 @@
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.29
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@1.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.1
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.10
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.portal.security.auto.login@2.0.10?classifier=sources

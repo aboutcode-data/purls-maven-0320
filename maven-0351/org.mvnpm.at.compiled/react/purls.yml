@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm.at.compiled/react@0.18.3?classifier=sources
+- pkg:maven/org.mvnpm.at.compiled/react@0.18.4
+- pkg:maven/org.mvnpm.at.compiled/react@0.18.4?classifier=sources

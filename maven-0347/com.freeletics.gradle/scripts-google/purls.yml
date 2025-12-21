@@ -4,3 +4,6 @@
 - pkg:maven/com.freeletics.gradle/scripts-google@0.19.2?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-google@0.20.0?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-google@0.21.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-google@0.22.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-google@0.23.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-google@0.23.1?classifier=sources

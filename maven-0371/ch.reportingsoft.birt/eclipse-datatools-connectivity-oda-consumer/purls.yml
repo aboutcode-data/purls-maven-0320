@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/eclipse-datatools-connectivity-oda-consumer@3.5.0
+- pkg:maven/ch.reportingsoft.birt/eclipse-datatools-connectivity-oda-consumer@3.5.0?classifier=sources

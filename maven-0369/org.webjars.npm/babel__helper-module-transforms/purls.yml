@@ -22,6 +22,8 @@
 - pkg:maven/org.webjars.npm/babel__helper-module-transforms@7.21.2?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-module-transforms@7.23.3
 - pkg:maven/org.webjars.npm/babel__helper-module-transforms@7.23.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-module-transforms@7.26.0
+- pkg:maven/org.webjars.npm/babel__helper-module-transforms@7.27.1
 - pkg:maven/org.webjars.npm/babel__helper-module-transforms@7.4.4
 - pkg:maven/org.webjars.npm/babel__helper-module-transforms@7.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-module-transforms@7.5.5

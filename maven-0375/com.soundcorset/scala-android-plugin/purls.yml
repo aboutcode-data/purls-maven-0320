@@ -4,3 +4,5 @@
 - pkg:maven/com.soundcorset/scala-android-plugin@24.0721.1854?classifier=sources
 - pkg:maven/com.soundcorset/scala-android-plugin@24.1019.1546?classifier=sources
 - pkg:maven/com.soundcorset/scala-android-plugin@25.0406.1140?classifier=sources
+- pkg:maven/com.soundcorset/scala-android-plugin@25.0412.2039?classifier=sources
+- pkg:maven/com.soundcorset/scala-android-plugin@25.0416.2236?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/com.meshconnect/link@2.0.8?classifier=sources
 - pkg:maven/com.meshconnect/link@2.0.9?classifier=sources
 - pkg:maven/com.meshconnect/link@3.0.0?classifier=sources
+- pkg:maven/com.meshconnect/link@3.0.1?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.slack.foundry/gradle-plugin@0.25.3?classifier=sources
 - pkg:maven/com.slack.foundry/gradle-plugin@0.25.4?classifier=sources
 - pkg:maven/com.slack.foundry/gradle-plugin@0.26.0?classifier=sources
+- pkg:maven/com.slack.foundry/gradle-plugin@0.27.0?classifier=sources
+- pkg:maven/com.slack.foundry/gradle-plugin@0.27.1?classifier=sources

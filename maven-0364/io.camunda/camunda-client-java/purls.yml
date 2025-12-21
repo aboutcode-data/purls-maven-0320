@@ -24,3 +24,5 @@
 - pkg:maven/io.camunda/camunda-client-java@8.8.0-alpha3-rc3
 - pkg:maven/io.camunda/camunda-client-java@8.8.0-alpha3-rc3?classifier=sources
 - pkg:maven/io.camunda/camunda-client-java@8.8.0-alpha3?classifier=sources
+- pkg:maven/io.camunda/camunda-client-java@8.8.0-alpha4-rc1
+- pkg:maven/io.camunda/camunda-client-java@8.8.0-alpha4-rc1?classifier=sources

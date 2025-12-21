@@ -16,6 +16,8 @@
 - pkg:maven/org.infrastructurebuilder/ibexceptions@106?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibexceptions@107
 - pkg:maven/org.infrastructurebuilder/ibexceptions@107?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibexceptions@108
+- pkg:maven/org.infrastructurebuilder/ibexceptions@108?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibexceptions@10?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibexceptions@11
 - pkg:maven/org.infrastructurebuilder/ibexceptions@11?classifier=sources

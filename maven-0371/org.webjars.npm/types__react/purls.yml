@@ -168,3 +168,4 @@
 - pkg:maven/org.webjars.npm/types__react@18.2.7
 - pkg:maven/org.webjars.npm/types__react@18.2.7?classifier=sources
 - pkg:maven/org.webjars.npm/types__react@18.3.11
+- pkg:maven/org.webjars.npm/types__react@19.1.1

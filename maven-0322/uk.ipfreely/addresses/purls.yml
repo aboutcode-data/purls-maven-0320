@@ -8,6 +8,16 @@
 - pkg:maven/uk.ipfreely/addresses@8.0.11-alpha?classifier=sources
 - pkg:maven/uk.ipfreely/addresses@8.0.12-alpha
 - pkg:maven/uk.ipfreely/addresses@8.0.12-alpha?classifier=sources
+- pkg:maven/uk.ipfreely/addresses@8.0.13-alpha
+- pkg:maven/uk.ipfreely/addresses@8.0.13-alpha?classifier=sources
+- pkg:maven/uk.ipfreely/addresses@8.0.14-beta
+- pkg:maven/uk.ipfreely/addresses@8.0.14-beta?classifier=sources
+- pkg:maven/uk.ipfreely/addresses@8.0.15-beta
+- pkg:maven/uk.ipfreely/addresses@8.0.15-beta?classifier=sources
+- pkg:maven/uk.ipfreely/addresses@8.0.16-beta
+- pkg:maven/uk.ipfreely/addresses@8.0.16-beta?classifier=sources
+- pkg:maven/uk.ipfreely/addresses@8.0.17-beta
+- pkg:maven/uk.ipfreely/addresses@8.0.17-beta?classifier=sources
 - pkg:maven/uk.ipfreely/addresses@8.0.2-alpha
 - pkg:maven/uk.ipfreely/addresses@8.0.2-alpha?classifier=sources
 - pkg:maven/uk.ipfreely/addresses@8.0.3-alpha

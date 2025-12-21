@@ -169,6 +169,7 @@
 - pkg:maven/org.matrix.rustcomponents/sdk-android@0.2.7?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@0.2.8?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@0.2.9?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/sdk-android@25.04.29-SNAPSHOT-element-call?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.2.17?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.2.25?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.2.26?classifier=sources
@@ -179,5 +180,7 @@
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.3.5?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.3.6?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.4.11?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/sdk-android@25.4.22?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/sdk-android@25.4.30?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.4.7?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.4.8?classifier=sources

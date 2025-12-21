@@ -330,6 +330,8 @@
 - pkg:maven/io.joynr.java.core/clustercontroller-inprocess-runtime@1.24.4?classifier=sources
 - pkg:maven/io.joynr.java.core/clustercontroller-inprocess-runtime@1.25.0
 - pkg:maven/io.joynr.java.core/clustercontroller-inprocess-runtime@1.25.0?classifier=sources
+- pkg:maven/io.joynr.java.core/clustercontroller-inprocess-runtime@1.25.2
+- pkg:maven/io.joynr.java.core/clustercontroller-inprocess-runtime@1.25.2?classifier=sources
 - pkg:maven/io.joynr.java.core/clustercontroller-inprocess-runtime@1.26.0
 - pkg:maven/io.joynr.java.core/clustercontroller-inprocess-runtime@1.26.0?classifier=sources
 - pkg:maven/io.joynr.java.core/clustercontroller-inprocess-runtime@1.3.0

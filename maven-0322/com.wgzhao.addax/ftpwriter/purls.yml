@@ -22,3 +22,5 @@
 - pkg:maven/com.wgzhao.addax/ftpwriter@4.3.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/ftpwriter@5.0.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/ftpwriter@5.1.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/ftpwriter@5.1.1?classifier=sources
+- pkg:maven/com.wgzhao.addax/ftpwriter@5.1.2?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.apereo.cas/cas-server-support-logging-config-loki@7.2.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-logging-config-loki@7.2.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-logging-config-loki@7.3.0-RC1?classifier=sources

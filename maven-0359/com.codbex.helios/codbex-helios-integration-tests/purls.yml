@@ -1,2 +1,9 @@
 - pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.11.0
 - pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.12.0
+- pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.13.0
+- pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.33.0
+- pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.34.0
+- pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.35.0
+- pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.36.0
+- pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.37.0
+- pkg:maven/com.codbex.helios/codbex-helios-integration-tests@2.38.0

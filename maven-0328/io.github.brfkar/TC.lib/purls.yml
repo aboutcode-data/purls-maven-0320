@@ -1,0 +1,2 @@
+- pkg:maven/io.github.brfkar/TC.lib@4.1.0
+- pkg:maven/io.github.brfkar/TC.lib@4.1.0?classifier=sources

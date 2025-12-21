@@ -214,3 +214,4 @@
 - pkg:maven/com.pulumi/hcloud@1.22.0-alpha.1732686292?classifier=sources
 - pkg:maven/com.pulumi/hcloud@1.22.0-alpha.1732772700?classifier=sources
 - pkg:maven/com.pulumi/hcloud@1.22.0?classifier=sources
+- pkg:maven/com.pulumi/hcloud@1.22.1?classifier=sources

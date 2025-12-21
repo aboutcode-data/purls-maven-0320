@@ -3,3 +3,5 @@
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-sdms@3.13.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-sdms@3.14.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-sdms@3.15.0
+- pkg:maven/com.ontimize.boot/ontimize-boot-starter-sdms@3.15.1
+- pkg:maven/com.ontimize.boot/ontimize-boot-starter-sdms@3.15.2

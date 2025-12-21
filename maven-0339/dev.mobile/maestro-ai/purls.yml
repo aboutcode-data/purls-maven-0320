@@ -12,3 +12,4 @@
 - pkg:maven/dev.mobile/maestro-ai@1.39.6?classifier=sources
 - pkg:maven/dev.mobile/maestro-ai@1.39.7?classifier=sources
 - pkg:maven/dev.mobile/maestro-ai@1.39.8?classifier=sources
+- pkg:maven/dev.mobile/maestro-ai@1.40.0?classifier=sources

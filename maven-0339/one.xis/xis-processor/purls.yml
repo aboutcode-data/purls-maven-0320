@@ -1,0 +1,2 @@
+- pkg:maven/one.xis/xis-processor@0.1.0
+- pkg:maven/one.xis/xis-processor@0.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.19.3
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.19.3?classifier=sources
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.19.4
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.19.4?classifier=sources
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.19.5
+- pkg:maven/edu.gemini/lucuma-odb-binding_3@0.19.5?classifier=sources

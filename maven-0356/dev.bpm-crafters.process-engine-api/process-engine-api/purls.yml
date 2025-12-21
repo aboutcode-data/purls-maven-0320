@@ -34,3 +34,5 @@
 - pkg:maven/dev.bpm-crafters.process-engine-api/process-engine-api@0.9.0?classifier=sources
 - pkg:maven/dev.bpm-crafters.process-engine-api/process-engine-api@1.0
 - pkg:maven/dev.bpm-crafters.process-engine-api/process-engine-api@1.0?classifier=sources
+- pkg:maven/dev.bpm-crafters.process-engine-api/process-engine-api@1.1
+- pkg:maven/dev.bpm-crafters.process-engine-api/process-engine-api@1.1?classifier=sources

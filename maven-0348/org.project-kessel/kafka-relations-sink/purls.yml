@@ -2,3 +2,4 @@
 - pkg:maven/org.project-kessel/kafka-relations-sink@0.2?classifier=sources
 - pkg:maven/org.project-kessel/kafka-relations-sink@0.3?classifier=sources
 - pkg:maven/org.project-kessel/kafka-relations-sink@0.4?classifier=sources
+- pkg:maven/org.project-kessel/kafka-relations-sink@0.5?classifier=sources

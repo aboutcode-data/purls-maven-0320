@@ -1,0 +1,2 @@
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-20250502
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-20250502?classifier=sources

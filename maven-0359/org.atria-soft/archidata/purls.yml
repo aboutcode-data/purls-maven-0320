@@ -1,3 +1,11 @@
 - pkg:maven/org.atria-soft/archidata@0.26.2?classifier=sources
 - pkg:maven/org.atria-soft/archidata@0.26.4?classifier=sources
 - pkg:maven/org.atria-soft/archidata@0.27.0?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.27.2?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.28.0?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.28.2?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.28.4?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.29.0?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.30.0?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.30.2?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.30.4?classifier=sources

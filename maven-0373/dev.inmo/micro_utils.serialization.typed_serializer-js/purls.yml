@@ -168,6 +168,7 @@
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-js@0.25.2?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-js@0.25.3?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-js@0.25.4?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-js@0.25.5?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-js@0.4.35?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-js@0.4.36?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-js@0.5.0?classifier=sources

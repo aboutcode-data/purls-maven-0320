@@ -71,6 +71,12 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.22?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.23
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.23?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.24
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.24?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.25
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.25?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.26
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.26?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.2?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.3
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_3@1.11.3?classifier=sources

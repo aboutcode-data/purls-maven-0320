@@ -162,6 +162,8 @@
 - pkg:maven/org.finos.cdm/cdm-java@5.22.2?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-java@5.23.0
 - pkg:maven/org.finos.cdm/cdm-java@5.23.0?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-java@5.24.0
+- pkg:maven/org.finos.cdm/cdm-java@5.24.0?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-java@5.3.2
 - pkg:maven/org.finos.cdm/cdm-java@5.3.2?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-java@5.4.0
@@ -368,7 +370,15 @@
 - pkg:maven/org.finos.cdm/cdm-java@6.3.0?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-java@6.4.0
 - pkg:maven/org.finos.cdm/cdm-java@6.4.0?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-java@6.5.0
+- pkg:maven/org.finos.cdm/cdm-java@6.5.0?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.1
+- pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.10
+- pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.10?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.11
+- pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.11?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.12
+- pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.12?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.1?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.2
 - pkg:maven/org.finos.cdm/cdm-java@7.0.0-dev.2?classifier=sources

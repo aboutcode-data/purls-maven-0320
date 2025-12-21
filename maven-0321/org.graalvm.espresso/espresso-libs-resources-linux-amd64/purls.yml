@@ -12,6 +12,8 @@
 - pkg:maven/org.graalvm.espresso/espresso-libs-resources-linux-amd64@23.1.5?classifier=sources
 - pkg:maven/org.graalvm.espresso/espresso-libs-resources-linux-amd64@23.1.6
 - pkg:maven/org.graalvm.espresso/espresso-libs-resources-linux-amd64@23.1.6?classifier=sources
+- pkg:maven/org.graalvm.espresso/espresso-libs-resources-linux-amd64@23.1.7
+- pkg:maven/org.graalvm.espresso/espresso-libs-resources-linux-amd64@23.1.7?classifier=sources
 - pkg:maven/org.graalvm.espresso/espresso-libs-resources-linux-amd64@24.0.0
 - pkg:maven/org.graalvm.espresso/espresso-libs-resources-linux-amd64@24.0.0?classifier=sources
 - pkg:maven/org.graalvm.espresso/espresso-libs-resources-linux-amd64@24.0.1

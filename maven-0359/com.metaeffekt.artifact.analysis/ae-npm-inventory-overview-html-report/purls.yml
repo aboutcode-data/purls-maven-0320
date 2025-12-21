@@ -102,5 +102,7 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-npm-inventory-overview-html-report@0.135.8?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-npm-inventory-overview-html-report@0.135.9
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-npm-inventory-overview-html-report@0.135.9?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-npm-inventory-overview-html-report@0.136.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-npm-inventory-overview-html-report@0.136.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-npm-inventory-overview-html-report@0.99.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-npm-inventory-overview-html-report@0.99.0?classifier=sources

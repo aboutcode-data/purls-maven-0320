@@ -49,3 +49,4 @@
 - pkg:maven/io.dgraph/dgraph4j@24.0.0
 - pkg:maven/io.dgraph/dgraph4j@24.0.0?classifier=sources
 - pkg:maven/io.dgraph/dgraph4j@24.1.1?classifier=sources
+- pkg:maven/io.dgraph/dgraph4j@24.2.0?classifier=sources

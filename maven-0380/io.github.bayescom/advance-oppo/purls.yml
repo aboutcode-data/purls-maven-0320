@@ -1,2 +1,4 @@
 - pkg:maven/io.github.bayescom/advance-oppo@5.1.2_700?type=aar
 - pkg:maven/io.github.bayescom/advance-oppo@5.1.2_700_core?type=aar
+- pkg:maven/io.github.bayescom/advance-oppo@5.1.4_700?type=aar
+- pkg:maven/io.github.bayescom/advance-oppo@5.1.4_700_core?type=aar

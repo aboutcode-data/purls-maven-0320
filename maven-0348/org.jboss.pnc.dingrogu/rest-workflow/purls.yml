@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc.dingrogu/rest-workflow@0.1.2
+- pkg:maven/org.jboss.pnc.dingrogu/rest-workflow@0.1.2?classifier=sources

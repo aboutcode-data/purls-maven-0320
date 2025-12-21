@@ -254,6 +254,16 @@
 - pkg:maven/com.volcengine/volc-sdk-java@1.0.213?classifier=sources
 - pkg:maven/com.volcengine/volc-sdk-java@1.0.214
 - pkg:maven/com.volcengine/volc-sdk-java@1.0.214?classifier=sources
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.215
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.215?classifier=sources
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.216
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.216?classifier=sources
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.217
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.217?classifier=sources
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.218
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.218?classifier=sources
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.219
+- pkg:maven/com.volcengine/volc-sdk-java@1.0.219?classifier=sources
 - pkg:maven/com.volcengine/volc-sdk-java@1.0.21?classifier=sources
 - pkg:maven/com.volcengine/volc-sdk-java@1.0.22
 - pkg:maven/com.volcengine/volc-sdk-java@1.0.22?classifier=sources

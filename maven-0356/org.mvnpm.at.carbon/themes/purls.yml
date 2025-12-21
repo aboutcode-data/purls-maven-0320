@@ -21,3 +21,5 @@
 - pkg:maven/org.mvnpm.at.carbon/themes@11.61.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/themes@11.62.0
 - pkg:maven/org.mvnpm.at.carbon/themes@11.62.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/themes@11.63.0
+- pkg:maven/org.mvnpm.at.carbon/themes@11.63.0?classifier=sources

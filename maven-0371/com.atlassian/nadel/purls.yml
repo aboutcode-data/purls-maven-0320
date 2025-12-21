@@ -16,6 +16,10 @@
 - pkg:maven/com.atlassian/nadel@0.18479715746?classifier=sources
 - pkg:maven/com.atlassian/nadel@0.18515136146?classifier=sources
 - pkg:maven/com.atlassian/nadel@0.18827517972?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.19316691275?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.19657583801?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.19845821929?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.19875700101?classifier=sources
 - pkg:maven/com.atlassian/nadel@2021-04-06T00-56-36-28862be?classifier=sources
 - pkg:maven/com.atlassian/nadel@2021-04-07T00-49-12-5dc21fa?classifier=sources
 - pkg:maven/com.atlassian/nadel@2021-04-07T02-10-26-bab2937?classifier=sources

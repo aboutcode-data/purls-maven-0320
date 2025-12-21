@@ -1,0 +1,2 @@
+- pkg:maven/com.cpaas-karaden/cpaas-test-java@0.1.0?classifier=sources
+- pkg:maven/com.cpaas-karaden/cpaas-test-java@0.1.1?classifier=sources

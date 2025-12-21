@@ -76,3 +76,5 @@
 - pkg:maven/io.camunda.migration/process-migration@8.8.3?classifier=sources
 - pkg:maven/io.camunda.migration/process-migration@8.8.4
 - pkg:maven/io.camunda.migration/process-migration@8.8.4?classifier=sources
+- pkg:maven/io.camunda.migration/process-migration@8.8.5
+- pkg:maven/io.camunda.migration/process-migration@8.8.5?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.codingrodent.microprocessor/Z80Processor@3.2.0?classifier=sources
 - pkg:maven/com.codingrodent.microprocessor/Z80Processor@4.0.0?classifier=sources
 - pkg:maven/com.codingrodent.microprocessor/Z80Processor@4.2.0?classifier=sources
+- pkg:maven/com.codingrodent.microprocessor/Z80Processor@5.0.0?classifier=sources

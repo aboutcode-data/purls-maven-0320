@@ -1,3 +1,4 @@
 - pkg:maven/net.hyshan/hou-starter-coder@1.10.1?classifier=sources
+- pkg:maven/net.hyshan/hou-starter-coder@1.10.2?classifier=sources
 - pkg:maven/net.hyshan/hou-starter-coder@1.10?classifier=sources
 - pkg:maven/net.hyshan/hou-starter-coder@1.9?classifier=sources

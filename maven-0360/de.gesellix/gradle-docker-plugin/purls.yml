@@ -36,3 +36,4 @@
 - pkg:maven/de.gesellix/gradle-docker-plugin@2025-05-17T21-05-00?classifier=sources
 - pkg:maven/de.gesellix/gradle-docker-plugin@2025-11-01T22-05-00?classifier=sources
 - pkg:maven/de.gesellix/gradle-docker-plugin@2025-11-12T23-20-00?classifier=sources
+- pkg:maven/de.gesellix/gradle-docker-plugin@2025-12-01T21-21-00?classifier=sources

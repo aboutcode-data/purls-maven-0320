@@ -25,6 +25,11 @@
 - pkg:maven/dev.dbos/transact@0.7.0-m28?classifier=sources
 - pkg:maven/dev.dbos/transact@0.7.0-m29?classifier=sources
 - pkg:maven/dev.dbos/transact@0.7.0-m2?classifier=sources
+- pkg:maven/dev.dbos/transact@0.7.0-m30?classifier=sources
+- pkg:maven/dev.dbos/transact@0.7.0-m31?classifier=sources
+- pkg:maven/dev.dbos/transact@0.7.0-m32?classifier=sources
+- pkg:maven/dev.dbos/transact@0.7.0-m33?classifier=sources
+- pkg:maven/dev.dbos/transact@0.7.0-m34?classifier=sources
 - pkg:maven/dev.dbos/transact@0.7.0-m3?classifier=sources
 - pkg:maven/dev.dbos/transact@0.7.0-m5?classifier=sources
 - pkg:maven/dev.dbos/transact@0.7.0-m9?classifier=sources

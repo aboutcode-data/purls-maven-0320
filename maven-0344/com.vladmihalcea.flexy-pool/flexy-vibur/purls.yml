@@ -43,3 +43,4 @@
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-vibur@3.0.2
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-vibur@3.0.2?classifier=sources
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-vibur@3.1.0?classifier=sources
+- pkg:maven/com.vladmihalcea.flexy-pool/flexy-vibur@3.1.1?classifier=sources

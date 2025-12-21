@@ -5,3 +5,5 @@
 - pkg:maven/io.gitlab.ambu550/bugreaper-module-artemis@0.0.2?classifier=sources
 - pkg:maven/io.gitlab.ambu550/bugreaper-module-artemis@0.0.3-rc?classifier=sources
 - pkg:maven/io.gitlab.ambu550/bugreaper-module-artemis@0.0.3?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-artemis@0.0.4?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-artemis@0.1.0?classifier=sources

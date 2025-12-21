@@ -50,3 +50,5 @@
 - pkg:maven/pl.grzeslowski.jSupla/protocol@3.22.0?classifier=sources
 - pkg:maven/pl.grzeslowski.jSupla/protocol@3.23.0
 - pkg:maven/pl.grzeslowski.jSupla/protocol@3.23.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocol@4.0.0
+- pkg:maven/pl.grzeslowski.jSupla/protocol@4.0.0?classifier=sources

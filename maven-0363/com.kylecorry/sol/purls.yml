@@ -20,3 +20,6 @@
 - pkg:maven/com.kylecorry/sol@13.1.1?classifier=sources
 - pkg:maven/com.kylecorry/sol@14.0.0?classifier=sources
 - pkg:maven/com.kylecorry/sol@14.1.0?classifier=sources
+- pkg:maven/com.kylecorry/sol@15.0.0?classifier=sources
+- pkg:maven/com.kylecorry/sol@15.1.0?classifier=sources
+- pkg:maven/com.kylecorry/sol@15.2.0?classifier=sources

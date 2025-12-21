@@ -3,3 +3,4 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-tsf-tls-plugin@2.1.0.0-2024.0.2-RC2?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-tsf-tls-plugin@2.1.0.0-2024.0.2?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-tsf-tls-plugin@2.1.0.1-2024.0.2?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-tsf-tls-plugin@2.1.0.2-2024.0.2?classifier=sources

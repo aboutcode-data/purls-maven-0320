@@ -4,3 +4,4 @@
 - pkg:maven/com.applovin/axon-sdk@1.0.3?classifier=sources
 - pkg:maven/com.applovin/axon-sdk@1.0.4?classifier=sources
 - pkg:maven/com.applovin/axon-sdk@1.0.6?classifier=sources
+- pkg:maven/com.applovin/axon-sdk@1.1.0?classifier=sources

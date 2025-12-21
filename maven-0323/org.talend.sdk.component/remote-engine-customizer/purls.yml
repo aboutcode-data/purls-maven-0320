@@ -303,5 +303,6 @@
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.84.3?classifier=sources
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.84.4?classifier=sources
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.85.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/remote-engine-customizer@1.87.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@10.57.0
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer@10.57.0?classifier=sources

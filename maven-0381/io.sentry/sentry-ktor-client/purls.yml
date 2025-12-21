@@ -12,3 +12,5 @@
 - pkg:maven/io.sentry/sentry-ktor-client@8.24.0?classifier=sources
 - pkg:maven/io.sentry/sentry-ktor-client@8.25.0?classifier=sources
 - pkg:maven/io.sentry/sentry-ktor-client@8.26.0?classifier=sources
+- pkg:maven/io.sentry/sentry-ktor-client@8.27.0?classifier=sources
+- pkg:maven/io.sentry/sentry-ktor-client@8.27.1?classifier=sources

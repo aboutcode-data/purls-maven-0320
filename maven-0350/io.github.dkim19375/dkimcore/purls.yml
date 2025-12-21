@@ -51,3 +51,5 @@
 - pkg:maven/io.github.dkim19375/dkimcore@1.5.5?classifier=sources
 - pkg:maven/io.github.dkim19375/dkimcore@1.6.0?classifier=sources
 - pkg:maven/io.github.dkim19375/dkimcore@1.6.1?classifier=sources
+- pkg:maven/io.github.dkim19375/dkimcore@1.6.2?classifier=sources
+- pkg:maven/io.github.dkim19375/dkimcore@1.6.3?classifier=sources

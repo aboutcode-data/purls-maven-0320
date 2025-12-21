@@ -359,6 +359,7 @@
 - pkg:maven/org.epos-eu.ics-c/db-api@3.5.0?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/db-api@3.5.1?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/db-api@3.5.2?classifier=sources
+- pkg:maven/org.epos-eu.ics-c/db-api@3.5.3?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/db-api@CI_COMMIT_REF_NAME
 - pkg:maven/org.epos-eu.ics-c/db-api@CI_COMMIT_REF_NAME?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/db-api@main

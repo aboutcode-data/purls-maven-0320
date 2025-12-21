@@ -1,3 +1,5 @@
 - pkg:maven/com.dbvis/mongo-jdbc-standalone@1.12?classifier=sources
 - pkg:maven/com.dbvis/mongo-jdbc-standalone@1.13?classifier=sources
 - pkg:maven/com.dbvis/mongo-jdbc-standalone@1.19?classifier=sources
+- pkg:maven/com.dbvis/mongo-jdbc-standalone@1.21.1?classifier=sources
+- pkg:maven/com.dbvis/mongo-jdbc-standalone@1.21?classifier=sources

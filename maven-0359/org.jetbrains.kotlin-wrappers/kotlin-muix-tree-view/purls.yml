@@ -27,6 +27,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.10.9-7.28.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.11.0-7.28.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.11.1-7.28.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.11.10-7.28.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.11.11-7.28.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.11.12-7.28.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.11.2-7.28.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.11.3-7.28.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view@2025.11.4-7.28.0?classifier=sources

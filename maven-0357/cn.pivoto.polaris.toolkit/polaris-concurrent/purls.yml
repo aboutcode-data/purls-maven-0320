@@ -57,6 +57,7 @@
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-concurrent@3.5.10?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-concurrent@3.5.11?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-concurrent@3.5.12?classifier=sources
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-concurrent@3.5.13?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-concurrent@3.5.1?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-concurrent@3.5.2?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-concurrent@3.5.3?classifier=sources

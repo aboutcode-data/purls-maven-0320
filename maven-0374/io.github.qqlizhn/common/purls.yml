@@ -22,6 +22,7 @@
 - pkg:maven/io.github.qqlizhn/common@1.0.30?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.31?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.33?type=aar
+- pkg:maven/io.github.qqlizhn/common@1.0.34?type=aar
 - pkg:maven/io.github.qqlizhn/common@1.0.3?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.4?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.5?classifier=sources
@@ -29,3 +30,9 @@
 - pkg:maven/io.github.qqlizhn/common@1.0.7?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.8?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.9?classifier=sources
+- pkg:maven/io.github.qqlizhn/common@1.1.35?type=aar
+- pkg:maven/io.github.qqlizhn/common@1.1.40?type=aar
+- pkg:maven/io.github.qqlizhn/common@1.1.45?type=aar
+- pkg:maven/io.github.qqlizhn/common@1.1.51?type=aar
+- pkg:maven/io.github.qqlizhn/common@1.1.52?type=aar
+- pkg:maven/io.github.qqlizhn/common@1.1.53?type=aar

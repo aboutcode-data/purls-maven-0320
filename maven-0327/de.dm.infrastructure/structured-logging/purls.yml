@@ -22,3 +22,4 @@
 - pkg:maven/de.dm.infrastructure/structured-logging@3.0.1?classifier=sources
 - pkg:maven/de.dm.infrastructure/structured-logging@3.0.2
 - pkg:maven/de.dm.infrastructure/structured-logging@3.0.2?classifier=sources
+- pkg:maven/de.dm.infrastructure/structured-logging@4.0.0-RC1?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/org.fryske-akademy/udpipe-service@4.8?type=war
 - pkg:maven/org.fryske-akademy/udpipe-service@4.9?classifier=sources
 - pkg:maven/org.fryske-akademy/udpipe-service@4.9?type=war
+- pkg:maven/org.fryske-akademy/udpipe-service@5.0?classifier=sources

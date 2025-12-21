@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.opentelemetry.android/core@0.0.0?classifier=sources
+- pkg:maven/software.amazon.opentelemetry.android/core@1.0.0?classifier=sources

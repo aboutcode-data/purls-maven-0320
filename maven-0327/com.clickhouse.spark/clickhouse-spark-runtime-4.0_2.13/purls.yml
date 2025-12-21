@@ -1,0 +1,1 @@
+- pkg:maven/com.clickhouse.spark/clickhouse-spark-runtime-4.0_2.13@0.9.0?classifier=sources

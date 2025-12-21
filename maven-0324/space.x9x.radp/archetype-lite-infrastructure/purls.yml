@@ -7,6 +7,7 @@
 - pkg:maven/space.x9x.radp/archetype-lite-infrastructure@2.25?classifier=sources
 - pkg:maven/space.x9x.radp/archetype-lite-infrastructure@2.26.1?classifier=sources
 - pkg:maven/space.x9x.radp/archetype-lite-infrastructure@2.26.2?classifier=sources
+- pkg:maven/space.x9x.radp/archetype-lite-infrastructure@2.26.3?classifier=sources
 - pkg:maven/space.x9x.radp/archetype-lite-infrastructure@2.26?classifier=sources
 - pkg:maven/space.x9x.radp/archetype-lite-infrastructure@3.20.1?classifier=sources
 - pkg:maven/space.x9x.radp/archetype-lite-infrastructure@3.20.2?classifier=sources

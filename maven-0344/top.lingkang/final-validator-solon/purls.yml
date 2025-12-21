@@ -15,3 +15,4 @@
 - pkg:maven/top.lingkang/final-validator-solon@2.3.4?classifier=sources
 - pkg:maven/top.lingkang/final-validator-solon@2.3.5?classifier=sources
 - pkg:maven/top.lingkang/final-validator-solon@2.4.0?classifier=sources
+- pkg:maven/top.lingkang/final-validator-solon@3.0.0?classifier=sources

@@ -51,3 +51,4 @@
 - pkg:maven/au.csiro.pathling/terminology@8.0.2?classifier=sources
 - pkg:maven/au.csiro.pathling/terminology@8.1.0?classifier=sources
 - pkg:maven/au.csiro.pathling/terminology@9.0.0?classifier=sources
+- pkg:maven/au.csiro.pathling/terminology@9.1.0?classifier=sources

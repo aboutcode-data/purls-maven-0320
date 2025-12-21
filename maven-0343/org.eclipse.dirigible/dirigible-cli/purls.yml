@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-cli@12.43.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-cli@12.44.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-cli@12.45.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-cli@12.46.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-cli@12.47.0?classifier=sources

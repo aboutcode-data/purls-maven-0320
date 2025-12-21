@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-redis@0.51.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-redis@0.53.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-redis@0.53.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-redis@0.57.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-redis@0.57.0?classifier=sources

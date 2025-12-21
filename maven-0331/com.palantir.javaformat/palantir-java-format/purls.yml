@@ -144,4 +144,5 @@
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.80.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.81.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.82.0?classifier=sources
+- pkg:maven/com.palantir.javaformat/palantir-java-format@2.83.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format@2.9.0?classifier=sources

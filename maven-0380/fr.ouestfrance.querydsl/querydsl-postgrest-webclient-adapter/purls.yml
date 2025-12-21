@@ -34,3 +34,4 @@
 - pkg:maven/fr.ouestfrance.querydsl/querydsl-postgrest-webclient-adapter@1.4.8
 - pkg:maven/fr.ouestfrance.querydsl/querydsl-postgrest-webclient-adapter@1.4.8?classifier=sources
 - pkg:maven/fr.ouestfrance.querydsl/querydsl-postgrest-webclient-adapter@1.4.9?classifier=sources
+- pkg:maven/fr.ouestfrance.querydsl/querydsl-postgrest-webclient-adapter@2.0.0?classifier=sources

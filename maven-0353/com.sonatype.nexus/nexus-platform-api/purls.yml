@@ -130,6 +130,7 @@
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@5.2.12-01?classifier=sources
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@5.2.13-01?classifier=sources
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@5.2.14-01?classifier=sources
+- pkg:maven/com.sonatype.nexus/nexus-platform-api@5.2.15-01?classifier=sources
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@5.2.2-01
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@5.2.3-01
 - pkg:maven/com.sonatype.nexus/nexus-platform-api@5.2.4-01

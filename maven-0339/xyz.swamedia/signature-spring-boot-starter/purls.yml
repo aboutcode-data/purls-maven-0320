@@ -1,1 +1,2 @@
 - pkg:maven/xyz.swamedia/signature-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/xyz.swamedia/signature-spring-boot-starter@1.1.1?classifier=sources

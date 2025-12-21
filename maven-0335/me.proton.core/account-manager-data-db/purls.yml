@@ -135,6 +135,7 @@
 - pkg:maven/me.proton.core/account-manager-data-db@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@35.2.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-data-db@36.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data-db@5.0.0?classifier=sources

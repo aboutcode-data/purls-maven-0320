@@ -2,9 +2,16 @@
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.11?classifier=sources
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.12?classifier=sources
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.13?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.14?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.15?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.16?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.17?classifier=sources
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.4?classifier=sources
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.5?classifier=sources
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.6?classifier=sources
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.7?classifier=sources
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.8?classifier=sources
 - pkg:maven/io.github.3moly/compose-data-viz-jvm@0.0.9?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-jvm@0.1.0?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-jvm@0.1.1?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-jvm@0.1.2?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.shawyeok/chinese-workday-calendar@2025.0.0?classifier=sources
+- pkg:maven/io.github.shawyeok/chinese-workday-calendar@2026.0.0?classifier=sources

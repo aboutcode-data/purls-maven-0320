@@ -42,5 +42,6 @@
 - pkg:maven/org.apache.mina/mina-parent@2.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.mina/mina-parent@2.2.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.mina/mina-parent@2.2.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.mina/mina-parent@2.2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.mina/mina-parent@3.0.0-M1?classifier=source-release&type=zip
 - pkg:maven/org.apache.mina/mina-parent@3.0.0-M2?classifier=source-release&type=zip

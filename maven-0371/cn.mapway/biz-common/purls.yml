@@ -6,3 +6,4 @@
 - pkg:maven/cn.mapway/biz-common@1.5.0?classifier=sources
 - pkg:maven/cn.mapway/biz-common@1.7.0
 - pkg:maven/cn.mapway/biz-common@1.7.0?classifier=sources
+- pkg:maven/cn.mapway/biz-common@1.8.47?classifier=sources

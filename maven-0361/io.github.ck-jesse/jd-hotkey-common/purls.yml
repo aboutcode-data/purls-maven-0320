@@ -10,3 +10,4 @@
 - pkg:maven/io.github.ck-jesse/jd-hotkey-common@1.0.39?classifier=sources
 - pkg:maven/io.github.ck-jesse/jd-hotkey-common@2.0.0
 - pkg:maven/io.github.ck-jesse/jd-hotkey-common@2.0.0?classifier=sources
+- pkg:maven/io.github.ck-jesse/jd-hotkey-common@2.0.1?classifier=sources

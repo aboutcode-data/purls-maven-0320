@@ -10,3 +10,5 @@
 - pkg:maven/org.checkerframework/stubparser@3.26.2?classifier=sources
 - pkg:maven/org.checkerframework/stubparser@3.26.4
 - pkg:maven/org.checkerframework/stubparser@3.26.4?classifier=sources
+- pkg:maven/org.checkerframework/stubparser@3.27.1
+- pkg:maven/org.checkerframework/stubparser@3.27.1?classifier=sources

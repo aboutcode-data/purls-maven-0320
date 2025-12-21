@@ -8,6 +8,7 @@
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.8.0?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.8.10?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.8.11?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.8.12?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.8.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.8.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.8.3?classifier=sources
@@ -24,3 +25,5 @@
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.9.0?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.9.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.9.2?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.9.3?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.automation/gravitee-apim-rest-api-automation-rest@4.9.4?classifier=sources

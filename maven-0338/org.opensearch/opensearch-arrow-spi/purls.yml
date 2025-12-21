@@ -2,4 +2,5 @@
 - pkg:maven/org.opensearch/opensearch-arrow-spi@2.19.1?classifier=sources
 - pkg:maven/org.opensearch/opensearch-arrow-spi@2.19.2?classifier=sources
 - pkg:maven/org.opensearch/opensearch-arrow-spi@2.19.3?classifier=sources
+- pkg:maven/org.opensearch/opensearch-arrow-spi@2.19.4?classifier=sources
 - pkg:maven/org.opensearch/opensearch-arrow-spi@3.0.0-alpha1?classifier=sources

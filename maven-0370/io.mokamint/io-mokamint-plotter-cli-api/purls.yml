@@ -1,0 +1,2 @@
+- pkg:maven/io.mokamint/io-mokamint-plotter-cli-api@1.6.2
+- pkg:maven/io.mokamint/io-mokamint-plotter-cli-api@1.6.2?classifier=sources

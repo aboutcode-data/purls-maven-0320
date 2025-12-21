@@ -4,6 +4,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jwt@1.1.104?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jwt@1.1.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jwt@1.1.106?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jwt@1.1.107?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jwt@1.1.17
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jwt@1.1.18
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jwt@1.1.19

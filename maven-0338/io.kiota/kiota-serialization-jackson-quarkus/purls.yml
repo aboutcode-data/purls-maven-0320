@@ -21,5 +21,7 @@
 - pkg:maven/io.kiota/kiota-serialization-jackson-quarkus@0.0.26?classifier=sources
 - pkg:maven/io.kiota/kiota-serialization-jackson-quarkus@0.0.28?classifier=sources
 - pkg:maven/io.kiota/kiota-serialization-jackson-quarkus@0.0.29?classifier=sources
+- pkg:maven/io.kiota/kiota-serialization-jackson-quarkus@0.0.30?classifier=sources
+- pkg:maven/io.kiota/kiota-serialization-jackson-quarkus@0.0.31?classifier=sources
 - pkg:maven/io.kiota/kiota-serialization-jackson-quarkus@0.0.9
 - pkg:maven/io.kiota/kiota-serialization-jackson-quarkus@0.0.9?classifier=sources

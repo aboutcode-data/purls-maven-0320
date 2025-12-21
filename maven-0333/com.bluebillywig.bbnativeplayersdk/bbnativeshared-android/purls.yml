@@ -76,5 +76,8 @@
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@8.33.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@8.34.1?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@8.35.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@8.36.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@8.37.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@8.38.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@8.4.3?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared-android@8.8.0?classifier=sources

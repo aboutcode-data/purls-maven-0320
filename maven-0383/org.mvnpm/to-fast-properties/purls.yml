@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/to-fast-properties@1.0.3?classifier=sources
 - pkg:maven/org.mvnpm/to-fast-properties@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/to-fast-properties@3.0.1
+- pkg:maven/org.mvnpm/to-fast-properties@3.0.1?classifier=sources
 - pkg:maven/org.mvnpm/to-fast-properties@4.0.0?classifier=sources

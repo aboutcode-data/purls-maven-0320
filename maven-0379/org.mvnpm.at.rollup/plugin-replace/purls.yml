@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.rollup/plugin-replace@5.0.7?classifier=sources
 - pkg:maven/org.mvnpm.at.rollup/plugin-replace@6.0.2?classifier=sources
+- pkg:maven/org.mvnpm.at.rollup/plugin-replace@6.0.3
+- pkg:maven/org.mvnpm.at.rollup/plugin-replace@6.0.3?classifier=sources

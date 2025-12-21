@@ -1,0 +1,2 @@
+- pkg:maven/com.biit-solutions.drools/drools-engine-core@1.2.193?classifier=sources
+- pkg:maven/com.biit-solutions.drools/drools-engine-core@1.2.194?classifier=sources

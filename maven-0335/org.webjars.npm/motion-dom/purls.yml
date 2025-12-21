@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/motion-dom@12.15.0
 - pkg:maven/org.webjars.npm/motion-dom@12.16.0
 - pkg:maven/org.webjars.npm/motion-dom@12.23.1
+- pkg:maven/org.webjars.npm/motion-dom@12.23.23

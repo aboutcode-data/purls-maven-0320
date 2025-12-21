@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/tiptap__extension-code-block@2.0.0-beta.37?classifier=sources
 - pkg:maven/org.webjars.npm/tiptap__extension-code-block@2.1.0-rc.1
 - pkg:maven/org.webjars.npm/tiptap__extension-code-block@2.1.0-rc.1?classifier=sources
+- pkg:maven/org.webjars.npm/tiptap__extension-code-block@3.10.2

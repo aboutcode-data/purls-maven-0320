@@ -1,3 +1,4 @@
 - pkg:maven/io.kestra.plugin/plugin-graphql@0.23.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-graphql@0.24.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-graphql@1.0.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-graphql@1.1.0?classifier=sources

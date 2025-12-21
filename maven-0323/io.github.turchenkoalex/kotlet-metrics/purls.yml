@@ -52,4 +52,10 @@
 - pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.66.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.67.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.68.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.69.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.70.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.71.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.72.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.73.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.74.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-metrics@0.9.0?classifier=sources

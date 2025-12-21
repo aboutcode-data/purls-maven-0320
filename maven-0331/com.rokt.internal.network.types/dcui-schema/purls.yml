@@ -11,3 +11,4 @@
 - pkg:maven/com.rokt.internal.network.types/dcui-schema@2.3.0-loadinganim1?classifier=sources
 - pkg:maven/com.rokt.internal.network.types/dcui-schema@2.3.0-minimized1?classifier=sources
 - pkg:maven/com.rokt.internal.network.types/dcui-schema@2.3.0-minimized2?classifier=sources
+- pkg:maven/com.rokt.internal.network.types/dcui-schema@2.3.0?classifier=sources

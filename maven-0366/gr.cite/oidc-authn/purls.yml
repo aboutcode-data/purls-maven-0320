@@ -4,3 +4,4 @@
 - pkg:maven/gr.cite/oidc-authn@2.1.0?classifier=sources
 - pkg:maven/gr.cite/oidc-authn@2.2.2
 - pkg:maven/gr.cite/oidc-authn@2.2.2?classifier=sources
+- pkg:maven/gr.cite/oidc-authn@2.2.8?classifier=sources

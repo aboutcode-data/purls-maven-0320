@@ -10,3 +10,7 @@
 - pkg:maven/org.mvnpm.at.eslint/core@0.15.2?classifier=sources
 - pkg:maven/org.mvnpm.at.eslint/core@0.16.0
 - pkg:maven/org.mvnpm.at.eslint/core@0.16.0?classifier=sources
+- pkg:maven/org.mvnpm.at.eslint/core@0.17.0
+- pkg:maven/org.mvnpm.at.eslint/core@0.17.0?classifier=sources
+- pkg:maven/org.mvnpm.at.eslint/core@1.0.0
+- pkg:maven/org.mvnpm.at.eslint/core@1.0.0?classifier=sources

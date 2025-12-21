@@ -29,3 +29,4 @@
 - pkg:maven/ch.astorm/smtp4j@4.0.0?classifier=sources
 - pkg:maven/ch.astorm/smtp4j@4.1.0?classifier=sources
 - pkg:maven/ch.astorm/smtp4j@4.2.0?classifier=sources
+- pkg:maven/ch.astorm/smtp4j@4.2.1?classifier=sources

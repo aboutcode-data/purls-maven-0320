@@ -11,6 +11,8 @@
 - pkg:maven/com.stackone/stackone-client-java@0.14.2?classifier=sources
 - pkg:maven/com.stackone/stackone-client-java@0.14.3?classifier=sources
 - pkg:maven/com.stackone/stackone-client-java@0.15.0?classifier=sources
+- pkg:maven/com.stackone/stackone-client-java@0.16.0?classifier=sources
+- pkg:maven/com.stackone/stackone-client-java@0.17.0?classifier=sources
 - pkg:maven/com.stackone/stackone-client-java@0.2.1?classifier=sources
 - pkg:maven/com.stackone/stackone-client-java@0.4.2?classifier=sources
 - pkg:maven/com.stackone/stackone-client-java@0.5.0?classifier=sources

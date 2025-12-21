@@ -1,2 +1,5 @@
 - pkg:maven/at.asitplus.signum/indispensable-watchossimulatorarm64@3.16.3?classifier=sources
 - pkg:maven/at.asitplus.signum/indispensable-watchossimulatorarm64@3.17.0?classifier=sources
+- pkg:maven/at.asitplus.signum/indispensable-watchossimulatorarm64@3.18.0?classifier=sources
+- pkg:maven/at.asitplus.signum/indispensable-watchossimulatorarm64@3.18.1?classifier=sources
+- pkg:maven/at.asitplus.signum/indispensable-watchossimulatorarm64@3.18.2?classifier=sources

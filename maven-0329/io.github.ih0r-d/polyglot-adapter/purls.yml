@@ -1,0 +1,5 @@
+- pkg:maven/io.github.ih0r-d/polyglot-adapter@0.0.14?classifier=sources
+- pkg:maven/io.github.ih0r-d/polyglot-adapter@0.0.15?classifier=sources
+- pkg:maven/io.github.ih0r-d/polyglot-adapter@0.0.17?classifier=sources
+- pkg:maven/io.github.ih0r-d/polyglot-adapter@0.0.18?classifier=sources
+- pkg:maven/io.github.ih0r-d/polyglot-adapter@0.0.19?classifier=sources

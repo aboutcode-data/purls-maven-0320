@@ -1,0 +1,5 @@
+- pkg:maven/xyz.meowing/vexel-1.21.8-fabric@120?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.8-fabric@121?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.8-fabric@122?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.8-fabric@123?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.8-fabric@124?classifier=sources

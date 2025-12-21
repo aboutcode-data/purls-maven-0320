@@ -5,6 +5,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.104?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.106?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.107?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.11
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.12
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.distributedMap@2.0.13

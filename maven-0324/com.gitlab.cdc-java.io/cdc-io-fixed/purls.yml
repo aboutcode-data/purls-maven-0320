@@ -1,1 +1,2 @@
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-fixed@0.55.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-fixed@0.55.1?classifier=sources

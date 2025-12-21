@@ -1,5 +1,7 @@
 - pkg:maven/org.mvnpm/undici@5.28.2?classifier=sources
 - pkg:maven/org.mvnpm/undici@5.28.3?classifier=sources
+- pkg:maven/org.mvnpm/undici@5.29.0
+- pkg:maven/org.mvnpm/undici@5.29.0?classifier=sources
 - pkg:maven/org.mvnpm/undici@6.21.2?classifier=sources
 - pkg:maven/org.mvnpm/undici@6.21.3
 - pkg:maven/org.mvnpm/undici@6.21.3?classifier=sources

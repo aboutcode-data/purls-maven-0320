@@ -7,6 +7,9 @@
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.157?classifier=sources
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.161?classifier=sources
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.162?classifier=sources
+- pkg:maven/io.github.telepact/telepact@1.0.0-alpha.164?classifier=sources
+- pkg:maven/io.github.telepact/telepact@1.0.0-alpha.165?classifier=sources
+- pkg:maven/io.github.telepact/telepact@1.0.0-alpha.167?classifier=sources
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.17?classifier=sources
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.35?classifier=sources
 - pkg:maven/io.github.telepact/telepact@1.0.0-alpha.95?classifier=sources

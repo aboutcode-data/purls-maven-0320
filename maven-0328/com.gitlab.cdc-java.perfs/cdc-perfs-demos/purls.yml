@@ -59,3 +59,4 @@
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-demos@0.52.2
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-demos@0.52.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-demos@0.53.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-demos@0.53.1?classifier=sources

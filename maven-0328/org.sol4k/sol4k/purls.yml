@@ -33,6 +33,7 @@
 - pkg:maven/org.sol4k/sol4k@0.5.15?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.5.16?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.5.17?classifier=sources
+- pkg:maven/org.sol4k/sol4k@0.5.18?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.5.1?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.5.2?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.5.3?classifier=sources
@@ -42,3 +43,4 @@
 - pkg:maven/org.sol4k/sol4k@0.5.7?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.5.8?classifier=sources
 - pkg:maven/org.sol4k/sol4k@0.5.9?classifier=sources
+- pkg:maven/org.sol4k/sol4k@0.6.0?classifier=sources

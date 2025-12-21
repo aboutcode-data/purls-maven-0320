@@ -41,3 +41,4 @@
 - pkg:maven/com.aliyun/schedulerx220190430@2.2.0
 - pkg:maven/com.aliyun/schedulerx220190430@2.2.0?classifier=sources
 - pkg:maven/com.aliyun/schedulerx220190430@2.3.0?classifier=sources
+- pkg:maven/com.aliyun/schedulerx220190430@2.3.1?classifier=sources

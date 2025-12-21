@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.external/updater@RELEASE250
 - pkg:maven/org.netbeans.external/updater@RELEASE260
 - pkg:maven/org.netbeans.external/updater@RELEASE270
+- pkg:maven/org.netbeans.external/updater@RELEASE280
 - pkg:maven/org.netbeans.external/updater@RELEASE90

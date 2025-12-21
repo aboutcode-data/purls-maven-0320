@@ -1,0 +1,2 @@
+- pkg:maven/com.raqsoft.report/nlq@20251030
+- pkg:maven/com.raqsoft.report/nlq@20251030?classifier=sources

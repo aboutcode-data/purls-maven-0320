@@ -4,3 +4,4 @@
 - pkg:maven/au.concepta/playwright-kotlin@0.2.0?classifier=sources
 - pkg:maven/au.concepta/playwright-kotlin@0.3.0?classifier=sources
 - pkg:maven/au.concepta/playwright-kotlin@0.4.0?classifier=sources
+- pkg:maven/au.concepta/playwright-kotlin@0.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/site.addzero/tool-curl@0.0.668?classifier=sources
+- pkg:maven/site.addzero/tool-curl@0.0.672?classifier=sources

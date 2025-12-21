@@ -2,3 +2,4 @@
 - pkg:maven/com.aliyun/alibabacloud-oss-v2@0.1.0-alpha2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-oss-v2@0.1.0-alpha3?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-oss-v2@0.1.0-beta1?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-oss-v2@0.2.0-beta?classifier=sources

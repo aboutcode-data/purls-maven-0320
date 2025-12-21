@@ -47,3 +47,4 @@
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@1.6.3
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@1.6.3?classifier=sources
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@1.6.4?classifier=sources
+- pkg:maven/com.thoughtworks.gauge.maven/gauge-maven-plugin@2.0.0?classifier=sources

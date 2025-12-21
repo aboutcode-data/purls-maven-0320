@@ -140,3 +140,4 @@
 - pkg:maven/org.infinispan/infinispan-console@16.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-console@16.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-console@16.0.4.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-console@16.0.5.Final?classifier=sources

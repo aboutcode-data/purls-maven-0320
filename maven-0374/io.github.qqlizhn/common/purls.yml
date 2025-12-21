@@ -21,6 +21,7 @@
 - pkg:maven/io.github.qqlizhn/common@1.0.2?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.30?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.31?classifier=sources
+- pkg:maven/io.github.qqlizhn/common@1.0.33?type=aar
 - pkg:maven/io.github.qqlizhn/common@1.0.3?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.4?classifier=sources
 - pkg:maven/io.github.qqlizhn/common@1.0.5?classifier=sources

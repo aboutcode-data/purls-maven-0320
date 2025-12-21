@@ -14,6 +14,8 @@
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.3.8?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.3.9?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.4.0?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.4.10?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.4.11?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.4.1?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.4.2?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.4.3?classifier=sources
@@ -28,4 +30,6 @@
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.5.1?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.5.2?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.5.3?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.5.4?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@3.5.5?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-jdbc-plus-commons@4.0.0-M1?classifier=sources

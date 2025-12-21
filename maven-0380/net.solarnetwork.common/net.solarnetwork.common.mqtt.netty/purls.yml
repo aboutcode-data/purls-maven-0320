@@ -16,3 +16,5 @@
 - pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.netty@4.0.3?classifier=sources
 - pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.netty@4.1.0
 - pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.netty@4.1.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.netty@5.0.0
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.netty@5.0.0?classifier=sources

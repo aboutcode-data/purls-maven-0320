@@ -21,3 +21,4 @@
 - pkg:maven/host.anzo/commons-core-annotations@1.54?classifier=sources
 - pkg:maven/host.anzo/commons-core-annotations@1.55?classifier=sources
 - pkg:maven/host.anzo/commons-core-annotations@1.56?classifier=sources
+- pkg:maven/host.anzo/commons-core-annotations@1.57?classifier=sources

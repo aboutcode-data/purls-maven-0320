@@ -1,1 +1,2 @@
 - pkg:maven/digital.guimauve.webhooks/discord-watchosx64@1.0.0?classifier=sources
+- pkg:maven/digital.guimauve.webhooks/discord-watchosx64@1.0.1?classifier=sources

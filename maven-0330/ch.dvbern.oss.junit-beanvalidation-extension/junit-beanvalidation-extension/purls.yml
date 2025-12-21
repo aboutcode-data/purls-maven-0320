@@ -8,3 +8,5 @@
 - pkg:maven/ch.dvbern.oss.junit-beanvalidation-extension/junit-beanvalidation-extension@1.0.3?classifier=sources
 - pkg:maven/ch.dvbern.oss.junit-beanvalidation-extension/junit-beanvalidation-extension@2.0.0
 - pkg:maven/ch.dvbern.oss.junit-beanvalidation-extension/junit-beanvalidation-extension@2.0.0?classifier=sources
+- pkg:maven/ch.dvbern.oss.junit-beanvalidation-extension/junit-beanvalidation-extension@3.0.1
+- pkg:maven/ch.dvbern.oss.junit-beanvalidation-extension/junit-beanvalidation-extension@3.0.1?classifier=sources

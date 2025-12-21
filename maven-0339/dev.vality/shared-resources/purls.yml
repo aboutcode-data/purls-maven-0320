@@ -22,3 +22,5 @@
 - pkg:maven/dev.vality/shared-resources@2.1.0?classifier=sources
 - pkg:maven/dev.vality/shared-resources@3.0.0
 - pkg:maven/dev.vality/shared-resources@3.0.0?classifier=sources
+- pkg:maven/dev.vality/shared-resources@3.0.1
+- pkg:maven/dev.vality/shared-resources@3.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.melin.superior/superior-dameng-parser@4.0.17
 - pkg:maven/io.github.melin.superior/superior-dameng-parser@4.0.17?classifier=sources
+- pkg:maven/io.github.melin.superior/superior-dameng-parser@4.0.18
+- pkg:maven/io.github.melin.superior/superior-dameng-parser@4.0.18?classifier=sources

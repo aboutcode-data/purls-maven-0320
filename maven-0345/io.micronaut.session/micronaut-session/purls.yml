@@ -8,3 +8,4 @@
 - pkg:maven/io.micronaut.session/micronaut-session@4.4.0?classifier=sources
 - pkg:maven/io.micronaut.session/micronaut-session@4.5.0?classifier=sources
 - pkg:maven/io.micronaut.session/micronaut-session@4.6.0?classifier=sources
+- pkg:maven/io.micronaut.session/micronaut-session@4.7.0?classifier=sources

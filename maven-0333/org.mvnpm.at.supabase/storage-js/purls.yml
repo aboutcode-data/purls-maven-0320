@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.7.1
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.7.1?classifier=sources

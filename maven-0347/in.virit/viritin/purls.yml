@@ -72,6 +72,8 @@
 - pkg:maven/in.virit/viritin@2.14.4?classifier=sources
 - pkg:maven/in.virit/viritin@2.14.5?classifier=sources
 - pkg:maven/in.virit/viritin@2.15.0?classifier=sources
+- pkg:maven/in.virit/viritin@2.15.1?classifier=sources
+- pkg:maven/in.virit/viritin@2.15.2?classifier=sources
 - pkg:maven/in.virit/viritin@2.2.0
 - pkg:maven/in.virit/viritin@2.2.0?classifier=sources
 - pkg:maven/in.virit/viritin@2.3.0

@@ -12,6 +12,8 @@
 - pkg:maven/io.opencaesar.adapters/owl2oml-gradle@2.11.2?classifier=sources
 - pkg:maven/io.opencaesar.adapters/owl2oml-gradle@2.12.0
 - pkg:maven/io.opencaesar.adapters/owl2oml-gradle@2.12.0?classifier=sources
+- pkg:maven/io.opencaesar.adapters/owl2oml-gradle@2.13.0
+- pkg:maven/io.opencaesar.adapters/owl2oml-gradle@2.13.0?classifier=sources
 - pkg:maven/io.opencaesar.adapters/owl2oml-gradle@2.6.0
 - pkg:maven/io.opencaesar.adapters/owl2oml-gradle@2.6.0?classifier=sources
 - pkg:maven/io.opencaesar.adapters/owl2oml-gradle@2.7.0

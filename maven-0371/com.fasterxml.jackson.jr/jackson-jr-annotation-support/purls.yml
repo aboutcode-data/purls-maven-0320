@@ -60,3 +60,4 @@
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-annotation-support@2.18.4?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-annotation-support@2.19.0-rc2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-annotation-support@2.19.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-annotation-support@2.19.1?classifier=sources

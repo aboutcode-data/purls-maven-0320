@@ -66,6 +66,8 @@
 - pkg:maven/org.webjars.npm/swagger-client@3.34.0
 - pkg:maven/org.webjars.npm/swagger-client@3.34.4
 - pkg:maven/org.webjars.npm/swagger-client@3.35.3
+- pkg:maven/org.webjars.npm/swagger-client@3.35.5
+- pkg:maven/org.webjars.npm/swagger-client@3.35.6
 - pkg:maven/org.webjars.npm/swagger-client@3.4.11
 - pkg:maven/org.webjars.npm/swagger-client@3.4.11?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-client@3.5.1

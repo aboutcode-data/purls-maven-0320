@@ -49,3 +49,9 @@
 - pkg:maven/dev.suresh.build/settings@1.7.0?classifier=sources
 - pkg:maven/dev.suresh.build/settings@1.8.0?classifier=sources
 - pkg:maven/dev.suresh.build/settings@1.9.0?classifier=sources
+- pkg:maven/dev.suresh.build/settings@2.0.0?classifier=sources
+- pkg:maven/dev.suresh.build/settings@2.1.0?classifier=sources
+- pkg:maven/dev.suresh.build/settings@2.2.0?classifier=sources
+- pkg:maven/dev.suresh.build/settings@2.3.0?classifier=sources
+- pkg:maven/dev.suresh.build/settings@2.4.0?classifier=sources
+- pkg:maven/dev.suresh.build/settings@2.5.0?classifier=sources

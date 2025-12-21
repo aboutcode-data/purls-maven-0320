@@ -12,6 +12,10 @@
 - pkg:maven/com.google.cloud/google-cloud-connectgateway@0.14.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-connectgateway@0.15.0
 - pkg:maven/com.google.cloud/google-cloud-connectgateway@0.15.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-connectgateway@0.16.0
+- pkg:maven/com.google.cloud/google-cloud-connectgateway@0.16.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-connectgateway@0.18.0
+- pkg:maven/com.google.cloud/google-cloud-connectgateway@0.18.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-connectgateway@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-connectgateway@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-connectgateway@0.4.0

@@ -47,4 +47,5 @@
 - pkg:maven/org.hisp.dhis/json-tree@1.7
 - pkg:maven/org.hisp.dhis/json-tree@1.7?classifier=sources
 - pkg:maven/org.hisp.dhis/json-tree@1.8
+- pkg:maven/org.hisp.dhis/json-tree@1.8.1?classifier=sources
 - pkg:maven/org.hisp.dhis/json-tree@1.8?classifier=sources

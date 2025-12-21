@@ -8,6 +8,8 @@
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-20250518?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-20250520
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-20250520?classifier=sources
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-20250603
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-20250603?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk11-20250502
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk11-20250502?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk11-20250509
@@ -16,6 +18,8 @@
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk11-20250515?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk11-20250520
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk11-20250520?classifier=sources
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk11-20250603
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk11-20250603?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk17-20250502
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk17-20250502?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk17-20250509
@@ -24,6 +28,8 @@
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk17-20250515?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk17-20250520
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk17-20250520?classifier=sources
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk17-20250603
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk17-20250603?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk21-20250502
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk21-20250502?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk21-20250509
@@ -32,3 +38,5 @@
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk21-20250515?classifier=sources
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk21-20250520
 - pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk21-20250520?classifier=sources
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk21-20250603
+- pkg:maven/org.anyline/anyline-data-vespa@8.7.2-jdk21-20250603?classifier=sources

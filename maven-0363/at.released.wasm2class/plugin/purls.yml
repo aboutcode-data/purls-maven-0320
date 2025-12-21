@@ -1,3 +1,4 @@
 - pkg:maven/at.released.wasm2class/plugin@0.1?classifier=sources
 - pkg:maven/at.released.wasm2class/plugin@0.2?classifier=sources
 - pkg:maven/at.released.wasm2class/plugin@0.3?classifier=sources
+- pkg:maven/at.released.wasm2class/plugin@0.4.0?classifier=sources

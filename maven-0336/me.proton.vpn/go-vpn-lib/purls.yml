@@ -26,5 +26,7 @@
 - pkg:maven/me.proton.vpn/go-vpn-lib@0.1.62?classifier=sources
 - pkg:maven/me.proton.vpn/go-vpn-lib@0.1.65?classifier=sources
 - pkg:maven/me.proton.vpn/go-vpn-lib@0.1.66?classifier=sources
+- pkg:maven/me.proton.vpn/go-vpn-lib@0.1.67?classifier=sources
+- pkg:maven/me.proton.vpn/go-vpn-lib@0.1.68?classifier=sources
 - pkg:maven/me.proton.vpn/go-vpn-lib@0.1.6?classifier=sources
 - pkg:maven/me.proton.vpn/go-vpn-lib@0.1.7?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.jetty/jetty-staticapp@12.1.0.beta1?classifier=sources

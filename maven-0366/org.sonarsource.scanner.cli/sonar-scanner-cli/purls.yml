@@ -26,6 +26,7 @@
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@4.8.1.3023?classifier=sources
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@5.0.0.2966?classifier=sources
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@5.0.1.3006?classifier=sources
+- pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@5.0.2.4997?classifier=sources
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@6.0.0.4432?classifier=sources
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@6.1.0.4477?classifier=sources
 - pkg:maven/org.sonarsource.scanner.cli/sonar-scanner-cli@6.2.0.4584?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/io.mosip.mock.mv/mock-mv@1.2.0.2
 - pkg:maven/io.mosip.mock.mv/mock-mv@1.2.0.2?classifier=sources
 - pkg:maven/io.mosip.mock.mv/mock-mv@1.2.0?classifier=sources
+- pkg:maven/io.mosip.mock.mv/mock-mv@1.2.1-rc1?classifier=sources

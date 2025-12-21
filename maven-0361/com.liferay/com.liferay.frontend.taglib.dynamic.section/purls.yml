@@ -130,3 +130,4 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.dynamic.section@5.0.8
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.dynamic.section@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.dynamic.section@5.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.dynamic.section@6.0.0?classifier=sources

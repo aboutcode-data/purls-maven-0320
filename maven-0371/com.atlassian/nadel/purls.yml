@@ -1,3 +1,12 @@
+- pkg:maven/com.atlassian/nadel@0.15431504173?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.15433080015?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.15433382939?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.15433735711?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.15598726150?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.15723426855?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.15726413225?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.15747368621?classifier=sources
+- pkg:maven/com.atlassian/nadel@0.15751934768?classifier=sources
 - pkg:maven/com.atlassian/nadel@2021-04-06T00-56-36-28862be?classifier=sources
 - pkg:maven/com.atlassian/nadel@2021-04-07T00-49-12-5dc21fa?classifier=sources
 - pkg:maven/com.atlassian/nadel@2021-04-07T02-10-26-bab2937?classifier=sources
@@ -249,3 +258,5 @@
 - pkg:maven/com.atlassian/nadel@2025-05-19T01-01-32-158a08e5?classifier=sources
 - pkg:maven/com.atlassian/nadel@2025-05-20T01-26-16-1d493b0b?classifier=sources
 - pkg:maven/com.atlassian/nadel@2025-05-20T03-36-08-5ce42ac1?classifier=sources
+- pkg:maven/com.atlassian/nadel@2025-06-03T00-21-40-b5fde81e?classifier=sources
+- pkg:maven/com.atlassian/nadel@2025-06-04T01-38-48-82a5d0fc?classifier=sources

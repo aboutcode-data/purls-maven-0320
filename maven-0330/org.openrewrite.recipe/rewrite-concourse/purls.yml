@@ -80,3 +80,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@3.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@3.4.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-concourse@3.4.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-concourse@3.5.0?classifier=sources

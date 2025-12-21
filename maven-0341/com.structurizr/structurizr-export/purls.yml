@@ -52,3 +52,4 @@
 - pkg:maven/com.structurizr/structurizr-export@3.2.0?classifier=sources
 - pkg:maven/com.structurizr/structurizr-export@3.2.1?classifier=sources
 - pkg:maven/com.structurizr/structurizr-export@4.0.0?classifier=sources
+- pkg:maven/com.structurizr/structurizr-export@4.1.0?classifier=sources

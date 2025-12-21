@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_sjs1_3@1.11.34
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_sjs1_3@1.11.34?classifier=sources

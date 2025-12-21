@@ -58,3 +58,4 @@
 - pkg:maven/com.cognitect.aws/cloudtrail@871.2.30.11?classifier=sources
 - pkg:maven/com.cognitect.aws/cloudtrail@871.2.31.23
 - pkg:maven/com.cognitect.aws/cloudtrail@871.2.31.23?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudtrail@871.2.31.64?classifier=sources

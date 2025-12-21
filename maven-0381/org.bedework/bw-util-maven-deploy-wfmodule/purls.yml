@@ -20,3 +20,4 @@
 - pkg:maven/org.bedework/bw-util-maven-deploy-wfmodule@5.1.0?classifier=sources
 - pkg:maven/org.bedework/bw-util-maven-deploy-wfmodule@5.1.1
 - pkg:maven/org.bedework/bw-util-maven-deploy-wfmodule@5.1.1?classifier=sources
+- pkg:maven/org.bedework/bw-util-maven-deploy-wfmodule@6.0.0?classifier=sources

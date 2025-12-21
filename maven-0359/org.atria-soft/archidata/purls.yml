@@ -13,3 +13,7 @@
 - pkg:maven/org.atria-soft/archidata@0.31.0?classifier=sources
 - pkg:maven/org.atria-soft/archidata@0.31.2?classifier=sources
 - pkg:maven/org.atria-soft/archidata@0.31.4?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.32.0?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.32.2?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.33.0?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.33.2?classifier=sources

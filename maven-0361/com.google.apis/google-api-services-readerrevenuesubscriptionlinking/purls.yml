@@ -4,3 +4,5 @@
 - pkg:maven/com.google.apis/google-api-services-readerrevenuesubscriptionlinking@v1-rev20241014-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-readerrevenuesubscriptionlinking@v1-rev20241015-2.0.0
 - pkg:maven/com.google.apis/google-api-services-readerrevenuesubscriptionlinking@v1-rev20241015-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-readerrevenuesubscriptionlinking@v1-rev20250611-2.0.0
+- pkg:maven/com.google.apis/google-api-services-readerrevenuesubscriptionlinking@v1-rev20250611-2.0.0?classifier=sources

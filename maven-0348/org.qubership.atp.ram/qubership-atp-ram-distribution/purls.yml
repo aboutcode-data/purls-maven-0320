@@ -1,0 +1,2 @@
+- pkg:maven/org.qubership.atp.ram/qubership-atp-ram-distribution@2.2.204?classifier=sources
+- pkg:maven/org.qubership.atp.ram/qubership-atp-ram-distribution@2.2.205?classifier=sources

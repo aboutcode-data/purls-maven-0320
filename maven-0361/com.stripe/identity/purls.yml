@@ -131,6 +131,11 @@
 - pkg:maven/com.stripe/identity@21.12.0?classifier=sources
 - pkg:maven/com.stripe/identity@21.13.0?classifier=sources
 - pkg:maven/com.stripe/identity@21.14.0?classifier=sources
+- pkg:maven/com.stripe/identity@21.15.0?classifier=sources
+- pkg:maven/com.stripe/identity@21.15.1?classifier=sources
+- pkg:maven/com.stripe/identity@21.16.0?classifier=sources
+- pkg:maven/com.stripe/identity@21.17.0?classifier=sources
+- pkg:maven/com.stripe/identity@21.18.0?classifier=sources
 - pkg:maven/com.stripe/identity@21.2.0?classifier=sources
 - pkg:maven/com.stripe/identity@21.2.1?classifier=sources
 - pkg:maven/com.stripe/identity@21.3.0?classifier=sources

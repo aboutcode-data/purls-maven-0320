@@ -44,3 +44,5 @@
 - pkg:maven/fr.acinq/bitcoin-lib_2.13@0.38?classifier=sources
 - pkg:maven/fr.acinq/bitcoin-lib_2.13@0.39
 - pkg:maven/fr.acinq/bitcoin-lib_2.13@0.39?classifier=sources
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.40
+- pkg:maven/fr.acinq/bitcoin-lib_2.13@0.40?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@10.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@11.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@8.0.24?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@8.0.24?type=war
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@8.0.25?classifier=sources
@@ -14,6 +16,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@8.0.30?type=war
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@8.0.31?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@8.0.31?type=war
+- pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@8.0.32?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@9.0.13?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@9.0.13?type=war
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@9.0.14?classifier=sources
@@ -30,3 +33,4 @@
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@9.0.19?type=war
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@9.0.20?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@9.0.20?type=war
+- pkg:maven/org.ops4j.pax.web.samples/wab-using-filter@9.0.21?classifier=sources

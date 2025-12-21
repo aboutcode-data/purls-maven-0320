@@ -21,3 +21,4 @@
 - pkg:maven/org.apache.juneau/juneau-distrib@9.0-B1?classifier=src&type=zip
 - pkg:maven/org.apache.juneau/juneau-distrib@9.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.juneau/juneau-distrib@9.0.1?classifier=src&type=zip
+- pkg:maven/org.apache.juneau/juneau-distrib@9.1.0?classifier=src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/json-stringify-deterministic@1.0.12
+- pkg:maven/org.mvnpm/json-stringify-deterministic@1.0.12?classifier=sources

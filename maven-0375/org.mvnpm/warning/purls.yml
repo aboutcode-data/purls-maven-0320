@@ -1,2 +1,8 @@
+- pkg:maven/org.mvnpm/warning@2.0.0
+- pkg:maven/org.mvnpm/warning@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/warning@2.1.0
+- pkg:maven/org.mvnpm/warning@2.1.0?classifier=sources
+- pkg:maven/org.mvnpm/warning@3.0.0
+- pkg:maven/org.mvnpm/warning@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/warning@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/warning@4.0.3?classifier=sources

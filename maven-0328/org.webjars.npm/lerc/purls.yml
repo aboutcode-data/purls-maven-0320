@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/lerc@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/lerc@3.0.0
 - pkg:maven/org.webjars.npm/lerc@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/lerc@4.0.4

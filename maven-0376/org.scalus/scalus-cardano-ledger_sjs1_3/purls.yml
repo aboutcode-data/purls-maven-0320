@@ -1,0 +1,2 @@
+- pkg:maven/org.scalus/scalus-cardano-ledger_sjs1_3@0.10.1
+- pkg:maven/org.scalus/scalus-cardano-ledger_sjs1_3@0.10.1?classifier=sources

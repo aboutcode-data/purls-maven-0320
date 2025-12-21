@@ -162,6 +162,7 @@
 - pkg:maven/com.gitee.l0km/sql2java-excel@3.32.5?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-excel@3.33.0
 - pkg:maven/com.gitee.l0km/sql2java-excel@3.33.0?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-excel@3.34.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-excel@4.0.0
 - pkg:maven/com.gitee.l0km/sql2java-excel@4.0.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-excel@4.1.0
@@ -240,3 +241,5 @@
 - pkg:maven/com.gitee.l0km/sql2java-excel@5.3.8?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-excel@5.3.9
 - pkg:maven/com.gitee.l0km/sql2java-excel@5.3.9?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-excel@5.4.0?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-excel@5.5.0?classifier=sources

@@ -53,7 +53,11 @@
 - pkg:maven/com.steamstreet/awskt-lambda-appsync@2.0.7?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-appsync@2.0.8?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-appsync@2.0.9?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-appsync@2.1.10?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-appsync@2.1.11?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-appsync@2.1.1?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-appsync@2.1.27?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-appsync@2.1.28?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-appsync@2.1.5?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-appsync@2.1.6?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-appsync@2.1.7?classifier=sources

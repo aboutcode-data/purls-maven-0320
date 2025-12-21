@@ -1,2 +1,3 @@
 - pkg:maven/org.atp-fivt/export-maven-plugin@1.0
 - pkg:maven/org.atp-fivt/export-maven-plugin@1.1
+- pkg:maven/org.atp-fivt/export-maven-plugin@1.2?classifier=sources

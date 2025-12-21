@@ -16,3 +16,5 @@
 - pkg:maven/com.github.fanzezhen/fun-framework-cache-redis@3.4.3.8?classifier=sources
 - pkg:maven/com.github.fanzezhen/fun-framework-cache-redis@3.4.3.9
 - pkg:maven/com.github.fanzezhen/fun-framework-cache-redis@3.4.3.9?classifier=sources
+- pkg:maven/com.github.fanzezhen/fun-framework-cache-redis@3.5.0.20250530?classifier=sources
+- pkg:maven/com.github.fanzezhen/fun-framework-cache-redis@3.5.0.20250606?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc.huawei/contract-negotiation-store-gaussdb@0.13.0?classifier=sources

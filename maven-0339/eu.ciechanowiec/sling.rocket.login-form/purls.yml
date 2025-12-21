@@ -39,3 +39,4 @@
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@14.0.4?classifier=sources
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@15.0.0?classifier=sources
 - pkg:maven/eu.ciechanowiec/sling.rocket.login-form@15.0.2?classifier=sources
+- pkg:maven/eu.ciechanowiec/sling.rocket.login-form@15.0.4?classifier=sources

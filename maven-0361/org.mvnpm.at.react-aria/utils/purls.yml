@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.react-aria/utils@3.28.2?classifier=sources
 - pkg:maven/org.mvnpm.at.react-aria/utils@3.29.0
 - pkg:maven/org.mvnpm.at.react-aria/utils@3.29.0?classifier=sources
+- pkg:maven/org.mvnpm.at.react-aria/utils@3.29.1
+- pkg:maven/org.mvnpm.at.react-aria/utils@3.29.1?classifier=sources

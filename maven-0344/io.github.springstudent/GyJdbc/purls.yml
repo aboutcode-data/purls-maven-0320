@@ -35,6 +35,7 @@
 - pkg:maven/io.github.springstudent/GyJdbc@1.4.0.RELEASE
 - pkg:maven/io.github.springstudent/GyJdbc@1.4.0.RELEASE?classifier=sources
 - pkg:maven/io.github.springstudent/GyJdbc@1.4.1.RELEASE?classifier=sources
+- pkg:maven/io.github.springstudent/GyJdbc@1.4.2.RELEASE?classifier=sources
 - pkg:maven/io.github.springstudent/GyJdbc@10.0.0
 - pkg:maven/io.github.springstudent/GyJdbc@10.0.0?classifier=sources
 - pkg:maven/io.github.springstudent/GyJdbc@10.1.0

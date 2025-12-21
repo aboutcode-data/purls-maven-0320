@@ -6,3 +6,4 @@
 - pkg:maven/io.github.tabilzad.inspektor/annotations@0.8.0-alpha?classifier=sources
 - pkg:maven/io.github.tabilzad.inspektor/annotations@0.8.1-alpha?classifier=sources
 - pkg:maven/io.github.tabilzad.inspektor/annotations@0.8.2-alpha?classifier=sources
+- pkg:maven/io.github.tabilzad.inspektor/annotations@0.8.3-alpha?classifier=sources

@@ -621,3 +621,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.api@95.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.api@96.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.api@96.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.api@97.0.0?classifier=sources

@@ -25,3 +25,5 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-tapjoy@13.4.1.7?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-tapjoy@13.4.1.8?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-tapjoy@13.4.1.9?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-tapjoy@14.3.1.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-tapjoy@14.3.1.1?classifier=sources

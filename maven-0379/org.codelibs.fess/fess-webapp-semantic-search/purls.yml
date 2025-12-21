@@ -24,3 +24,4 @@
 - pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.8.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.9.0
 - pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@14.9.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-webapp-semantic-search@15.0.0?classifier=sources

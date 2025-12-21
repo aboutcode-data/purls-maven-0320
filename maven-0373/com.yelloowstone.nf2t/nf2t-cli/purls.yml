@@ -9,3 +9,4 @@
 - pkg:maven/com.yelloowstone.nf2t/nf2t-cli@0.0.7?classifier=sources
 - pkg:maven/com.yelloowstone.nf2t/nf2t-cli@0.0.8?classifier=sources
 - pkg:maven/com.yelloowstone.nf2t/nf2t-cli@0.0.9?classifier=sources
+- pkg:maven/com.yelloowstone.nf2t/nf2t-cli@0.1.1?classifier=sources

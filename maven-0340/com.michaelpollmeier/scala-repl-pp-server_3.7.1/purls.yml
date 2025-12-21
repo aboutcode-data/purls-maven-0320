@@ -1,0 +1,2 @@
+- pkg:maven/com.michaelpollmeier/scala-repl-pp-server_3.7.1@0.5.7
+- pkg:maven/com.michaelpollmeier/scala-repl-pp-server_3.7.1@0.5.7?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.qualcomm.qti/qnn-litert-delegate@2.33.2?type=aar
 - pkg:maven/com.qualcomm.qti/qnn-litert-delegate@2.34.0?classifier=sources
 - pkg:maven/com.qualcomm.qti/qnn-litert-delegate@2.34.0?type=aar
+- pkg:maven/com.qualcomm.qti/qnn-litert-delegate@2.35.0?classifier=sources
+- pkg:maven/com.qualcomm.qti/qnn-litert-delegate@2.35.0?type=aar

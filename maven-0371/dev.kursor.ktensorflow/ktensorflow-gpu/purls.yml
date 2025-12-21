@@ -1,0 +1,4 @@
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-gpu@0.3?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-gpu@1.0?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-gpu@1.1?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-gpu@1.2?classifier=sources

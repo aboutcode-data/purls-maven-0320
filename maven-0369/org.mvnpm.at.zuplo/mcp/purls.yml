@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.zuplo/mcp@0.0.18
 - pkg:maven/org.mvnpm.at.zuplo/mcp@0.0.18?classifier=sources
+- pkg:maven/org.mvnpm.at.zuplo/mcp@0.0.22
+- pkg:maven/org.mvnpm.at.zuplo/mcp@0.0.22?classifier=sources

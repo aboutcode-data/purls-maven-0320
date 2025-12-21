@@ -44,3 +44,5 @@
 - pkg:maven/org.codehaus.mojo/jaxb2-maven-plugin@3.3.0
 - pkg:maven/org.codehaus.mojo/jaxb2-maven-plugin@3.3.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/jaxb2-maven-plugin@3.3.0?classifier=sources
+- pkg:maven/org.codehaus.mojo/jaxb2-maven-plugin@4.0.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/jaxb2-maven-plugin@4.0.0?classifier=sources

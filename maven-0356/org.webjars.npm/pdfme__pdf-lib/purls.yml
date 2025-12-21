@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/pdfme__pdf-lib@1.18.3
+- pkg:maven/org.webjars.npm/pdfme__pdf-lib@5.4.6

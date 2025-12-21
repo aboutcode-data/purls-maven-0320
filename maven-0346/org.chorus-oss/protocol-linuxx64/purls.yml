@@ -41,3 +41,4 @@
 - pkg:maven/org.chorus-oss/protocol-linuxx64@v819.8?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-linuxx64@v827.0?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-linuxx64@v844.0?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-linuxx64@v844.1?classifier=sources

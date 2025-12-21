@@ -3,3 +3,4 @@
 - pkg:maven/io.openlineage/openlineage-hive@1.36.0?classifier=sources
 - pkg:maven/io.openlineage/openlineage-hive@1.37.0?classifier=sources
 - pkg:maven/io.openlineage/openlineage-hive@1.38.0?classifier=sources
+- pkg:maven/io.openlineage/openlineage-hive@1.39.0?classifier=sources

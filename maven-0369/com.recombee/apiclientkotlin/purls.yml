@@ -1,3 +1,4 @@
 - pkg:maven/com.recombee/apiclientkotlin@4.1.0?classifier=sources
 - pkg:maven/com.recombee/apiclientkotlin@4.1.1?classifier=sources
 - pkg:maven/com.recombee/apiclientkotlin@5.0.0?classifier=sources
+- pkg:maven/com.recombee/apiclientkotlin@6.0.0?classifier=sources

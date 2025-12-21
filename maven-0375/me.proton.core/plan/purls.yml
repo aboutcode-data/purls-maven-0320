@@ -137,6 +137,7 @@
 - pkg:maven/me.proton.core/plan@34.3.0?classifier=sources
 - pkg:maven/me.proton.core/plan@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/plan@35.0.0?classifier=sources
+- pkg:maven/me.proton.core/plan@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/plan@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/plan@5.0.0?classifier=sources

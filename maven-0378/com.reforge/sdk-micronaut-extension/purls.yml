@@ -1,2 +1,6 @@
 - pkg:maven/com.reforge/sdk-micronaut-extension@0.3.26?classifier=sources
 - pkg:maven/com.reforge/sdk-micronaut-extension@0.3.27?classifier=sources
+- pkg:maven/com.reforge/sdk-micronaut-extension@1.0.0?classifier=sources
+- pkg:maven/com.reforge/sdk-micronaut-extension@1.0.1?classifier=sources
+- pkg:maven/com.reforge/sdk-micronaut-extension@1.0.2?classifier=sources
+- pkg:maven/com.reforge/sdk-micronaut-extension@1.0.3?classifier=sources

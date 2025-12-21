@@ -11,3 +11,4 @@
 - pkg:maven/io.github.mflisar.kotpreferences/extension-compose-wasm-js@1.0.3?classifier=sources
 - pkg:maven/io.github.mflisar.kotpreferences/extension-compose-wasm-js@1.0.4?classifier=sources
 - pkg:maven/io.github.mflisar.kotpreferences/extension-compose-wasm-js@2.0.0?classifier=sources
+- pkg:maven/io.github.mflisar.kotpreferences/extension-compose-wasm-js@2.0.1?classifier=sources

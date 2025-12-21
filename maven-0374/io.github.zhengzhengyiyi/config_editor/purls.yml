@@ -35,4 +35,11 @@
 - pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.4%2B1.21.5?classifier=sources
 - pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.4%2B1.21.9?classifier=sources
 - pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.4%2B1.21?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.4-fix.1%2B1.21.10?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.4-fix.2%2B1.21.10?classifier=sources
 - pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.4-fix.2%2B1.21.5?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.4-fix.4%2B1.21.10?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.6%2B1.20.1?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.6%2B1.20.2?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.6%2B1.21.10?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/config_editor@1.1.6-fix.1%2B1.21.10?classifier=sources

@@ -87,3 +87,4 @@
 - pkg:maven/org.noear/liquor@1.6.0?classifier=sources
 - pkg:maven/org.noear/liquor@1.6.1?classifier=sources
 - pkg:maven/org.noear/liquor@1.6.2?classifier=sources
+- pkg:maven/org.noear/liquor@1.6.3?classifier=sources

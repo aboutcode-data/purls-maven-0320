@@ -60,3 +60,5 @@
 - pkg:maven/org.opensearch/custom-significance-heuristic@3.0.0?classifier=sources
 - pkg:maven/org.opensearch/custom-significance-heuristic@3.1.0?classifier=sources
 - pkg:maven/org.opensearch/custom-significance-heuristic@3.2.0?classifier=sources
+- pkg:maven/org.opensearch/custom-significance-heuristic@3.3.0?classifier=sources
+- pkg:maven/org.opensearch/custom-significance-heuristic@3.3.1?classifier=sources

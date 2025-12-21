@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.nextcloud/axios@2.5.2
+- pkg:maven/org.mvnpm.at.nextcloud/axios@2.5.2?classifier=sources

@@ -73,3 +73,4 @@
 - pkg:maven/org.dueuno/commons-utils@2.8.2?classifier=sources
 - pkg:maven/org.dueuno/commons-utils@2.8.3?classifier=sources
 - pkg:maven/org.dueuno/commons-utils@2.8.4?classifier=sources
+- pkg:maven/org.dueuno/commons-utils@2.8.5?classifier=sources

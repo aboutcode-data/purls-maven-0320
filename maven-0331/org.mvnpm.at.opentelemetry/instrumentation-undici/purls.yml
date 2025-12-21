@@ -17,3 +17,7 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-undici@0.16.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-undici@0.16.2
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-undici@0.16.2?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-undici@0.17.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-undici@0.17.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-undici@0.18.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-undici@0.18.0?classifier=sources

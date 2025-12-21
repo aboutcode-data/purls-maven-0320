@@ -29,6 +29,8 @@
 - pkg:maven/org.mvnpm/resolve@1.21.1?classifier=sources
 - pkg:maven/org.mvnpm/resolve@1.22.0?classifier=sources
 - pkg:maven/org.mvnpm/resolve@1.22.10?classifier=sources
+- pkg:maven/org.mvnpm/resolve@1.22.11
+- pkg:maven/org.mvnpm/resolve@1.22.11?classifier=sources
 - pkg:maven/org.mvnpm/resolve@1.22.1?classifier=sources
 - pkg:maven/org.mvnpm/resolve@1.22.2?classifier=sources
 - pkg:maven/org.mvnpm/resolve@1.22.3?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/net.morimekta.tiny/tiny-logback@0.7.0?classifier=sources
 - pkg:maven/net.morimekta.tiny/tiny-logback@0.7.1
 - pkg:maven/net.morimekta.tiny/tiny-logback@0.7.1?classifier=sources
+- pkg:maven/net.morimekta.tiny/tiny-logback@0.8.0?classifier=sources

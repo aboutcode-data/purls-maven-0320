@@ -39,3 +39,6 @@
 - pkg:maven/org.sonatype.community/nexus-repo-api-webclient@3.82.1?classifier=sources
 - pkg:maven/org.sonatype.community/nexus-repo-api-webclient@3.84.0?classifier=sources
 - pkg:maven/org.sonatype.community/nexus-repo-api-webclient@3.84.1?classifier=sources
+- pkg:maven/org.sonatype.community/nexus-repo-api-webclient@3.84.2?classifier=sources
+- pkg:maven/org.sonatype.community/nexus-repo-api-webclient@3.85.0?classifier=sources
+- pkg:maven/org.sonatype.community/nexus-repo-api-webclient@3.85.1?classifier=sources

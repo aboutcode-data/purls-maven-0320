@@ -7,3 +7,5 @@
 - pkg:maven/org.mvnpm/p-timeout@6.1.4?classifier=sources
 - pkg:maven/org.mvnpm/p-timeout@7.0.0
 - pkg:maven/org.mvnpm/p-timeout@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/p-timeout@7.0.1
+- pkg:maven/org.mvnpm/p-timeout@7.0.1?classifier=sources

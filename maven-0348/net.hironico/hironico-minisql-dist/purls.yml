@@ -2,3 +2,4 @@
 - pkg:maven/net.hironico/hironico-minisql-dist@2.27.1?classifier=sources
 - pkg:maven/net.hironico/hironico-minisql-dist@2.28.1?classifier=sources
 - pkg:maven/net.hironico/hironico-minisql-dist@2.28.2?classifier=sources
+- pkg:maven/net.hironico/hironico-minisql-dist@2.29.2?classifier=sources

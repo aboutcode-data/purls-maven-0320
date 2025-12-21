@@ -123,3 +123,4 @@
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.21.2?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.22.0
 - pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.22.0?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-tokenauthrealm@0.22.1?classifier=sources

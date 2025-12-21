@@ -18,3 +18,5 @@
 - pkg:maven/org.opensearch.plugin/crypto-kms@3.0.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/crypto-kms@3.1.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/crypto-kms@3.2.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/crypto-kms@3.3.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/crypto-kms@3.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexshamrai/junit-ctrf-reporter@0.4.0?classifier=sources
+- pkg:maven/io.github.alexshamrai/junit-ctrf-reporter@0.4.1?classifier=sources

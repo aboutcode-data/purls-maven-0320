@@ -1,5 +1,6 @@
 - pkg:maven/com.lingd600/proj4js@2.15.0.1?classifier=sources
 - pkg:maven/com.lingd600/proj4js@2.15.0.2?classifier=sources
+- pkg:maven/com.lingd600/proj4js@2.15.0.3?classifier=sources
 - pkg:maven/com.lingd600/proj4js@2.9.0
 - pkg:maven/com.lingd600/proj4js@2.9.0.1
 - pkg:maven/com.lingd600/proj4js@2.9.0.1?classifier=sources

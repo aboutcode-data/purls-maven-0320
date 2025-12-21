@@ -75,3 +75,4 @@
 - pkg:maven/com.tencent.iot.thirdparty.android/xp2p-sdk@2.4.56?classifier=sources
 - pkg:maven/com.tencent.iot.thirdparty.android/xp2p-sdk@2.4.57?classifier=sources
 - pkg:maven/com.tencent.iot.thirdparty.android/xp2p-sdk@2.4.58?classifier=sources
+- pkg:maven/com.tencent.iot.thirdparty.android/xp2p-sdk@2.4.59?classifier=sources

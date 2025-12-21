@@ -543,6 +543,8 @@
 - pkg:maven/io.github.expertflow/objectmodel@CIM-28246_Test_1.22.13?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@CIM-30009-1.22.15-V1?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@CIM-31054-DEV-TEST-V1?classifier=sources
+- pkg:maven/io.github.expertflow/objectmodel@CIM-31054-DEV-TEST-V2?classifier=sources
+- pkg:maven/io.github.expertflow/objectmodel@CIM-31054-DEV-TEST-V3?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@CIM-31054-DEV-TEST?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@CIM-900-DEV-1.22.14?classifier=sources
 - pkg:maven/io.github.expertflow/objectmodel@CIM-900-DEV_V1-1.22.14?classifier=sources

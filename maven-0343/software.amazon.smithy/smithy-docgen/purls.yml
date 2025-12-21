@@ -11,3 +11,4 @@
 - pkg:maven/software.amazon.smithy/smithy-docgen@1.60.3?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-docgen@1.61.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-docgen@1.62.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-docgen@1.63.0?classifier=sources

@@ -12,3 +12,11 @@
 - pkg:maven/org.mvnpm.at.supabase/storage-js@2.12.2?classifier=sources
 - pkg:maven/org.mvnpm.at.supabase/storage-js@2.7.1
 - pkg:maven/org.mvnpm.at.supabase/storage-js@2.7.1?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.75.0
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.75.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.75.1
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.75.1?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.76.0
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.76.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.76.1
+- pkg:maven/org.mvnpm.at.supabase/storage-js@2.76.1?classifier=sources

@@ -298,3 +298,8 @@
 - pkg:maven/io.airlift/sample-server@362?classifier=sources
 - pkg:maven/io.airlift/sample-server@363?classifier=sources
 - pkg:maven/io.airlift/sample-server@364?classifier=sources
+- pkg:maven/io.airlift/sample-server@365?classifier=sources
+- pkg:maven/io.airlift/sample-server@366?classifier=sources
+- pkg:maven/io.airlift/sample-server@367?classifier=sources
+- pkg:maven/io.airlift/sample-server@368?classifier=sources
+- pkg:maven/io.airlift/sample-server@369?classifier=sources

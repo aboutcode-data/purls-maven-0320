@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-cli@12.28.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-cli@12.29.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-cli@12.30.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-cli@12.31.0?classifier=sources

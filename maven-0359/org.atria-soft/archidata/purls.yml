@@ -28,3 +28,4 @@
 - pkg:maven/org.atria-soft/archidata@0.35.8?classifier=sources
 - pkg:maven/org.atria-soft/archidata@0.36.0?classifier=sources
 - pkg:maven/org.atria-soft/archidata@0.36.2?classifier=sources
+- pkg:maven/org.atria-soft/archidata@0.37.2?classifier=sources

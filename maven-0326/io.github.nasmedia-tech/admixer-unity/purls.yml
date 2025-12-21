@@ -2,3 +2,4 @@
 - pkg:maven/io.github.nasmedia-tech/admixer-unity@1.0.1-beta?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/admixer-unity@1.0.1-gamma?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/admixer-unity@1.0.1?classifier=sources
+- pkg:maven/io.github.nasmedia-tech/admixer-unity@1.0.2?classifier=sources

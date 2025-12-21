@@ -1,0 +1,6 @@
+- pkg:maven/io.prophecy/prophecy-libs_2.13@3.5.0-8.13.0
+- pkg:maven/io.prophecy/prophecy-libs_2.13@3.5.0-8.13.0?classifier=sources
+- pkg:maven/io.prophecy/prophecy-libs_2.13@3.5.0-ml-8.13.0
+- pkg:maven/io.prophecy/prophecy-libs_2.13@3.5.0-ml-8.13.0?classifier=sources
+- pkg:maven/io.prophecy/prophecy-libs_2.13@3.5.0-onprem-8.13.0
+- pkg:maven/io.prophecy/prophecy-libs_2.13@3.5.0-onprem-8.13.0?classifier=sources

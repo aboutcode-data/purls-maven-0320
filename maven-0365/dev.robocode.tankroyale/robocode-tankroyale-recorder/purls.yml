@@ -2,3 +2,4 @@
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-recorder@0.32.0?classifier=sources
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-recorder@0.32.1?classifier=sources
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-recorder@0.33.1?classifier=sources
+- pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-recorder@0.34.0?classifier=sources

@@ -47,3 +47,4 @@
 - pkg:maven/ai.tock/tock-bot-demo-api-webhook@25.3.2
 - pkg:maven/ai.tock/tock-bot-demo-api-webhook@25.3.2?classifier=sources
 - pkg:maven/ai.tock/tock-bot-demo-api-webhook@25.9.1?classifier=sources
+- pkg:maven/ai.tock/tock-bot-demo-api-webhook@25.9.2?classifier=sources

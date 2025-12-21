@@ -1,1 +1,2 @@
 - pkg:maven/nz.net.ultraq.redhorizon/redhorizon-scenegraph@0.40.2?classifier=sources
+- pkg:maven/nz.net.ultraq.redhorizon/redhorizon-scenegraph@0.40.3?classifier=sources

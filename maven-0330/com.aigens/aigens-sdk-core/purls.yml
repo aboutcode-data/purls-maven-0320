@@ -34,3 +34,4 @@
 - pkg:maven/com.aigens/aigens-sdk-core@5.0.2?classifier=sources
 - pkg:maven/com.aigens/aigens-sdk-core@5.0.3?classifier=sources
 - pkg:maven/com.aigens/aigens-sdk-core@5.0.4?classifier=sources
+- pkg:maven/com.aigens/aigens-sdk-core@5.0.5?classifier=sources

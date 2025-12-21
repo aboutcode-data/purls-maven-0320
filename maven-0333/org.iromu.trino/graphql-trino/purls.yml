@@ -1,0 +1,2 @@
+- pkg:maven/org.iromu.trino/graphql-trino@0.0.2?classifier=sources
+- pkg:maven/org.iromu.trino/graphql-trino@0.0.3?classifier=sources

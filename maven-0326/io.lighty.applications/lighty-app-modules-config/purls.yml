@@ -40,3 +40,5 @@
 - pkg:maven/io.lighty.applications/lighty-app-modules-config@21.0.0?classifier=sources
 - pkg:maven/io.lighty.applications/lighty-app-modules-config@21.1.0
 - pkg:maven/io.lighty.applications/lighty-app-modules-config@21.1.0?classifier=sources
+- pkg:maven/io.lighty.applications/lighty-app-modules-config@21.2.0
+- pkg:maven/io.lighty.applications/lighty-app-modules-config@21.2.0?classifier=sources

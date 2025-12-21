@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.eslint/core@0.12.0?classifier=sources
+- pkg:maven/org.mvnpm.at.eslint/core@0.13.0?classifier=sources

@@ -8,9 +8,11 @@
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.0-beta01?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.0-beta02?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.0?classifier=sources
+- pkg:maven/com.attentive/attentive-android-sdk@1.0.1-rn.1?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.1-test2?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.1-test?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.1?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.2-beta.1?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.2-beta.2?classifier=sources
 - pkg:maven/com.attentive/attentive-android-sdk@1.0.2-beta.3?classifier=sources
+- pkg:maven/com.attentive/attentive-android-sdk@1.0.2-beta.4?classifier=sources

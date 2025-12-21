@@ -10,6 +10,7 @@
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@1.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@1.0.12
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@1.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@1.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@1.0.2
@@ -57,6 +58,7 @@
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@2.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@2.0.15
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@2.0.2
@@ -103,6 +105,7 @@
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@3.0.15
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@3.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@3.0.2
@@ -158,6 +161,7 @@
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@4.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.bookmark.facebook@4.0.3

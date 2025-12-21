@@ -6,6 +6,8 @@
 - pkg:maven/org.beangle.webmvc/beangle-webmvc@0.10.2?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc@0.10.3
 - pkg:maven/org.beangle.webmvc/beangle-webmvc@0.10.3?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc@0.10.4
+- pkg:maven/org.beangle.webmvc/beangle-webmvc@0.10.4?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc@0.9.24
 - pkg:maven/org.beangle.webmvc/beangle-webmvc@0.9.24?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc@0.9.25

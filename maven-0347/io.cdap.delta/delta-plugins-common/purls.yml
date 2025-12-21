@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.delta/delta-plugins-common@0.10.0
+- pkg:maven/io.cdap.delta/delta-plugins-common@0.10.0?classifier=sources

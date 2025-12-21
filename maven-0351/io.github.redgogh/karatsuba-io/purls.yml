@@ -1,0 +1,8 @@
+- pkg:maven/io.github.redgogh/karatsuba-io@2.1.0-RC?classifier=sources
+- pkg:maven/io.github.redgogh/karatsuba-io@2.1.1?classifier=sources
+- pkg:maven/io.github.redgogh/karatsuba-io@2.1.2?classifier=sources
+- pkg:maven/io.github.redgogh/karatsuba-io@3.0.0-RC1?classifier=sources
+- pkg:maven/io.github.redgogh/karatsuba-io@3.0.2-RC1?classifier=sources
+- pkg:maven/io.github.redgogh/karatsuba-io@3.0.2-RC2?classifier=sources
+- pkg:maven/io.github.redgogh/karatsuba-io@v3.0.1-beta.1%2Bbuild?classifier=sources
+- pkg:maven/io.github.redgogh/karatsuba-io@v3.0.1-beta.2%2Bbuild?classifier=sources

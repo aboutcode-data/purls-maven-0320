@@ -190,9 +190,14 @@
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.47.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.47.4?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.48.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@8.48.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@8.49.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.5.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.5.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.5.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@8.50.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@8.50.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-protobuf@8.50.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.6.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.6.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-protobuf@8.6.2?classifier=sources

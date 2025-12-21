@@ -1,0 +1,2 @@
+- pkg:maven/io.github.telepact/telepact@1.0.0-alpha.10?classifier=sources
+- pkg:maven/io.github.telepact/telepact@1.0.0-alpha.11?classifier=sources

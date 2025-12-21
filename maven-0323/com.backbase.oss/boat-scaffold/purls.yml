@@ -171,8 +171,11 @@
 - pkg:maven/com.backbase.oss/boat-scaffold@0.17.56?classifier=sources
 - pkg:maven/com.backbase.oss/boat-scaffold@0.17.57?classifier=sources
 - pkg:maven/com.backbase.oss/boat-scaffold@0.17.58?classifier=sources
+- pkg:maven/com.backbase.oss/boat-scaffold@0.17.59?classifier=sources
 - pkg:maven/com.backbase.oss/boat-scaffold@0.17.5?classifier=sources
 - pkg:maven/com.backbase.oss/boat-scaffold@0.17.6
+- pkg:maven/com.backbase.oss/boat-scaffold@0.17.60?classifier=sources
+- pkg:maven/com.backbase.oss/boat-scaffold@0.17.61?classifier=sources
 - pkg:maven/com.backbase.oss/boat-scaffold@0.17.6?classifier=sources
 - pkg:maven/com.backbase.oss/boat-scaffold@0.17.7
 - pkg:maven/com.backbase.oss/boat-scaffold@0.17.7?classifier=sources

@@ -174,5 +174,10 @@
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.2.26?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.3.11?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.3.13?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/sdk-android@25.3.20?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/sdk-android@25.3.24?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.3.5?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/sdk-android@25.3.6?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/sdk-android@25.4.11?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/sdk-android@25.4.7?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/sdk-android@25.4.8?classifier=sources

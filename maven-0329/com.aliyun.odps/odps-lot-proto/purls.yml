@@ -152,6 +152,8 @@
 - pkg:maven/com.aliyun.odps/odps-lot-proto@0.51.0-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-lot-proto@0.51.10-public
 - pkg:maven/com.aliyun.odps/odps-lot-proto@0.51.10-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-lot-proto@0.51.11-public
+- pkg:maven/com.aliyun.odps/odps-lot-proto@0.51.11-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-lot-proto@0.51.2-public
 - pkg:maven/com.aliyun.odps/odps-lot-proto@0.51.2-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-lot-proto@0.51.3-public

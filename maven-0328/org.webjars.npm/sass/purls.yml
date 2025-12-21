@@ -21,3 +21,4 @@
 - pkg:maven/org.webjars.npm/sass@1.79.2
 - pkg:maven/org.webjars.npm/sass@1.79.4
 - pkg:maven/org.webjars.npm/sass@1.80.3
+- pkg:maven/org.webjars.npm/sass@1.86.3

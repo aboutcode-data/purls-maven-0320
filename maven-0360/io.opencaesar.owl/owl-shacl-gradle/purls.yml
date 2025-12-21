@@ -1,2 +1,4 @@
 - pkg:maven/io.opencaesar.owl/owl-shacl-gradle@2.14.0
 - pkg:maven/io.opencaesar.owl/owl-shacl-gradle@2.14.0?classifier=sources
+- pkg:maven/io.opencaesar.owl/owl-shacl-gradle@2.15.0
+- pkg:maven/io.opencaesar.owl/owl-shacl-gradle@2.15.0?classifier=sources

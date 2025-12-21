@@ -14,3 +14,5 @@
 - pkg:maven/org.meteothink/meteoinfo-ndarray@3.6.0?classifier=sources
 - pkg:maven/org.meteothink/meteoinfo-ndarray@3.8
 - pkg:maven/org.meteothink/meteoinfo-ndarray@3.8?classifier=sources
+- pkg:maven/org.meteothink/meteoinfo-ndarray@4.0
+- pkg:maven/org.meteothink/meteoinfo-ndarray@4.0?classifier=sources

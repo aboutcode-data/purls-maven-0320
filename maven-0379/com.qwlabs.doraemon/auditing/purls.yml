@@ -317,3 +317,4 @@
 - pkg:maven/com.qwlabs.doraemon/auditing@0.3.52?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/auditing@0.3.53?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/auditing@0.3.54?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/auditing@0.3.55?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/info.freelibrary/magicfree-json@0.10.0
 - pkg:maven/info.freelibrary/magicfree-json@0.10.0?classifier=sources
+- pkg:maven/info.freelibrary/magicfree-json@0.10.2
+- pkg:maven/info.freelibrary/magicfree-json@0.10.2?classifier=sources

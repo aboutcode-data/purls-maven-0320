@@ -4,3 +4,4 @@
 - pkg:maven/host.anzo/commons-core-annotations@1.25?classifier=sources
 - pkg:maven/host.anzo/commons-core-annotations@1.30?classifier=sources
 - pkg:maven/host.anzo/commons-core-annotations@1.31?classifier=sources
+- pkg:maven/host.anzo/commons-core-annotations@1.38?classifier=sources

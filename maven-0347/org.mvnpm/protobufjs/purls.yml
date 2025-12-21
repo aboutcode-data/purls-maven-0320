@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/protobufjs@7.2.4?classifier=sources
 - pkg:maven/org.mvnpm/protobufjs@7.4.0?classifier=sources

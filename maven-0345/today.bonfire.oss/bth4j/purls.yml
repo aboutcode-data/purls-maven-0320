@@ -2,3 +2,6 @@
 - pkg:maven/today.bonfire.oss/bth4j@2.2.0?classifier=sources
 - pkg:maven/today.bonfire.oss/bth4j@2.2.1?classifier=sources
 - pkg:maven/today.bonfire.oss/bth4j@2.3.0?classifier=sources
+- pkg:maven/today.bonfire.oss/bth4j@2.4.1-ALPHA?classifier=sources
+- pkg:maven/today.bonfire.oss/bth4j@2.4.2-ALPHA?classifier=sources
+- pkg:maven/today.bonfire.oss/bth4j@2.4.3-ALPHA?classifier=sources

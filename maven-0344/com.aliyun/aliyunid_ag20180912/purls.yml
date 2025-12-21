@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyunid_ag20180912@1.0.0
+- pkg:maven/com.aliyun/aliyunid_ag20180912@1.0.0?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/io.github.jpush/jiguang-sdk@5.1.12-customize?classifier=sources
 - pkg:maven/io.github.jpush/jiguang-sdk@5.1.12?classifier=sources
 - pkg:maven/io.github.jpush/jiguang-sdk@5.1.13
+- pkg:maven/io.github.jpush/jiguang-sdk@5.1.13-customize
+- pkg:maven/io.github.jpush/jiguang-sdk@5.1.13-customize?classifier=sources
 - pkg:maven/io.github.jpush/jiguang-sdk@5.1.13?classifier=sources
 - pkg:maven/io.github.jpush/jiguang-sdk@5.1.14
 - pkg:maven/io.github.jpush/jiguang-sdk@5.1.14?classifier=sources

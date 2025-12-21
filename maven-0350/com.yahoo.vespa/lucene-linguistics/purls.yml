@@ -237,3 +237,14 @@
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.491.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.492.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/lucene-linguistics@8.494.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.496.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.497.38?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.498.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.499.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.500.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.501.49?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.502.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.503.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.504.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.506.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/lucene-linguistics@8.507.34?classifier=sources

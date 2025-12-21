@@ -1,3 +1,4 @@
+- pkg:maven/io.avaje/avaje-jex-htmx@3.0
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC1
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC10
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC10?classifier=sources
@@ -27,6 +28,10 @@
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC21?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC22
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC22?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC23
+- pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC23?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC24
+- pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC24?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC3
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC3?classifier=sources
@@ -42,3 +47,4 @@
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC8?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC9
 - pkg:maven/io.avaje/avaje-jex-htmx@3.0-RC9?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-htmx@3.0?classifier=sources

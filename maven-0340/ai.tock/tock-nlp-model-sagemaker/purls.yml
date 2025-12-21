@@ -30,3 +30,7 @@
 - pkg:maven/ai.tock/tock-nlp-model-sagemaker@24.9.7?classifier=sources
 - pkg:maven/ai.tock/tock-nlp-model-sagemaker@24.9.8
 - pkg:maven/ai.tock/tock-nlp-model-sagemaker@24.9.8?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-model-sagemaker@25.3.0
+- pkg:maven/ai.tock/tock-nlp-model-sagemaker@25.3.0?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-model-sagemaker@25.3.1
+- pkg:maven/ai.tock/tock-nlp-model-sagemaker@25.3.1?classifier=sources

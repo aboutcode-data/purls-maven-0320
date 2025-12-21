@@ -10,3 +10,5 @@
 - pkg:maven/dev.vality/liminator-proto@1.6-5ee237c?classifier=sources
 - pkg:maven/dev.vality/liminator-proto@1.7-3870a39
 - pkg:maven/dev.vality/liminator-proto@1.7-3870a39?classifier=sources
+- pkg:maven/dev.vality/liminator-proto@1.8-d63ded1
+- pkg:maven/dev.vality/liminator-proto@1.8-d63ded1?classifier=sources

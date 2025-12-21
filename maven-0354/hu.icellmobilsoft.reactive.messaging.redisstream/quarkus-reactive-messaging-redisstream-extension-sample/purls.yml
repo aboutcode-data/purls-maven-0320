@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.reactive.messaging.redisstream/quarkus-reactive-messaging-redisstream-extension-sample@1.0.4
+- pkg:maven/hu.icellmobilsoft.reactive.messaging.redisstream/quarkus-reactive-messaging-redisstream-extension-sample@1.0.4?classifier=sources

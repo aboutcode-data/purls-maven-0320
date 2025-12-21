@@ -152,3 +152,7 @@
 - pkg:maven/com.google.dagger/dagger-grpc-server-processor@2.54?classifier=sources
 - pkg:maven/com.google.dagger/dagger-grpc-server-processor@2.55
 - pkg:maven/com.google.dagger/dagger-grpc-server-processor@2.55?classifier=sources
+- pkg:maven/com.google.dagger/dagger-grpc-server-processor@2.56
+- pkg:maven/com.google.dagger/dagger-grpc-server-processor@2.56.1
+- pkg:maven/com.google.dagger/dagger-grpc-server-processor@2.56.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-grpc-server-processor@2.56?classifier=sources

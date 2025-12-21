@@ -13,3 +13,4 @@
 - pkg:maven/com.codeheadsystems/codehead-test@1.0.9?classifier=sources
 - pkg:maven/com.codeheadsystems/codehead-test@3.0.0?classifier=sources
 - pkg:maven/com.codeheadsystems/codehead-test@3.0.1?classifier=sources
+- pkg:maven/com.codeheadsystems/codehead-test@3.0.2?classifier=sources

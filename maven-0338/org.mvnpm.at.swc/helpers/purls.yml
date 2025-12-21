@@ -1,5 +1,6 @@
 - pkg:maven/org.mvnpm.at.swc/helpers@0.2.14?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/helpers@0.5.11?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/helpers@0.5.15?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/helpers@0.5.17?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/helpers@0.5.1?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/helpers@0.5.2?classifier=sources

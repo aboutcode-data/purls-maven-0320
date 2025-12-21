@@ -35,3 +35,5 @@
 - pkg:maven/eu.ciechanowiec/sling.rocket.commons@13.8.0
 - pkg:maven/eu.ciechanowiec/sling.rocket.commons@13.8.0?classifier=sources
 - pkg:maven/eu.ciechanowiec/sling.rocket.commons@14.0.0?classifier=sources
+- pkg:maven/eu.ciechanowiec/sling.rocket.commons@14.0.2?classifier=sources
+- pkg:maven/eu.ciechanowiec/sling.rocket.commons@14.0.4?classifier=sources

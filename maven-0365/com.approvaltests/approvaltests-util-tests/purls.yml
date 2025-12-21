@@ -89,6 +89,8 @@
 - pkg:maven/com.approvaltests/approvaltests-util-tests@24.16.0
 - pkg:maven/com.approvaltests/approvaltests-util-tests@24.16.1
 - pkg:maven/com.approvaltests/approvaltests-util-tests@24.17.0
+- pkg:maven/com.approvaltests/approvaltests-util-tests@24.18.0
+- pkg:maven/com.approvaltests/approvaltests-util-tests@24.19.0
 - pkg:maven/com.approvaltests/approvaltests-util-tests@24.2.0
 - pkg:maven/com.approvaltests/approvaltests-util-tests@24.3.0
 - pkg:maven/com.approvaltests/approvaltests-util-tests@24.4.0

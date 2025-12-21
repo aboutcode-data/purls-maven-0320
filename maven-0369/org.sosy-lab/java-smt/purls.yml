@@ -107,4 +107,6 @@
 - pkg:maven/org.sosy-lab/java-smt@5.0.1-344-g47d864510?classifier=sources
 - pkg:maven/org.sosy-lab/java-smt@5.0.1-362-g3846f26ca
 - pkg:maven/org.sosy-lab/java-smt@5.0.1-362-g3846f26ca?classifier=sources
+- pkg:maven/org.sosy-lab/java-smt@5.0.1-523-g9001c0ea4
+- pkg:maven/org.sosy-lab/java-smt@5.0.1-523-g9001c0ea4?classifier=sources
 - pkg:maven/org.sosy-lab/java-smt@5.0.1?classifier=sources

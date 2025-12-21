@@ -78,6 +78,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@2.79.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@2.81.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@2.81.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@2.82.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@2.82.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.0.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.0.0-beta1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.0.0-beta1?classifier=sources
@@ -280,6 +282,12 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.60.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.60.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.61.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.61.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.62.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.62.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.62.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.62.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.7.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.7.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-enforcer-rules@3.8.0

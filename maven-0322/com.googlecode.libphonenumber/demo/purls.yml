@@ -514,3 +514,5 @@
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.0?type=war
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.1?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/demo@9.0.1?type=war
+- pkg:maven/com.googlecode.libphonenumber/demo@9.0.2?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/demo@9.0.2?type=war

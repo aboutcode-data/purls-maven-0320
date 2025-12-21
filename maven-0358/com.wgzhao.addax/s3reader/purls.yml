@@ -8,3 +8,5 @@
 - pkg:maven/com.wgzhao.addax/s3reader@4.1.4?classifier=sources
 - pkg:maven/com.wgzhao.addax/s3reader@4.2.4?classifier=sources
 - pkg:maven/com.wgzhao.addax/s3reader@4.3.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/s3reader@5.0.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/s3reader@5.1.0?classifier=sources

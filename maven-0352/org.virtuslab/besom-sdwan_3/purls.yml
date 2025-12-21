@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-sdwan_3@0.2.5-core.0.4
+- pkg:maven/org.virtuslab/besom-sdwan_3@0.2.5-core.0.4?classifier=sources

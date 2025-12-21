@@ -12,6 +12,7 @@
 - pkg:maven/org.mvnpm/object-inspect@1.13.0?classifier=sources
 - pkg:maven/org.mvnpm/object-inspect@1.13.1?classifier=sources
 - pkg:maven/org.mvnpm/object-inspect@1.13.2?classifier=sources
+- pkg:maven/org.mvnpm/object-inspect@1.13.4?classifier=sources
 - pkg:maven/org.mvnpm/object-inspect@1.6.0?classifier=sources
 - pkg:maven/org.mvnpm/object-inspect@1.7.0?classifier=sources
 - pkg:maven/org.mvnpm/object-inspect@1.8.0?classifier=sources

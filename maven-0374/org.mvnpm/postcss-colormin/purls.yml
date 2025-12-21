@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/postcss-colormin@2.2.2?classifier=sources
+- pkg:maven/org.mvnpm/postcss-colormin@7.0.2?classifier=sources

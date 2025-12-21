@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/is-windows@0.2.0?classifier=sources
+- pkg:maven/org.mvnpm/is-windows@1.0.2?classifier=sources

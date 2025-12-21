@@ -101,6 +101,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@1.0.4
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.service@1.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@1.0.5
@@ -209,6 +210,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@2.0.36
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@2.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@2.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.service@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@2.0.4
@@ -306,6 +308,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@3.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@3.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@3.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.service@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.service@3.0.4

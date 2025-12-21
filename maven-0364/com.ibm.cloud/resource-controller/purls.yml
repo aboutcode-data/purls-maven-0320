@@ -292,3 +292,7 @@
 - pkg:maven/com.ibm.cloud/resource-controller@0.61.0?classifier=sources
 - pkg:maven/com.ibm.cloud/resource-controller@0.61.1
 - pkg:maven/com.ibm.cloud/resource-controller@0.61.1?classifier=sources
+- pkg:maven/com.ibm.cloud/resource-controller@0.62.0
+- pkg:maven/com.ibm.cloud/resource-controller@0.62.0?classifier=sources
+- pkg:maven/com.ibm.cloud/resource-controller@0.63.0
+- pkg:maven/com.ibm.cloud/resource-controller@0.63.0?classifier=sources

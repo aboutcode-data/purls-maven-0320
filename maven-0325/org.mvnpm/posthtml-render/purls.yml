@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/posthtml-render@1.4.0?classifier=sources
+- pkg:maven/org.mvnpm/posthtml-render@3.0.0?classifier=sources

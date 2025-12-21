@@ -46,3 +46,5 @@
 - pkg:maven/org.zapodot/embedded-db-junit@2.1.2?classifier=sources
 - pkg:maven/org.zapodot/embedded-db-junit@2.2.0
 - pkg:maven/org.zapodot/embedded-db-junit@2.2.0?classifier=sources
+- pkg:maven/org.zapodot/embedded-db-junit@2.2.1
+- pkg:maven/org.zapodot/embedded-db-junit@2.2.1?classifier=sources
